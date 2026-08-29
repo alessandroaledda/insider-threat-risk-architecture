@@ -1,11 +1,11 @@
 ---
 title: Insider Threat and Risk Architecture
-subtitle: What a comprehensive insider program does, and what each European jurisdiction requires of it. Pillars, measures, and the controls a jurisdiction makes of them.
+subtitle: Nine pillars, the measures under them, and the controls each European jurisdiction makes of those measures. Every row rests on a source that has been read, at an address that was opened before it was cited.
 reviewed: 2026-08-29
 contributors:
 ---
 
-Insider Threat and Risk Architecture (INTRA™) is a three level framework for building an insider program in Europe.
+Insider Threat and Risk Architecture (INTRA™) is a [b:living] three level framework for building an insider program in Europe.
 - **Pillar.** A structural component of such a program. There are nine, and they hold in any jurisdiction.
 - **Measure.** A single action or deliverable a program can implement, the unit a practitioner plans, budgets, and hands over. Measures travel almost as well, though not quite, since some exist because a legal caveat brought them into being.
 - **Control.** A measure as one European jurisdiction has it. Where a jurisdiction has spoken on a measure, the caveat it imposes governs that measure, and the measure so governed is a control.
@@ -20,6 +20,9 @@ Every row states its standing.
 - [recommended] where a standard or a guidance document sets it out as practice.
 - [reported] where research records a finding.
 Only a mandatory row carries a control identifier, since a standard and a study are cited by their own reference.
+
+Everything here is written in two files, and both are public.
+The framework and the library are kept as markdown in a repository, under a license that lets anyone use them, change them, and build on them as long as they credit them. The data the site reads is generated from those two files, so a correction goes to the markdown and never to the JSON. What the repository holds is what this page is built from rather than a copy of it, and anyone who thinks a control is formulated wrongly, or knows a source that belongs here, can open the question there.
 
 Thirty-four jurisdictions in scope. The European Union, the Council of Europe, every state in which Union or European Economic Area law applies, the United Kingdom, and Switzerland. A source qualifies if it is European in origin and if it sets out how a program is built, states a legal constraint on how one may operate, or reports research findings. American material is not listed: that part of the record is gathered already, and what is collected here can be used in a European organization without first subtracting the assumptions that do not hold there.
 

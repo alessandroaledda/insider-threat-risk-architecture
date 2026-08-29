@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 title: "Insider Threat and Risk Architecture (INTRA)"
 abstract: >-
-  A three level framework for building an insider program in Europe: pillars,
-  the measures under them, and the controls each European jurisdiction makes
-  of those measures, each stated from a source that has been read.
+  A living, three level framework for building an insider program in Europe:
+  pillars, the measures under them, and the controls each European
+  jurisdiction makes of those measures, each stated from a source that has
+  been read.
 type: dataset
 message: "If you use this framework, please cite it."
 authors:
