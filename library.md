@@ -99,6 +99,14 @@ Establishes: Awareness and program-building material for critical infrastructure
 
 An online training platform co-funded by the Internal Security Fund of the European Union, hosting a short awareness module and a longer sequence of modules with downloadable templates for building a program. It is addressed mainly to transport, energy, and other critical infrastructure operators. It is training material rather than doctrine, and it does not state a legal basis for the measures it describes.
 
+### IT-Grundschutz-Kompendium, Edition 2023 {#bsi-grundschutz}
+Bundesamt für Sicherheit in der Informationstechnik · Germany · 2023
+https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/IT-Grundschutz-Bausteine/Bausteine_Download_Edition_node.html
+Establishes: What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.
+Status: a standard and not an act. Requirements carry three grades: a base grade the compendium says must be met first, a standard grade which together with the base grade it states as the state of the art, and a third offered as examples where the protection need is raised, settled by an individual risk analysis. Where a row rests on the third, it says so. Six building blocks are read here and the rest of the catalogue is not: ORP.2, ORP.4, OPS.1.1.5, DER.1, DER.2.1, and DER.2.2.
+
+The compendium is organized as building blocks, each a subject with its threat situation and then its requirements, numbered and lettered by grade, written as obligations on named roles. Six of them bear on an insider program. ORP.2 Personal covers induction, departure, external personnel, and the checking of trustworthiness. ORP.4 Identitäts- und Berechtigungsmanagement covers how entitlements are granted, documented, and withdrawn. OPS.1.1.5 Protokollierung covers what is logged and how the logging is run, and it is the one place in the record that puts the logging infrastructure beyond the reach of the people who administer it. DER.1 covers the detection of security relevant events and the auditing of the systems that do it. DER.2.1 covers the handling of an incident, and DER.2.2 the preparation for forensic work before there is a case. It is written for the security of systems rather than for insider risk, and where it touches the person it does so through the personnel and the entitlement blocks.
+
 ## Law and case law
 Summary: What constrains it, from the Union and Strasbourg down to nine national orders.
 Order: by legal order, from European Union to Council of Europe to national. Within the national law, by country in the order the table below sets out, and within each country by date.
@@ -249,6 +257,14 @@ Establishes: That mailbox backups and browsing logs are instruments from which r
 
 Applies the 2024 guidance document to an employer that kept backups of individual mailboxes and logs of internet browsing, and treats both as instruments from which remote monitoring may follow, so that the procedure under article 4 of the Workers' Statute is engaged. It also addresses a former employee's request for access to personal material left in the company account after the relationship ended. It decides one employer's arrangements and sets no retention period beyond the one the 2024 document already stated.
 
+
+### Determinazione ACN n. 379907 del 18 dicembre 2025 {#acn-379907}
+Agenzia per la cybersicurezza nazionale · Italy · 18 December 2025
+https://www.acn.gov.it/portale/nis/modalita-specifiche-base
+Establishes: The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.
+Status: it updates and replaces determination no. 164179 of 14 April 2025 and applies from 15 January 2026. It reaches only subjects in scope of the NIS decree. The address is the agency's page for the determination rather than the files themselves, whose names carry a version marker that changes at each revision.
+
+Adopted under article 31 of legislative decree 138 of 4 September 2024, which transposes the NIS2 directive. Four technical annexes carry the substance: annexes 1 and 2 the security measures, for important and for essential subjects, and annexes 3 and 4 the incidents to be notified. The measures are organized as the functions, categories, and subcategories of the Framework Nazionale per la Cybersecurity e la Data Protection, each subcategory carrying numbered requirements, and they are to be adopted within eighteen months of the subject receiving notice of its inclusion in the national list. What essential subjects owe is what important subjects owe with additions, so where the two annexes differ the difference is what the heavier category carries on top. It addresses the security of network and information systems, and insider risk is not its subject, so what it gives a program is a set of obligations bearing on it rather than an account of it.
 
 ### Provvedimento del 12 marzo 2026, ITAS Mutua {#garante-itas-2026}
 Garante per la protezione dei dati personali · Italy · 12 March 2026

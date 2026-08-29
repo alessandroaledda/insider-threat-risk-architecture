@@ -303,7 +303,7 @@
        "id": "GV005/GB",
        "jurisdiction": "GB",
        "state": "established",
-       "requirement": "Five principles are offered as a shared basis, with intentional and unintentional events placed on one spectrum of intent.",
+       "requirement": "The definitions of insider, insider risk, insider threat, and insider event were revised, and they are organized around intent.",
        "sources": [
         {
          "anchor": "npsa-definitions",
@@ -324,6 +324,20 @@
          "title": "Setting the Foundations: Five Principles for a Shared Approach to Insider Risk",
          "establishes": "Five principles offered as a shared basis, with intentional and unintentional events placed on one spectrum of intent.",
          "url": "https://alessandroaledda.com/intra/sources/#npsa-five-principles"
+        }
+       ]
+      },
+      {
+       "id": "GV005/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "What counts as a security incident has to be defined clearly and marked off, as far as it can be, from the disruptions of ordinary operation. Everyone involved in handling one has to know the definition, and the definition and the thresholds at which it is met should follow the protection the affected processes, systems, and applications need. A single procedure for classifying incidents and disruptions should be settled, and agreed between security management and the function that handles ordinary faults.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
       }
@@ -831,6 +845,48 @@
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
         }
        ]
+      },
+      {
+       "id": "PS001/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Verification of an employee’s background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "PS001/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "The people authorized to reach the systems that matter are identified on a prior assessment of experience, capability, and trustworthiness, and have to give suitable guarantee that they will keep to the rules on information security. The trustworthiness of human resources is one of the areas the determination requires a written policy to cover.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "PS001/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "A new employee should be checked for trustworthiness before being hired, and everyone taking part in the selection should check whether what the candidate says bearing on that is credible. The curriculum vitae is examined for correctness, plausibility, and completeness, and whatever looks conspicuous in it is followed up. Separately, the qualifications a post requires are to be formulated exactly, and a post filled only by someone who has them.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
       }
      ]
     },
@@ -844,7 +900,36 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "PS002/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "PS002/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "Depth follows the area and not the person. In a high security area a further check is carried out on top of the basic check of trustworthiness, and where the work touches classified material the person goes through the statutory security clearance. This sits at the grade the compendium keeps for a raised protection need, which is itself settled by an individual risk analysis.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "PS003",
@@ -856,7 +941,36 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "PS003/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "PS003/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "System administrators are a category of their own. They are identified on the same prior assessment of experience, capability, and trustworthiness, stated in a requirement separate from the one covering everyone else admitted to the systems that matter.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "PS004",
@@ -880,6 +994,20 @@
          "title": "Ongoing Personnel Security: A Good Practice Guide",
          "establishes": "Good practice for personnel security through employment rather than at the door, holding that protective monitoring should be proportionate.",
          "url": "https://alessandroaledda.com/intra/sources/#npsa-ongoing-persec"
+        }
+       ]
+      },
+      {
+       "id": "PS004/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "The assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
         }
        ]
       }
@@ -909,6 +1037,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#npsa-ongoing-persec"
         }
        ]
+      },
+      {
+       "id": "PS005/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "External personnel are bound to the same laws, rules, and internal regulations as employees. Those brought in briefly or once are to be supervised in security relevant areas, and those there longer are inducted as employees are and given a deputizing arrangement of their own. A written confidentiality agreement is concluded before an external person is given access to confidential information, and on leaving they hand over their work and give back whatever access they were issued.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
       }
      ]
     },
@@ -922,7 +1064,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "PS006/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "At the start of the employment the person is informed of the rules, the instructions, and the procedures that exist, and a checklist and a named contact should be set up to carry it. Every employee is obliged to keep to the law and to the internal rules, has to know the legal frame of their own work, and has their tasks and responsibilities documented. They are told that what they receive at work is for internal use only, and made aware that they protect the organization’s information security outside working hours and away from its premises as well.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "PS007",
@@ -946,6 +1103,20 @@
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "PS007/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "Accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked when something changes. A transfer of personnel is named as such a change, alongside the end of an employment.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
         }
        ]
       }
@@ -994,13 +1165,19 @@
        "id": "PS008/IT",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "Leaving the account running after the employment ends is itself a processing and needs a ground of its own. Telling correspondents the person has gone, and keeping what may be wanted later, are not grounds, and running past the period the employer itself declared counts against it.",
+       "requirement": "Leaving the account running after the employment ends is itself a processing and needs a ground of its own. Telling correspondents the person has gone, and keeping what may be wanted later, are not grounds, and running past the period the employer itself declared counts against it. Separately, obligations in the field of information security that stay valid after the employment ends, or changes, are fixed at the contractual level, confidentiality clauses among the examples given, on essential subjects.",
        "sources": [
         {
          "anchor": "garante-framos-2026",
          "title": "Provvedimento del 17 aprile 2026, Framos Italia",
          "establishes": "That a company mailbox left running after the employment ends is a processing needing a ground of its own, and that a smooth handover and the chance of wanting something later are not one.",
          "url": "https://alessandroaledda.com/intra/sources/#garante-framos-2026"
+        },
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
         }
        ]
       },
@@ -1015,6 +1192,20 @@
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "PS008/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "The successor is briefed in time, by the person leaving where that can be done, and where it cannot the person leaving writes the documentation instead. Every document, key, device, badge, and access right received in the course of the work is collected back. The obligations of confidentiality are put to the person once more before they go, and to keep conflicts of interest from arising a non-competition clause and a waiting period should be agreed. Contingency and other plans are updated, and every part of the organization affected is told, the security staff and the IT function among them.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
       }
@@ -1288,6 +1479,34 @@
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
         }
        ]
+      },
+      {
+       "id": "DP004/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "Permissions are assigned on least privilege, separation of functions, and need to know. How an account authenticates is set against the risk, weighed on the privileges it holds, the criticality of the systems, and the kind of operations it can perform on them, and multi-factor authentication is used on the systems that matter.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "DP004/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "An identifier or an entitlement may be granted only on actual need and on what the task requires, and what is no longer needed is removed when the person changes. Anything beyond the standard is granted only after a further justification and a check of it. Every entitlement is set up through separate administrative roles, and the duties the organization has declared incompatible are held apart by the entitlement system itself.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
       }
      ]
     },
@@ -1315,6 +1534,34 @@
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
         }
        ]
+      },
+      {
+       "id": "DP005/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "Every account is inventoried and approved by someone inside the organization, those with administrative privileges and those used for remote access included, and accounts are individual to a user unless there is a documented technical reason otherwise. A system administrator’s privileged and unprivileged accounts are to be completely distinct, and to carry different credentials.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "DP005/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "An administrative activity should be one that two people have to carry out together. Where multi-factor authentication is used the factors are split between the two of them, and where a password is used it is divided in two and each of them holds a half. This sits at the grade the compendium keeps for a raised protection need.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
       }
      ]
     },
@@ -1340,6 +1587,34 @@
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "DP006/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "Accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked where a change calls for it.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "DP006/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "Which identifiers, groups, and rights profiles have been permitted and created is documented, and the documentation is checked at intervals against the state the entitlements are actually in, and against whether what has been granted still answers to the security requirements and to what the users now do. The documentation itself is protected from unauthorized access.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
       }
@@ -1380,7 +1655,7 @@
        "id": "DP007/CoE",
        "jurisdiction": "CoE",
        "state": "established",
-       "requirement": "Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the loss prevention capability is later examined.",
+       "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach a capability that inspects material other than correspondence is not decided in it.",
        "sources": [
         {
          "anchor": "barbulescu",
@@ -1832,7 +2107,50 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "MD002/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "The list of assets to be logged is derived from the risk assessment, and what the logs hold is named: inbound and outbound traffic, the creation, modification, and deletion of users and the extension of their permissions, access to systems and applications, authentication events, all privileged access and everything done by administrative accounts, access or changes to critical configuration and backup files, physical access to facilities, and the activation, stopping, and pausing of the logs themselves. They are kept for a period fixed in advance and protected from unauthorized access or change, time sources are synchronized so that logs can be correlated across systems, and the availability of the logging systems is monitored independently of the systems they log.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "MD002/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "All remote access and all access made with administrative privileges are recorded. For the systems that matter, the logs needed to monitor security events are acquired and kept securely and, where it can be done, centrally, and how long they are kept is fixed from the risk assessment and documented.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "MD002/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "A logging policy of its own is drawn up, saying how, where, and what is logged, with the kind and the extent of it following the protection the information needs. All security relevant events on systems and applications are logged, the clocks of everything that logs are kept synchronized and the date and time format made uniform, and it is checked at defined intervals that the logging still works. Data protection law and the co-determination rights of the workforce representation are to be kept to, logging data are deleted on a defined process, and their uncontrolled deletion or alteration is prevented technically. The data should be held centrally, on a log server assembly in a network segment set up for it, and filtered, normalized, aggregated, and correlated for evaluation while a copy is kept in unaltered original form. The administrators who run it should have no entitlement to change or delete what has been recorded.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "MD003",
@@ -1870,6 +2188,34 @@
          "title": "Insider-threat detection: Lessons from deploying the CITD tool in three multinational organisations",
          "establishes": "The operational constraints that emerged when a research detection tool ran inside three organizations for more than a year.",
          "url": "https://alessandroaledda.com/intra/sources/#citd-deployment"
+        }
+       ]
+      },
+      {
+       "id": "MD003/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Alarm thresholds are set where appropriate, an alarm is raised automatically once one is exceeded, and a qualified response follows in good time. Monitoring is to be automated as far as it can be and built so as to minimize both false positives and false negatives, and a process for correlating and analyzing logs is put in place.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "MD003/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "Qualitative and quantitative parameters for detecting unauthorized access, or access abusing the privileges granted, are defined, monitored, and documented. The requirement is on essential subjects, and the same annexes do not place it on important ones.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
         }
        ]
       }
@@ -1910,7 +2256,7 @@
        "id": "MD004/CoE",
        "jurisdiction": "CoE",
        "state": "established",
-       "requirement": "Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the endpoint agent is later examined.",
+       "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach an agent recording what is done on a device is not decided in it.",
        "sources": [
         {
          "anchor": "barbulescu",
@@ -2041,7 +2387,7 @@
        "id": "MD005/CoE",
        "jurisdiction": "CoE",
        "state": "established",
-       "requirement": "Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the traffic inspection is later examined.",
+       "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach the inspection of traffic is not decided in it.",
        "sources": [
         {
          "anchor": "barbulescu",
@@ -2069,13 +2415,19 @@
        "id": "MD005/DE",
        "jurisdiction": "DE",
        "state": "established",
-       "requirement": "The works council has to agree before introducing the traffic inspection, and again on the manner in which it is used.",
+       "requirement": "The works council has to agree before introducing the traffic inspection, and again on the manner in which it is used. What brings a device under that agreement is what it is capable of: a system that let supervisors hear conversations between employees was caught by it although nothing was recorded or kept.",
        "sources": [
         {
          "anchor": "betrvg-87",
          "title": "Betriebsverfassungsgesetz, section 87(1)(6)",
          "establishes": "Co-determination by the works council over the introduction and the use of technical devices intended to monitor conduct or performance.",
          "url": "https://alessandroaledda.com/intra/sources/#betrvg-87"
+        },
+        {
+         "anchor": "bag-headset",
+         "title": "Beschluss 1 ABR 16/23",
+         "establishes": "That a device is subject to co-determination by what it is capable of, even where nothing is recorded or kept.",
+         "url": "https://alessandroaledda.com/intra/sources/#bag-headset"
         }
        ]
       },
@@ -2162,6 +2514,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
         }
        ]
+      },
+      {
+       "id": "MD005/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "Proxies that break the encrypted connection should be placed at the boundary to external networks so that what passes can be examined, they are themselves protected from unauthorized access, and security relevant events on them are detected automatically. An organizational rule is to be drawn up stating the data protection conditions under which the log data may be evaluated by hand.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
       }
      ]
     },
@@ -2200,7 +2566,7 @@
        "id": "MD006/CoE",
        "jurisdiction": "CoE",
        "state": "established",
-       "requirement": "Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the recording of the messaging platform is later examined.",
+       "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case was decided on that monitoring itself: the employer read the content of a worker’s messaging account.",
        "sources": [
         {
          "anchor": "barbulescu",
@@ -2366,7 +2732,7 @@
     {
      "id": "MD008",
      "name": "Access to the content of communications",
-     "what": "The reading of the content of a communication, as distinct from its transmission data.",
+     "what": "The opening and reading of the content of a communication, for a stated purpose and on a named person. It is an event, done at a moment and answerable for itself, and it is separate from holding a copy of the store the message sits in.",
      "canonical": "https://alessandroaledda.com/intra/MD008/",
      "pending": [],
      "guidance": [],
@@ -2510,7 +2876,7 @@
     {
      "id": "MD010",
      "name": "Mailbox and file store imaging",
-     "what": "The retention of a copy of a named worker's correspondence or file store as a whole.",
+     "what": "The holding of a copy of a named worker's mailbox or file store as a whole, taken and kept whether or not anyone opens it. It is a state and not an event, which is what separates it from reading the content of a communication: an organization can hold an image it never opens, and can read a message it never imaged. What each answers for differs accordingly. The reading answers for its purpose and its proportionality. The holding answers for whether it was declared, and on what basis it is kept.",
      "canonical": "https://alessandroaledda.com/intra/MD010/",
      "pending": [],
      "guidance": [],
@@ -2569,7 +2935,7 @@
        "id": "MD011/CoE",
        "jurisdiction": "CoE",
        "state": "established",
-       "requirement": "Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the session recorder is later examined.",
+       "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach the recording of a session held under elevated entitlement is not decided in it.",
        "sources": [
         {
          "anchor": "barbulescu",
@@ -2700,7 +3066,7 @@
        "id": "MD012/CoE",
        "jurisdiction": "CoE",
        "state": "established",
-       "requirement": "Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the analytics engine is later examined.",
+       "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach an engine deriving a baseline from activity is not decided in it.",
        "sources": [
         {
          "anchor": "barbulescu",
@@ -2784,20 +3150,6 @@
        "id": "MD012/GB",
        "jurisdiction": "GB",
        "state": "established",
-       "requirement": "The models and data sources used where detection research has taken up human factors, surveyed and untested.",
-       "sources": [
-        {
-         "anchor": "citd-deployment",
-         "title": "Insider-threat detection: Lessons from deploying the CITD tool in three multinational organisations",
-         "establishes": "The operational constraints that emerged when a research detection tool ran inside three organizations for more than a year.",
-         "url": "https://alessandroaledda.com/intra/sources/#citd-deployment"
-        }
-       ]
-      },
-      {
-       "id": "MD012/GB",
-       "jurisdiction": "GB",
-       "state": "established",
        "requirement": "The models and data sources the research has used are catalogued and untested, so an engine built on them inherits an evidence base nobody has validated.",
        "sources": [
         {
@@ -2859,7 +3211,7 @@
        "id": "MD013/CoE",
        "jurisdiction": "CoE",
        "state": "established",
-       "requirement": "Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the access-control recording is later examined.",
+       "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach a record of entry to premises is not decided in it.",
        "sources": [
         {
          "anchor": "barbulescu",
@@ -2887,13 +3239,13 @@
        "id": "MD013/DE",
        "jurisdiction": "DE",
        "state": "established",
-       "requirement": "A device that lets one person hear another at work needs the works council’s agreement even where nothing is recorded or kept.",
+       "requirement": "The works council has to agree before introducing the access-control recording, and again on the manner in which it is used.",
        "sources": [
         {
-         "anchor": "bag-headset",
-         "title": "Beschluss 1 ABR 16/23",
-         "establishes": "That a device is subject to co-determination by what it is capable of, even where nothing is recorded or kept.",
-         "url": "https://alessandroaledda.com/intra/sources/#bag-headset"
+         "anchor": "betrvg-87",
+         "title": "Betriebsverfassungsgesetz, section 87(1)(6)",
+         "establishes": "Co-determination by the works council over the introduction and the use of technical devices intended to monitor conduct or performance.",
+         "url": "https://alessandroaledda.com/intra/sources/#betrvg-87"
         }
        ]
       },
@@ -3115,7 +3467,7 @@
        "id": "MD015/EU",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A case note argues the Strasbourg majority placed the technology largely beyond examination, weakening the scrutiny the earlier cases applied.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the tracking device, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -3132,30 +3484,22 @@
        ]
       },
       {
-       "id": "MD015/EU",
-       "jurisdiction": "EU",
-       "state": "established",
-       "requirement": "The Strasbourg majority is read as having placed the technology beyond real examination, so the survival of tracking there is weaker authority than it appears.",
-       "sources": [
-        {
-         "anchor": "mole-mangan",
-         "title": "‘Just more surveillance’: The ECtHR and workplace monitoring",
-         "establishes": "That Gramaxo placed the technology largely beyond examination, weakening the scrutiny the earlier cases applied.",
-         "url": "https://alessandroaledda.com/intra/sources/#mole-mangan"
-        }
-       ]
-      },
-      {
        "id": "MD015/CoE",
        "jurisdiction": "CoE",
        "state": "established",
-       "requirement": "Tracking a company vehicle through and beyond working hours has survived on its facts, on a bench divided four to three, with the mileage relied on separated from the location data as a whole.",
+       "requirement": "Tracking a company vehicle through and beyond working hours has survived on its facts, on a bench divided four to three, with the mileage relied on separated from the location data as a whole. A case note reads the majority as having placed the technology itself largely beyond examination, so the survival is weaker authority than it appears.",
        "sources": [
         {
          "anchor": "gramaxo",
          "title": "Florindo de Almeida Vasconcelos Gramaxo v. Portugal",
          "establishes": "That geolocation of a company vehicle, inside and outside working hours, did not violate article 8 on the facts, by four votes to three.",
          "url": "https://alessandroaledda.com/intra/sources/#gramaxo"
+        },
+        {
+         "anchor": "mole-mangan",
+         "title": "‘Just more surveillance’: The ECtHR and workplace monitoring",
+         "establishes": "That Gramaxo placed the technology largely beyond examination, weakening the scrutiny the earlier cases applied.",
+         "url": "https://alessandroaledda.com/intra/sources/#mole-mangan"
         }
        ]
       },
@@ -3280,7 +3624,7 @@
        "id": "MD016/CoE",
        "jurisdiction": "CoE",
        "state": "established",
-       "requirement": "Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the measurement is later examined.",
+       "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach a rate of work derived from the traces of the work is not decided in it.",
        "sources": [
         {
          "anchor": "barbulescu",
@@ -3495,20 +3839,63 @@
          "url": "https://alessandroaledda.com/intra/sources/#be-cct-81"
         }
        ]
+      },
+      {
+       "id": "MD020/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "A suspicious event is assessed against criteria laid down in advance and against a triage that decides what is dealt with first. The relevant logs are reviewed for that assessment, and an event is reassessed and reclassified when new information arrives or when what was already held has been analyzed.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
       }
      ]
     },
     {
      "id": "MD021",
      "name": "Detection coverage assessment",
-     "what": "The comparison of what the program can currently see against what it has said it needs to see.",
+     "what": "The holding of two lists against each other: what the program declared it has to be able to detect, and what its instruments actually deliver today, given where the agents are installed, which systems send their records, and which rules are live. Its output is a named gap. Without it coverage is assumed rather than known, and it decays quietly, since a source that stops sending announces nothing.",
      "canonical": "https://alessandroaledda.com/intra/MD021/",
      "pending": [],
      "guidance": [],
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "MD021/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Two lists are required: the assets that are to be logged, derived from the risk assessment, and the assets that are actually being logged. The second, and the procedures behind it, are reviewed and where appropriate updated at regular intervals and after a significant incident. That the two are to be held against each other is not stated.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "MD021/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "The detection systems in place and the measures taken should be examined in regular audits for whether they are still current and still effective. The metrics that arise when a security relevant event is taken in, reported, and escalated are evaluated, the results of the audit are documented so that they can be followed, and they are compared against the state the systems are supposed to be in. A departure from it is pursued.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     }
    ]
   },
@@ -3887,6 +4274,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#npsa-ongoing-persec"
         }
        ]
+      },
+      {
+       "id": "IV001/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "Reporting routes suited to each kind of incident should be built, so that an employee can report quickly and simply over channels that are reliable and can be trusted, and where a central point is set up for it that is communicated to everyone. A communication and contact strategy should state who must be informed and who may be, by whom, in what order, and in what depth, and who passes information about an incident outside. That nobody unauthorized passes it on is to be ensured.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
       }
      ]
     },
@@ -3954,7 +4355,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IV004/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "A forensic examination should begin by defining its objectives, or the work it has been asked to do, as concretely as they can be put, and only then identifying the data sources it needs. A written guide should set out how evidence is to be secured, naming the procedures, the technical tools, the legal conditions, and what has to be documented.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IV005",
@@ -3994,6 +4410,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#no-innsyn-epost"
         }
        ]
+      },
+      {
+       "id": "IV005/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "The order in which data are secured follows how volatile they are: what is quickly lost is taken first, then what is not, the contents of fixed storage, and last of all the backups. A storage medium should be duplicated forensically in full, and where that cannot be done, on memory or on a storage network partition, the method chosen is the one that alters least. Originals are kept sealed, written cryptographic checksums are made of them and held separately in several copies and secured against alteration, and for the result to be usable in court a witness should confirm how it was done and attest the checksums. Only trained staff or a forensic service provider should carry out the securing.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
       }
      ]
     },
@@ -4007,7 +4437,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IV006/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "Every step taken in securing evidence should be documented, and the documentation should show without a gap how the original evidence was handled, which methods were used, and why the people responsible chose them. The originals should be stored so that only the staff conducting the examination, known by name, can reach them.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IV007",
@@ -4019,7 +4464,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IV007/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "It should be settled in advance which secondary data, log data and traffic captures among them, are held against a possible securing of evidence, in what way, and for how long within what the law allows.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IV008",
@@ -4111,7 +4571,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IV011/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "An organization without a forensic team of its own has to identify possible service providers in the preparation phase, before there is anything to examine, and to document which of them come into question. Call-off agreements or framework contracts with them should be concluded so that an incident can be examined sooner.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IV012",
@@ -4123,7 +4598,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IV012/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "A period is fixed for how long secured originals and evidence are kept, and when it has run out it is examined whether they still have to be. After it, evidence should be securely deleted or destroyed and the original media returned.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IV013",
@@ -4135,7 +4625,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IV013/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "Everyone who is responsible for it should know how to secure traces correctly and how to use the forensic tools, and suitable training should be given for that.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     }
    ]
   },
@@ -4155,7 +4660,50 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR001/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "IR001/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "A plan for handling incidents and notifying the national CSIRT is defined, implemented, kept current, and documented, and it carries the stages and the procedures with the roles and responsibilities attaching to each, the contacts for reporting, how communication runs inside and outside, and the reporting to be used to document the incident. The management bodies approve it. That the scenarios it covers include insider ones is not stated.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "IR001/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "A policy on handling security incidents has to be drawn up, stating its purpose and its aim and settling every aspect of the handling, with rules of conduct described for the different kinds of incident and instructions that are addressed to their audience and can actually be applied. It has to be known to everyone, agreed with the IT function, adopted by the leadership of the organization, and checked and updated at intervals.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IR002",
@@ -4167,7 +4715,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR002/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Containment is the first of the named stages of the response, and what it is for is stated: to prevent the consequences of the incident from spreading.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IR003",
@@ -4191,7 +4754,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR004/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "The activities of the response are logged under the same procedures that govern the logging of everything else, and evidence is recorded. In what state a system is to be held, and for how long, is not stated.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IR005",
@@ -4215,7 +4793,36 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR006/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Communication plans and procedures are established with the incident response teams or, where applicable, the competent authorities, for the notification of an incident.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "IR006/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "The plan carries the procedures for preparing and sending the reports the NIS decree requires, and it names the contacts through which an incident is reported. Notification runs to CSIRT Italia.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IR007",
@@ -4227,7 +4834,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR007/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "Procedures are documented for telling the recipients of a service, without unjustified delay, of a significant incident that may bear adversely on the provision of that service, and for telling those exposed to a significant threat what its nature is and what they can do about it. Separate procedures cover informing the public where the agency orders it.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IR008",
@@ -4239,7 +4861,36 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR008/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "How communication runs inside the organization is part of the plan, and the involvement of the administrative and management bodies is named as part of it. Those bodies approve the plan itself.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "IR008/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "An escalation strategy is formulated beyond the communication and contact strategy, and agreed between the people who handle ordinary faults and information security management. It should say unambiguously who is to be brought in, by what route, and when, for each kind of detected or suspected disturbance, what measures an escalation leads to, and how the response is to run. The tools chosen for it should be able to handle confidential information and to be available during an incident, and the escalation paths should be practiced in exercises.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IR009",
@@ -4251,7 +4902,50 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR009/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "A review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "IR009/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "The plan is reviewed and where appropriate updated periodically and in any case at least every two years, and again whenever a significant incident occurs, with the lessons learned from it worked in.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "IR009/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "An incident should be worked through afterwards to a standard form, examining how quickly it was detected and remedied, whether the reporting routes worked, whether there was enough information to assess it, and whether the detection measures were effective. What is learned is used to write instructions for comparable incidents, made known to the groups they concern, and updated as more is learned. The leadership of the organization is told about the incidents once a year, and at once where something has to be done immediately.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IR010",
@@ -4263,7 +4957,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR010/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "The incident response procedures are tested at planned intervals.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      }
+     ]
     }
    ]
   },
@@ -4295,6 +5004,20 @@
          "title": "Arbeitsverfassungsgesetz, sections 96 and 96a",
          "establishes": "That a control measure touching human dignity has no legal effect without the works council's consent, and that consent for automated processing and for assessment systems can be replaced by a conciliation board while consent under section 96 cannot.",
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
+        }
+       ]
+      },
+      {
+       "id": "CP001/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "A disciplinary process for handling violations of the security policies is established, communicated, and maintained, and it takes the legal, statutory, contractual, and business requirements into account. It is reviewed at planned intervals and when a change in the law calls for it. What may be relied on to establish a violation is not addressed.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
         }
        ]
       }
@@ -4501,13 +5224,33 @@
        "id": "AW001/EU",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Basic cyber hygiene practices and cybersecurity training are named among the measures an entity in scope has to take. What the directive asks to be taught is the security of systems, not insider risk.",
+       "requirement": "Basic cyber hygiene practices and cybersecurity training are named among the measures an entity in scope has to take, and the implementing rules say what the awareness program holds: it is scheduled over time so that it repeats and reaches new employees, it covers the threats, the measures in place, and where to go for advice, it reaches direct suppliers and service providers as well as employees and the members of the management bodies, and it is tested for effectiveness where appropriate. What is asked to be taught is the security of systems, not insider risk.",
        "sources": [
         {
          "anchor": "nis2",
          "title": "Directive (EU) 2022/2555, article 21",
          "establishes": "That asset management, access control policies, human resources security, cryptography, and training are among the measures an entity in scope has to take, without saying what any of them holds.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2"
+        },
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "AW001/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "A training plan for the workforce, the administrative and management bodies included, is defined, implemented, kept current, and documented, and those bodies approve it. It sets out what is taught and, where any are provided for, how it is checked that the content was taken in. What it teaches is the security of systems, not insider risk.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
         }
        ]
       }
@@ -4592,7 +5335,50 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "AW003/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "The employees whose roles need security-relevant skills are identified and trained regularly, and the training program sets the needs of particular roles and positions against criteria. What the training covers is named: secure configuration and operation of the systems, mobile devices included, a briefing on known threats, and how to behave when a security-relevant event occurs. It is given again to staff who move into such a role, and its effectiveness is assessed.",
+       "sources": [
+        {
+         "anchor": "nis2-ir",
+         "title": "Commission Implementing Regulation (EU) 2024/2690",
+         "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
+         "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "AW003/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "Training dedicated to the people in specialized roles, system administrators named among them, is part of the same plan, and it covers the secure configuration and operation of the systems, the threats that are known, and what to do when an event bearing on security occurs.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "AW003/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "Where the protection need is raised, particular people should be given the task of watching the logging data, it should be the greater part of what they do, and they should be given specialized further training and qualification. A group should be named that is responsible for the evaluation of logging data and for nothing else.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "AW004",
@@ -4604,7 +5390,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "AW004/IT",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "An up-to-date register is kept of the employees who received the training, of its contents, and of the checks carried out where checks were provided for. A register of the same kind is required for the training given to specialized roles.",
+       "sources": [
+        {
+         "anchor": "acn-379907",
+         "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
+         "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
+         "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "AW005",
@@ -4634,7 +5435,7 @@
   }
  ],
  "counts": {
-  "established": 206,
+  "established": 260,
   "not covered": 0,
   "unread": 0,
   "open": 0
