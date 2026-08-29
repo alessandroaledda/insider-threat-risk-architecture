@@ -52,9 +52,12 @@ What it is: A written agreement among the functions on what constitutes an event
 GB · established · [npsa-definitions] · The definitions of insider, insider risk, insider threat, and insider event were revised, and they are organized around intent.
 GB · established · [npsa-five-principles] · The definitions are agreed to be used consistently, and intentional and unintentional events are held on one spectrum so that a severity scale does not have to choose between them.
 DE · established · [bsi-grundschutz] · What counts as a security incident has to be defined clearly and marked off, as far as it can be, from the disruptions of ordinary operation. Everyone involved in handling one has to know the definition, and the definition and the thresholds at which it is met should follow the protection the affected processes, systems, and applications need. A single procedure for classifying incidents and disruptions should be settled, and agreed between security management and the function that handles ordinary faults.
+BE · established · [be-cyfun] · The organization is to define what an insider threat is, clearly, and the definition offered runs on intent and on standing: malicious, negligent, or compromised, and covering employees and contractors alike.
 
 ### GV006 · Escalation triggers and owners {#gv006}
 What it is: The agreement, settled between the functions before any case exists, on which conditions pass out of the team that observed them, to whom they pass, and within what time. As distinct from moving a live matter upward during a response, which the incident pillar holds.
+DE · established · [bsi-grundschutz] · An escalation strategy is formulated beyond the communication and contact strategy and agreed between the people who handle ordinary faults and information security management. It should say unambiguously who is to be brought in, by what route, and when, for each kind of detected or suspected disturbance, what measures an escalation leads to, and how the response is to run. The contact strategy under it settles who must be informed and who may be, by whom, in what order, and in what depth, and who may pass information about an incident outside. It is reviewed at intervals and the paths are practiced in exercises.
+NL · established · [nl-bio2] · The monitoring process in the security operations function has unambiguous rules about when an incident is reported to the management answerable for it.
 
 ### GV007 · Lawful basis register {#gv007}
 What it is: The record naming, for each stream of data the program collects and each use it puts that data to, the ground it rests on and the condition the jurisdiction attaches to that ground. Written before the collection starts, and held in a form that can be shown rather than asserted.
@@ -199,11 +202,13 @@ IT · established · [garante-107-2026] · Notes kept by managers about a worker
 What it is: Records disclosing a worker's membership of a trade union or participation in its activity.
 
 IT · established · [garante-107-2026] · A record touching union membership or activity falls in the stricter category, whatever the file it sits in and whoever wrote it.
+EU · established · [gdpr] · Trade union membership is one of the categories article 9 prohibits the processing of outright. The prohibition lifts only on one of that article's own grounds, and the employment one requires that Union or member state law or a collective agreement authorize the processing and provide appropriate safeguards for the person.
 
 ### PS012 · Records concerning health held for security purposes {#ps012}
 What it is: Records of absence, illness, or fitness held for the purposes of the program.
 
 IT · established · [garante-107-2026] · A record of absence or illness held for the program falls in the stricter category, and holding it for security purposes does not move it out.
+EU · established · [gdpr] · Data concerning health are one of the categories article 9 prohibits the processing of outright, so a security purpose is not on its own what makes holding them lawful. The prohibition lifts only on one of that article's grounds, and the employment one requires that Union or member state law or a collective agreement authorize it and provide appropriate safeguards.
 
 ### PS013 · Self-declaration of changed circumstances {#ps013}
 What it is: The route by which a worker reports a change in their own circumstances bearing on their position. It is a measure once it is named, reaches someone answerable for it, and states what becomes of what is declared.
@@ -294,6 +299,7 @@ AT · established · [at-ishb] · Log files hold personal data in many cases, so
 
 ### DP013 · Separation of program data {#dp013}
 What it is: The keeping of the program's own holdings apart from the systems the organization runs its business on, so that a case file is not reachable by whoever can reach the human resources record, and the stated conditions on which something crosses from one to the other.
+DE · established · [bsi-grundschutz] · The collected security relevant data are to be held centrally, as a log server assembly placed in a network segment set up for the purpose, and the administrators who operate it should hold no entitlement to alter or delete what it has recorded. The separation is of the store from the estate it observes and from the people who run that estate.
 
 ### DP014 · Personal material in company accounts {#dp014}
 What it is: The handling of a worker's personal material held on systems the employer controls, during employment and after it.
@@ -317,7 +323,7 @@ What it is: The derivation of what the program will look for from the harm it is
 
 EU · established · [enisa-2020] · Scoping starts at the level of control categories rather than of tools, and the only Union report to work from stops there and dates from 2020.
 
-### MD002 · Log collection and centralisation {#md002}
+### MD002 · Log collection and centralization {#md002}
 What it is: The aggregation of records of activity from systems across the estate into a single store.
 EU · established · [nis2-ir] · The list of assets to be logged is derived from the risk assessment, and what the logs hold is named: inbound and outbound traffic, the creation, modification, and deletion of users and the extension of their permissions, access to systems and applications, authentication events, all privileged access and everything done by administrative accounts, access or changes to critical configuration and backup files, physical access to facilities, and the activation, stopping, and pausing of the logs themselves. They are kept for a period fixed in advance and protected from unauthorized access or change, time sources are synchronized so that logs can be correlated across systems, and the availability of the logging systems is monitored independently of the systems they log.
 IT · established · [acn-379907] · All remote access and all access made with administrative privileges are recorded. For the systems that matter, the logs needed to monitor security events are acquired and kept securely and, where it can be done, centrally, and how long they are kept is fixed from the risk assessment and documented.
@@ -422,7 +428,7 @@ NL · established · [wor-27] · The works council has to consent before any arr
 ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the session recorder into operation.
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the session recorder having legal effect, and the threshold is whether it touches human dignity.
 
-### MD012 · User and entity behaviour analytics {#md012}
+### MD012 · User and entity behavior analytics {#md012}
 What it is: The automated derivation of a baseline of activity and the treatment of departures from it as signals.
 
 EU · established · [ai-act] [digital-omnibus-ai] · The engine falls in the high-risk category, which brings the full set of obligations, and none of that settles whether the detection method is lawful under data protection or employment law.
@@ -524,6 +530,7 @@ What it is: The defined set of observable circumstances the program treats as be
 DK · established · [sok-psychology] · An indicator taken from this literature carries thin foundations with it, and findings that cannot readily be compared between studies.
 GB · established · [nurse-2014] · A published vocabulary is available to build the catalogue on: catalyst, actor, attack, and organization, grounded in case studies rather than telemetry.
 GB · established · [npsa-data-collection] · Real cases have been reviewed and what preceded the acts described, which is where an indicator can be taken from rather than supposed.
+BE · established · [be-cyfun] · Behavioral signs are named as things training should teach people to recognize, and three are given: unusual access patterns, the hoarding of data, and sudden changes in behavior.
 
 ### BA002 · Individual risk assessment {#ba002}
 What it is: The assignment to a named person of a judgment expressing the degree of concern they warrant.
@@ -538,6 +545,7 @@ What it is: The treatment of traits, psychological states, or situational factor
 DK · established · [sok-psychology] · What has been published on psychological indicators does not establish which of them are observable in an employment setting.
 GB · established · [pathirana-2026] · Reviews of the detection literature map which human factors have been modelled and on what data, and test none of them.
 FI · established · [fi-privacy-working-life] · A personality or aptitude assessment is taken with the employee's consent, and the employer answers for the reliability of the method, the expertise of the assessor, and the findings being free from error.
+EU · established · [gdpr] · Article 9 reaches an indicator only where it reveals one of the categories it closes off, data concerning health among them, and where it does the processing is prohibited unless one of that article's own grounds applies. An assessment of disposition that reveals none of them is not caught by it, and falls back on the ordinary grounds.
 
 ### BA005 · Use of linguistic indicators {#ba005}
 What it is: The derivation of concern from a person's written or spoken language.
@@ -552,7 +560,7 @@ EU · established · [ai-act] · Inferring emotion at work is prohibited outrigh
 ### BA007 · Automated decision-making about a worker {#ba007}
 What it is: A decision producing effects for a worker taken by automated means without human intervention.
 
-EU · established · [ai-act] [digital-omnibus-ai] · A decision of this kind falls in the high-risk category, and the obligations that follow apply from 2 December 2027.
+EU · established · [ai-act] [digital-omnibus-ai] [gdpr] · A person has the right not to be subject to a decision taken solely by automated processing, profiling included, that produces legal effects concerning them or affects them similarly significantly. It is open only on contractual necessity, on a Union or member state law that lays down safeguards, or on explicit consent, and on the first and the third of those the person is owed at least human intervention, the chance to put their point of view, and the right to contest the outcome. Such a decision may not rest on the article 9 categories at all save on two narrow grounds. Separately, a decision of this kind falls in the high-risk category, and the obligations that follow apply from 2 December 2027.
 
 ### BA008 · Deployment of an algorithmic system in employment {#ba008}
 What it is: The introduction of a system of that class in a setting in which the people it reaches are workers.
@@ -564,6 +572,7 @@ AT · established · [at-arbvg-96] · A system for the automated collection, pro
 What it is: The examination of an assessment method for accuracy and for differential effect before and during its use.
 
 GB · established · [pathirana-2026] · The evaluation methods used across the published work have been mapped, which is the starting point for validating one.
+EU · established · [ai-act] · The training, validation, and testing sets behind a high-risk system fall under data governance practices, and what those have to cover is listed: the design choices, where the data came from and, for personal data, what they were originally collected for, the assumptions about what the data are supposed to measure, an examination for biases likely to bear on health and safety, to affect fundamental rights adversely, or to lead to prohibited discrimination, especially where the outputs feed the inputs of later operations, and measures to detect, prevent, and mitigate what the examination finds. The sets are to be relevant, sufficiently representative, and so far as possible free of errors and complete, with statistical properties appropriate to the people the system is to be used on.
 
 ### BA010 · Disclosure of an assessment to its subject {#ba010}
 What it is: The communication to a person of the existence and content of an assessment concerning them.
@@ -579,6 +588,7 @@ GB · established · [npsa-ongoing-persec] · Reporting routes are treated as a 
 DE · established · [bsi-grundschutz] · Reporting routes suited to each kind of incident should be built, so that an employee can report quickly and simply over channels that are reliable and can be trusted, and where a central point is set up for it that is communicated to everyone. A communication and contact strategy should state who must be informed and who may be, by whom, in what order, and in what depth, and who passes information about an incident outside. That nobody unauthorized passes it on is to be ensured.
 NL · established · [nl-bio2] · Everyone, internal and external, has demonstrably taken notice of the procedure for reporting an information security incident.
 AT · established · [at-ishb] · The routes by which something conspicuous in the logs is reported onward are to be laid down, alongside the fixing of who is responsible for the evaluation that found it.
+BE · established · [be-cyfun] · Staff are to be trained on how and where to report suspicious activity and on why reporting it in time matters, and the organization is to promote a culture in which an employee feels safe reporting a concern without fear of retaliation.
 
 ### IV002 · Case intake and triage {#iv002}
 What it is: The assessment of what arrives, from any route, against a threshold for opening a case.
@@ -655,6 +665,7 @@ BE · established · [be-cyfun] · The response strategy is to weigh the need fo
 
 ### IR003 · Withdrawal of access during a case {#ir003}
 What it is: The removal of a person's entitlements on suspicion, before any finding.
+ES · established · [es-ens] · At the high category the system carries out predetermined responses to its own alerts automatically, and two of the four named reach the person: disconnecting users, and blocking accounts. The decree puts them under the detection measure, so what triggers them is an alert and not a finding.
 
 ### IR004 · Preservation of systems and records {#ir004}
 What it is: The holding of systems and records in the state they were in when the case opened.
@@ -662,6 +673,7 @@ EU · established · [nis2-ir] · The activities of the response are logged unde
 
 ### IR005 · Coordination with security operations {#ir005}
 What it is: The joint working of the insider function with the teams that answer external intrusion.
+DE · established · [bsi-grundschutz] · The interfaces between ordinary fault handling, emergency management, and security management are to be analyzed, and the resources they might share identified. The staff who handle ordinary faults are to be made aware of what handling a security incident involves, and security management should have read access to the incident management tools in use.
 
 ### IR006 · Notification to a supervisory authority {#ir006}
 What it is: The reporting of the incident, or of its handling, to an authority outside the organization.
@@ -675,7 +687,7 @@ IT · established · [acn-379907] · Procedures are documented for telling the r
 ### IR008 · Escalation to crisis management {#ir008}
 What it is: The passing of a matter to the body that decides for the organization as a whole.
 IT · established · [acn-379907] · How communication runs inside the organization is part of the plan, and the involvement of the administrative and management bodies is named as part of it. Those bodies approve the plan itself.
-DE · established · [bsi-grundschutz] · An escalation strategy is formulated beyond the communication and contact strategy, and agreed between the people who handle ordinary faults and information security management. It should say unambiguously who is to be brought in, by what route, and when, for each kind of detected or suspected disturbance, what measures an escalation leads to, and how the response is to run. The tools chosen for it should be able to handle confidential information and to be available during an incident, and the escalation paths should be practiced in exercises.
+DE · established · [bsi-grundschutz] · The handling of a security incident is to be settled with emergency management, and where the organization keeps a separate role for ordinary fault handling that role is brought in too. The interfaces to crisis and emergency management are defined and documented, which staff answer for which task is settled, how they are to be communicated with is settled, and the contact people are to be reachable at all times.
 
 ### IR009 · Post-incident review {#ir009}
 What it is: The examination, after the fact, of what the program saw, when, and what it did with it.
@@ -713,6 +725,7 @@ IT · established · [cassazione-24204-2025] · Material taken from personal cor
 
 ### CP005 · Referral to law enforcement {#cp005}
 What it is: The passing of a case, and the material supporting it, to an authority with powers the organization does not have.
+ES · established · [es-ens] · Evidence that may fall to be settled before a court is recorded as such, and the prosecution of an offense is one of the three cases the decree names for it, alongside disciplinary action against internal staff and against an external supplier. What that evidence has to comprise, and in what detail, is settled on specialized legal advice.
 
 ### CP006 · Civil recovery and injunctive action {#cp006}
 What it is: Proceedings brought by the organization to recover what was taken or to restrain its use.
@@ -735,6 +748,7 @@ IT · established · [acn-379907] · A training plan for the workforce, the admi
 ES · established · [es-ens] · The workforce is reminded periodically of the security rules on the proper use of the equipment and of the commonest social engineering techniques, of how to identify an incident and the activities or behaviors that are suspicious and have to be reported so that specialized staff can deal with them, and of the procedure for reporting, whether what is reported turns out to be real or a false alarm.
 NO · established · [no-nsm] · Real cases from the handling of incidents are to be used in the training and the raising of awareness of staff, and the results of an evaluation are shared with those they concern.
 NL · established · [nl-bio2] · Everyone using the information systems, employees and contractors alike, has demonstrably completed an awareness training within three months of entering service. Management is to press the importance of it at appointment and at an internal transfer, and in work meetings and personnel discussions, and to encourage it being taken again periodically.
+BE · established · [be-cyfun] · Insider threat awareness and reporting are to be included in the security training, by name, so that people can recognize and respond to internal risks. What the training covers is set out: how to recognize the behavioral signs, what an insider threat is, how and where to report suspicious activity and why reporting in time matters, and real cases or simulations used to show what an insider event costs. It reaches all staff, at onboarding and in the regular training, with an annual refresher.
 
 ### AW002 · Transparency notice on what is observed {#aw002}
 What it is: The account of the program's reach given to the persons subject to it.
@@ -750,6 +764,7 @@ EU · established · [nis2-ir] · The employees whose roles need security-releva
 IT · established · [acn-379907] · Training dedicated to the people in specialized roles, system administrators named among them, is part of the same plan, and it covers the secure configuration and operation of the systems, the threats that are known, and what to do when an event bearing on security occurs.
 DE · established · [bsi-grundschutz] · Where the protection need is raised, particular people should be given the task of watching the logging data, it should be the greater part of what they do, and they should be given specialized further training and qualification. A group should be named that is responsible for the evaluation of logging data and for nothing else.
 ES · established · [es-ens] · The workforce is trained regularly in what their duties require of them, and three subjects are named: the configuration of systems, the detection of and reaction to incidents, and the handling of information on any medium, which is to cover its storage, transfer, copying, distribution, and destruction. The effectiveness of the training given is assessed.
+BE · established · [be-cyfun] · Training specific to the role is to be given to the staff who reach sensitive data or systems, on the responsibilities that reaching them carries, and cross-functional training is to be built where two kinds of expertise have to meet.
 
 ### AW004 · Training records {#aw004}
 What it is: The record, attached to a named person, of the instruction they received and when.
@@ -758,7 +773,10 @@ NL · established · [nl-bio2] · The completion of the awareness training withi
 
 ### AW005 · Simulated exercises on live staff {#aw005}
 What it is: The testing of the workforce by means of a staged event.
+BE · established · [be-cyfun] · Phishing simulations are to be run regularly to reduce the risk of social engineering, and simulated phishing or social engineering tests are named again among the methods by which an awareness program is evaluated.
 
 ### AW006 · Security culture measurement {#aw006}
 What it is: The assessment of what the workforce actually believes and does, as distinct from what it has been told.
+BE · established · [be-cyfun] · Whether the training reaches everyone it should, and whether it actually moves behavior, awareness, and attitude, is to be assessed. The methods are to be a mix, and surveys measuring the change in awareness, confidence, and behavior are named among them, alongside assessments before and after, simulated tests, and feedback from those who took part and those who taught. What is learned is documented and used on the next round.
+
 

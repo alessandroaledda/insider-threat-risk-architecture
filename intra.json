@@ -340,6 +340,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "GV005/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "The organization is to define what an insider threat is, clearly, and the definition offered runs on intent and on standing: malicious, negligent, or compromised, and covering employees and contractors alike.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
       }
      ]
     },
@@ -353,7 +367,36 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "GV006/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "An escalation strategy is formulated beyond the communication and contact strategy and agreed between the people who handle ordinary faults and information security management. It should say unambiguously who is to be brought in, by what route, and when, for each kind of detected or suspected disturbance, what measures an escalation leads to, and how the response is to run. The contact strategy under it settles who must be informed and who may be, by whom, in what order, and in what depth, and who may pass information about an incident outside. It is reviewed at intervals and the paths are practiced in exercises.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "GV006/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "The monitoring process in the security operations function has unambiguous rules about when an incident is reported to the management answerable for it.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "GV007",
@@ -374,8 +417,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -469,8 +512,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         }
        ]
@@ -510,8 +553,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         }
        ]
@@ -662,8 +705,8 @@
        "sources": [
         {
          "anchor": "ai-act",
-         "title": "Regulation (EU) 2024/1689, article 5(1)(f), Annex III(4), and article 26(7)",
-         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, and that representatives are told before deployment.",
+         "title": "Regulation (EU) 2024/1689, articles 5(1)(f), 10, and 26(7), and Annex III(4)",
+         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, what the data a high-risk system is trained and tested on have to answer for, and that representatives are told before deployment.",
          "url": "https://alessandroaledda.com/intra/sources/#ai-act"
         },
         {
@@ -777,8 +820,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         }
        ]
@@ -1583,6 +1626,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#garante-107-2026"
         }
        ]
+      },
+      {
+       "id": "PS011/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Trade union membership is one of the categories article 9 prohibits the processing of outright. The prohibition lifts only on one of that article’s own grounds, and the employment one requires that Union or member state law or a collective agreement authorize the processing and provide appropriate safeguards for the person.",
+       "sources": [
+        {
+         "anchor": "gdpr",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "url": "https://alessandroaledda.com/intra/sources/#gdpr"
+        }
+       ]
       }
      ]
     },
@@ -1608,6 +1665,20 @@
          "title": "Provvedimento n. 107, Amazon Italia Logistica",
          "establishes": "That records of illness, union activity, and family circumstances kept by managers had no lawful basis, and attract the stricter regime.",
          "url": "https://alessandroaledda.com/intra/sources/#garante-107-2026"
+        }
+       ]
+      },
+      {
+       "id": "PS012/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Data concerning health are one of the categories article 9 prohibits the processing of outright, so a security purpose is not on its own what makes holding them lawful. The prohibition lifts only on one of that article’s grounds, and the employment one requires that Union or member state law or a collective agreement authorize it and provide appropriate safeguards.",
+       "sources": [
+        {
+         "anchor": "gdpr",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         }
        ]
       }
@@ -2003,8 +2074,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -2370,7 +2441,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "DP013/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "The collected security relevant data are to be held centrally, as a log server assembly placed in a network segment set up for the purpose, and the administrators who operate it should hold no entitlement to alter or delete what it has recorded. The separation is of the store from the estate it observes and from the people who run that estate.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "DP014",
@@ -2505,7 +2591,7 @@
     },
     {
      "id": "MD002",
-     "name": "Log collection and centralisation",
+     "name": "Log collection and centralization",
      "what": "The aggregation of records of activity from systems across the estate into a single store.",
      "canonical": "https://alessandroaledda.com/intra/MD002/",
      "pending": [],
@@ -2800,8 +2886,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -2945,8 +3031,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -3124,8 +3210,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -3493,8 +3579,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -3607,7 +3693,7 @@
     },
     {
      "id": "MD012",
-     "name": "User and entity behaviour analytics",
+     "name": "User and entity behavior analytics",
      "what": "The automated derivation of a baseline of activity and the treatment of departures from it as signals.",
      "canonical": "https://alessandroaledda.com/intra/MD012/",
      "pending": [],
@@ -3624,8 +3710,8 @@
        "sources": [
         {
          "anchor": "ai-act",
-         "title": "Regulation (EU) 2024/1689, article 5(1)(f), Annex III(4), and article 26(7)",
-         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, and that representatives are told before deployment.",
+         "title": "Regulation (EU) 2024/1689, articles 5(1)(f), 10, and 26(7), and Annex III(4)",
+         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, what the data a high-risk system is trained and tested on have to answer for, and that representatives are told before deployment.",
          "url": "https://alessandroaledda.com/intra/sources/#ai-act"
         },
         {
@@ -3797,8 +3883,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -3928,8 +4014,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -4073,8 +4159,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -4210,8 +4296,8 @@
        "sources": [
         {
          "anchor": "gdpr",
-         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 12, 15, 35, and 88",
-         "establishes": "The grounds on which processing may rest, the burden of showing it, what a person asking has to be told and by when, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         },
         {
@@ -4601,6 +4687,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#npsa-data-collection"
         }
        ]
+      },
+      {
+       "id": "BA001/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Behavioral signs are named as things training should teach people to recognize, and three are given: unusual access patterns, the hoarding of data, and sudden changes in behavior.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
       }
      ]
     },
@@ -4695,6 +4795,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#fi-privacy-working-life"
         }
        ]
+      },
+      {
+       "id": "BA004/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Article 9 reaches an indicator only where it reveals one of the categories it closes off, data concerning health among them, and where it does the processing is prohibited unless one of that article’s own grounds applies. An assessment of disposition that reveals none of them is not caught by it, and falls back on the ordinary grounds.",
+       "sources": [
+        {
+         "anchor": "gdpr",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "url": "https://alessandroaledda.com/intra/sources/#gdpr"
+        }
+       ]
       }
      ]
     },
@@ -4744,8 +4858,8 @@
        "sources": [
         {
          "anchor": "ai-act",
-         "title": "Regulation (EU) 2024/1689, article 5(1)(f), Annex III(4), and article 26(7)",
-         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, and that representatives are told before deployment.",
+         "title": "Regulation (EU) 2024/1689, articles 5(1)(f), 10, and 26(7), and Annex III(4)",
+         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, what the data a high-risk system is trained and tested on have to answer for, and that representatives are told before deployment.",
          "url": "https://alessandroaledda.com/intra/sources/#ai-act"
         }
        ]
@@ -4767,12 +4881,12 @@
        "id": "BA007/EU",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A decision of this kind falls in the high-risk category, and the obligations that follow apply from 2 December 2027.",
+       "requirement": "A person has the right not to be subject to a decision taken solely by automated processing, profiling included, that produces legal effects concerning them or affects them similarly significantly. It is open only on contractual necessity, on a Union or member state law that lays down safeguards, or on explicit consent, and on the first and the third of those the person is owed at least human intervention, the chance to put their point of view, and the right to contest the outcome. Such a decision may not rest on the article 9 categories at all save on two narrow grounds. Separately, a decision of this kind falls in the high-risk category, and the obligations that follow apply from 2 December 2027.",
        "sources": [
         {
          "anchor": "ai-act",
-         "title": "Regulation (EU) 2024/1689, article 5(1)(f), Annex III(4), and article 26(7)",
-         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, and that representatives are told before deployment.",
+         "title": "Regulation (EU) 2024/1689, articles 5(1)(f), 10, and 26(7), and Annex III(4)",
+         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, what the data a high-risk system is trained and tested on have to answer for, and that representatives are told before deployment.",
          "url": "https://alessandroaledda.com/intra/sources/#ai-act"
         },
         {
@@ -4780,6 +4894,12 @@
          "title": "Regulation (EU) 2026/1744, amending the Artificial Intelligence Act",
          "establishes": "When the high-risk obligations begin to apply, moved to December 2027, without altering what they classify.",
          "url": "https://alessandroaledda.com/intra/sources/#digital-omnibus-ai"
+        },
+        {
+         "anchor": "gdpr",
+         "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
+         "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
+         "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         }
        ]
       }
@@ -4804,8 +4924,8 @@
        "sources": [
         {
          "anchor": "ai-act",
-         "title": "Regulation (EU) 2024/1689, article 5(1)(f), Annex III(4), and article 26(7)",
-         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, and that representatives are told before deployment.",
+         "title": "Regulation (EU) 2024/1689, articles 5(1)(f), 10, and 26(7), and Annex III(4)",
+         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, what the data a high-risk system is trained and tested on have to answer for, and that representatives are told before deployment.",
          "url": "https://alessandroaledda.com/intra/sources/#ai-act"
         },
         {
@@ -4854,6 +4974,20 @@
          "title": "Integrating Human Factors into Insider Threat Detection: A Systematic Review",
          "establishes": "The models, data sources, and evaluation methods used where detection research has taken up human factors.",
          "url": "https://alessandroaledda.com/intra/sources/#pathirana-2026"
+        }
+       ]
+      },
+      {
+       "id": "BA009/EU",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "The training, validation, and testing sets behind a high-risk system fall under data governance practices, and what those have to cover is listed: the design choices, where the data came from and, for personal data, what they were originally collected for, the assumptions about what the data are supposed to measure, an examination for biases likely to bear on health and safety, to affect fundamental rights adversely, or to lead to prohibited discrimination, especially where the outputs feed the inputs of later operations, and measures to detect, prevent, and mitigate what the examination finds. The sets are to be relevant, sufficiently representative, and so far as possible free of errors and complete, with statistical properties appropriate to the people the system is to be used on.",
+       "sources": [
+        {
+         "anchor": "ai-act",
+         "title": "Regulation (EU) 2024/1689, articles 5(1)(f), 10, and 26(7), and Annex III(4)",
+         "establishes": "That inferring emotions at work is prohibited, that employment and worker management are a high-risk category, what the data a high-risk system is trained and tested on have to answer for, and that representatives are told before deployment.",
+         "url": "https://alessandroaledda.com/intra/sources/#ai-act"
         }
        ]
       }
@@ -4958,6 +5092,20 @@
          "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
          "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
          "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
+        }
+       ]
+      },
+      {
+       "id": "IV001/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Staff are to be trained on how and where to report suspicious activity and on why reporting it in time matters, and the organization is to promote a culture in which an employee feels safe reporting a concern without fear of retaliation.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
         }
        ]
       }
@@ -5512,7 +5660,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR003/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "At the high category the system carries out predetermined responses to its own alerts automatically, and two of the four named reach the person: disconnecting users, and blocking accounts. The decree puts them under the detection measure, so what triggers them is an alert and not a finding.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IR004",
@@ -5551,7 +5714,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "IR005/DE",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "The interfaces between ordinary fault handling, emergency management, and security management are to be analyzed, and the resources they might share identified. The staff who handle ordinary faults are to be made aware of what handling a security incident involves, and security management should have read access to the incident management tools in use.",
+       "sources": [
+        {
+         "anchor": "bsi-grundschutz",
+         "title": "IT-Grundschutz-Kompendium, Edition 2023",
+         "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
+         "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IR006",
@@ -5650,7 +5828,7 @@
        "id": "IR008/DE",
        "jurisdiction": "DE",
        "state": "established",
-       "requirement": "An escalation strategy is formulated beyond the communication and contact strategy, and agreed between the people who handle ordinary faults and information security management. It should say unambiguously who is to be brought in, by what route, and when, for each kind of detected or suspected disturbance, what measures an escalation leads to, and how the response is to run. The tools chosen for it should be able to handle confidential information and to be available during an incident, and the escalation paths should be practiced in exercises.",
+       "requirement": "The handling of a security incident is to be settled with emergency management, and where the organization keeps a separate role for ordinary fault handling that role is brought in too. The interfaces to crisis and emergency management are defined and documented, which staff answer for which task is settled, how they are to be communicated with is settled, and the contact people are to be reachable at all times.",
        "sources": [
         {
          "anchor": "bsi-grundschutz",
@@ -5917,7 +6095,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "CP005/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "Evidence that may fall to be settled before a court is recorded as such, and the prosecution of an offense is one of the three cases the decree names for it, alongside disciplinary action against internal staff and against an external supplier. What that evidence has to comprise, and in what detail, is settled on specialized legal advice.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "CP006",
@@ -6079,6 +6272,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
         }
        ]
+      },
+      {
+       "id": "AW001/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Insider threat awareness and reporting are to be included in the security training, by name, so that people can recognize and respond to internal risks. What the training covers is set out: how to recognize the behavioral signs, what an insider threat is, how and where to report suspicious activity and why reporting in time matters, and real cases or simulations used to show what an insider event costs. It reaches all staff, at onboarding and in the regular training, with an annual refresher.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
       }
      ]
     },
@@ -6231,6 +6438,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#es-ens"
         }
        ]
+      },
+      {
+       "id": "AW003/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Training specific to the role is to be given to the staff who reach sensitive data or systems, on the responsibilities that reaching them carries, and cross-functional training is to be built where two kinds of expertise have to meet.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
       }
      ]
     },
@@ -6285,7 +6506,22 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "AW005/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Phishing simulations are to be run regularly to reduce the risk of social engineering, and simulated phishing or social engineering tests are named again among the methods by which an awareness program is evaluated.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "AW006",
@@ -6297,13 +6533,28 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "AW006/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Whether the training reaches everyone it should, and whether it actually moves behavior, awareness, and attitude, is to be assessed. The methods are to be a mix, and surveys measuring the change in awareness, confidence, and behavior are named among them, alongside assessments before and after, simulated tests, and feedback from those who took part and those who taught. What is learned is documented and used on the next round.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      }
+     ]
     }
    ]
   }
  ],
  "counts": {
-  "established": 322,
+  "established": 339,
   "not covered": 0,
   "unread": 0,
   "open": 0
