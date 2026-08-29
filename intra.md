@@ -21,10 +21,10 @@ Every row states its standing.
 - [reported] where research records a finding.
 Only a mandatory row carries a control identifier, since a standard and a study are cited by their own reference.
 
+Thirty-four jurisdictions [y:in scope]. The European Union, the Council of Europe, every state in which Union or European Economic Area law applies, the United Kingdom, and Switzerland. A source qualifies if it is European in origin and if it sets out how a program is built, states a legal constraint on how one may operate, or reports research findings. American material is not listed: that part of the record is gathered already, and what is collected here can be used in a European organization without first subtracting the assumptions that do not hold there.
+
 Everything here is written in two files, and both are public.
 The framework and the library are kept as markdown in a repository, under a license that lets anyone use them, change them, and build on them as long as they credit them. The data the site reads is generated from those two files, so a correction goes to the markdown and never to the JSON. What the repository holds is what this page is built from rather than a copy of it, and anyone who thinks a control is formulated wrongly, or knows a source that belongs here, can open the question there.
-
-Thirty-four jurisdictions in scope. The European Union, the Council of Europe, every state in which Union or European Economic Area law applies, the United Kingdom, and Switzerland. A source qualifies if it is European in origin and if it sets out how a program is built, states a legal constraint on how one may operate, or reports research findings. American material is not listed: that part of the record is gathered already, and what is collected here can be used in a European organization without first subtracting the assumptions that do not hold there.
 
 Part of what INTRA maps does not exist. There is no European insider symposium: the reference event in the field is American, in its eleventh edition. There is no European professional body for the discipline. There is no program standard at Union level, the only thematic report from the Union agency dating from 2020 and the only program development manual from 2019. INTRA records those absences the way it records a jurisdiction that has said nothing.
 
