@@ -887,6 +887,48 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "PS001/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "The requirements a person has to satisfy to hold a post are defined, in particular on confidentiality, and they are taken into account in selecting who will hold it. What is verified is named: the employment history, the training, and other references, in conformity with the law and with respect for fundamental rights.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "PS001/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "A background verification check should be carried out before a person is brought into a sensitive role, and it takes into account the applicable laws, regulations, and ethics in proportion to the business requirements.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      },
+      {
+       "id": "PS001/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "Every entity has a screening policy that has been settled. On entering service, and on a change of function, a certificate of conduct may be asked for on the basis of a weighing of the risk.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
       }
      ]
     },
@@ -926,6 +968,62 @@
          "title": "IT-Grundschutz-Kompendium, Edition 2023",
          "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "PS002/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "For each post directly bound up with the handling of information or services, the security responsibilities it carries are defined, and they are based on the risk analysis. The measure does not apply at the basic category and applies at the two above it, so the scheme grades the obligation itself by what the system holds.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "PS002/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "What the background check weighs is the classification of the information to be reached and the risks perceived, so the depth follows what the role will hold rather than where the role sits.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      },
+      {
+       "id": "PS002/FI",
+       "jurisdiction": "FI",
+       "state": "established",
+       "requirement": "The authority has to recognize which of its functions call for special trustworthiness and reliability in the people employed in them. The clearance that follows can rest on a concise, a basic, or a comprehensive investigation, and which of the three is used depends on the information at stake.",
+       "sources": [
+        {
+         "anchor": "fi-katakri",
+         "title": "Katakri 2020",
+         "establishes": "The criteria an authority audits against, among them the requirement to recognize which functions call for special trustworthiness, a clearance graded on three scales, and log retention set by the limitation periods of the criminal law.",
+         "url": "https://alessandroaledda.com/intra/sources/#fi-katakri"
+        }
+       ]
+      },
+      {
+       "id": "PS002/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "The certificate of conduct is asked for on a weighing of the risk rather than as a matter of course, so what sets the depth is the assessment and not the grade of the post.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
         }
        ]
       }
@@ -969,6 +1067,48 @@
          "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
         }
        ]
+      },
+      {
+       "id": "PS003/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "Security and system administrators hold a personal security clearance granted by the competent authority, either because the risk analysis called for it or because a particular system requires it.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "PS003/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Personnel with access to the organization’s most critical information or technology are to be authenticated at the point of access, and the framework says what that means: the person proves their identity technically when they reach the asset, and is not merely validated once at onboarding.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      },
+      {
+       "id": "PS003/FI",
+       "jurisdiction": "FI",
+       "state": "established",
+       "requirement": "Where international requirements demand it, a person is given access to information at the third classification level and above only after a personnel security clearance has been issued for that level.",
+       "sources": [
+        {
+         "anchor": "fi-katakri",
+         "title": "Katakri 2020",
+         "establishes": "The criteria an authority audits against, among them the requirement to recognize which functions call for special trustworthiness, a clearance graded on three scales, and log retention set by the limitation periods of the criminal law.",
+         "url": "https://alessandroaledda.com/intra/sources/#fi-katakri"
+        }
+       ]
       }
      ]
     },
@@ -1008,6 +1148,34 @@
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "PS004/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "The background check is repeated periodically for the people in sensitive roles, so it is a standing condition of holding the role rather than a gate at the entrance.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      },
+      {
+       "id": "PS004/FI",
+       "jurisdiction": "FI",
+       "state": "established",
+       "requirement": "The clearances, the handling rights, the rights of use, the access rights, and the awareness of the duty not to disclose are all kept updated as changes occur, and the training that goes with a change is given before the change.",
+       "sources": [
+        {
+         "anchor": "fi-katakri",
+         "title": "Katakri 2020",
+         "establishes": "The criteria an authority audits against, among them the requirement to recognize which functions call for special trustworthiness, a clearance graded on three scales, and log retention set by the limitation periods of the criminal law.",
+         "url": "https://alessandroaledda.com/intra/sources/#fi-katakri"
         }
        ]
       }
@@ -1051,6 +1219,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "PS005/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "Where staff are contracted through a third party, the duties and obligations of each party and of the contracted staff are established, and so is the procedure for resolving an incident arising from a failure to meet them.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
       }
      ]
     },
@@ -1076,6 +1258,34 @@
          "title": "IT-Grundschutz-Kompendium, Edition 2023",
          "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "PS006/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "Each person working on the system is informed of the duties and responsibilities their post carries: the disciplinary measures that may follow, what is owed during the post and what is owed on its ending or on a move to another, and the duty of confidentiality over the data they reach, both while they hold the post and afterwards. Above the basic category, express confirmation that the person knows the security instructions and accepts them has to be obtained.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "PS006/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "Everyone, internal and external, is pointed to their responsibilities for information security on appointment or on a change of function, and the rules and instructions that apply to them are to be simple to reach.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
         }
        ]
       }
@@ -1117,6 +1327,62 @@
          "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
          "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
          "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "PS007/FR",
+       "jurisdiction": "FR",
+       "state": "established",
+       "requirement": "The procedures for arrival, departure, and change of function are defined together with the human resources function, and what they have to reach is listed: the creation and deletion of accounts and the mailboxes attached to them, the rights to grant and to withdraw from a person whose function changes, physical access to the premises with badges and keys issued and returned, the mobile equipment assigned, and the handling of sensitive information, transferring or changing the passwords and codes on existing systems among it.",
+       "sources": [
+        {
+         "anchor": "fr-anssi",
+         "title": "Guide d'hygiène informatique",
+         "establishes": "Forty two measures at a standard and a reinforced level, among them the joining, leaving, and function change procedures written with the human resources function, and a minimum retention of one year for security critical events.",
+         "url": "https://alessandroaledda.com/intra/sources/#fr-anssi"
+        }
+       ]
+      },
+      {
+       "id": "PS007/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "A human resources process for cybersecurity is developed and maintained, and it runs across recruitment, onboarding, employment, change of function, and offboarding rather than attaching to any one of them.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      },
+      {
+       "id": "PS007/FI",
+       "jurisdiction": "FI",
+       "state": "established",
+       "requirement": "Changes in what a person may handle are noted at each phase of the employment, and a change of responsibilities is named alongside recruitment and termination as one of the three the attention goes to.",
+       "sources": [
+        {
+         "anchor": "fi-katakri",
+         "title": "Katakri 2020",
+         "establishes": "The criteria an authority audits against, among them the requirement to recognize which functions call for special trustworthiness, a clearance graded on three scales, and log retention set by the limitation periods of the criminal law.",
+         "url": "https://alessandroaledda.com/intra/sources/#fi-katakri"
+        }
+       ]
+      },
+      {
+       "id": "PS007/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "A change of function is one of the two occasions on which the certificate of conduct may be asked for, the other being entry into service.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
         }
        ]
       }
@@ -1206,6 +1472,34 @@
          "title": "IT-Grundschutz-Kompendium, Edition 2023",
          "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "PS008/FR",
+       "jurisdiction": "FR",
+       "state": "established",
+       "requirement": "The rights assigned to a person are revoked on their departure, and the procedure covers the accounts and mailboxes, the badges and keys, the mobile equipment issued, and the passwords and codes on existing systems, which are transferred or changed.",
+       "sources": [
+        {
+         "anchor": "fr-anssi",
+         "title": "Guide d'hygiène informatique",
+         "establishes": "Forty two measures at a standard and a reinforced level, among them the joining, leaving, and function change procedures written with the human resources function, and a minimum retention of one year for security critical events.",
+         "url": "https://alessandroaledda.com/intra/sources/#fr-anssi"
+        }
+       ]
+      },
+      {
+       "id": "PS008/FI",
+       "jurisdiction": "FI",
+       "state": "established",
+       "requirement": "On the termination of the employment the keys, the badges, and the classified material are collected in, the access, handling, and use rights are deleted, and the person is reminded of the responsibilities of non-disclosure that remain.",
+       "sources": [
+        {
+         "anchor": "fi-katakri",
+         "title": "Katakri 2020",
+         "establishes": "The criteria an authority audits against, among them the requirement to recognize which functions call for special trustworthiness, a clearance graded on three scales, and log retention set by the limitation periods of the criminal law.",
+         "url": "https://alessandroaledda.com/intra/sources/#fi-katakri"
         }
        ]
       }
@@ -1507,6 +1801,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "DP004/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "The access control system is organized so that two or more people have to concur on a critical task, and the decree says what that is for: to cancel the possibility that a single authorized individual could abuse their rights to commit an unlawful or unauthorized act. All access is forbidden save on express authorization, privileges are cut to the minimum needed to do the work, and only staff with the competence to do so may grant, alter, or annul an authorization.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
       }
      ]
     },
@@ -1562,6 +1870,48 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "DP005/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "Development and operation are not to fall to the same person, nor are authorizing a use and controlling it. At the high category the same person may not hold configuration and maintenance together, and auditing or supervision may not be combined with any other function at all. Accounts carrying audit privileges are strictly controlled and personal to their holder, and the system’s security information is reachable only by the authorized administrators.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "DP005/FR",
+       "jurisdiction": "FR",
+       "state": "established",
+       "requirement": "An exhaustive inventory of the privileged accounts is kept current, and reviewed periodically to make sure access to sensitive items is held, the working directories and the mailboxes of senior managers named among them. The review is also what removes the access left behind by a departure. A simple naming convention for service and administration accounts is wanted, because it makes both the review and the detection of an intrusion easier.",
+       "sources": [
+        {
+         "anchor": "fr-anssi",
+         "title": "Guide d'hygiène informatique",
+         "establishes": "Forty two measures at a standard and a reinforced level, among them the joining, leaving, and function change procedures written with the human resources function, and a minimum retention of one year for security critical events.",
+         "url": "https://alessandroaledda.com/intra/sources/#fr-anssi"
+        }
+       ]
+      },
+      {
+       "id": "DP005/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "Only authorized personnel reach the system utilities, and only at the moments when reaching them is strictly necessary. Their use is logged, and the log is available for examination for half a year.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
       }
      ]
     },
@@ -1615,6 +1965,20 @@
          "title": "IT-Grundschutz-Kompendium, Edition 2023",
          "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "DP006/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "Every access right that has been issued is assessed at least once a year.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
         }
        ]
       }
@@ -1965,6 +2329,34 @@
          "url": "https://alessandroaledda.com/intra/sources/#no-innsyn-epost"
         }
        ]
+      },
+      {
+       "id": "DP012/NO",
+       "jurisdiction": "NO",
+       "state": "established",
+       "requirement": "The security relevant data are to be used only to safeguard the security of the systems, and kept long enough that unwanted activity can be discovered and mapped after the fact. What weighs on the period is that the data may later be wanted for an investigation, for assessing damage, and for trend analysis, held against the point that they can hold confidential information about the individual employee.",
+       "sources": [
+        {
+         "anchor": "no-nsm",
+         "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
+         "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
+         "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
+        }
+       ]
+      },
+      {
+       "id": "DP012/AT",
+       "jurisdiction": "AT",
+       "state": "established",
+       "requirement": "Log files hold personal data in many cases, so they may be used only for purposes compatible with the one they were collected for. Where that restriction bites, the handbook says it is resolved by removing the personal data or by anonymizing them, and states that pseudonymizing them is not enough.",
+       "sources": [
+        {
+         "anchor": "at-ishb",
+         "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
+        }
+       ]
       }
      ]
     },
@@ -2030,6 +2422,20 @@
          "title": "Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale",
          "establishes": "When an employer may look into a work mailbox or a worker's personal areas on its equipment, that monitoring of internet use is outside what it may do at all, and that the regulation cannot be contracted around.",
          "url": "https://alessandroaledda.com/intra/sources/#no-innsyn-epost"
+        }
+       ]
+      },
+      {
+       "id": "DP014/AT",
+       "jurisdiction": "AT",
+       "state": "established",
+       "requirement": "There is no right for a worker to use the employer’s resources privately. Minor private or half private use within ordinary human social behavior should nonetheless be allowed or ignored, and a total prohibition pronounced only in extreme cases.",
+       "sources": [
+        {
+         "anchor": "at-ishb",
+         "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
         }
        ]
       }
@@ -2149,6 +2555,104 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "MD002/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "The audit record carries at least the identifier of the user or entity the event belongs to, the date and time, what information the event was performed on, the type of event, and whether it succeeded or failed. Above the low level the security documentation states which events are audited and how long the records are kept before deletion, the clock is an administration function protected by authentication and integrity, and the records and their backups may be reached or deleted only by duly authorized personnel.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "MD002/FR",
+       "jurisdiction": "FR",
+       "state": "established",
+       "requirement": "The critical components are determined first, the workstations of sensitive users named among them, and the logging on each is configured to match. Security critical events are kept for at least a year, or longer where the sector’s legal obligations require it, and the time synchronization source is the same across components so that events can be correlated. At the reinforced level the logs are centralized on a dedicated device, which is wanted for three reasons: automated searching, long archiving, and preventing an attacker from erasing the traces of their passage on what they compromised.",
+       "sources": [
+        {
+         "anchor": "fr-anssi",
+         "title": "Guide d'hygiène informatique",
+         "establishes": "Forty two measures at a standard and a reinforced level, among them the joining, leaving, and function change procedures written with the human resources function, and a minimum retention of one year for security critical events.",
+         "url": "https://alessandroaledda.com/intra/sources/#fr-anssi"
+        }
+       ]
+      },
+      {
+       "id": "MD002/FI",
+       "jurisdiction": "FI",
+       "state": "established",
+       "requirement": "The retention follows what the records may later have to answer. At the fourth classification level the essential recordings are kept at least six months; where the limitation periods of the criminal law bear on the information, at least five years, which is also the floor at the two levels above. The clocks within a security domain are synchronized to a single reference, the log files are backed up, a procedure covers their integrity, and they and the register services are protected against unauthorized access.",
+       "sources": [
+        {
+         "anchor": "fi-katakri",
+         "title": "Katakri 2020",
+         "establishes": "The criteria an authority audits against, among them the requirement to recognize which functions call for special trustworthiness, a clearance graded on three scales, and log retention set by the limitation periods of the criminal law.",
+         "url": "https://alessandroaledda.com/intra/sources/#fi-katakri"
+        }
+       ]
+      },
+      {
+       "id": "MD002/NO",
+       "jurisdiction": "NO",
+       "state": "established",
+       "requirement": "A written strategy for security monitoring settles the purpose and the field of use of what is collected, which data are collected, their secure storage including for legal proceedings, capacity planning, who may reach them, the consolidation of logs from the different units and services, deletion, and the interval at which the strategy is reviewed, at least once a year and after a major incident. What is collected is verified against what was meant to be, the data are archived and digitally signed at intervals for integrity, functionality is put in place that detects attempts to alter or delete a log, everything is synchronized to one and the same time source, and what has lost its operational or security relevance is removed.",
+       "sources": [
+        {
+         "anchor": "no-nsm",
+         "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
+         "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
+         "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
+        }
+       ]
+      },
+      {
+       "id": "MD002/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "There is an overview of the log files that are generated. How long the log files and the data in the security information and event monitoring are kept is settled against the risk, and the scenario it is settled against is named: that the attackers have been inside for a long time. Improper alteration or deletion of log data, and any attempt at it, is reported as soon as it can be.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
+      },
+      {
+       "id": "MD002/AT",
+       "jurisdiction": "AT",
+       "state": "established",
+       "requirement": "Logging security relevant events works as a security measure only where the data are evaluated at regular intervals by an independent reviewer. Where no independent reviewer can be put in place the administrators may do it, and the handbook states the consequence rather than leaving it: checking the administrators’ own activity then becomes hard. The evaluation is to be laid before the data protection officer or the security officer in any case, the responsibility for carrying it out is to be fixed exactly, the four eyes principle should be used in the security critical cases, and it must be ensured by technical or organizational means that the administrators’ activities can be adequately checked.",
+       "sources": [
+        {
+         "anchor": "at-ishb",
+         "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
+        }
+       ]
+      },
+      {
+       "id": "MD002/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "The logging functionality of the protection and detection tools is enabled, the logs are backed up and kept for a period fixed in advance, and they are reviewed regularly for unusual or potentially harmful activity, on a documented procedure.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
       }
      ]
     },
@@ -2216,6 +2720,62 @@
          "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
          "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
          "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "MD003/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "At the high category, measures are applied to prevent, detect, and react to attempts at data mining: the queries are limited, their volume and frequency are monitored, and suspicious behavior is alerted to the security administrators in real time. Systems for detecting advanced threats and anomalous behavior are required at the same category, alongside tools that analyze the activity and the audit information looking for possible or actual compromises.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "MD003/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "Use cases for the misuse of authentication data are defined, monitored, and acted on, and two of them are named in the text: logins from unusual places, and spikes in failed login attempts. Separately, the creation and modification of accounts carrying special rights is monitored, and where such a change was not authorized it is an information security incident and is recorded and handled as one.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
+      },
+      {
+       "id": "MD003/AT",
+       "jurisdiction": "AT",
+       "state": "established",
+       "requirement": "The handbook sets out what an evaluation looks for: logon and logoff times outside working hours, a build-up of failed logon attempts, a build-up of impermissible access attempts, conspicuously long intervals in which nothing was logged, which points to records having been deleted, and conspicuously long intervals in which no user appears to have changed. Particular attention is to go to every access carried out under an administrator identifier.",
+       "sources": [
+        {
+         "anchor": "at-ishb",
+         "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
+        }
+       ]
+      },
+      {
+       "id": "MD003/NO",
+       "jurisdiction": "NO",
+       "state": "established",
+       "requirement": "Tools are taken into use that allow manual and automatic searching and alerting on criteria across everything collected, and that assemble data from different sources on their own so that it can be decided whether the event is real rather than a false positive, and what its extent and character are. Knowledge of the normal state and of the threats is what the searches and the alerting criteria are improved from.",
+       "sources": [
+        {
+         "anchor": "no-nsm",
+         "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
+         "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
+         "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
         }
        ]
       }
@@ -2347,6 +2907,20 @@
          "title": "Arbeitsverfassungsgesetz, sections 96 and 96a",
          "establishes": "That a control measure touching human dignity has no legal effect without the works council's consent, and that consent for automated processing and for assessment systems can be replaced by a conciliation board while consent under section 96 cannot.",
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
+        }
+       ]
+      },
+      {
+       "id": "MD004/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Endpoint and network protection tools that monitor the behavior of end users for dangerous activity are to be implemented and to be managed. What they are for is stated without euphemism: detecting risky or suspicious behavior by users on devices and networks, including the misuse of systems and attempts to get around the controls, whether these come from an attacker outside or from an insider.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
         }
        ]
       }
@@ -3173,6 +3747,34 @@
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
         }
        ]
+      },
+      {
+       "id": "MD012/NO",
+       "jurisdiction": "NO",
+       "state": "established",
+       "requirement": "Knowledge of the normal state of the systems is established and maintained so that a change or an abnormality pointing to unauthorized action can be seen. The maintenance is the requirement: the normal state has to answer to reorganizations, acquisitions, mergers, downsizing, and a change of operating concept. What it is meant to expose is named as data flowing against the flow that was decided, data flowing at abnormal times, and abnormally large volumes.",
+       "sources": [
+        {
+         "anchor": "no-nsm",
+         "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
+         "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
+         "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
+        }
+       ]
+      },
+      {
+       "id": "MD012/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Behavior analytics that learn what is normal and flag departures from it are named among the tools, and so is a class aimed at the misuse of user accounts, stolen credentials and insider threats among what it is said to be for.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
       }
      ]
     },
@@ -3853,6 +4455,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
         }
        ]
+      },
+      {
+       "id": "MD020/NO",
+       "jurisdiction": "NO",
+       "state": "established",
+       "requirement": "The log data are gone through and the relevant data about the event gathered to give a decision a basis, which may mean assembling data from several sources or running tests to confirm or rule out an event. The severity is then settled against the plan laid down in advance: whether it is a possible or a confirmed security incident or a false alarm, its class under the classification regime, which roles are brought in, and whether the contingency plan is triggered.",
+       "sources": [
+        {
+         "anchor": "no-nsm",
+         "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
+         "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
+         "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
+        }
+       ]
       }
      ]
     },
@@ -3892,6 +4508,34 @@
          "title": "IT-Grundschutz-Kompendium, Edition 2023",
          "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "MD021/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "Analyzing an incident is what reopens the question of what is audited: the determination of the auditable events is reviewed as a consequence of the analysis.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "MD021/NO",
+       "jurisdiction": "NO",
+       "state": "established",
+       "requirement": "It is verified that the collection works as it was meant to. The log settings are checked to see that they function and that what was to be gathered is being gathered, every system that regularly stores security relevant data is given enough space that nothing needed is lost, and a standardized format is used so the data can be read by a third party’s analysis tool.",
+       "sources": [
+        {
+         "anchor": "no-nsm",
+         "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
+         "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
+         "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
         }
        ]
       }
@@ -4288,6 +4932,34 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "IV001/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "Everyone, internal and external, has demonstrably taken notice of the procedure for reporting an information security incident.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
+      },
+      {
+       "id": "IV001/AT",
+       "jurisdiction": "AT",
+       "state": "established",
+       "requirement": "The routes by which something conspicuous in the logs is reported onward are to be laid down, alongside the fixing of who is responsible for the evaluation that found it.",
+       "sources": [
+        {
+         "anchor": "at-ishb",
+         "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
+        }
+       ]
       }
      ]
     },
@@ -4313,6 +4985,20 @@
          "title": "Insider Data Collection Study: Report of Main Findings",
          "establishes": "How real insider acts occurred and what preceded them, from a review of United Kingdom cases.",
          "url": "https://alessandroaledda.com/intra/sources/#npsa-data-collection"
+        }
+       ]
+      },
+      {
+       "id": "IV002/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "The criteria for categorizing, prioritizing, and escalating are documented in the response plan and applied consistently, and the indicators that guide the prioritizing are named as the scope, the severity, and how time sensitive the matter is.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
         }
        ]
       }
@@ -4424,6 +5110,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "IV005/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "The sequence of events is reconstructed and the systems, assets, and resources involved identified, with forensic analysis used on the collected data where it is needed, and the analysis is to reach the underlying systemic cause rather than stopping at what triggered the event.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
       }
      ]
     },
@@ -4451,6 +5151,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "IV006/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "Everyone involved in the response records what they did, in a way that prevents the record being tampered with or deleted, and the lead is answerable for documenting the whole investigation, its timelines, its decisions, and the sources of what it relied on. The incident data and their metadata, the source and the time of collection among them, are collected and protected so that they stay accurate, authentic, and traceable to where they came from.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
       }
      ]
     },
@@ -4476,6 +5190,20 @@
          "title": "IT-Grundschutz-Kompendium, Edition 2023",
          "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "IV007/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "An incident and everything needed to analyze and resolve it are kept for at least three years, and what that covers is named: the logging, the resolution, and the advice given.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
         }
        ]
       }
@@ -4556,6 +5284,20 @@
          "title": "Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale",
          "establishes": "When an employer may look into a work mailbox or a worker's personal areas on its equipment, that monitoring of internet use is outside what it may do at all, and that the regulation cannot be contracted around.",
          "url": "https://alessandroaledda.com/intra/sources/#no-innsyn-epost"
+        }
+       ]
+      },
+      {
+       "id": "IV010/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "Every action bearing on the handling of an incident is recorded, the initial, intermediate, and final reports among them. Evidence that may have to be settled before a court is recorded as such, and the decree names when that matters most: where the incident may lead to disciplinary action against internal staff or an external supplier, or to the prosecution of an offense. Specialized legal advice is taken on what those evidences have to comprise.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
         }
        ]
       }
@@ -4727,6 +5469,34 @@
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "IR002/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "At the high category the system carries out predetermined responses to its own alerts automatically, and the decree names them: ending the process that caused the alert, disabling particular services, disconnecting users, and blocking accounts.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "IR002/BE",
+       "jurisdiction": "BE",
+       "state": "established",
+       "requirement": "The response strategy is to weigh the need for a rapid recovery against what might be gained by observing the behavior for longer or investigating it more deeply, which makes the decision to contain a decision and not a reflex.",
+       "sources": [
+        {
+         "anchor": "be-cyfun",
+         "title": "CyberFundamentals 2025, Essential",
+         "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
+         "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
         }
        ]
       }
@@ -4942,6 +5712,20 @@
          "title": "IT-Grundschutz-Kompendium, Edition 2023",
          "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "IR009/NO",
+       "jurisdiction": "NO",
+       "state": "established",
+       "requirement": "What worked and what can be improved are both identified. The controls that were compromised are mapped and reviewed and then updated or replaced, and it is assessed whether what is in place covers the organization’s risk picture at all. The processes, procedures, reporting formats, and organizational structures are evaluated for how effective they were, regularly and after an incident.",
+       "sources": [
+        {
+         "anchor": "no-nsm",
+         "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
+         "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
+         "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
         }
        ]
       }
@@ -5253,6 +6037,48 @@
          "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
         }
        ]
+      },
+      {
+       "id": "AW001/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "The workforce is reminded periodically of the security rules on the proper use of the equipment and of the commonest social engineering techniques, of how to identify an incident and the activities or behaviors that are suspicious and have to be reported so that specialized staff can deal with them, and of the procedure for reporting, whether what is reported turns out to be real or a false alarm.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "AW001/NO",
+       "jurisdiction": "NO",
+       "state": "established",
+       "requirement": "Real cases from the handling of incidents are to be used in the training and the raising of awareness of staff, and the results of an evaluation are shared with those they concern.",
+       "sources": [
+        {
+         "anchor": "no-nsm",
+         "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
+         "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
+         "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
+        }
+       ]
+      },
+      {
+       "id": "AW001/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "Everyone using the information systems, employees and contractors alike, has demonstrably completed an awareness training within three months of entering service. Management is to press the importance of it at appointment and at an internal transfer, and in work meetings and personnel discussions, and to encourage it being taken again periodically.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
       }
      ]
     },
@@ -5322,6 +6148,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#garante-itas-2026"
         }
        ]
+      },
+      {
+       "id": "AW002/NO",
+       "jurisdiction": "NO",
+       "state": "established",
+       "requirement": "The workforce is informed of what is collected, what it is to be used for, and how the data are to be handled, and that sits alongside establishing which laws apply and deciding how long the data shall and may be stored.",
+       "sources": [
+        {
+         "anchor": "no-nsm",
+         "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
+         "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
+         "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
+        }
+       ]
       }
      ]
     },
@@ -5377,6 +6217,20 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "AW003/ES",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "The workforce is trained regularly in what their duties require of them, and three subjects are named: the configuration of systems, the detection of and reaction to incidents, and the handling of information on any medium, which is to cover its storage, transfer, copying, distribution, and destruction. The effectiveness of the training given is assessed.",
+       "sources": [
+        {
+         "anchor": "es-ens",
+         "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
+         "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
       }
      ]
     },
@@ -5402,6 +6256,20 @@
          "title": "Determinazione ACN n. 379907 del 18 dicembre 2025",
          "establishes": "The baseline security measures an Italian NIS subject has to adopt, among them the recording of remote and administrative access and its central retention, the detection of privilege abuse, and the vetting of the people admitted to the systems that matter.",
          "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
+        }
+       ]
+      },
+      {
+       "id": "AW004/NL",
+       "jurisdiction": "NL",
+       "state": "established",
+       "requirement": "The completion of the awareness training within three months of entering service has to be demonstrable, which puts the record of who took it and when inside the requirement.",
+       "sources": [
+        {
+         "anchor": "nl-bio2",
+         "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
+         "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
+         "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
         }
        ]
       }
@@ -5435,7 +6303,7 @@
   }
  ],
  "counts": {
-  "established": 260,
+  "established": 322,
   "not covered": 0,
   "unread": 0,
   "open": 0

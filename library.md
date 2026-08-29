@@ -107,6 +107,54 @@ Status: a standard and not an act. Requirements carry three grades: a base grade
 
 The compendium is organized as building blocks, each a subject with its threat situation and then its requirements, numbered and lettered by grade, written as obligations on named roles. Six of them bear on an insider program. ORP.2 Personal covers induction, departure, external personnel, and the checking of trustworthiness. ORP.4 Identitäts- und Berechtigungsmanagement covers how entitlements are granted, documented, and withdrawn. OPS.1.1.5 Protokollierung covers what is logged and how the logging is run, and it is the one place in the record that puts the logging infrastructure beyond the reach of the people who administer it. DER.1 covers the detection of security relevant events and the auditing of the systems that do it. DER.2.1 covers the handling of an incident, and DER.2.2 the preparation for forensic work before there is a case. It is written for the security of systems rather than for insider risk, and where it touches the person it does so through the personnel and the entitlement blocks.
 
+### CyberFundamentals 2025, Essential {#be-cyfun}
+Centre for Cybersecurity Belgium · Belgium · 1 October 2025
+https://atwork.safeonweb.be/tools-resources/cyberfundamentals-framework
+Establishes: What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.
+Status: a framework and not an act. It is published at four levels, Small, Basic, Important, and Essential, each a superset of the one before. What is read here is the Essential booklet, so a requirement recorded from it may not be asked at a lighter level.
+
+The framework is organized in the five functions of govern, identify, protect, detect, respond, and recover, each control written as an obligation followed by implementation guidance. Two of its controls speak to an insider program more directly than anything else in a national catalogue. The one on personnel puts the checking of a person's background alongside the access that person is to hold, and asks for it again at intervals. The one on monitoring end-user behaviour says in terms that what is being looked for may come from an attacker outside or from an insider, and names the classes of tool built for it.
+
+### NSMs grunnprinsipper for IKT-sikkerhet 2.1 {#no-nsm}
+Nasjonal sikkerhetsmyndighet · Norway · 2023
+https://nsm.no/regelverk-og-hjelp/rad-og-anbefalinger/grunnprinsipper-for-ikt-sikkerhet-2-0/
+Establishes: A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.
+Status: recommendations and not an act. They are written for any organization, and the authority says which of them are relevant will vary with its size.
+
+Four groups of principles: identify and map, protect and maintain, detect, and handle and recover. The detection group is the substantial one for an insider program. It asks for a written strategy for security monitoring covering the purpose of the data, what is collected, secure storage including for legal proceedings, access to the collected data, the consolidation of logs, deletion, and a review interval. It says the workforce is to be told what is collected, what it is for, and how it is handled. It treats the normal state of the systems as something to be maintained rather than derived once, and says the maintenance has to answer to reorganizations, acquisitions, mergers, and downsizing.
+
+### Guide d'hygiène informatique {#fr-anssi}
+Agence nationale de la sécurité des systèmes d'information · France · September 2017
+https://cyber.gouv.fr/publications/guide-dhygiene-informatique
+Establishes: Forty two measures at a standard and a reinforced level, among them the joining, leaving, and function change procedures written with the human resources function, and a minimum retention of one year for security critical events.
+Status: a guide and not an act. It is version 2.0 and dates from 2017, which is old for a technical document, and it is still the agency's hygiene guide.
+
+Forty two measures across ten themes, each written at a standard level and, where there is more to ask, a reinforced one. Three of them bear on an insider program. The one on arrivals, departures, and changes of function asks that the procedures be defined together with the human resources function and lists what they have to reach. The one on privileged accounts asks for an exhaustive inventory kept current, and for a periodic review that names the working directories and the mailboxes of senior managers as what the review is for. The one on logging fixes a minimum retention and, at the reinforced level, asks for centralization so that an attacker cannot erase the traces of their passage.
+
+### Baseline Informatiebeveiliging Overheid 2, versie 1.3 {#nl-bio2}
+Nederlandse overheid · Netherlands · 9 January 2026
+https://www.bio-overheid.nl/bio2/bio-producten/baseline-informatiebeveiliging-overheid-2-bio2/
+Establishes: The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.
+Status: a baseline for Dutch government entities on a comply or explain footing, and not an act. It is an overlay: it is structured on NEN-EN-ISO/IEC 27001 and 27002 and states only what the government adds, so the greater part of what an entity owes sits in those two standards. They are not read here, and nothing is recorded from them.
+
+The document is in two parts, a frame following the management system standard and a set of government measures following the controls standard, each measure numbered against the control it attaches to. Where the baseline adds nothing it says so and refers back. The measures it does add are concrete, and several of them are unusual in naming what is to be looked for rather than that something is to be looked for.
+
+### Katakri 2020 {#fi-katakri}
+Kansallinen turvallisuusviranomainen · Finland · 18 December 2020
+https://um.fi/information-security-auditing-tool-for-authorities-katakri
+Establishes: The criteria an authority audits against, among them the requirement to recognize which functions call for special trustworthiness, a clearance graded on three scales, and log retention set by the limitation periods of the criminal law.
+Status: an auditing tool and not an act, and it is written for the protection of classified information rather than for information security generally. What it states is the level at which an authority will find a target organization adequate.
+
+The criteria are in three subdivisions: security management, which carries the personnel requirements, physical security, and information assurance. It is used in facility security clearances and in the evaluation of the authorities' own systems. Its personnel criteria are the clearest statement in the record of screening graded by what the person will handle, and its traceability criterion the clearest of retention graded by what the records may later have to answer.
+
+### Österreichisches Informationssicherheitshandbuch 4.4.0 {#at-ishb}
+Bundeskanzleramt und A-SIT · Austria · 6 November 2023
+https://www.sicherheitshandbuch.gv.at/downloads/sicherheitshandbuch.pdf
+Establishes: That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.
+Status: a handbook and not an act. It is written for organizations and for public administration, and the sections that turn on Austrian law say so where they do.
+
+Over seven hundred pages structured on the information security management standard. Its section on the control of log files is the one place in the record that treats the reading of the logs as a role rather than as a task, names the four eyes principle for the security critical cases, and sets out concrete criteria for what an evaluation looks for. Its section on the legal aspects of mail and internet logs states plainly that the monitoring of a worker's communications is a problem to which there is at present no clear solution, and settles nothing beyond describing where the competing claims lie.
+
 ## Law and case law
 Summary: What constrains it, from the Union and Strasbourg down to nine national orders.
 Order: by legal order, from European Union to Council of Europe to national. Within the national law, by country in the order the table below sets out, and within each country by date.
@@ -265,6 +313,14 @@ Establishes: The baseline security measures an Italian NIS subject has to adopt,
 Status: it updates and replaces determination no. 164179 of 14 April 2025 and applies from 15 January 2026. It reaches only subjects in scope of the NIS decree. The address is the agency's page for the determination rather than the files themselves, whose names carry a version marker that changes at each revision.
 
 Adopted under article 31 of legislative decree 138 of 4 September 2024, which transposes the NIS2 directive. Four technical annexes carry the substance: annexes 1 and 2 the security measures, for important and for essential subjects, and annexes 3 and 4 the incidents to be notified. The measures are organized as the functions, categories, and subcategories of the Framework Nazionale per la Cybersecurity e la Data Protection, each subcategory carrying numbered requirements, and they are to be adopted within eighteen months of the subject receiving notice of its inclusion in the national list. What essential subjects owe is what important subjects owe with additions, so where the two annexes differ the difference is what the heavier category carries on top. It addresses the security of network and information systems, and insider risk is not its subject, so what it gives a program is a set of obligations bearing on it rather than an account of it.
+
+### Real Decreto 311/2022, Esquema Nacional de Seguridad {#es-ens}
+Gobierno de España · Spain · 3 May 2022
+https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191
+Establishes: The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.
+Status: a royal decree, so it binds. It reaches the public sector and the private entities that supply it, and not employers generally. Annex II carries the measures, each with the categories it applies at and the reinforcements that come with a higher one.
+
+The national security scheme sets out the principles and minimum requirements for the security of the information systems the Spanish public sector uses. Annex II is a catalogue of measures in three groups: the organizational and operational frame, the operation of the systems, and the protection measures. Each measure is written as numbered requirements, applies at a basic, medium, or high category, and carries reinforcements labeled R1 upward that are added as the category rises. What it gives an insider program is a set of requirements that reach the person and the entitlement directly, and it names the abuse of a granted right as the thing the segregation of duties exists to prevent.
 
 ### Provvedimento del 12 marzo 2026, ITAS Mutua {#garante-itas-2026}
 Garante per la protezione dei dati personali · Italy · 12 March 2026
