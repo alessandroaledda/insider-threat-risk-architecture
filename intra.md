@@ -1,0 +1,651 @@
+---
+title: Insider Threat and Risk Architecture
+subtitle: What a comprehensive insider program does, and what each European jurisdiction requires of it. Pillars, measures, and the controls a jurisdiction makes of them.
+reviewed: 2026-08-29
+contributors:
+---
+
+Insider Threat and Risk Architecture (INTRA™) is a three level framework for building an insider program in Europe.
+- **Pillar.** A structural component of such a program. There are nine, and they hold in any jurisdiction.
+- **Measure.** A single action or deliverable a program can implement, the unit a practitioner plans, budgets, and hands over. Measures travel almost as well, though not quite, since some exist because a legal caveat brought them into being.
+- **Control.** A measure as one European jurisdiction has it. Where a jurisdiction has spoken on a measure, the caveat it imposes governs that measure, and the measure so governed is a control.
+A program is assembled from the three, in whole or in part, with what the law requires and what the field has recorded in view while it is built rather than reconciled afterwards.
+
+A control states the caveat and names the source it comes from. It does not state what an organization should do, it does not compare one jurisdiction with another, and it is not advice on compliance. What a measure carries depends on what has been found for it.
+- **A source worked in.** A control is written from it.
+- **A source not yet worked in.** It is named on the measure, and nothing follows from it.
+- **No source at all.** Nothing in the European record has been found to bear on the measure, which leaves it inside the framework and the question open.
+Every row states its standing.
+- [mandatory] where a jurisdiction sets the caveat.
+- [recommended] where a standard or a guidance document sets it out as practice.
+- [reported] where research records a finding.
+Only a mandatory row carries a control identifier, since a standard and a study are cited by their own reference.
+
+Thirty-four jurisdictions in scope. The European Union, the Council of Europe, every state in which Union or European Economic Area law applies, the United Kingdom, and Switzerland. A source qualifies if it is European in origin and if it sets out how a program is built, states a legal constraint on how one may operate, or reports research findings. American material is not listed: that part of the record is gathered already, and what is collected here can be used in a European organization without first subtracting the assumptions that do not hold there.
+
+Part of what INTRA maps does not exist. There is no European insider symposium: the reference event in the field is American, in its eleventh edition. There is no European professional body for the discipline. There is no program standard at Union level, the only thematic report from the Union agency dating from 2020 and the only program development manual from 2019. INTRA records those absences the way it records a jurisdiction that has said nothing.
+
+## GV · Governance and mandate {#gv}
+Summary: The authority under which an insider program operates, its ownership, and the record of both.
+
+### GV001 · Program charter and mandate {#gv001}
+What it is: The instrument that establishes the program, states its authority, names its sponsor, and bounds what it may reach.
+
+EU · established · [coess-manual] · The Union-funded manual addresses how a program is structured, and states no legal basis for any of it.
+GB · established · [npsa-framework] · The charter is written to be reviewed against rather than filed: governance and culture are set out as things a program is measured on, not as preamble to the controls.
+
+### GV002 · Declared perimeter {#gv002}
+What it is: The single account of what the program does, what it does not do, and on what authority, written to be shown outside it.
+
+### GV003 · Cross-functional governance body {#gv003}
+What it is: The standing body in which the functions a program touches meet and decide together: security, human resources, legal, compliance, and technology. What makes it this measure rather than a mailing list is that it decides, and that it decides in one room rather than one function at a time.
+GB · established · [npsa-stakeholders] · The group is named and its membership drawn: physical and information security, technology, human resources, vetting, facilities, contracts, procurement, finance, counter fraud, legal, training, communications, and a staff or trade union representative. What the group decides is not stated.
+
+### GV004 · Roles and decision rights {#gv004}
+What it is: The statement of which decisions the program may take, of the role entitled to take each, and of the person holding that role. The decisions are the ones the framework names elsewhere: to open a case on a person, to reach for the content of what they wrote, to withdraw their access before any finding, and to recommend a consequence.
+GB · established · [npsa-stakeholders] [npsa-board] · One board member holds overall responsibility for protective security, and a non-executive director acts as an independent champion for it. Below them a director carries the strategy into policy, and senior staff in each business area answer for the risk assessment and for implementation in their own.
+IT · established · [garante-framos-2026] · The technician who reached into the accounts held the role and not the instruction. A signed confidentiality undertaking is not the documented instruction the Regulation asks of anyone processing on the controller's behalf.
+
+### GV005 · Shared definitions and severity scale {#gv005}
+What it is: A written agreement among the functions on what constitutes an event, what constitutes a condition, and what a given severity denotes.
+
+GB · established · [npsa-definitions] · Five principles are offered as a shared basis, with intentional and unintentional events placed on one spectrum of intent.
+GB · established · [npsa-five-principles] · The definitions are agreed to be used consistently, and intentional and unintentional events are held on one spectrum so that a severity scale does not have to choose between them.
+
+### GV006 · Escalation triggers and owners {#gv006}
+What it is: The agreement, settled between the functions before any case exists, on which conditions pass out of the team that observed them, to whom they pass, and within what time. As distinct from moving a live matter upward during a response, which the incident pillar holds.
+
+### GV007 · Lawful basis register {#gv007}
+What it is: The record naming, for each stream of data the program collects and each use it puts that data to, the ground it rests on and the condition the jurisdiction attaches to that ground. Written before the collection starts, and held in a form that can be shown rather than asserted.
+
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be recorded for each stream the program collects, before it collects it, and the register has to survive the article 5(2) test of being shown rather than asserted.
+DE · established · [bag-workday] · The national employment provision cannot carry the register on its own: the ground recorded has to be one that stands under article 6 itself, the employer's legitimate interests among them.
+FI · established · [fi-privacy-working-life] · Only data directly necessary for the employment relationship may be processed, and no exception to that test can be made even with the employee's consent.
+BE · established · [be-cct-81] · Four purposes are listed and the list is closed: unlawful or defamatory acts, the confidential economic interests of the undertaking, the security and technical functioning of its systems, and good faith observance of the rules it has set for using the technology.
+NO · established · [no-aml-kontroll] [no-innsyn-epost] · A control measure rests on objective grounds in the circumstances of the undertaking and must not be a disproportionate burden on the person subject to it. No instruction and no agreement may depart from that to the worker's detriment, so an agreement cannot be the ground for reaching further.
+
+### GV008 · Impact assessment before deployment {#gv008}
+What it is: The written assessment, made before a measure operates and kept afterwards, of what it will do to the people subject to it: what it will collect about them, what may follow from what it collects, and what they can do about either. It is a document, and its absence is a finding on its own.
+Also: DPIA data protection impact assessment
+
+EU · established · [gdpr] · The assessment has to be completed before the measure operates, not compiled after it, wherever the processing is likely to result in a high risk.
+IT · established · [garante-243-2025] · Its absence is enough on its own: a decision has turned on the missing procedural steps without reaching the purpose the processing served.
+
+### GV009 · Accountability evidence {#gv009}
+What it is: The material by which the program can show how it reached a decision about itself: a threshold set, an instrument chosen, a policy changed. As distinct from asserting that the decision was reached properly, and as distinct from the record of a single case, which the investigation pillar holds.
+
+EU · established · [gdpr] · The program has to be able to produce, for any decision, the material showing how it was reached. Holding a defensible view of it is not the same evidence.
+
+### GV010 · Worker representative engagement {#gv010}
+What it is: The involvement of the body representing the workforce in the design of the program, as distinct from any instrument deployed under it.
+
+FR · established · [code-travail-controle] · The body brought in is the social and economic committee, informed and consulted before the decision, and informed again before automated personnel management processing is introduced.
+DE · established · [betrvg-87] · The body brought in is the works council, and its role is co-determination rather than consultation: the employer cannot proceed over its objection.
+IT · established · [statuto-art-4] · The body brought in is the union representation, and its agreement is the condition on which any instrument capable of remote monitoring may exist at all.
+NL · established · [wor-27] · The body brought in is the works council, and its consent is required for the arrangement itself, not only for the instrument under it.
+FI · established · [fi-privacy-working-life] · Camera surveillance, access control, other technical monitoring, and the use of electronic mail and the network go through the cooperation procedure before the employer decides. Where the cooperation acts do not apply, the employees or their representatives are heard first.
+BE · established · [be-cct-81] · The works council is informed on every aspect of the monitoring before the system is installed, and failing a works council the prevention committee, then the union delegation, then the workers.
+NO · established · [no-aml-kontroll] · The need for the measure, its design, its implementation, and any material change to it are discussed with the elected representatives as early as possible.
+AT · established · [at-arbvg-96] · The works council does not consent to a control measure as a step before it, but as the condition of its legal effect. What brings a measure inside the requirement is whether it touches human dignity.
+
+### GV011 · Notice before an algorithmic system is deployed {#gv011}
+What it is: Notice that a system of a named class is about to be put into use, owed to the representatives of the workforce and to the workers themselves. It falls due by reason of what the system is, so it is owed even where the representatives hold no right to be consulted, and even where they have already been consulted about the same system.
+
+EU · established · [ai-act] [digital-omnibus-ai] · Workers' representatives have to be told before a high-risk system is put into use. The duty applies from 2 December 2027 for the Annex III categories.
+
+### GV012 · Program metrics and reporting {#gv012}
+What it is: What the program reports about its own operation to the body that governs it, and how often. Not what the program found, but how much of it there was, how long it took, and what it cost.
+GB · established · [npsa-board] · The board member who holds the responsibility is to be regularly engaged with the people running the program and to hold a firm understanding of the risks it addresses. What is to be reported, and how often, is not stated.
+
+### GV013 · Periodic program review {#gv013}
+What it is: The revision of each component of the program at a stated interval.
+
+
+GB · established · [npsa-framework] · The framework is offered as something an organization reviews itself against, which makes the review a recurring act rather than a one-off inspection.
+GB · established · [stewart-hobbs] · The advice literature has itself been coded and characterised, so what guidance instructs can be examined rather than assumed.
+NO · established · [no-aml-kontroll] · The need for the measures is evaluated at intervals, and the evaluation is made together with the elected representatives rather than by the employer alone.
+
+### GV014 · Answering a request from the person {#gv014}
+What it is: The program's answer when a person asks what is held about them and what is done with it. It is a measure once there is a route the request reaches, someone answerable for the reply, a period inside which it is given, and a rule for what is withheld and on what ground. An answer given late, or given in part without saying what was taken out and why, is not an answer.
+Also: subject access request SAR data subject access
+EU · established · [gdpr] · The reply is owed within one month of the request. It can be extended by two more where the request is complex or the requests are many, but the extension and the reasons for it have to reach the person inside the first month. Where the program will not act at all, that is said inside the same month, with the routes to a complaint and to a court named.
+IT · established · [garante-itas-2026] · Answering in stages across five months, and then handing over the correspondence purged of many elements without saying what had been taken out or why, was held not to be an answer.
+
+## PS · Personnel security {#ps}
+Summary: The measures directed at the person: what is verified before and during employment, what is asked of the people who manage them, what the program may hold about them, and what happens when they leave.
+
+### PS001 · Pre-employment screening {#ps001}
+What it is: The verification, before employment begins, of who the candidate is, that they may lawfully work, and that the account they give of their own history holds against evidence that does not come from them.
+
+GB · established · [npsa-ongoing-persec] · Good practice treats screening at recruitment as the opening of a process rather than its completion.
+AT · established · [at-arbvg-96] · What needs the works council's consent is the form put to the person: a personnel questionnaire asking beyond general particulars and the professional qualifications for the work intended. Verification carried out against a third party is not reached by it.
+
+### PS002 · Risk-tiered screening standards {#ps002}
+What it is: The written standard setting, for each level of exposure a role carries, what is checked and how far. Exposure, not seniority: a systems administrator two grades down reaches further than the director above them.
+
+### PS003 · Screening of privileged-role holders {#ps003}
+What it is: The further verification applied to a person because of what their access reaches, triggered by the entitlement itself rather than by the title attached to it.
+
+### PS004 · Screening during employment {#ps004}
+What it is: The repetition of verification, in whole or in part, at a stated interval and on stated events: a move into a role of greater exposure, a return after a long absence, and a concern raised through any of the routes the program keeps open.
+
+GB · established · [npsa-ongoing-persec] · Contracting is covered alongside employment, so the standard is set for people the organization does not employ.
+
+### PS005 · Contractor and third-party personnel standards {#ps005}
+What it is: The personnel standard applied to people working in the organization under someone else's contract, carried through the contract that brings them in and evidenced by the party that employs them.
+
+GB · established · [npsa-ongoing-persec] · Briefing at joining is treated as part of ongoing personnel security rather than as an administrative step.
+
+### PS006 · Onboarding security briefing {#ps006}
+What it is: What a person is told at the point of joining: what is observed about them and why, what is expected of them, what they are to report and to whom, and what follows from a breach. Recorded as having been given, since it is relied on afterwards.
+
+### PS007 · Role change and internal transfer {#ps007}
+What it is: The reassessment of what a person holds and owes when they move within the organization, including the withdrawal of what the previous role needed. Without the withdrawal, access accrues across a career and the person ends up reaching everywhere they have ever been.
+EU · established · [nis2-ir] · Access rights are modified on a change of employment and not only on its end, so a move inside the organization is an event the entitlements have to answer to.
+
+### PS008 · Leaver process {#ps008}
+What it is: What happens when employment ends: access withdrawn, assets recovered, continuing obligations restated, and the accounts themselves closed within a period the organization has stated in advance.
+
+GB · established · [npsa-ongoing-persec] · Exit is covered as a stage of personnel security, with what is withdrawn and what is restated set out together.
+NO · established · [no-innsyn-epost] · The mailbox is closed when the employment ends, and stays open only where there is a particular need and only for a short period.
+IT · established · [garante-framos-2026] · Leaving the account running after the employment ends is itself a processing and needs a ground of its own. Telling correspondents the person has gone, and keeping what may be wanted later, are not grounds, and running past the period the employer itself declared counts against it.
+EU · established · [nis2-ir] · Access rights are modified on termination, and the register of what was granted is what the withdrawal is checked against.
+
+### PS009 · Line management engagement {#ps009}
+What it is: The involvement of managers in noticing and raising concern about the people they supervise, structured by a named route, a stated threshold for using it, and instruction in both. Unstructured, it is a manager's instinct and reaches the program by chance.
+
+GB · established · [npsa-ongoing-persec] · Line management is treated as the route by which concern reaches the program, which makes the manager part of the control.
+
+### PS010 · Line management records of personal circumstances {#ps010}
+What it is: Records of a worker's personal or family circumstances kept by the people who manage them, including those held outside any system the program runs: a manager's notebook, a shared drive, a private note.
+
+IT · established · [garante-107-2026] · Notes kept by managers about a worker's circumstances are processing like any other: outside a declared purpose and a lawful ground they have neither.
+
+### PS011 · Records concerning trade union activity {#ps011}
+What it is: Records disclosing a worker's membership of a trade union or participation in its activity.
+
+IT · established · [garante-107-2026] · A record touching union membership or activity falls in the stricter category, whatever the file it sits in and whoever wrote it.
+
+### PS012 · Records concerning health held for security purposes {#ps012}
+What it is: Records of absence, illness, or fitness held for the purposes of the program.
+
+IT · established · [garante-107-2026] · A record of absence or illness held for the program falls in the stricter category, and holding it for security purposes does not move it out.
+
+### PS013 · Self-declaration of changed circumstances {#ps013}
+What it is: The route by which a worker reports a change in their own circumstances bearing on their position. It is a measure once it is named, reaches someone answerable for it, and states what becomes of what is declared.
+
+
+GB · established · [npsa-ongoing-persec] · Reporting routes are covered as good practice, including the route by which a person reports about themselves.
+AT · established · [at-arbvg-96] · A standing route on which a worker reports about themselves becomes a personnel questionnaire once it asks beyond general particulars and qualifications, and introducing it then needs the works council's consent.
+
+## DP · Data and asset protection {#dp}
+Summary: The protection of the information and assets the organization holds, and of the records the program itself generates.
+
+### DP001 · Identification of critical assets {#dp001}
+What it is: The list of the information, systems, and physical assets whose loss, alteration, or destruction would cause the organization material harm, and the record of who decided that and when. It is the list that is the measure. A program that knows in principle what matters, and cannot produce the list, does not hold it.
+EU · established · [nis2] · Asset management is named among the measures an entity in scope has to take, alongside access control policies and human resources security in the same point. What the identification covers, and how far it goes, is left to the state of the art.
+
+### DP002 · Information classification scheme {#dp002}
+What it is: The categories information is assigned to, the handling rules that follow from each, and what happens to information nobody has assigned. The default is part of the scheme: a category that only the careful apply leaves everything else outside it.
+EU · established · [nis2-ir] · A system of classification levels is laid down and every asset is placed in one, on confidentiality, integrity, and authenticity. The handling policy that follows runs from acquisition through use, storage, and transport to disposal, and reaches everyone who handles an asset.
+
+### DP003 · Data discovery and inventory {#dp003}
+What it is: The location of regulated or sensitive data across the estate, as distinct from where policy assumes it is.
+EU · established · [nis2-ir] · The inventory is to be complete, accurate, up to date, and consistent, and changes to its entries are recorded so that they can be traced.
+
+### DP004 · Access control and least privilege {#dp004}
+What it is: The entitlements each person actually holds, held to what their task requires and no wider. The measure is the state of the entitlements, not the policy that describes the state they ought to be in.
+EU · established · [nis2] [nis2-ir] · Access control policies are named among the measures an entity in scope has to take, and for one class of entity the implementing rules say what they hold: rights assigned and revoked on need to know, least privilege, and separation of duties, modified on termination or change of employment, authorized by the relevant persons, limited in scope and duration for suppliers and visitors, held in a register, and logged.
+
+### DP005 · Privileged access management {#dp005}
+What it is: The separation, brokering, and time-bounding of access that exceeds ordinary entitlement.
+EU · established · [nis2-ir] · Privileged and system administration accounts carry policies of their own, strong identification and authentication among them, and the systems used to administer are kept for administration and separated from everything else.
+
+### DP006 · Access recertification {#dp006}
+What it is: The periodic comparison of the access a person holds against the work they perform, and its adjustment.
+EU · established · [nis2-ir] · Access rights are reviewed at planned intervals and changed on organizational change, and the result of the review is documented together with the changes it called for.
+
+### DP007 · Data loss prevention deployment {#dp007}
+What it is: The introduction of a capability that inspects content in motion, at rest, or in use, and acts on it against a policy.
+Also: DLP
+
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the loss prevention capability, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+CoE · established · [barbulescu] · Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the loss prevention capability is later examined.
+FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to deploy the capability, and the worker informed before content of theirs is inspected.
+DE · established · [betrvg-87] · The works council has to agree before the loss prevention capability is introduced at all.
+IT · established · [statuto-art-4] · An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the loss prevention capability.
+NL · established · [wor-27] · The works council has to consent before the arrangement bringing the loss prevention capability in is adopted.
+ES · established · [lo-3-2018] · Express prior information to the workers is required before the loss prevention capability is put into operation.
+AT · established · [at-arbvg-96] · The works council's consent is the condition of the loss prevention capability having legal effect, and the threshold is whether it touches human dignity.
+
+### DP008 · Data loss prevention policy and tuning {#dp008}
+What it is: The rules the capability enforces, the thresholds at which it acts, and their revision against what it turned out to catch. Distinct from its deployment because the two are settled separately: in several jurisdictions the workforce is consulted once on bringing the capability in and again on the manner in which it is used, so changing a threshold reopens the question.
+Also: DLP
+DE · established · [betrvg-87] · The agreement is owed twice: once on introducing the capability and again on the manner in which it is used, so a change to the rules it enforces reopens it.
+AT · established · [at-arbvg-96] · The consent that conditions the capability's legal effect attaches to the measure as it is operated, so rules that alter what it reaches fall to be consented to as the capability itself was.
+NL · established · [wor-27] · Consent is owed on the arrangement being amended and on its being withdrawn, not only on its adoption, so the rules cannot be revised around the works council.
+ES · established · [lo-3-2018] · The criteria for using the capability are drawn up with the participation of the workers' representatives, which places the rules themselves, and not only the decision to deploy, inside what is settled with them.
+
+### DP009 · Egress channel control {#dp009}
+What it is: The restriction of the routes by which data can leave: removable media, personal cloud storage, webmail, printing, and unmanaged devices.
+EU · established · [nis2-ir] · Removable media carry a policy of their own, communicated to employees and to the third parties who connect them, and it provides for a technical prohibition of connections the entity has not allowed.
+
+### DP010 · Encryption and rights management {#dp010}
+What it is: The protection of information such that possession of the file is not possession of its contents.
+EU · established · [nis2] · Policies and procedures on the use of cryptography and, where appropriate, on encryption are named among the measures an entity in scope has to take.
+
+### DP011 · Retention and disposal of business records {#dp011}
+What it is: The period for which the organization keeps what it holds, and the manner of its destruction.
+
+IT · established · [garante-364-2024] [garante-243-2025] [garante-itas-2026] · Twenty-one days is the outer limit for email metadata before the article 4 route is engaged, and ninety days of it alongside browsing logs has drawn a fine. A five year backup of everything passing through the mailboxes, kept to preserve the information estate, was held unlawful where no notice given to the staff described it.
+BE · established · [be-cct-81] · Whether personal data are kept, where they are kept, and for how long are among the things stated to the workforce before the monitoring begins.
+NO · established · [no-innsyn-epost] · What is left in the mailbox and in the worker's own areas, and is not necessary for the daily running of the undertaking, is deleted within a reasonable time of the employment ending.
+
+### DP012 · Retention and disposal of program records {#dp012}
+What it is: The period for which the program keeps what it produced rather than what it observed: the alert, the case file, the note, the export, the assessment. Distinct from the retention of the business records the program reads, which the organization sets for its own reasons and the program does not control.
+NO · established · [no-innsyn-epost] · What is opened and proves not to be necessary or relevant to the purpose is closed at once, and any copy of it deleted.
+
+### DP013 · Separation of program data {#dp013}
+What it is: The keeping of the program's own holdings apart from the systems the organization runs its business on, so that a case file is not reachable by whoever can reach the human resources record, and the stated conditions on which something crosses from one to the other.
+
+### DP014 · Personal material in company accounts {#dp014}
+What it is: The handling of a worker's personal material held on systems the employer controls, during employment and after it.
+
+IT · established · [garante-165-2026] · A former worker retains a claim on personal material left in the account, and the employer has to be able to answer a request for access to it.
+FI · established · [fi-privacy-working-life] · What the employer may reach is the message belonging to it, identified from the sender, the recipient, or the title, and what is opened may not be processed further than the purpose requires nor disclosed during the employment or after it.
+NO · established · [no-innsyn-epost] · The worker's personal areas on the undertaking's network and equipment are reached on the same conditions as the mailbox, and so is what was deleted from them and survives on a backup.
+
+### DP015 · Live data in non-production environments {#dp015}
+What it is: The processing of real personal data outside a production environment.
+
+
+DE · established · [bag-workday] · Live personal data may be used for a test where depersonalized data would not answer the question, and the legitimate interests ground carries it.
+
+## MD · Monitoring and detection {#md}
+Summary: The technical means by which work is observed, and the conditions attaching to their deployment.
+
+### MD001 · Threat modelling and detection scoping {#md001}
+What it is: The derivation of what the program will look for from the harm it is trying to prevent, before any tool is chosen.
+
+EU · established · [enisa-2020] · Scoping starts at the level of control categories rather than of tools, and the only Union report to work from stops there and dates from 2020.
+
+### MD002 · Log collection and centralisation {#md002}
+What it is: The aggregation of records of activity from systems across the estate into a single store.
+
+### MD003 · Detection use case development {#md003}
+What it is: The construction of a specific, testable rule or query that raises an alert on a defined pattern of activity.
+
+GB · established · [citd] · A characterization framework and a working tool came out of the research program, which is a starting point a use case can be derived from rather than invented.
+GB · established · [citd-deployment] · Deploying a research tool inside three organizations for a year surfaced the operational constraints that the detection literature leaves out.
+
+### MD004 · Endpoint activity monitoring {#md004}
+What it is: The deployment of an agent that records what is done on a workstation or laptop.
+
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the endpoint agent, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+CoE · established · [barbulescu] · Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the endpoint agent is later examined.
+FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the endpoint agent in place, and the worker informed before it reaches them.
+DE · established · [betrvg-87] · The works council has to agree before introducing the endpoint agent, and again on the manner in which it is used.
+IT · established · [statuto-art-4] · An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the endpoint agent.
+NL · established · [wor-27] · The works council has to consent before any arrangement governing the endpoint agent is adopted, amended, or withdrawn.
+ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the endpoint agent into operation.
+AT · established · [at-arbvg-96] · The works council's consent is the condition of the endpoint agent having legal effect, and the threshold is whether it touches human dignity.
+
+### MD005 · Network and egress monitoring {#md005}
+What it is: The inspection of traffic leaving the organization's control for volume, destination, or content.
+
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the traffic inspection, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+CoE · established · [barbulescu] · Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the traffic inspection is later examined.
+FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the traffic inspection in place, and the worker informed before it reaches them.
+DE · established · [betrvg-87] · The works council has to agree before introducing the traffic inspection, and again on the manner in which it is used.
+IT · established · [statuto-art-4] · An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the traffic inspection.
+NL · established · [wor-27] · The works council has to consent before any arrangement governing the traffic inspection is adopted, amended, or withdrawn.
+ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the traffic inspection into operation.
+BE · established · [be-cct-81] · What is collected is aggregate and by workstation. Attributing it to a worker is a separate operation with conditions of its own.
+NO · established · [no-innsyn-epost] · Monitoring a worker's use of electronic equipment, internet use included, is not open to the employer at all unless the purpose is administering the network or detecting and resolving a security breach in it.
+AT · established · [at-arbvg-96] · The works council's consent is the condition of the traffic inspection having legal effect, and the threshold is whether it touches human dignity.
+
+### MD006 · Electronic mail and collaboration monitoring {#md006}
+What it is: The recording of what passes through the organization's messaging and collaboration platforms.
+
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the recording of the messaging platform, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+CoE · established · [barbulescu] · Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the recording of the messaging platform is later examined.
+FR · established · [code-travail-controle] · The committee has to be informed and consulted before the decision to record the platform, and the worker informed that what passes through it is kept.
+DE · established · [betrvg-87] · The works council has to agree before introducing the recording of the messaging platform, and again on the manner in which it is used.
+IT · established · [statuto-art-4] · An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the recording of the messaging platform.
+NL · established · [wor-27] · The works council has to consent before any arrangement governing the recording of the messaging platform is adopted, amended, or withdrawn.
+ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the recording of the messaging platform into operation.
+FI · established · [fi-privacy-working-life] · Retrieval of messages belonging to the employer is open only after the employer has arranged the absence alternatives in section 18, and only on the four conditions in section 19, with a signed report of the retrieval given to the employee.
+NO · established · [no-innsyn-epost] · The mailbox provided for the work is reached only where it is necessary for daily operations or another legitimate interest, or on reasonable suspicion of a gross breach of the duties of the employment or of grounds for dismissal. The same holds for what was deleted from it and survives on a backup.
+AT · established · [at-arbvg-96] · The works council's consent is the condition of the recording of the messaging platform having legal effect, and the threshold is whether it touches human dignity.
+
+### MD007 · Retention of communications metadata {#md007}
+What it is: The retention of the transmission data of a message: its parties, times, size, and routing.
+
+IT · established · [garante-364-2024] [garante-243-2025] [garante-165-2026] · Twenty-one days is the outer limit before the article 4 route is engaged, and the limit reaches the envelope only: parties, times, size, and routing.
+
+### MD008 · Access to the content of communications {#md008}
+What it is: The reading of the content of a communication, as distinct from its transmission data.
+
+EU · established · [wp249] · The balance has to be struck before the content is opened, and it is struck differently for technology used outside the workplace than inside it.
+CoE · established · [barbulescu] · Correspondence keeps its protection even where private use of a work device breaks the rules, so the six criteria apply to opening it and not only to logging it.
+IT · established · [cassazione-24204-2025] · What is taken from personal correspondence on a company system cannot be relied on afterwards, so opening it forecloses the use of what it yields.
+ES · established · [lo-3-2018] · Content may be looked at only to check that work obligations are being met and that the device is sound, and no further.
+FI · established · [fi-privacy-working-life] · Opening is done with the system administrator and a second person present, and the report states which message was opened, why, when, by whom, and to whom its content was given.
+NO · established · [no-innsyn-epost] · Where it is possible the worker is told first, given the chance to comment, and allowed to be present with a representative of their choosing. Where it was not possible, they are told in writing once the access is done.
+
+### MD009 · Retention of web and network activity records {#md009}
+What it is: The retention of a record of the network resources a worker reached, and when.
+
+IT · established · [garante-243-2025] [garante-165-2026] · Browsing logs are an instrument from which remote monitoring may follow, so retaining them engages the article 4 route as metadata does.
+NO · established · [no-innsyn-epost] · A record of what the worker reached may be kept where the purpose is administering the network or detecting and resolving a security breach in it, the regulation putting other purposes outside what the employer may do.
+
+### MD010 · Mailbox and file store imaging {#md010}
+What it is: The retention of a copy of a named worker's correspondence or file store as a whole.
+
+IT · established · [garante-165-2026] · Holding a mailbox as a whole engages the article 4 route in the same way as retaining the traffic around it, and a former holder retains a claim on what is personal in it.
+
+### MD011 · Privileged session recording {#md011}
+What it is: The capture of what is done during a session held under elevated entitlement.
+
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the session recorder, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+CoE · established · [barbulescu] · Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the session recorder is later examined.
+FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the session recorder in place, and the worker informed before it reaches them.
+DE · established · [betrvg-87] · The works council has to agree before introducing the session recorder, and again on the manner in which it is used.
+IT · established · [statuto-art-4] · An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the session recorder.
+NL · established · [wor-27] · The works council has to consent before any arrangement governing the session recorder is adopted, amended, or withdrawn.
+ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the session recorder into operation.
+AT · established · [at-arbvg-96] · The works council's consent is the condition of the session recorder having legal effect, and the threshold is whether it touches human dignity.
+
+### MD012 · User and entity behaviour analytics {#md012}
+What it is: The automated derivation of a baseline of activity and the treatment of departures from it as signals.
+
+EU · established · [ai-act] [digital-omnibus-ai] · The engine falls in the high-risk category, which brings the full set of obligations, and none of that settles whether the detection method is lawful under data protection or employment law.
+CoE · established · [barbulescu] · Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the analytics engine is later examined.
+FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the analytics engine in place, and the worker informed before it reaches them.
+DE · established · [betrvg-87] · The works council has to agree before introducing the analytics engine, and again on the manner in which it is used.
+IT · established · [statuto-art-4] · An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the analytics engine.
+NL · established · [wor-27] · The works council has to consent before any arrangement governing the analytics engine is adopted, amended, or withdrawn.
+ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the analytics engine into operation.
+GB · established · [citd-deployment] · The models and data sources used where detection research has taken up human factors, surveyed and untested.
+GB · established · [pathirana-2026] · The models and data sources the research has used are catalogued and untested, so an engine built on them inherits an evidence base nobody has validated.
+AT · established · [at-arbvg-96] · The works council's consent is the condition of the analytics engine having legal effect, and the threshold is whether it touches human dignity.
+
+### MD013 · Physical access monitoring {#md013}
+What it is: The recording of entry to and movement within controlled premises.
+
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the access-control recording, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+CoE · established · [barbulescu] · Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the access-control recording is later examined.
+FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the access-control recording in place, and the worker informed before it reaches them.
+DE · established · [bag-headset] · A device that lets one person hear another at work needs the works council's agreement even where nothing is recorded or kept.
+IT · established · [statuto-art-4] · An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the access-control recording.
+NL · established · [wor-27] · The works council has to consent before any arrangement governing the access-control recording is adopted, amended, or withdrawn.
+ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the access-control recording into operation.
+FI · established · [fi-privacy-working-life] · Access control is named among the systems the cooperation procedure governs, so it is settled with the workforce before it is introduced.
+
+### MD014 · Video surveillance of the workplace {#md014}
+What it is: The recording of images of places in which work is carried out.
+
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the cameras, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+CoE · established · [lopez-ribalda] · Cameras without notice have survived where a specific suspicion came first and the scope and duration were held tight. The criteria are weighed, not counted.
+FR · established · [code-travail-controle] · The committee has to be informed and consulted before the decision to install the cameras, and the workers informed before they are recorded.
+DE · established · [betrvg-87] · The works council has to agree before introducing the cameras, and again on the manner in which it is used.
+IT · established · [statuto-art-4] · An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the cameras.
+NL · established · [wor-27] · The works council has to consent before any arrangement governing the cameras is adopted, amended, or withdrawn.
+ES · established · [lo-3-2018] · Camera images may be processed for the control functions in article 20.3, on condition of express prior information to the workers and their representatives.
+FI · established · [fi-privacy-working-life] · Cameras are for the security of persons, the protection of property, and the supervision of production, and may not be aimed at a particular employee outside three named cases, nor placed in lavatories, changing rooms, or rooms set aside for personal use. Less intrusive means are examined first, and a notice is displayed where the cameras are.
+AT · established · [at-arbvg-96] · The works council's consent is the condition of the cameras having legal effect, and the threshold is whether they touch human dignity.
+
+### MD015 · Geolocation of vehicles and devices {#md015}
+What it is: The recording of the position of a vehicle or device issued to a worker.
+
+EU · established · [gdpr] [wp249] · A case note argues the Strasbourg majority placed the technology largely beyond examination, weakening the scrutiny the earlier cases applied.
+EU · established · [mole-mangan] · The Strasbourg majority is read as having placed the technology beyond real examination, so the survival of tracking there is weaker authority than it appears.
+CoE · established · [gramaxo] · Tracking a company vehicle through and beyond working hours has survived on its facts, on a bench divided four to three, with the mileage relied on separated from the location data as a whole.
+FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the tracking device in place, and the worker informed before it reaches them.
+DE · established · [betrvg-87] · The works council has to agree before introducing the tracking device, and again on the manner in which it is used.
+IT · established · [cassazione-3462-2026] · Tracking requires notification to the supervisory authority wherever the driver can be identified, and identification through vehicle assignment is enough.
+NL · established · [wor-27] · The works council has to consent before any arrangement governing the tracking device is adopted, amended, or withdrawn.
+ES · established · [lo-3-2018] · Location data may be processed for the control functions in article 20.3, on the same condition of express prior information.
+AT · established · [at-arbvg-96] · The works council's consent is the condition of the tracking device having legal effect, and the threshold is whether it touches human dignity.
+
+### MD016 · Measurement of pace and performance {#md016}
+What it is: The derivation of a rate of work from the traces the work itself produces.
+
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the measurement, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+CoE · established · [barbulescu] · Notice in advance, and a scope no wider than the purpose, are what a court will weigh if the use of the measurement is later examined.
+FR · established · [ce-amazon] · Measuring warehouse work through handheld scanners has been found unlawful in its detail, and the fine for it stands at 15,000,000 euros after review.
+DE · established · [betrvg-87] · The works council has to agree before introducing the measurement, and again on the manner in which it is used.
+IT · established · [statuto-art-4] · An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the measurement.
+NL · established · [wor-27] · The works council has to consent before any arrangement governing the measurement is adopted, amended, or withdrawn.
+ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the measurement into operation.
+AT · established · [at-arbvg-96] · A rate of work derived from statistical, data capture, or micro timing methods is named in its own right among the measures the works council has to consent to, alongside the general requirement for systems that control employees.
+
+### MD017 · Monitoring on worker-owned devices {#md017}
+What it is: The operation of the program's instruments on equipment owned by the worker.
+
+ES · established · [aepd-ares-capital] · Requiring a worker's own telephone to carry the instruments has drawn infringements of articles 13, 5(1)(c), and 6(1), a fine of 200,000 euros, and an order to bring the processing into line within two months.
+
+### MD018 · Covert monitoring on prior suspicion {#md018}
+What it is: Observation conducted without notice, following a specific suspicion already held.
+
+CoE · established · [lopez-ribalda] · The suspicion has to exist before the observation begins, and the scope and duration have to answer to it.
+
+### MD019 · Monitoring outside working hours {#md019}
+What it is: Observation continuing when the person is not at work.
+
+EU · established · [wp249] · The balance covers technology used outside the workplace as well as inside it, so continuing after hours does not fall outside the assessment.
+CoE · established · [gramaxo] · Observation running through and beyond working hours has survived on its facts, which does not settle that it survives on any others.
+
+### MD020 · Alert triage and case creation {#md020}
+What it is: The disposition of what the instruments raise: what is closed, what is held, and what becomes a case.
+BE · established · [be-cct-81] · Collecting and naming are two operations. The convention calls the second individualization and governs it separately from the monitoring that produced the data.
+
+### MD021 · Detection coverage assessment {#md021}
+What it is: The comparison of what the program can currently see against what it has said it needs to see.
+
+
+## BA · Behavioral assessment {#ba}
+Summary: The derivation of concern from the person rather than from an act.
+
+### BA001 · Risk indicator catalogue {#ba001}
+What it is: The defined set of observable circumstances the program treats as bearing on the likelihood of harm.
+
+DK · established · [sok-psychology] · An indicator taken from this literature carries thin foundations with it, and findings that cannot readily be compared between studies.
+GB · established · [nurse-2014] · A published vocabulary is available to build the catalogue on: catalyst, actor, attack, and organization, grounded in case studies rather than telemetry.
+GB · established · [npsa-data-collection] · Real cases have been reviewed and what preceded the acts described, which is where an indicator can be taken from rather than supposed.
+
+### BA002 · Individual risk assessment {#ba002}
+What it is: The assignment to a named person of a judgment expressing the degree of concern they warrant.
+AT · established · [at-arbvg-96] · A system for assessing employees needs the works council's consent where it gathers data the operational use does not justify, and here the consent can be replaced by a decision of the conciliation board.
+
+### BA003 · Multidisciplinary case review {#ba003}
+What it is: The examination of a person's situation by security, human resources, and legal together, rather than by any one of them.
+
+### BA004 · Use of psychological and dispositional indicators {#ba004}
+What it is: The treatment of traits, psychological states, or situational factors as grounds for attention.
+
+DK · established · [sok-psychology] · What has been published on psychological indicators does not establish which of them are observable in an employment setting.
+GB · established · [pathirana-2026] · Reviews of the detection literature map which human factors have been modelled and on what data, and test none of them.
+FI · established · [fi-privacy-working-life] · A personality or aptitude assessment is taken with the employee's consent, and the employer answers for the reliability of the method, the expertise of the assessor, and the findings being free from error.
+
+### BA005 · Use of linguistic indicators {#ba005}
+What it is: The derivation of concern from a person's written or spoken language.
+
+GB · established · [insider-language-index] · The differences were measured in interview language, so an index built on the ordinary flow of workplace communication is extrapolating beyond what was observed.
+
+### BA006 · Inference of emotional state {#ba006}
+What it is: The derivation of a person's emotional state from observable data.
+
+EU · established · [ai-act] · Inferring emotion at work is prohibited outright, with narrow exceptions for medical and safety purposes.
+
+### BA007 · Automated decision-making about a worker {#ba007}
+What it is: A decision producing effects for a worker taken by automated means without human intervention.
+
+EU · established · [ai-act] [digital-omnibus-ai] · A decision of this kind falls in the high-risk category, and the obligations that follow apply from 2 December 2027.
+
+### BA008 · Deployment of an algorithmic system in employment {#ba008}
+What it is: The introduction of a system of that class in a setting in which the people it reaches are workers.
+
+EU · established · [ai-act] [digital-omnibus-ai] · The system falls in the high-risk category on the ground of where it is deployed rather than of what it does, and the representatives have to be told before it is put into use.
+AT · established · [at-arbvg-96] · A system for the automated collection, processing, and transmission of a worker's personal data beyond general particulars and qualifications needs the works council's consent, unless what is done with the data goes no further than obligations arising from statute, collective norms, or the contract.
+
+### BA009 · Model validation and bias testing {#ba009}
+What it is: The examination of an assessment method for accuracy and for differential effect before and during its use.
+
+GB · established · [pathirana-2026] · The evaluation methods used across the published work have been mapped, which is the starting point for validating one.
+
+### BA010 · Disclosure of an assessment to its subject {#ba010}
+What it is: The communication to a person of the existence and content of an assessment concerning them.
+FI · established · [fi-privacy-working-life] · The person assessed is given a written statement on the assessment free of charge on request, and where the employer received it orally, its content is told to them.
+
+## IV · Investigation and digital forensics {#iv}
+Summary: The examination of an identified person, and the handling of the material on which it rests.
+
+### IV001 · Internal reporting channel {#iv001}
+What it is: The route through which a person inside the organization reports a concern about another, and the protection owed to them for doing so.
+
+GB · established · [npsa-ongoing-persec] · Reporting routes are treated as a control in their own right, and their value as depending on whether they are trusted.
+
+### IV002 · Case intake and triage {#iv002}
+What it is: The assessment of what arrives, from any route, against a threshold for opening a case.
+
+GB · established · [npsa-data-collection] · The threshold has real cases to be set against: how the acts occurred and what preceded them, in a national population now some years old.
+
+### IV003 · Authorization to open a case {#iv003}
+What it is: The decision, and the person entitled to take it, that moves examination from a population to an identified person.
+BE · established · [be-cct-81] · Individualization is direct where the monitoring pursued the first three purposes. Where it pursued observance of the undertaking's own rules, it is open only after the workers have been told an anomaly was found and warned that a further one of the same kind will be attributed.
+
+### IV004 · Investigation plan and scope {#iv004}
+What it is: The statement, made before the work, of what will be examined and what will not.
+
+### IV005 · Forensic acquisition {#iv005}
+What it is: The capture of data from a device or system in a manner that preserves what it contained.
+
+EU · established · [nth-haustechnik] · What a court admits has to be confined to the adequate, relevant, and necessary, and anonymization or pseudonymization considered before it goes to other parties.
+NO · established · [no-innsyn-epost] · The access is carried out so that the data are so far as possible not altered, and so that what it produced can be checked afterwards.
+
+### IV006 · Chain of custody {#iv006}
+What it is: The unbroken record of who held what, when, and in what state.
+
+### IV007 · Legal hold and preservation {#iv007}
+What it is: The suspension of ordinary deletion over material bearing on a matter under examination.
+
+### IV008 · Use of records held for other purposes {#iv008}
+What it is: The examination, for the purposes of a case, of records the organization holds for unrelated reasons.
+
+IT · established · [garante-107-2026] · Records held by line management are the same material by another route: reaching into them needs the ground the monitoring system would have needed.
+
+### IV009 · Interview of the subject {#iv009}
+What it is: The questioning of the person under examination, and the safeguards owed to them during it.
+
+### IV010 · Decision record {#iv010}
+What it is: The record of what was examined, on what basis, by whom the decision was taken, and what was concluded.
+FI · established · [fi-privacy-working-life] · Both the retrieval and the opening are written up, signed by those who carried them out, and submitted to the employee without undue delay.
+NO · established · [no-innsyn-epost] · The written notice states the method of access used, which messages or documents were opened, and what the access found.
+
+### IV011 · Engagement of external investigators {#iv011}
+What it is: The instruction of a party outside the organization to conduct or assist the examination.
+
+### IV012 · Case closure and disposition {#iv012}
+What it is: The formal ending of a case, the conclusion recorded, and what becomes of the material.
+
+### IV013 · Investigator competence {#iv013}
+What it is: The qualification, training, and independence of the people who conduct examinations.
+
+
+## IR · Incident response {#ir}
+Summary: The measures taken while an incident is open: containment, preservation, and notification.
+
+### IR001 · Insider incident playbooks {#ir001}
+What it is: The prepared sequences for the insider scenarios the program has decided it must be able to answer.
+
+### IR002 · Containment of an incident in progress {#ir002}
+What it is: The interruption of activity while it is happening, before its nature has been established.
+
+### IR003 · Withdrawal of access during a case {#ir003}
+What it is: The removal of a person's entitlements on suspicion, before any finding.
+
+### IR004 · Preservation of systems and records {#ir004}
+What it is: The holding of systems and records in the state they were in when the case opened.
+
+### IR005 · Coordination with security operations {#ir005}
+What it is: The joint working of the insider function with the teams that answer external intrusion.
+
+### IR006 · Notification to a supervisory authority {#ir006}
+What it is: The reporting of the incident, or of its handling, to an authority outside the organization.
+
+### IR007 · Notification to affected persons {#ir007}
+What it is: The telling of the people whose data or whose position the incident affected.
+
+### IR008 · Escalation to crisis management {#ir008}
+What it is: The passing of a matter to the body that decides for the organization as a whole.
+
+### IR009 · Post-incident review {#ir009}
+What it is: The examination, after the fact, of what the program saw, when, and what it did with it.
+
+### IR010 · Exercising the response {#ir010}
+What it is: The rehearsal of the playbooks against a scenario, with the people who would run them.
+
+
+## CP · Consequence for the person {#cp}
+Summary: The action taken against a person following a finding, and the basis on which it may be taken.
+
+### CP001 · Disciplinary action on monitoring evidence {#cp001}
+What it is: Action taken against a person on the basis of what the program observed, short of ending the relationship.
+AT · established · [at-arbvg-96] · A workplace disciplinary code has no legal effect without the works council's consent, so what may follow from what the program observed is settled with the workforce before any case arises.
+
+### CP002 · Termination of employment {#cp002}
+What it is: The ending of the employment relationship on that basis.
+
+CoE · established · [gramaxo] [lopez-ribalda] · Dismissal on geolocation and dismissal after covert cameras have both been examined under article 8 and survived on their facts, which settles the method and not the outcome.
+FI · established · [fi-privacy-working-life] · Recordings may be used to substantiate the grounds for ending an employment relationship, and that use is stated as an exception to the purpose limitation and to the cooperation procedure.
+
+### CP003 · Consistency of outcomes {#cp003}
+What it is: The comparison of a proposed outcome against those reached in comparable cases.
+
+### CP004 · Reliance on material obtained in breach {#cp004}
+What it is: Reliance in proceedings on material gathered otherwise than as a legal requirement allowed.
+
+EU · established · [nth-haustechnik] · Material obtained in breach is not barred from proceedings by that alone, and a failure to inform the person does not bar it either.
+IT · established · [cassazione-24204-2025] · Material taken from personal correspondence could not be relied on, the Strasbourg case law being applied in the national setting.
+
+### CP005 · Referral to law enforcement {#cp005}
+What it is: The passing of a case, and the material supporting it, to an authority with powers the organization does not have.
+
+### CP006 · Civil recovery and injunctive action {#cp006}
+What it is: Proceedings brought by the organization to recover what was taken or to restrain its use.
+
+### CP007 · Communication of the outcome to the person {#cp007}
+What it is: The telling of the person what was concluded about them.
+
+
+## AW · Awareness and training {#aw}
+Summary: The instruction of the workforce concerning the program, and the record of it.
+
+### AW001 · Workforce awareness on insider risk {#aw001}
+What it is: The instruction of the workforce in what the program is, what it asks of them, and what it protects.
+
+EU · established · [help2protect] · A Union-funded platform carries an awareness module and downloadable templates, addressed mainly to transport, energy, and other critical infrastructure operators.
+EU · established · [coess-manual] · The Union-funded manual addresses the structure of a program rather than the conditions attached to one, and has not been revised since 2019.
+GB · established · [npsa-digital-learning] · Awareness is delivered as a course rather than a notice, in modules of ten to twenty minutes, with governance and leadership taught before the controls.
+EU · established · [nis2] · Basic cyber hygiene practices and cybersecurity training are named among the measures an entity in scope has to take. What the directive asks to be taught is the security of systems, not insider risk.
+
+### AW002 · Transparency notice on what is observed {#aw002}
+What it is: The account of the program's reach given to the persons subject to it.
+FI · established · [fi-privacy-working-life] · What the workforce is told after the procedure is the purpose of the monitoring, its introduction, the methods used, and the terms on which electronic mail and the network may be used.
+BE · established · [be-cct-81] · What each worker is told at installation is the monitoring policy, the purposes, whether personal data are kept and where and for how long, whether the monitoring is permanent, and what the employer and the supervising staff may do.
+NO · established · [no-aml-kontroll] · Before the measure starts, those affected are told its purpose, what it will mean in practice, how it will be carried out, and how long it is expected to last.
+IT · established · [garante-itas-2026] · A backup of the mailboxes described in none of the notices given to the staff leaves them unable to know it exists, which is the finding rather than the keeping itself.
+
+### AW003 · Role-specific training {#aw003}
+What it is: The additional instruction given to managers, privileged users, and the people who run the program.
+
+### AW004 · Training records {#aw004}
+What it is: The record, attached to a named person, of the instruction they received and when.
+
+### AW005 · Simulated exercises on live staff {#aw005}
+What it is: The testing of the workforce by means of a staged event.
+
+### AW006 · Security culture measurement {#aw006}
+What it is: The assessment of what the workforce actually believes and does, as distinct from what it has been told.
+
