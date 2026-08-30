@@ -5,11 +5,10 @@ reviewed: 2026-08-29
 contributors:
 ---
 
-Insider Threat and Risk Architecture (INTRA™) is a [b:living] three level framework for building an insider program in Europe.
+Insider Threat and Risk Architecture (INTRA™) is a [b:living] three level framework for building an insider risk management program in Europe.
 - **Pillar.** A structural component of such a program. There are nine, and they hold in any jurisdiction.
 - **Measure.** A single action or deliverable a program can implement, the unit a practitioner plans, budgets, and hands over. Measures travel almost as well, though not quite, since some exist because a legal caveat brought them into being.
 - **Control.** A measure as one European jurisdiction has it. Where a jurisdiction has spoken on a measure, the caveat it imposes governs that measure, and the measure so governed is a control.
-A program is assembled from the three, in whole or in part, with what the law requires and what the field has recorded in view while it is built rather than reconciled afterwards.
 
 A control states the caveat and names the source it comes from. It does not state what an organization should do, it does not compare one jurisdiction with another, and it is not advice on compliance. What a measure carries depends on what has been found for it.
 - **A source worked in.** A control is written from it.
@@ -29,7 +28,7 @@ The framework and the library are kept as markdown in a repository, under a lice
 Part of what INTRA maps does not exist. There is no European insider symposium: the reference event in the field is American, in its eleventh edition. There is no European professional body for the discipline. There is no program standard at Union level, the only thematic report from the Union agency dating from 2020 and the only program development manual from 2019. INTRA records those absences the way it records a jurisdiction that has said nothing.
 
 ## GV · Governance and mandate {#gv}
-Summary: The authority under which an insider program operates, its ownership, and the record of both.
+Summary: The authority under which an insider risk management program operates, its ownership, and the record of both.
 
 ### GV001 · Program charter and mandate {#gv001}
 What it is: The instrument that establishes the program, states its authority, names its sponsor, and bounds what it may reach.

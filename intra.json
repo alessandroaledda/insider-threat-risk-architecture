@@ -158,7 +158,7 @@
   {
    "code": "GV",
    "name": "Governance and mandate",
-   "summary": "The authority under which an insider program operates, its ownership, and the record of both.",
+   "summary": "The authority under which an insider risk management program operates, its ownership, and the record of both.",
    "canonical": "https://alessandroaledda.com/intra/pillars/#GV",
    "measures": [
     {
@@ -181,7 +181,7 @@
         {
          "anchor": "coess-manual",
          "title": "Insider Threat Program Development Manual",
-         "establishes": "The structure of an insider program, as the closest thing to doctrine issued under European Union funding, unrevised since 2019.",
+         "establishes": "The structure of an insider risk management program, as the closest thing to doctrine issued under European Union funding, unrevised since 2019.",
          "url": "https://alessandroaledda.com/intra/sources/#coess-manual"
         }
        ]
@@ -195,7 +195,7 @@
         {
          "anchor": "npsa-framework",
          "title": "Insider Risk Mitigation Framework",
-         "establishes": "A structure for an insider program that an organization reviews itself against, with governance and culture as foundations rather than adjuncts.",
+         "establishes": "A structure for an insider risk management program that an organization reviews itself against, with governance and culture as foundations rather than adjuncts.",
          "url": "https://alessandroaledda.com/intra/sources/#npsa-framework"
         }
        ]
@@ -766,7 +766,7 @@
         {
          "anchor": "npsa-framework",
          "title": "Insider Risk Mitigation Framework",
-         "establishes": "A structure for an insider program that an organization reviews itself against, with governance and culture as foundations rather than adjuncts.",
+         "establishes": "A structure for an insider risk management program that an organization reviews itself against, with governance and culture as foundations rather than adjuncts.",
          "url": "https://alessandroaledda.com/intra/sources/#npsa-framework"
         }
        ]
@@ -6178,7 +6178,7 @@
         {
          "anchor": "coess-manual",
          "title": "Insider Threat Program Development Manual",
-         "establishes": "The structure of an insider program, as the closest thing to doctrine issued under European Union funding, unrevised since 2019.",
+         "establishes": "The structure of an insider risk management program, as the closest thing to doctrine issued under European Union funding, unrevised since 2019.",
          "url": "https://alessandroaledda.com/intra/sources/#coess-manual"
         }
        ]
