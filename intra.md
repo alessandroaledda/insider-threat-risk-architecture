@@ -40,6 +40,7 @@ GB · established · [npsa-framework] · The charter is written to be reviewed a
 
 ### GV002 · Declared perimeter {#gv002}
 What it is: The single account of what the program does, what it does not do, and on what authority, written to be shown outside it.
+GB · established · [uk-dpa-2018] · Where an employer processes a closed category under the employment condition, an appropriate policy document has to be in place when the processing is carried out, and it has to have been produced: a document explaining the procedures for securing compliance with the principles for that processing, and the policies on retention and erasure with an indication of how long the data are likely to be kept. It is a condition of the processing being lawful and not a record made afterwards.
 
 ### GV003 · Cross-functional governance body {#gv003}
 What it is: The standing body in which the functions a program touches meet and decide together: security, human resources, legal, compliance, and technology. What makes it this measure rather than a mailing list is that it decides, and that it decides in one room rather than one function at a time.
@@ -207,12 +208,14 @@ What it is: Records disclosing a worker's membership of a trade union or partici
 
 IT · established · [garante-107-2026] · A record touching union membership or activity falls in the stricter category, whatever the file it sits in and whoever wrote it.
 EU · established · [gdpr] · Trade union membership is one of the categories article 9 prohibits the processing of outright. The prohibition lifts only on one of that article's own grounds, and the employment one requires that Union or member state law or a collective agreement authorize the processing and provide appropriate safeguards for the person.
+GB · established · [uk-gdpr] [uk-dpa-2018] · Trade union membership is one of the categories the processing of which is prohibited, and in domestic law the prohibition lifts only where the processing also rests on a ground in article 6(1) and one of the article 9 grounds applies. The employment ground requires domestic law or a collective agreement, which is the Schedule 1 condition and the document it carries. In turn, the employment condition is met only where the processing is necessary to perform or exercise an obligation or a right imposed by law in connection with employment, and where the appropriate policy document is in place at the time.
 
 ### PS012 · Records concerning health held for security purposes {#ps012}
 What it is: Records of absence, illness, or fitness held for the purposes of the program.
 
 IT · established · [garante-107-2026] · A record of absence or illness held for the program falls in the stricter category, and holding it for security purposes does not move it out.
 EU · established · [gdpr] · Data concerning health are one of the categories article 9 prohibits the processing of outright, so a security purpose is not on its own what makes holding them lawful. The prohibition lifts only on one of that article's grounds, and the employment one requires that Union or member state law or a collective agreement authorize it and provide appropriate safeguards.
+GB · established · [uk-gdpr] [uk-dpa-2018] · Data concerning health are one of the prohibited categories, and the prohibition lifts only where the processing also rests on a ground in article 6(1) and one of the article 9 grounds applies. A security purpose is not among them. In turn, holding such a record for the program runs through the employment condition, which asks whether the processing is necessary to perform an obligation or a right imposed by law, and which requires the appropriate policy document to be in place when it is carried out.
 
 ### PS013 · Self-declaration of changed circumstances {#ps013}
 What it is: The route by which a worker reports a change in their own circumstances bearing on their position. It is a measure once it is named, reaches someone answerable for it, and states what becomes of what is declared.
@@ -300,6 +303,7 @@ What it is: The period for which the program keeps what it produced rather than 
 NO · established · [no-innsyn-epost] · What is opened and proves not to be necessary or relevant to the purpose is closed at once, and any copy of it deleted.
 NO · established · [no-nsm] · The security relevant data are to be used only to safeguard the security of the systems, and kept long enough that unwanted activity can be discovered and mapped after the fact. What weighs on the period is that the data may later be wanted for an investigation, for assessing damage, and for trend analysis, held against the point that they can hold confidential information about the individual employee.
 AT · established · [at-ishb] · Log files hold personal data in many cases, so they may be used only for purposes compatible with the one they were collected for. Where that restriction bites, the handbook says it is resolved by removing the personal data or by anonymizing them, and states that pseudonymizing them is not enough.
+GB · established · [uk-dpa-2018] · The appropriate policy document has to explain the policies on retention and erasure of the data processed under the condition, and to give an indication of how long they are likely to be kept. An indication is what is asked for, not a period.
 
 ### DP013 · Separation of program data {#dp013}
 What it is: The keeping of the program's own holdings apart from the systems the organization runs its business on, so that a case file is not reachable by whoever can reach the human resources record, and the stated conditions on which something crosses from one to the other.
@@ -326,6 +330,7 @@ Summary: The technical means by which work is observed, and the conditions attac
 What it is: The derivation of what the program will look for from the harm it is trying to prevent, before any tool is chosen.
 
 EU · established · [enisa-2020] · Scoping starts at the level of control categories rather than of tools, and the only Union report to work from stops there and dates from 2020.
+GB · established · [uk-monitoring-regs] · What may be looked for is a closed list. Interception on the employer's own system is authorized to establish the existence of facts, to ascertain compliance with regulatory or self-regulatory practices, to ascertain or demonstrate the standards achieved by the people using the system, in the interests of national security, to prevent or detect crime, to investigate or detect the unauthorized use of that or any other telecommunication system, or to secure the effective operation of the system. A purpose outside the list is not authorized by these regulations.
 
 ### MD002 · Log collection and centralization {#md002}
 What it is: The aggregation of records of activity from systems across the estate into a single store.
@@ -351,6 +356,7 @@ ES · established · [es-ens] · At the high category, measures are applied to p
 NL · established · [nl-bio2] · Use cases for the misuse of authentication data are defined, monitored, and acted on, and two of them are named in the text: logins from unusual places, and spikes in failed login attempts. Separately, the creation and modification of accounts carrying special rights is monitored, and where such a change was not authorized it is an information security incident and is recorded and handled as one.
 AT · established · [at-ishb] · The handbook sets out what an evaluation looks for: logon and logoff times outside working hours, a build-up of failed logon attempts, a build-up of impermissible access attempts, conspicuously long intervals in which nothing was logged, which points to records having been deleted, and conspicuously long intervals in which no user appears to have changed. Particular attention is to go to every access carried out under an administrator identifier.
 NO · established · [no-nsm] · Tools are taken into use that allow manual and automatic searching and alerting on criteria across everything collected, and that assemble data from different sources on their own so that it can be decided whether the event is real rather than a false positive, and what its extent and character are. Knowledge of the normal state and of the threats is what the searches and the alerting criteria are improved from.
+GB · established · [uk-monitoring-regs] · Investigating or detecting the unauthorized use of that or any other telecommunication system is named in the list of purposes in its own right, so the misuse of the employer's own system is a purpose the regulations authorize interception for rather than one that has to be brought under another.
 
 ### MD004 · Endpoint activity monitoring {#md004}
 What it is: The deployment of an agent that records what is done on a workstation or laptop.
@@ -379,6 +385,7 @@ BE · established · [be-cct-81] · What is collected is aggregate and by workst
 NO · established · [no-innsyn-epost] · Monitoring a worker's use of electronic equipment, internet use included, is not open to the employer at all unless the purpose is administering the network or detecting and resolving a security breach in it.
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the traffic inspection having legal effect, and the threshold is whether it touches human dignity.
 DE · established · [bsi-grundschutz] · Proxies that break the encrypted connection should be placed at the boundary to external networks so that what passes can be examined, they are themselves protected from unauthorized access, and security relevant events on them are detected automatically. An organizational rule is to be drawn up stating the data protection conditions under which the log data may be evaluated by hand.
+GB · established · [uk-monitoring-regs] · Inspection that amounts to interception in the course of transmission is authorized only on the express consent of the system controller, only for a purpose in the list, and only where it is effected solely to monitor or record communications relevant to the activities carried on and the system is provided wholly or partly in connection with them.
 
 ### MD006 · Electronic mail and collaboration monitoring {#md006}
 What it is: The recording of what passes through the organization's messaging and collaboration platforms.
@@ -393,6 +400,7 @@ ES · established · [lo-3-2018] · Criteria for use, drawn up with the particip
 FI · established · [fi-privacy-working-life] · Retrieval of messages belonging to the employer is open only after the employer has arranged the absence alternatives in section 18, and only on the four conditions in section 19, with a signed report of the retrieval given to the employee.
 NO · established · [no-innsyn-epost] · The mailbox provided for the work is reached only where it is necessary for daily operations or another legitimate interest, or on reasonable suspicion of a gross breach of the duties of the employment or of grounds for dismissal. The same holds for what was deleted from it and survives on a backup.
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the recording of the messaging platform having legal effect, and the threshold is whether it touches human dignity.
+GB · established · [uk-monitoring-regs] · Recording what passes through the employer's own messaging system is interception in the course of transmission. It is authorized on the express consent of the system controller, for a purpose in the closed list, and on four conditions, of which the third is that the system controller has made all reasonable efforts to inform every person who may use the system that communications transmitted by it may be intercepted.
 
 ### MD007 · Retention of communications metadata {#md007}
 What it is: The retention of the transmission data of a message: its parties, times, size, and routing.
@@ -408,6 +416,7 @@ IT · established · [cassazione-24204-2025] · What is taken from personal corr
 ES · established · [lo-3-2018] · Content may be looked at only to check that work obligations are being met and that the device is sound, and no further.
 FI · established · [fi-privacy-working-life] · Opening is done with the system administrator and a second person present, and the report states which message was opened, why, when, by whom, and to whom its content was given.
 NO · established · [no-innsyn-epost] · Where it is possible the worker is told first, given the chance to comment, and allowed to be present with a representative of their choosing. Where it was not possible, they are told in writing once the access is done.
+GB · established · [uk-ipa-2016] [uk-monitoring-regs] · Intercepting a communication in the course of its transmission without lawful authority is a criminal offence. A person with a right to control the operation or use of a private system, or who has that person's express or implied consent, is outside the offence, so an employer reading on its own system does not commit it by that route. What the offence does is put the question of authority before the question of proportionality. As to that authority, opening the content in transmission is what these regulations authorize, and they authorize it only for a purpose in the closed list and only where the interception is effected solely to monitor or record communications relevant to the activities carried on.
 
 ### MD009 · Retention of web and network activity records {#md009}
 What it is: The retention of a record of the network resources a worker reached, and when.
@@ -565,6 +574,7 @@ EU · established · [ai-act] · Inferring emotion at work is prohibited outrigh
 What it is: A decision producing effects for a worker taken by automated means without human intervention.
 
 EU · established · [ai-act] [digital-omnibus-ai] [gdpr] · A person has the right not to be subject to a decision taken solely by automated processing, profiling included, that produces legal effects concerning them or affects them similarly significantly. It is open only on contractual necessity, on a Union or member state law that lays down safeguards, or on explicit consent, and on the first and the third of those the person is owed at least human intervention, the chance to put their point of view, and the right to contest the outcome. Such a decision may not rest on the article 9 categories at all save on two narrow grounds. Separately, a decision of this kind falls in the high-risk category, and the obligations that follow apply from 2 December 2027.
+GB · established · [uk-gdpr] · The rule here is not the Union's. A decision is based solely on automated processing where there is no meaningful human involvement in taking it, and how far it was reached by profiling is among the things to be weighed in judging whether the involvement was meaningful. A decision is significant where it produces a legal effect or a similarly significant one. The prohibition on taking such a decision by machine alone bites only where it rests entirely or partly on the closed categories, or where the processing relies on the recognized legitimate interests ground. Outside those it may be taken by machine alone, provided the safeguards are in place: the person is informed of the decision, can make representations about it, can obtain human intervention, and can contest it.
 
 ### BA008 · Deployment of an algorithmic system in employment {#ba008}
 What it is: The introduction of a system of that class in a setting in which the people it reaches are workers.
@@ -761,6 +771,7 @@ BE · established · [be-cct-81] · What each worker is told at installation is 
 NO · established · [no-aml-kontroll] · Before the measure starts, those affected are told its purpose, what it will mean in practice, how it will be carried out, and how long it is expected to last.
 IT · established · [garante-itas-2026] · A backup of the mailboxes described in none of the notices given to the staff leaves them unable to know it exists, which is the finding rather than the keeping itself.
 NO · established · [no-nsm] · The workforce is informed of what is collected, what it is to be used for, and how the data are to be handled, and that sits alongside establishing which laws apply and deciding how long the data shall and may be stored.
+GB · established · [uk-monitoring-regs] · The system controller has to have made all reasonable efforts to inform every person who may use the system that communications transmitted by it may be intercepted. Everyone who may use it, not everyone employed, and reasonable efforts rather than acknowledgement.
 
 ### AW003 · Role-specific training {#aw003}
 What it is: The additional instruction given to managers, privileged users, and the people who run the program.

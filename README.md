@@ -25,8 +25,8 @@ reconciled afterwards.
 | Measures | 109 |
 | Jurisdictions in scope | 34 |
 | Jurisdictions carrying something | 13 |
-| Controls established | 339 |
-| Sources read and annotated | 62 |
+| Controls established | 350 |
+| Sources read and annotated | 66 |
 
 ## What is here
 

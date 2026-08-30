@@ -214,7 +214,23 @@
      "research": [],
      "added": "2026-08-29",
      "updated": "2026-08-29",
-     "cells": []
+     "cells": [
+      {
+       "id": "GV002/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Where an employer processes a closed category under the employment condition, an appropriate policy document has to be in place when the processing is carried out, and it has to have been produced: a document explaining the procedures for securing compliance with the principles for that processing, and the policies on retention and erasure with an indication of how long the data are likely to be kept. It is a condition of the processing being lawful and not a record made afterwards.",
+       "sources": [
+        {
+         "anchor": "uk-dpa-2018",
+         "title": "Data Protection Act 2018, section 10 and Schedule 1",
+         "establishes": "The condition on which an employer may process a closed category at all, and the document that condition requires to exist before the processing starts.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-dpa-2018"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "GV003",
@@ -1720,6 +1736,27 @@
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
         }
        ]
+      },
+      {
+       "id": "PS011/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Trade union membership is one of the categories the processing of which is prohibited, and in domestic law the prohibition lifts only where the processing also rests on a ground in article 6(1) and one of the article 9 grounds applies. The employment ground requires domestic law or a collective agreement, which is the Schedule 1 condition and the document it carries. In turn, the employment condition is met only where the processing is necessary to perform or exercise an obligation or a right imposed by law in connection with employment, and where the appropriate policy document is in place at the time.",
+       "sources": [
+        {
+         "anchor": "uk-gdpr",
+         "title": "Regulation (EU) 2016/679 as it has effect in domestic law, articles 6, 9, 22A to 22D, and 35",
+         "establishes": "The grounds, the closed categories, when an assessment is owed, and a rule on deciding about someone by machine that is not the Union's.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-gdpr"
+        },
+        {
+         "anchor": "uk-dpa-2018",
+         "title": "Data Protection Act 2018, section 10 and Schedule 1",
+         "establishes": "The condition on which an employer may process a closed category at all, and the document that condition requires to exist before the processing starts.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-dpa-2018"
+        }
+       ]
       }
      ]
     },
@@ -1761,6 +1798,27 @@
          "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
          "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
+        }
+       ]
+      },
+      {
+       "id": "PS012/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Data concerning health are one of the prohibited categories, and the prohibition lifts only where the processing also rests on a ground in article 6(1) and one of the article 9 grounds applies. A security purpose is not among them. In turn, holding such a record for the program runs through the employment condition, which asks whether the processing is necessary to perform an obligation or a right imposed by law, and which requires the appropriate policy document to be in place when it is carried out.",
+       "sources": [
+        {
+         "anchor": "uk-gdpr",
+         "title": "Regulation (EU) 2016/679 as it has effect in domestic law, articles 6, 9, 22A to 22D, and 35",
+         "establishes": "The grounds, the closed categories, when an assessment is owed, and a rule on deciding about someone by machine that is not the Union's.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-gdpr"
+        },
+        {
+         "anchor": "uk-dpa-2018",
+         "title": "Data Protection Act 2018, section 10 and Schedule 1",
+         "establishes": "The condition on which an employer may process a closed category at all, and the document that condition requires to exist before the processing starts.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-dpa-2018"
         }
        ]
       }
@@ -2549,6 +2607,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
         }
        ]
+      },
+      {
+       "id": "DP012/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "The appropriate policy document has to explain the policies on retention and erasure of the data processed under the condition, and to give an indication of how long they are likely to be kept. An indication is what is asked for, not a period.",
+       "sources": [
+        {
+         "anchor": "uk-dpa-2018",
+         "title": "Data Protection Act 2018, section 10 and Schedule 1",
+         "establishes": "The condition on which an employer may process a closed category at all, and the document that condition requires to exist before the processing starts.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-dpa-2018"
+        }
+       ]
       }
      ]
     },
@@ -2712,6 +2785,21 @@
          "title": "ENISA Threat Landscape 2020: Insider Threat",
          "establishes": "Attack vectors, incident findings, and mitigation at the level of general control categories, in the agency's only thematic report on the subject.",
          "url": "https://alessandroaledda.com/intra/sources/#enisa-2020"
+        }
+       ]
+      },
+      {
+       "id": "MD001/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "What may be looked for is a closed list. Interception on the employer’s own system is authorized to establish the existence of facts, to ascertain compliance with regulatory or self-regulatory practices, to ascertain or demonstrate the standards achieved by the people using the system, in the interests of national security, to prevent or detect crime, to investigate or detect the unauthorized use of that or any other telecommunication system, or to secure the effective operation of the system. A purpose outside the list is not authorized by these regulations.",
+       "sources": [
+        {
+         "anchor": "uk-monitoring-regs",
+         "title": "Investigatory Powers (Interception by Businesses etc. for Monitoring and Record-Keeping Purposes) Regulations 2018",
+         "establishes": "The closed list of purposes for which an employer may intercept communications on its own system, and the four conditions on doing it, of which one is telling everyone who may use the system.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
         }
        ]
       }
@@ -3008,6 +3096,21 @@
          "title": "NSMs grunnprinsipper for IKT-sikkerhet 2.1",
          "establishes": "A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.",
          "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
+        }
+       ]
+      },
+      {
+       "id": "MD003/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Investigating or detecting the unauthorized use of that or any other telecommunication system is named in the list of purposes in its own right, so the misuse of the employer’s own system is a purpose the regulations authorize interception for rather than one that has to be brought under another.",
+       "sources": [
+        {
+         "anchor": "uk-monitoring-regs",
+         "title": "Investigatory Powers (Interception by Businesses etc. for Monitoring and Record-Keeping Purposes) Regulations 2018",
+         "establishes": "The closed list of purposes for which an employer may intercept communications on its own system, and the four conditions on doing it, of which one is telling everyone who may use the system.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
         }
        ]
       }
@@ -3354,6 +3457,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "MD005/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Inspection that amounts to interception in the course of transmission is authorized only on the express consent of the system controller, only for a purpose in the list, and only where it is effected solely to monitor or record communications relevant to the activities carried on and the system is provided wholly or partly in connection with them.",
+       "sources": [
+        {
+         "anchor": "uk-monitoring-regs",
+         "title": "Investigatory Powers (Interception by Businesses etc. for Monitoring and Record-Keeping Purposes) Regulations 2018",
+         "establishes": "The closed list of purposes for which an employer may intercept communications on its own system, and the four conditions on doing it, of which one is telling everyone who may use the system.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
+        }
+       ]
       }
      ]
     },
@@ -3523,6 +3641,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
         }
        ]
+      },
+      {
+       "id": "MD006/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Recording what passes through the employer’s own messaging system is interception in the course of transmission. It is authorized on the express consent of the system controller, for a purpose in the closed list, and on four conditions, of which the third is that the system controller has made all reasonable efforts to inform every person who may use the system that communications transmitted by it may be intercepted.",
+       "sources": [
+        {
+         "anchor": "uk-monitoring-regs",
+         "title": "Investigatory Powers (Interception by Businesses etc. for Monitoring and Record-Keeping Purposes) Regulations 2018",
+         "establishes": "The closed list of purposes for which an employer may intercept communications on its own system, and the four conditions on doing it, of which one is telling everyone who may use the system.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
+        }
+       ]
       }
      ]
     },
@@ -3664,6 +3797,27 @@
          "title": "Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale",
          "establishes": "When an employer may look into a work mailbox or a worker's personal areas on its equipment, that monitoring of internet use is outside what it may do at all, and that the regulation cannot be contracted around.",
          "url": "https://alessandroaledda.com/intra/sources/#no-innsyn-epost"
+        }
+       ]
+      },
+      {
+       "id": "MD008/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Intercepting a communication in the course of its transmission without lawful authority is a criminal offence. A person with a right to control the operation or use of a private system, or who has that person’s express or implied consent, is outside the offence, so an employer reading on its own system does not commit it by that route. What the offence does is put the question of authority before the question of proportionality. As to that authority, opening the content in transmission is what these regulations authorize, and they authorize it only for a purpose in the closed list and only where the interception is effected solely to monitor or record communications relevant to the activities carried on.",
+       "sources": [
+        {
+         "anchor": "uk-ipa-2016",
+         "title": "Investigatory Powers Act 2016, sections 3 and 46",
+         "establishes": "That intercepting a communication in transmission without lawful authority is a criminal offence, and that a person with a right to control a private system is outside it.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-ipa-2016"
+        },
+        {
+         "anchor": "uk-monitoring-regs",
+         "title": "Investigatory Powers (Interception by Businesses etc. for Monitoring and Record-Keeping Purposes) Regulations 2018",
+         "establishes": "The closed list of purposes for which an employer may intercept communications on its own system, and the four conditions on doing it, of which one is telling everyone who may use the system.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
         }
        ]
       }
@@ -5161,6 +5315,21 @@
          "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
          "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
+        }
+       ]
+      },
+      {
+       "id": "BA007/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "The rule here is not the Union’s. A decision is based solely on automated processing where there is no meaningful human involvement in taking it, and how far it was reached by profiling is among the things to be weighed in judging whether the involvement was meaningful. A decision is significant where it produces a legal effect or a similarly significant one. The prohibition on taking such a decision by machine alone bites only where it rests entirely or partly on the closed categories, or where the processing relies on the recognized legitimate interests ground. Outside those it may be taken by machine alone, provided the safeguards are in place: the person is informed of the decision, can make representations about it, can obtain human intervention, and can contest it.",
+       "sources": [
+        {
+         "anchor": "uk-gdpr",
+         "title": "Regulation (EU) 2016/679 as it has effect in domestic law, articles 6, 9, 22A to 22D, and 35",
+         "establishes": "The grounds, the closed categories, when an assessment is owed, and a rule on deciding about someone by machine that is not the Union's.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-gdpr"
         }
        ]
       }
@@ -6699,6 +6868,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#no-nsm"
         }
        ]
+      },
+      {
+       "id": "AW002/GB",
+       "standing": "mandatory",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "The system controller has to have made all reasonable efforts to inform every person who may use the system that communications transmitted by it may be intercepted. Everyone who may use it, not everyone employed, and reasonable efforts rather than acknowledgement.",
+       "sources": [
+        {
+         "anchor": "uk-monitoring-regs",
+         "title": "Investigatory Powers (Interception by Businesses etc. for Monitoring and Record-Keeping Purposes) Regulations 2018",
+         "establishes": "The closed list of purposes for which an employer may intercept communications on its own system, and the four conditions on doing it, of which one is telling everyone who may use the system.",
+         "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
+        }
+       ]
       }
      ]
     },
@@ -6893,7 +7077,7 @@
   }
  ],
  "counts": {
-  "established": 339,
+  "established": 350,
   "not covered": 0,
   "unread": 0,
   "open": 0
