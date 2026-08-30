@@ -41,7 +41,8 @@ A **cell** is the measure as one jurisdiction has it:
 
 | field | |
 |---|---|
-| `id` | the control identifier, `GV001/EU` |
+| `id` | the control identifier, `GV001/EU`, on a binding row and empty on any other, since a standard and a study are cited by their own reference |
+| `standing` | `mandatory`, `recommended`, or `reported`: what the row weighs, taken from the kind of the strongest source under it |
 | `jurisdiction` | the code |
 | `state` | `established` where a source that has been read sets the condition |
 | `requirement` | what that source establishes for this measure |

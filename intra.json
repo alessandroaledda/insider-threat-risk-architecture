@@ -173,7 +173,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "GV001/EU",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The Union-funded manual addresses how a program is structured, and states no legal basis for any of it.",
@@ -187,7 +188,8 @@
        ]
       },
       {
-       "id": "GV001/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The charter is written to be reviewed against rather than filed: governance and culture are set out as things a program is measured on, not as preamble to the controls.",
@@ -226,7 +228,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "GV003/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The group is named and its membership drawn: physical and information security, technology, human resources, vetting, facilities, contracts, procurement, finance, counter fraud, legal, training, communications, and a staff or trade union representative. What the group decides is not stated.",
@@ -253,7 +256,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "GV004/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "One board member holds overall responsibility for protective security, and a non-executive director acts as an independent champion for it. Below them a director carries the strategy into policy, and senior staff in each business area answer for the risk assessment and for implementation in their own.",
@@ -274,6 +278,7 @@
       },
       {
        "id": "GV004/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "The technician who reached into the accounts held the role and not the instruction. A signed confidentiality undertaking is not the documented instruction the Regulation asks of anyone processing on the controller’s behalf.",
@@ -300,7 +305,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "GV005/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The definitions of insider, insider risk, insider threat, and insider event were revised, and they are organized around intent.",
@@ -314,7 +320,8 @@
        ]
       },
       {
-       "id": "GV005/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The definitions are agreed to be used consistently, and intentional and unintentional events are held on one spectrum so that a severity scale does not have to choose between them.",
@@ -328,7 +335,8 @@
        ]
       },
       {
-       "id": "GV005/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "What counts as a security incident has to be defined clearly and marked off, as far as it can be, from the disruptions of ordinary operation. Everyone involved in handling one has to know the definition, and the definition and the thresholds at which it is met should follow the protection the affected processes, systems, and applications need. A single procedure for classifying incidents and disruptions should be settled, and agreed between security management and the function that handles ordinary faults.",
@@ -342,7 +350,8 @@
        ]
       },
       {
-       "id": "GV005/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "The organization is to define what an insider threat is, clearly, and the definition offered runs on intent and on standing: malicious, negligent, or compromised, and covering employees and contractors alike.",
@@ -369,7 +378,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "GV006/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "An escalation strategy is formulated beyond the communication and contact strategy and agreed between the people who handle ordinary faults and information security management. It should say unambiguously who is to be brought in, by what route, and when, for each kind of detected or suspected disturbance, what measures an escalation leads to, and how the response is to run. The contact strategy under it settles who must be informed and who may be, by whom, in what order, and in what depth, and who may pass information about an incident outside. It is reviewed at intervals and the paths are practiced in exercises.",
@@ -383,7 +393,8 @@
        ]
       },
       {
-       "id": "GV006/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The monitoring process in the security operations function has unambiguous rules about when an incident is reported to the management answerable for it.",
@@ -411,6 +422,7 @@
      "cells": [
       {
        "id": "GV007/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be recorded for each stream the program collects, before it collects it, and the register has to survive the article 5(2) test of being shown rather than asserted.",
@@ -431,6 +443,7 @@
       },
       {
        "id": "GV007/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The national employment provision cannot carry the register on its own: the ground recorded has to be one that stands under article 6 itself, the employer’s legitimate interests among them.",
@@ -445,6 +458,7 @@
       },
       {
        "id": "GV007/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Only data directly necessary for the employment relationship may be processed, and no exception to that test can be made even with the employee’s consent.",
@@ -459,6 +473,7 @@
       },
       {
        "id": "GV007/BE",
+       "standing": "mandatory",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Four purposes are listed and the list is closed: unlawful or defamatory acts, the confidential economic interests of the undertaking, the security and technical functioning of its systems, and good faith observance of the rules it has set for using the technology.",
@@ -473,6 +488,7 @@
       },
       {
        "id": "GV007/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "A control measure rests on objective grounds in the circumstances of the undertaking and must not be a disproportionate burden on the person subject to it. No instruction and no agreement may depart from that to the worker’s detriment, so an agreement cannot be the ground for reaching further.",
@@ -506,6 +522,7 @@
      "cells": [
       {
        "id": "GV008/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The assessment has to be completed before the measure operates, not compiled after it, wherever the processing is likely to result in a high risk.",
@@ -520,6 +537,7 @@
       },
       {
        "id": "GV008/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Its absence is enough on its own: a decision has turned on the missing procedural steps without reaching the purpose the processing served.",
@@ -547,6 +565,7 @@
      "cells": [
       {
        "id": "GV009/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The program has to be able to produce, for any decision, the material showing how it was reached. Holding a defensible view of it is not the same evidence.",
@@ -574,6 +593,7 @@
      "cells": [
       {
        "id": "GV010/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The body brought in is the social and economic committee, informed and consulted before the decision, and informed again before automated personnel management processing is introduced.",
@@ -588,6 +608,7 @@
       },
       {
        "id": "GV010/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The body brought in is the works council, and its role is co-determination rather than consultation: the employer cannot proceed over its objection.",
@@ -602,6 +623,7 @@
       },
       {
        "id": "GV010/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "The body brought in is the union representation, and its agreement is the condition on which any instrument capable of remote monitoring may exist at all.",
@@ -616,6 +638,7 @@
       },
       {
        "id": "GV010/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The body brought in is the works council, and its consent is required for the arrangement itself, not only for the instrument under it.",
@@ -630,6 +653,7 @@
       },
       {
        "id": "GV010/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Camera surveillance, access control, other technical monitoring, and the use of electronic mail and the network go through the cooperation procedure before the employer decides. Where the cooperation acts do not apply, the employees or their representatives are heard first.",
@@ -644,6 +668,7 @@
       },
       {
        "id": "GV010/BE",
+       "standing": "mandatory",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "The works council is informed on every aspect of the monitoring before the system is installed, and failing a works council the prevention committee, then the union delegation, then the workers.",
@@ -658,6 +683,7 @@
       },
       {
        "id": "GV010/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The need for the measure, its design, its implementation, and any material change to it are discussed with the elected representatives as early as possible.",
@@ -672,6 +698,7 @@
       },
       {
        "id": "GV010/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The works council does not consent to a control measure as a step before it, but as the condition of its legal effect. What brings a measure inside the requirement is whether it touches human dignity.",
@@ -699,6 +726,7 @@
      "cells": [
       {
        "id": "GV011/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Workers’ representatives have to be told before a high-risk system is put into use. The duty applies from 2 December 2027 for the Annex III categories.",
@@ -731,7 +759,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "GV012/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The board member who holds the responsibility is to be regularly engaged with the people running the program and to hold a firm understanding of the risks it addresses. What is to be reported, and how often, is not stated.",
@@ -758,7 +787,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "GV013/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The framework is offered as something an organization reviews itself against, which makes the review a recurring act rather than a one-off inspection.",
@@ -772,7 +802,8 @@
        ]
       },
       {
-       "id": "GV013/GB",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The advice literature has itself been coded and characterised, so what guidance instructs can be examined rather than assumed.",
@@ -787,6 +818,7 @@
       },
       {
        "id": "GV013/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The need for the measures is evaluated at intervals, and the evaluation is made together with the elected representatives rather than by the employer alone.",
@@ -814,6 +846,7 @@
      "cells": [
       {
        "id": "GV014/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The reply is owed within one month of the request. It can be extended by two more where the request is complex or the requests are many, but the extension and the reasons for it have to reach the person inside the first month. Where the program will not act at all, that is said inside the same month, with the routes to a complaint and to a court named.",
@@ -828,6 +861,7 @@
       },
       {
        "id": "GV014/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Answering in stages across five months, and then handing over the correspondence purged of many elements without saying what had been taken out or why, was held not to be an answer.",
@@ -862,7 +896,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "PS001/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Good practice treats screening at recruitment as the opening of a process rather than its completion.",
@@ -877,6 +912,7 @@
       },
       {
        "id": "PS001/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "What needs the works council’s consent is the form put to the person: a personnel questionnaire asking beyond general particulars and the professional qualifications for the work intended. Verification carried out against a third party is not reached by it.",
@@ -891,6 +927,7 @@
       },
       {
        "id": "PS001/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Verification of an employee’s background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests.",
@@ -905,6 +942,7 @@
       },
       {
        "id": "PS001/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "The people authorized to reach the systems that matter are identified on a prior assessment of experience, capability, and trustworthiness, and have to give suitable guarantee that they will keep to the rules on information security. The trustworthiness of human resources is one of the areas the determination requires a written policy to cover.",
@@ -918,7 +956,8 @@
        ]
       },
       {
-       "id": "PS001/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "A new employee should be checked for trustworthiness before being hired, and everyone taking part in the selection should check whether what the candidate says bearing on that is credible. The curriculum vitae is examined for correctness, plausibility, and completeness, and whatever looks conspicuous in it is followed up. Separately, the qualifications a post requires are to be formulated exactly, and a post filled only by someone who has them.",
@@ -933,6 +972,7 @@
       },
       {
        "id": "PS001/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "The requirements a person has to satisfy to hold a post are defined, in particular on confidentiality, and they are taken into account in selecting who will hold it. What is verified is named: the employment history, the training, and other references, in conformity with the law and with respect for fundamental rights.",
@@ -946,7 +986,8 @@
        ]
       },
       {
-       "id": "PS001/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "A background verification check should be carried out before a person is brought into a sensitive role, and it takes into account the applicable laws, regulations, and ethics in proportion to the business requirements.",
@@ -960,7 +1001,8 @@
        ]
       },
       {
-       "id": "PS001/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "Every entity has a screening policy that has been settled. On entering service, and on a change of function, a certificate of conduct may be asked for on the basis of a weighing of the risk.",
@@ -988,6 +1030,7 @@
      "cells": [
       {
        "id": "PS002/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals.",
@@ -1001,7 +1044,8 @@
        ]
       },
       {
-       "id": "PS002/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "Depth follows the area and not the person. In a high security area a further check is carried out on top of the basic check of trustworthiness, and where the work touches classified material the person goes through the statutory security clearance. This sits at the grade the compendium keeps for a raised protection need, which is itself settled by an individual risk analysis.",
@@ -1016,6 +1060,7 @@
       },
       {
        "id": "PS002/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "For each post directly bound up with the handling of information or services, the security responsibilities it carries are defined, and they are based on the risk analysis. The measure does not apply at the basic category and applies at the two above it, so the scheme grades the obligation itself by what the system holds.",
@@ -1029,7 +1074,8 @@
        ]
       },
       {
-       "id": "PS002/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "What the background check weighs is the classification of the information to be reached and the risks perceived, so the depth follows what the role will hold rather than where the role sits.",
@@ -1043,7 +1089,8 @@
        ]
       },
       {
-       "id": "PS002/FI",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "The authority has to recognize which of its functions call for special trustworthiness and reliability in the people employed in them. The clearance that follows can rest on a concise, a basic, or a comprehensive investigation, and which of the three is used depends on the information at stake.",
@@ -1057,7 +1104,8 @@
        ]
       },
       {
-       "id": "PS002/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The certificate of conduct is asked for on a weighing of the risk rather than as a matter of course, so what sets the depth is the assessment and not the grade of the post.",
@@ -1085,6 +1133,7 @@
      "cells": [
       {
        "id": "PS003/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them.",
@@ -1099,6 +1148,7 @@
       },
       {
        "id": "PS003/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "System administrators are a category of their own. They are identified on the same prior assessment of experience, capability, and trustworthiness, stated in a requirement separate from the one covering everyone else admitted to the systems that matter.",
@@ -1113,6 +1163,7 @@
       },
       {
        "id": "PS003/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Security and system administrators hold a personal security clearance granted by the competent authority, either because the risk analysis called for it or because a particular system requires it.",
@@ -1126,7 +1177,8 @@
        ]
       },
       {
-       "id": "PS003/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Personnel with access to the organization’s most critical information or technology are to be authenticated at the point of access, and the framework says what that means: the person proves their identity technically when they reach the asset, and is not merely validated once at onboarding.",
@@ -1140,7 +1192,8 @@
        ]
       },
       {
-       "id": "PS003/FI",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Where international requirements demand it, a person is given access to information at the third classification level and above only after a personnel security clearance has been issued for that level.",
@@ -1167,7 +1220,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "PS004/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Contracting is covered alongside employment, so the standard is set for people the organization does not employ.",
@@ -1182,6 +1236,7 @@
       },
       {
        "id": "PS004/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it.",
@@ -1195,7 +1250,8 @@
        ]
       },
       {
-       "id": "PS004/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "The background check is repeated periodically for the people in sensitive roles, so it is a standing condition of holding the role rather than a gate at the entrance.",
@@ -1209,7 +1265,8 @@
        ]
       },
       {
-       "id": "PS004/FI",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "The clearances, the handling rights, the rights of use, the access rights, and the awareness of the duty not to disclose are all kept updated as changes occur, and the training that goes with a change is given before the change.",
@@ -1236,7 +1293,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "PS005/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Briefing at joining is treated as part of ongoing personnel security rather than as an administrative step.",
@@ -1250,7 +1308,8 @@
        ]
       },
       {
-       "id": "PS005/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "External personnel are bound to the same laws, rules, and internal regulations as employees. Those brought in briefly or once are to be supervised in security relevant areas, and those there longer are inducted as employees are and given a deputizing arrangement of their own. A written confidentiality agreement is concluded before an external person is given access to confidential information, and on leaving they hand over their work and give back whatever access they were issued.",
@@ -1265,6 +1324,7 @@
       },
       {
        "id": "PS005/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Where staff are contracted through a third party, the duties and obligations of each party and of the contracted staff are established, and so is the procedure for resolving an incident arising from a failure to meet them.",
@@ -1291,7 +1351,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "PS006/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "At the start of the employment the person is informed of the rules, the instructions, and the procedures that exist, and a checklist and a named contact should be set up to carry it. Every employee is obliged to keep to the law and to the internal rules, has to know the legal frame of their own work, and has their tasks and responsibilities documented. They are told that what they receive at work is for internal use only, and made aware that they protect the organization’s information security outside working hours and away from its premises as well.",
@@ -1306,6 +1367,7 @@
       },
       {
        "id": "PS006/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Each person working on the system is informed of the duties and responsibilities their post carries: the disciplinary measures that may follow, what is owed during the post and what is owed on its ending or on a move to another, and the duty of confidentiality over the data they reach, both while they hold the post and afterwards. Above the basic category, express confirmation that the person knows the security instructions and accepts them has to be obtained.",
@@ -1319,7 +1381,8 @@
        ]
       },
       {
-       "id": "PS006/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "Everyone, internal and external, is pointed to their responsibilities for information security on appointment or on a change of function, and the rules and instructions that apply to them are to be simple to reach.",
@@ -1347,6 +1410,7 @@
      "cells": [
       {
        "id": "PS007/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Access rights are modified on a change of employment and not only on its end, so a move inside the organization is an event the entitlements have to answer to.",
@@ -1361,6 +1425,7 @@
       },
       {
        "id": "PS007/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked when something changes. A transfer of personnel is named as such a change, alongside the end of an employment.",
@@ -1374,7 +1439,8 @@
        ]
       },
       {
-       "id": "PS007/FR",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The procedures for arrival, departure, and change of function are defined together with the human resources function, and what they have to reach is listed: the creation and deletion of accounts and the mailboxes attached to them, the rights to grant and to withdraw from a person whose function changes, physical access to the premises with badges and keys issued and returned, the mobile equipment assigned, and the handling of sensitive information, transferring or changing the passwords and codes on existing systems among it.",
@@ -1388,7 +1454,8 @@
        ]
       },
       {
-       "id": "PS007/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "A human resources process for cybersecurity is developed and maintained, and it runs across recruitment, onboarding, employment, change of function, and offboarding rather than attaching to any one of them.",
@@ -1402,7 +1469,8 @@
        ]
       },
       {
-       "id": "PS007/FI",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Changes in what a person may handle are noted at each phase of the employment, and a change of responsibilities is named alongside recruitment and termination as one of the three the attention goes to.",
@@ -1416,7 +1484,8 @@
        ]
       },
       {
-       "id": "PS007/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "A change of function is one of the two occasions on which the certificate of conduct may be asked for, the other being entry into service.",
@@ -1443,7 +1512,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "PS008/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Exit is covered as a stage of personnel security, with what is withdrawn and what is restated set out together.",
@@ -1458,6 +1528,7 @@
       },
       {
        "id": "PS008/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The mailbox is closed when the employment ends, and stays open only where there is a particular need and only for a short period.",
@@ -1472,6 +1543,7 @@
       },
       {
        "id": "PS008/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Leaving the account running after the employment ends is itself a processing and needs a ground of its own. Telling correspondents the person has gone, and keeping what may be wanted later, are not grounds, and running past the period the employer itself declared counts against it. Separately, obligations in the field of information security that stay valid after the employment ends, or changes, are fixed at the contractual level, confidentiality clauses among the examples given, on essential subjects.",
@@ -1492,6 +1564,7 @@
       },
       {
        "id": "PS008/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Access rights are modified on termination, and the register of what was granted is what the withdrawal is checked against.",
@@ -1505,7 +1578,8 @@
        ]
       },
       {
-       "id": "PS008/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The successor is briefed in time, by the person leaving where that can be done, and where it cannot the person leaving writes the documentation instead. Every document, key, device, badge, and access right received in the course of the work is collected back. The obligations of confidentiality are put to the person once more before they go, and to keep conflicts of interest from arising a non-competition clause and a waiting period should be agreed. Contingency and other plans are updated, and every part of the organization affected is told, the security staff and the IT function among them.",
@@ -1519,7 +1593,8 @@
        ]
       },
       {
-       "id": "PS008/FR",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The rights assigned to a person are revoked on their departure, and the procedure covers the accounts and mailboxes, the badges and keys, the mobile equipment issued, and the passwords and codes on existing systems, which are transferred or changed.",
@@ -1533,7 +1608,8 @@
        ]
       },
       {
-       "id": "PS008/FI",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "On the termination of the employment the keys, the badges, and the classified material are collected in, the access, handling, and use rights are deleted, and the person is reminded of the responsibilities of non-disclosure that remain.",
@@ -1560,7 +1636,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "PS009/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Line management is treated as the route by which concern reaches the program, which makes the manager part of the control.",
@@ -1588,6 +1665,7 @@
      "cells": [
       {
        "id": "PS010/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Notes kept by managers about a worker’s circumstances are processing like any other: outside a declared purpose and a lawful ground they have neither.",
@@ -1615,6 +1693,7 @@
      "cells": [
       {
        "id": "PS011/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "A record touching union membership or activity falls in the stricter category, whatever the file it sits in and whoever wrote it.",
@@ -1629,6 +1708,7 @@
       },
       {
        "id": "PS011/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Trade union membership is one of the categories article 9 prohibits the processing of outright. The prohibition lifts only on one of that article’s own grounds, and the employment one requires that Union or member state law or a collective agreement authorize the processing and provide appropriate safeguards for the person.",
@@ -1656,6 +1736,7 @@
      "cells": [
       {
        "id": "PS012/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "A record of absence or illness held for the program falls in the stricter category, and holding it for security purposes does not move it out.",
@@ -1670,6 +1751,7 @@
       },
       {
        "id": "PS012/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Data concerning health are one of the categories article 9 prohibits the processing of outright, so a security purpose is not on its own what makes holding them lawful. The prohibition lifts only on one of that article’s grounds, and the employment one requires that Union or member state law or a collective agreement authorize it and provide appropriate safeguards.",
@@ -1696,7 +1778,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "PS013/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Reporting routes are covered as good practice, including the route by which a person reports about themselves.",
@@ -1711,6 +1794,7 @@
       },
       {
        "id": "PS013/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "A standing route on which a worker reports about themselves becomes a personnel questionnaire once it asks beyond general particulars and qualifications, and introducing it then needs the works council’s consent.",
@@ -1746,6 +1830,7 @@
      "cells": [
       {
        "id": "DP001/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Asset management is named among the measures an entity in scope has to take, alongside access control policies and human resources security in the same point. What the identification covers, and how far it goes, is left to the state of the art.",
@@ -1773,6 +1858,7 @@
      "cells": [
       {
        "id": "DP002/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A system of classification levels is laid down and every asset is placed in one, on confidentiality, integrity, and authenticity. The handling policy that follows runs from acquisition through use, storage, and transport to disposal, and reaches everyone who handles an asset.",
@@ -1800,6 +1886,7 @@
      "cells": [
       {
        "id": "DP003/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The inventory is to be complete, accurate, up to date, and consistent, and changes to its entries are recorded so that they can be traced.",
@@ -1827,6 +1914,7 @@
      "cells": [
       {
        "id": "DP004/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Access control policies are named among the measures an entity in scope has to take, and for one class of entity the implementing rules say what they hold: rights assigned and revoked on need to know, least privilege, and separation of duties, modified on termination or change of employment, authorized by the relevant persons, limited in scope and duration for suppliers and visitors, held in a register, and logged.",
@@ -1847,6 +1935,7 @@
       },
       {
        "id": "DP004/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Permissions are assigned on least privilege, separation of functions, and need to know. How an account authenticates is set against the risk, weighed on the privileges it holds, the criticality of the systems, and the kind of operations it can perform on them, and multi-factor authentication is used on the systems that matter.",
@@ -1860,7 +1949,8 @@
        ]
       },
       {
-       "id": "DP004/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "An identifier or an entitlement may be granted only on actual need and on what the task requires, and what is no longer needed is removed when the person changes. Anything beyond the standard is granted only after a further justification and a check of it. Every entitlement is set up through separate administrative roles, and the duties the organization has declared incompatible are held apart by the entitlement system itself.",
@@ -1875,6 +1965,7 @@
       },
       {
        "id": "DP004/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "The access control system is organized so that two or more people have to concur on a critical task, and the decree says what that is for: to cancel the possibility that a single authorized individual could abuse their rights to commit an unlawful or unauthorized act. All access is forbidden save on express authorization, privileges are cut to the minimum needed to do the work, and only staff with the competence to do so may grant, alter, or annul an authorization.",
@@ -1902,6 +1993,7 @@
      "cells": [
       {
        "id": "DP005/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Privileged and system administration accounts carry policies of their own, strong identification and authentication among them, and the systems used to administer are kept for administration and separated from everything else.",
@@ -1916,6 +2008,7 @@
       },
       {
        "id": "DP005/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Every account is inventoried and approved by someone inside the organization, those with administrative privileges and those used for remote access included, and accounts are individual to a user unless there is a documented technical reason otherwise. A system administrator’s privileged and unprivileged accounts are to be completely distinct, and to carry different credentials.",
@@ -1929,7 +2022,8 @@
        ]
       },
       {
-       "id": "DP005/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "An administrative activity should be one that two people have to carry out together. Where multi-factor authentication is used the factors are split between the two of them, and where a password is used it is divided in two and each of them holds a half. This sits at the grade the compendium keeps for a raised protection need.",
@@ -1944,6 +2038,7 @@
       },
       {
        "id": "DP005/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Development and operation are not to fall to the same person, nor are authorizing a use and controlling it. At the high category the same person may not hold configuration and maintenance together, and auditing or supervision may not be combined with any other function at all. Accounts carrying audit privileges are strictly controlled and personal to their holder, and the system’s security information is reachable only by the authorized administrators.",
@@ -1957,7 +2052,8 @@
        ]
       },
       {
-       "id": "DP005/FR",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "An exhaustive inventory of the privileged accounts is kept current, and reviewed periodically to make sure access to sensitive items is held, the working directories and the mailboxes of senior managers named among them. The review is also what removes the access left behind by a departure. A simple naming convention for service and administration accounts is wanted, because it makes both the review and the detection of an intrusion easier.",
@@ -1971,7 +2067,8 @@
        ]
       },
       {
-       "id": "DP005/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "Only authorized personnel reach the system utilities, and only at the moments when reaching them is strictly necessary. Their use is logged, and the log is available for examination for half a year.",
@@ -1999,6 +2096,7 @@
      "cells": [
       {
        "id": "DP006/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Access rights are reviewed at planned intervals and changed on organizational change, and the result of the review is documented together with the changes it called for.",
@@ -2013,6 +2111,7 @@
       },
       {
        "id": "DP006/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked where a change calls for it.",
@@ -2026,7 +2125,8 @@
        ]
       },
       {
-       "id": "DP006/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "Which identifiers, groups, and rights profiles have been permitted and created is documented, and the documentation is checked at intervals against the state the entitlements are actually in, and against whether what has been granted still answers to the security requirements and to what the users now do. The documentation itself is protected from unauthorized access.",
@@ -2040,7 +2140,8 @@
        ]
       },
       {
-       "id": "DP006/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "Every access right that has been issued is assessed at least once a year.",
@@ -2068,6 +2169,7 @@
      "cells": [
       {
        "id": "DP007/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be identified before anything is collected through the loss prevention capability, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
@@ -2088,6 +2190,7 @@
       },
       {
        "id": "DP007/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach a capability that inspects material other than correspondence is not decided in it.",
@@ -2102,6 +2205,7 @@
       },
       {
        "id": "DP007/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The social and economic committee has to be informed and consulted before the decision to deploy the capability, and the worker informed before content of theirs is inspected.",
@@ -2116,6 +2220,7 @@
       },
       {
        "id": "DP007/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before the loss prevention capability is introduced at all.",
@@ -2130,6 +2235,7 @@
       },
       {
        "id": "DP007/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the loss prevention capability.",
@@ -2144,6 +2250,7 @@
       },
       {
        "id": "DP007/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before the arrangement bringing the loss prevention capability in is adopted.",
@@ -2158,6 +2265,7 @@
       },
       {
        "id": "DP007/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Express prior information to the workers is required before the loss prevention capability is put into operation.",
@@ -2172,6 +2280,7 @@
       },
       {
        "id": "DP007/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The works council’s consent is the condition of the loss prevention capability having legal effect, and the threshold is whether it touches human dignity.",
@@ -2199,6 +2308,7 @@
      "cells": [
       {
        "id": "DP008/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The agreement is owed twice: once on introducing the capability and again on the manner in which it is used, so a change to the rules it enforces reopens it.",
@@ -2213,6 +2323,7 @@
       },
       {
        "id": "DP008/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The consent that conditions the capability’s legal effect attaches to the measure as it is operated, so rules that alter what it reaches fall to be consented to as the capability itself was.",
@@ -2227,6 +2338,7 @@
       },
       {
        "id": "DP008/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "Consent is owed on the arrangement being amended and on its being withdrawn, not only on its adoption, so the rules cannot be revised around the works council.",
@@ -2241,6 +2353,7 @@
       },
       {
        "id": "DP008/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "The criteria for using the capability are drawn up with the participation of the workers’ representatives, which places the rules themselves, and not only the decision to deploy, inside what is settled with them.",
@@ -2268,6 +2381,7 @@
      "cells": [
       {
        "id": "DP009/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Removable media carry a policy of their own, communicated to employees and to the third parties who connect them, and it provides for a technical prohibition of connections the entity has not allowed.",
@@ -2295,6 +2409,7 @@
      "cells": [
       {
        "id": "DP010/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Policies and procedures on the use of cryptography and, where appropriate, on encryption are named among the measures an entity in scope has to take.",
@@ -2322,6 +2437,7 @@
      "cells": [
       {
        "id": "DP011/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Twenty-one days is the outer limit for email metadata before the article 4 route is engaged, and ninety days of it alongside browsing logs has drawn a fine. A five year backup of everything passing through the mailboxes, kept to preserve the information estate, was held unlawful where no notice given to the staff described it.",
@@ -2348,6 +2464,7 @@
       },
       {
        "id": "DP011/BE",
+       "standing": "mandatory",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Whether personal data are kept, where they are kept, and for how long are among the things stated to the workforce before the monitoring begins.",
@@ -2362,6 +2479,7 @@
       },
       {
        "id": "DP011/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "What is left in the mailbox and in the worker’s own areas, and is not necessary for the daily running of the undertaking, is deleted within a reasonable time of the employment ending.",
@@ -2389,6 +2507,7 @@
      "cells": [
       {
        "id": "DP012/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "What is opened and proves not to be necessary or relevant to the purpose is closed at once, and any copy of it deleted.",
@@ -2402,7 +2521,8 @@
        ]
       },
       {
-       "id": "DP012/NO",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The security relevant data are to be used only to safeguard the security of the systems, and kept long enough that unwanted activity can be discovered and mapped after the fact. What weighs on the period is that the data may later be wanted for an investigation, for assessing damage, and for trend analysis, held against the point that they can hold confidential information about the individual employee.",
@@ -2416,7 +2536,8 @@
        ]
       },
       {
-       "id": "DP012/AT",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "Log files hold personal data in many cases, so they may be used only for purposes compatible with the one they were collected for. Where that restriction bites, the handbook says it is resolved by removing the personal data or by anonymizing them, and states that pseudonymizing them is not enough.",
@@ -2443,7 +2564,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "DP013/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The collected security relevant data are to be held centrally, as a log server assembly placed in a network segment set up for the purpose, and the administrators who operate it should hold no entitlement to alter or delete what it has recorded. The separation is of the store from the estate it observes and from the people who run that estate.",
@@ -2471,6 +2593,7 @@
      "cells": [
       {
        "id": "DP014/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "A former worker retains a claim on personal material left in the account, and the employer has to be able to answer a request for access to it.",
@@ -2485,6 +2608,7 @@
       },
       {
        "id": "DP014/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "What the employer may reach is the message belonging to it, identified from the sender, the recipient, or the title, and what is opened may not be processed further than the purpose requires nor disclosed during the employment or after it.",
@@ -2499,6 +2623,7 @@
       },
       {
        "id": "DP014/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The worker’s personal areas on the undertaking’s network and equipment are reached on the same conditions as the mailbox, and so is what was deleted from them and survives on a backup.",
@@ -2512,7 +2637,8 @@
        ]
       },
       {
-       "id": "DP014/AT",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "There is no right for a worker to use the employer’s resources privately. Minor private or half private use within ordinary human social behavior should nonetheless be allowed or ignored, and a total prohibition pronounced only in extreme cases.",
@@ -2540,6 +2666,7 @@
      "cells": [
       {
        "id": "DP015/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "Live personal data may be used for a test where depersonalized data would not answer the question, and the legitimate interests ground carries it.",
@@ -2574,7 +2701,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "MD001/EU",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Scoping starts at the level of control categories rather than of tools, and the only Union report to work from stops there and dates from 2020.",
@@ -2602,6 +2730,7 @@
      "cells": [
       {
        "id": "MD002/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The list of assets to be logged is derived from the risk assessment, and what the logs hold is named: inbound and outbound traffic, the creation, modification, and deletion of users and the extension of their permissions, access to systems and applications, authentication events, all privileged access and everything done by administrative accounts, access or changes to critical configuration and backup files, physical access to facilities, and the activation, stopping, and pausing of the logs themselves. They are kept for a period fixed in advance and protected from unauthorized access or change, time sources are synchronized so that logs can be correlated across systems, and the availability of the logging systems is monitored independently of the systems they log.",
@@ -2616,6 +2745,7 @@
       },
       {
        "id": "MD002/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "All remote access and all access made with administrative privileges are recorded. For the systems that matter, the logs needed to monitor security events are acquired and kept securely and, where it can be done, centrally, and how long they are kept is fixed from the risk assessment and documented.",
@@ -2629,7 +2759,8 @@
        ]
       },
       {
-       "id": "MD002/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "A logging policy of its own is drawn up, saying how, where, and what is logged, with the kind and the extent of it following the protection the information needs. All security relevant events on systems and applications are logged, the clocks of everything that logs are kept synchronized and the date and time format made uniform, and it is checked at defined intervals that the logging still works. Data protection law and the co-determination rights of the workforce representation are to be kept to, logging data are deleted on a defined process, and their uncontrolled deletion or alteration is prevented technically. The data should be held centrally, on a log server assembly in a network segment set up for it, and filtered, normalized, aggregated, and correlated for evaluation while a copy is kept in unaltered original form. The administrators who run it should have no entitlement to change or delete what has been recorded.",
@@ -2644,6 +2775,7 @@
       },
       {
        "id": "MD002/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "The audit record carries at least the identifier of the user or entity the event belongs to, the date and time, what information the event was performed on, the type of event, and whether it succeeded or failed. Above the low level the security documentation states which events are audited and how long the records are kept before deletion, the clock is an administration function protected by authentication and integrity, and the records and their backups may be reached or deleted only by duly authorized personnel.",
@@ -2657,7 +2789,8 @@
        ]
       },
       {
-       "id": "MD002/FR",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The critical components are determined first, the workstations of sensitive users named among them, and the logging on each is configured to match. Security critical events are kept for at least a year, or longer where the sector’s legal obligations require it, and the time synchronization source is the same across components so that events can be correlated. At the reinforced level the logs are centralized on a dedicated device, which is wanted for three reasons: automated searching, long archiving, and preventing an attacker from erasing the traces of their passage on what they compromised.",
@@ -2671,7 +2804,8 @@
        ]
       },
       {
-       "id": "MD002/FI",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "The retention follows what the records may later have to answer. At the fourth classification level the essential recordings are kept at least six months; where the limitation periods of the criminal law bear on the information, at least five years, which is also the floor at the two levels above. The clocks within a security domain are synchronized to a single reference, the log files are backed up, a procedure covers their integrity, and they and the register services are protected against unauthorized access.",
@@ -2685,7 +2819,8 @@
        ]
       },
       {
-       "id": "MD002/NO",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "A written strategy for security monitoring settles the purpose and the field of use of what is collected, which data are collected, their secure storage including for legal proceedings, capacity planning, who may reach them, the consolidation of logs from the different units and services, deletion, and the interval at which the strategy is reviewed, at least once a year and after a major incident. What is collected is verified against what was meant to be, the data are archived and digitally signed at intervals for integrity, functionality is put in place that detects attempts to alter or delete a log, everything is synchronized to one and the same time source, and what has lost its operational or security relevance is removed.",
@@ -2699,7 +2834,8 @@
        ]
       },
       {
-       "id": "MD002/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "There is an overview of the log files that are generated. How long the log files and the data in the security information and event monitoring are kept is settled against the risk, and the scenario it is settled against is named: that the attackers have been inside for a long time. Improper alteration or deletion of log data, and any attempt at it, is reported as soon as it can be.",
@@ -2713,7 +2849,8 @@
        ]
       },
       {
-       "id": "MD002/AT",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "Logging security relevant events works as a security measure only where the data are evaluated at regular intervals by an independent reviewer. Where no independent reviewer can be put in place the administrators may do it, and the handbook states the consequence rather than leaving it: checking the administrators’ own activity then becomes hard. The evaluation is to be laid before the data protection officer or the security officer in any case, the responsibility for carrying it out is to be fixed exactly, the four eyes principle should be used in the security critical cases, and it must be ensured by technical or organizational means that the administrators’ activities can be adequately checked.",
@@ -2727,7 +2864,8 @@
        ]
       },
       {
-       "id": "MD002/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "The logging functionality of the protection and detection tools is enabled, the logs are backed up and kept for a period fixed in advance, and they are reviewed regularly for unusual or potentially harmful activity, on a documented procedure.",
@@ -2754,7 +2892,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "MD003/GB",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "A characterization framework and a working tool came out of the research program, which is a starting point a use case can be derived from rather than invented.",
@@ -2768,7 +2907,8 @@
        ]
       },
       {
-       "id": "MD003/GB",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Deploying a research tool inside three organizations for a year surfaced the operational constraints that the detection literature leaves out.",
@@ -2783,6 +2923,7 @@
       },
       {
        "id": "MD003/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Alarm thresholds are set where appropriate, an alarm is raised automatically once one is exceeded, and a qualified response follows in good time. Monitoring is to be automated as far as it can be and built so as to minimize both false positives and false negatives, and a process for correlating and analyzing logs is put in place.",
@@ -2797,6 +2938,7 @@
       },
       {
        "id": "MD003/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Qualitative and quantitative parameters for detecting unauthorized access, or access abusing the privileges granted, are defined, monitored, and documented. The requirement is on essential subjects, and the same annexes do not place it on important ones.",
@@ -2811,6 +2953,7 @@
       },
       {
        "id": "MD003/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "At the high category, measures are applied to prevent, detect, and react to attempts at data mining: the queries are limited, their volume and frequency are monitored, and suspicious behavior is alerted to the security administrators in real time. Systems for detecting advanced threats and anomalous behavior are required at the same category, alongside tools that analyze the activity and the audit information looking for possible or actual compromises.",
@@ -2824,7 +2967,8 @@
        ]
       },
       {
-       "id": "MD003/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "Use cases for the misuse of authentication data are defined, monitored, and acted on, and two of them are named in the text: logins from unusual places, and spikes in failed login attempts. Separately, the creation and modification of accounts carrying special rights is monitored, and where such a change was not authorized it is an information security incident and is recorded and handled as one.",
@@ -2838,7 +2982,8 @@
        ]
       },
       {
-       "id": "MD003/AT",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The handbook sets out what an evaluation looks for: logon and logoff times outside working hours, a build-up of failed logon attempts, a build-up of impermissible access attempts, conspicuously long intervals in which nothing was logged, which points to records having been deleted, and conspicuously long intervals in which no user appears to have changed. Particular attention is to go to every access carried out under an administrator identifier.",
@@ -2852,7 +2997,8 @@
        ]
       },
       {
-       "id": "MD003/NO",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "Tools are taken into use that allow manual and automatic searching and alerting on criteria across everything collected, and that assemble data from different sources on their own so that it can be decided whether the event is real rather than a false positive, and what its extent and character are. Knowledge of the normal state and of the threats is what the searches and the alerting criteria are improved from.",
@@ -2880,6 +3026,7 @@
      "cells": [
       {
        "id": "MD004/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be identified before anything is collected through the endpoint agent, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
@@ -2900,6 +3047,7 @@
       },
       {
        "id": "MD004/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach an agent recording what is done on a device is not decided in it.",
@@ -2914,6 +3062,7 @@
       },
       {
        "id": "MD004/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The social and economic committee has to be informed and consulted before the decision to put the endpoint agent in place, and the worker informed before it reaches them.",
@@ -2928,6 +3077,7 @@
       },
       {
        "id": "MD004/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before introducing the endpoint agent, and again on the manner in which it is used.",
@@ -2942,6 +3092,7 @@
       },
       {
        "id": "MD004/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the endpoint agent.",
@@ -2956,6 +3107,7 @@
       },
       {
        "id": "MD004/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before any arrangement governing the endpoint agent is adopted, amended, or withdrawn.",
@@ -2970,6 +3122,7 @@
       },
       {
        "id": "MD004/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Criteria for use, drawn up with the participation of the workers’ representatives, and express prior information to the workers, are required before putting the endpoint agent into operation.",
@@ -2984,6 +3137,7 @@
       },
       {
        "id": "MD004/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The works council’s consent is the condition of the endpoint agent having legal effect, and the threshold is whether it touches human dignity.",
@@ -2997,7 +3151,8 @@
        ]
       },
       {
-       "id": "MD004/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Endpoint and network protection tools that monitor the behavior of end users for dangerous activity are to be implemented and to be managed. What they are for is stated without euphemism: detecting risky or suspicious behavior by users on devices and networks, including the misuse of systems and attempts to get around the controls, whether these come from an attacker outside or from an insider.",
@@ -3025,6 +3180,7 @@
      "cells": [
       {
        "id": "MD005/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be identified before anything is collected through the traffic inspection, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
@@ -3045,6 +3201,7 @@
       },
       {
        "id": "MD005/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach the inspection of traffic is not decided in it.",
@@ -3059,6 +3216,7 @@
       },
       {
        "id": "MD005/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The social and economic committee has to be informed and consulted before the decision to put the traffic inspection in place, and the worker informed before it reaches them.",
@@ -3073,6 +3231,7 @@
       },
       {
        "id": "MD005/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before introducing the traffic inspection, and again on the manner in which it is used. What brings a device under that agreement is what it is capable of: a system that let supervisors hear conversations between employees was caught by it although nothing was recorded or kept.",
@@ -3093,6 +3252,7 @@
       },
       {
        "id": "MD005/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the traffic inspection.",
@@ -3107,6 +3267,7 @@
       },
       {
        "id": "MD005/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before any arrangement governing the traffic inspection is adopted, amended, or withdrawn.",
@@ -3121,6 +3282,7 @@
       },
       {
        "id": "MD005/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Criteria for use, drawn up with the participation of the workers’ representatives, and express prior information to the workers, are required before putting the traffic inspection into operation.",
@@ -3135,6 +3297,7 @@
       },
       {
        "id": "MD005/BE",
+       "standing": "mandatory",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "What is collected is aggregate and by workstation. Attributing it to a worker is a separate operation with conditions of its own.",
@@ -3149,6 +3312,7 @@
       },
       {
        "id": "MD005/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "Monitoring a worker’s use of electronic equipment, internet use included, is not open to the employer at all unless the purpose is administering the network or detecting and resolving a security breach in it.",
@@ -3163,6 +3327,7 @@
       },
       {
        "id": "MD005/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The works council’s consent is the condition of the traffic inspection having legal effect, and the threshold is whether it touches human dignity.",
@@ -3176,7 +3341,8 @@
        ]
       },
       {
-       "id": "MD005/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "Proxies that break the encrypted connection should be placed at the boundary to external networks so that what passes can be examined, they are themselves protected from unauthorized access, and security relevant events on them are detected automatically. An organizational rule is to be drawn up stating the data protection conditions under which the log data may be evaluated by hand.",
@@ -3204,6 +3370,7 @@
      "cells": [
       {
        "id": "MD006/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be identified before anything is collected through the recording of the messaging platform, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
@@ -3224,6 +3391,7 @@
       },
       {
        "id": "MD006/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case was decided on that monitoring itself: the employer read the content of a worker’s messaging account.",
@@ -3238,6 +3406,7 @@
       },
       {
        "id": "MD006/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The committee has to be informed and consulted before the decision to record the platform, and the worker informed that what passes through it is kept.",
@@ -3252,6 +3421,7 @@
       },
       {
        "id": "MD006/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before introducing the recording of the messaging platform, and again on the manner in which it is used.",
@@ -3266,6 +3436,7 @@
       },
       {
        "id": "MD006/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the recording of the messaging platform.",
@@ -3280,6 +3451,7 @@
       },
       {
        "id": "MD006/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before any arrangement governing the recording of the messaging platform is adopted, amended, or withdrawn.",
@@ -3294,6 +3466,7 @@
       },
       {
        "id": "MD006/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Criteria for use, drawn up with the participation of the workers’ representatives, and express prior information to the workers, are required before putting the recording of the messaging platform into operation.",
@@ -3308,6 +3481,7 @@
       },
       {
        "id": "MD006/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Retrieval of messages belonging to the employer is open only after the employer has arranged the absence alternatives in section 18, and only on the four conditions in section 19, with a signed report of the retrieval given to the employee.",
@@ -3322,6 +3496,7 @@
       },
       {
        "id": "MD006/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The mailbox provided for the work is reached only where it is necessary for daily operations or another legitimate interest, or on reasonable suspicion of a gross breach of the duties of the employment or of grounds for dismissal. The same holds for what was deleted from it and survives on a backup.",
@@ -3336,6 +3511,7 @@
       },
       {
        "id": "MD006/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The works council’s consent is the condition of the recording of the messaging platform having legal effect, and the threshold is whether it touches human dignity.",
@@ -3363,6 +3539,7 @@
      "cells": [
       {
        "id": "MD007/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Twenty-one days is the outer limit before the article 4 route is engaged, and the limit reaches the envelope only: parties, times, size, and routing.",
@@ -3402,6 +3579,7 @@
      "cells": [
       {
        "id": "MD008/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The balance has to be struck before the content is opened, and it is struck differently for technology used outside the workplace than inside it.",
@@ -3416,6 +3594,7 @@
       },
       {
        "id": "MD008/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Correspondence keeps its protection even where private use of a work device breaks the rules, so the six criteria apply to opening it and not only to logging it.",
@@ -3430,6 +3609,7 @@
       },
       {
        "id": "MD008/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "What is taken from personal correspondence on a company system cannot be relied on afterwards, so opening it forecloses the use of what it yields.",
@@ -3444,6 +3624,7 @@
       },
       {
        "id": "MD008/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Content may be looked at only to check that work obligations are being met and that the device is sound, and no further.",
@@ -3458,6 +3639,7 @@
       },
       {
        "id": "MD008/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Opening is done with the system administrator and a second person present, and the report states which message was opened, why, when, by whom, and to whom its content was given.",
@@ -3472,6 +3654,7 @@
       },
       {
        "id": "MD008/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "Where it is possible the worker is told first, given the chance to comment, and allowed to be present with a representative of their choosing. Where it was not possible, they are told in writing once the access is done.",
@@ -3499,6 +3682,7 @@
      "cells": [
       {
        "id": "MD009/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Browsing logs are an instrument from which remote monitoring may follow, so retaining them engages the article 4 route as metadata does.",
@@ -3519,6 +3703,7 @@
       },
       {
        "id": "MD009/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "A record of what the worker reached may be kept where the purpose is administering the network or detecting and resolving a security breach in it, the regulation putting other purposes outside what the employer may do.",
@@ -3546,6 +3731,7 @@
      "cells": [
       {
        "id": "MD010/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Holding a mailbox as a whole engages the article 4 route in the same way as retaining the traffic around it, and a former holder retains a claim on what is personal in it.",
@@ -3573,6 +3759,7 @@
      "cells": [
       {
        "id": "MD011/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be identified before anything is collected through the session recorder, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
@@ -3593,6 +3780,7 @@
       },
       {
        "id": "MD011/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach the recording of a session held under elevated entitlement is not decided in it.",
@@ -3607,6 +3795,7 @@
       },
       {
        "id": "MD011/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The social and economic committee has to be informed and consulted before the decision to put the session recorder in place, and the worker informed before it reaches them.",
@@ -3621,6 +3810,7 @@
       },
       {
        "id": "MD011/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before introducing the session recorder, and again on the manner in which it is used.",
@@ -3635,6 +3825,7 @@
       },
       {
        "id": "MD011/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the session recorder.",
@@ -3649,6 +3840,7 @@
       },
       {
        "id": "MD011/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before any arrangement governing the session recorder is adopted, amended, or withdrawn.",
@@ -3663,6 +3855,7 @@
       },
       {
        "id": "MD011/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Criteria for use, drawn up with the participation of the workers’ representatives, and express prior information to the workers, are required before putting the session recorder into operation.",
@@ -3677,6 +3870,7 @@
       },
       {
        "id": "MD011/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The works council’s consent is the condition of the session recorder having legal effect, and the threshold is whether it touches human dignity.",
@@ -3704,6 +3898,7 @@
      "cells": [
       {
        "id": "MD012/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The engine falls in the high-risk category, which brings the full set of obligations, and none of that settles whether the detection method is lawful under data protection or employment law.",
@@ -3724,6 +3919,7 @@
       },
       {
        "id": "MD012/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach an engine deriving a baseline from activity is not decided in it.",
@@ -3738,6 +3934,7 @@
       },
       {
        "id": "MD012/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The social and economic committee has to be informed and consulted before the decision to put the analytics engine in place, and the worker informed before it reaches them.",
@@ -3752,6 +3949,7 @@
       },
       {
        "id": "MD012/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before introducing the analytics engine, and again on the manner in which it is used.",
@@ -3766,6 +3964,7 @@
       },
       {
        "id": "MD012/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the analytics engine.",
@@ -3780,6 +3979,7 @@
       },
       {
        "id": "MD012/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before any arrangement governing the analytics engine is adopted, amended, or withdrawn.",
@@ -3794,6 +3994,7 @@
       },
       {
        "id": "MD012/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Criteria for use, drawn up with the participation of the workers’ representatives, and express prior information to the workers, are required before putting the analytics engine into operation.",
@@ -3807,7 +4008,8 @@
        ]
       },
       {
-       "id": "MD012/GB",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The models and data sources the research has used are catalogued and untested, so an engine built on them inherits an evidence base nobody has validated.",
@@ -3822,6 +4024,7 @@
       },
       {
        "id": "MD012/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The works council’s consent is the condition of the analytics engine having legal effect, and the threshold is whether it touches human dignity.",
@@ -3835,7 +4038,8 @@
        ]
       },
       {
-       "id": "MD012/NO",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "Knowledge of the normal state of the systems is established and maintained so that a change or an abnormality pointing to unauthorized action can be seen. The maintenance is the requirement: the normal state has to answer to reorganizations, acquisitions, mergers, downsizing, and a change of operating concept. What it is meant to expose is named as data flowing against the flow that was decided, data flowing at abnormal times, and abnormally large volumes.",
@@ -3849,7 +4053,8 @@
        ]
       },
       {
-       "id": "MD012/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Behavior analytics that learn what is normal and flag departures from it are named among the tools, and so is a class aimed at the misuse of user accounts, stolen credentials and insider threats among what it is said to be for.",
@@ -3877,6 +4082,7 @@
      "cells": [
       {
        "id": "MD013/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be identified before anything is collected through the access-control recording, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
@@ -3897,6 +4103,7 @@
       },
       {
        "id": "MD013/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach a record of entry to premises is not decided in it.",
@@ -3911,6 +4118,7 @@
       },
       {
        "id": "MD013/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The social and economic committee has to be informed and consulted before the decision to put the access-control recording in place, and the worker informed before it reaches them.",
@@ -3925,6 +4133,7 @@
       },
       {
        "id": "MD013/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before introducing the access-control recording, and again on the manner in which it is used.",
@@ -3939,6 +4148,7 @@
       },
       {
        "id": "MD013/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the access-control recording.",
@@ -3953,6 +4163,7 @@
       },
       {
        "id": "MD013/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before any arrangement governing the access-control recording is adopted, amended, or withdrawn.",
@@ -3967,6 +4178,7 @@
       },
       {
        "id": "MD013/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Criteria for use, drawn up with the participation of the workers’ representatives, and express prior information to the workers, are required before putting the access-control recording into operation.",
@@ -3981,6 +4193,7 @@
       },
       {
        "id": "MD013/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Access control is named among the systems the cooperation procedure governs, so it is settled with the workforce before it is introduced.",
@@ -4008,6 +4221,7 @@
      "cells": [
       {
        "id": "MD014/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be identified before anything is collected through the cameras, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
@@ -4028,6 +4242,7 @@
       },
       {
        "id": "MD014/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Cameras without notice have survived where a specific suspicion came first and the scope and duration were held tight. The criteria are weighed, not counted.",
@@ -4042,6 +4257,7 @@
       },
       {
        "id": "MD014/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The committee has to be informed and consulted before the decision to install the cameras, and the workers informed before they are recorded.",
@@ -4056,6 +4272,7 @@
       },
       {
        "id": "MD014/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before introducing the cameras, and again on the manner in which it is used.",
@@ -4070,6 +4287,7 @@
       },
       {
        "id": "MD014/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the cameras.",
@@ -4084,6 +4302,7 @@
       },
       {
        "id": "MD014/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before any arrangement governing the cameras is adopted, amended, or withdrawn.",
@@ -4098,6 +4317,7 @@
       },
       {
        "id": "MD014/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Camera images may be processed for the control functions in article 20.3, on condition of express prior information to the workers and their representatives.",
@@ -4112,6 +4332,7 @@
       },
       {
        "id": "MD014/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Cameras are for the security of persons, the protection of property, and the supervision of production, and may not be aimed at a particular employee outside three named cases, nor placed in lavatories, changing rooms, or rooms set aside for personal use. Less intrusive means are examined first, and a notice is displayed where the cameras are.",
@@ -4126,6 +4347,7 @@
       },
       {
        "id": "MD014/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The works council’s consent is the condition of the cameras having legal effect, and the threshold is whether they touch human dignity.",
@@ -4153,6 +4375,7 @@
      "cells": [
       {
        "id": "MD015/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be identified before anything is collected through the tracking device, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
@@ -4173,6 +4396,7 @@
       },
       {
        "id": "MD015/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Tracking a company vehicle through and beyond working hours has survived on its facts, on a bench divided four to three, with the mileage relied on separated from the location data as a whole. A case note reads the majority as having placed the technology itself largely beyond examination, so the survival is weaker authority than it appears.",
@@ -4193,6 +4417,7 @@
       },
       {
        "id": "MD015/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "The social and economic committee has to be informed and consulted before the decision to put the tracking device in place, and the worker informed before it reaches them.",
@@ -4207,6 +4432,7 @@
       },
       {
        "id": "MD015/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before introducing the tracking device, and again on the manner in which it is used.",
@@ -4221,6 +4447,7 @@
       },
       {
        "id": "MD015/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Tracking requires notification to the supervisory authority wherever the driver can be identified, and identification through vehicle assignment is enough.",
@@ -4235,6 +4462,7 @@
       },
       {
        "id": "MD015/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before any arrangement governing the tracking device is adopted, amended, or withdrawn.",
@@ -4249,6 +4477,7 @@
       },
       {
        "id": "MD015/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Location data may be processed for the control functions in article 20.3, on the same condition of express prior information.",
@@ -4263,6 +4492,7 @@
       },
       {
        "id": "MD015/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The works council’s consent is the condition of the tracking device having legal effect, and the threshold is whether it touches human dignity.",
@@ -4290,6 +4520,7 @@
      "cells": [
       {
        "id": "MD016/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A ground under article 6 has to be identified before anything is collected through the measurement, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
@@ -4310,6 +4541,7 @@
       },
       {
        "id": "MD016/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Private life and correspondence extend into the workplace, including where a worker’s private use of a work device breaks the employer’s rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker’s messages, and whether the criteria reach a rate of work derived from the traces of the work is not decided in it.",
@@ -4324,6 +4556,7 @@
       },
       {
        "id": "MD016/FR",
+       "standing": "mandatory",
        "jurisdiction": "FR",
        "state": "established",
        "requirement": "Measuring warehouse work through handheld scanners has been found unlawful in its detail, and the fine for it stands at 15,000,000 euros after review.",
@@ -4338,6 +4571,7 @@
       },
       {
        "id": "MD016/DE",
+       "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The works council has to agree before introducing the measurement, and again on the manner in which it is used.",
@@ -4352,6 +4586,7 @@
       },
       {
        "id": "MD016/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An agreement with the union representatives, or failing that an authorization from the labor inspectorate, is required before installing the measurement.",
@@ -4366,6 +4601,7 @@
       },
       {
        "id": "MD016/NL",
+       "standing": "mandatory",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The works council has to consent before any arrangement governing the measurement is adopted, amended, or withdrawn.",
@@ -4380,6 +4616,7 @@
       },
       {
        "id": "MD016/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Criteria for use, drawn up with the participation of the workers’ representatives, and express prior information to the workers, are required before putting the measurement into operation.",
@@ -4394,6 +4631,7 @@
       },
       {
        "id": "MD016/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "A rate of work derived from statistical, data capture, or micro timing methods is named in its own right among the measures the works council has to consent to, alongside the general requirement for systems that control employees.",
@@ -4421,6 +4659,7 @@
      "cells": [
       {
        "id": "MD017/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Requiring a worker’s own telephone to carry the instruments has drawn infringements of articles 13, 5(1)(c), and 6(1), a fine of 200,000 euros, and an order to bring the processing into line within two months.",
@@ -4448,6 +4687,7 @@
      "cells": [
       {
        "id": "MD018/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "The suspicion has to exist before the observation begins, and the scope and duration have to answer to it.",
@@ -4475,6 +4715,7 @@
      "cells": [
       {
        "id": "MD019/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The balance covers technology used outside the workplace as well as inside it, so continuing after hours does not fall outside the assessment.",
@@ -4489,6 +4730,7 @@
       },
       {
        "id": "MD019/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Observation running through and beyond working hours has survived on its facts, which does not settle that it survives on any others.",
@@ -4516,6 +4758,7 @@
      "cells": [
       {
        "id": "MD020/BE",
+       "standing": "mandatory",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Collecting and naming are two operations. The convention calls the second individualization and governs it separately from the monitoring that produced the data.",
@@ -4530,6 +4773,7 @@
       },
       {
        "id": "MD020/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A suspicious event is assessed against criteria laid down in advance and against a triage that decides what is dealt with first. The relevant logs are reviewed for that assessment, and an event is reassessed and reclassified when new information arrives or when what was already held has been analyzed.",
@@ -4543,7 +4787,8 @@
        ]
       },
       {
-       "id": "MD020/NO",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The log data are gone through and the relevant data about the event gathered to give a decision a basis, which may mean assembling data from several sources or running tests to confirm or rule out an event. The severity is then settled against the plan laid down in advance: whether it is a possible or a confirmed security incident or a false alarm, its class under the classification regime, which roles are brought in, and whether the contingency plan is triggered.",
@@ -4571,6 +4816,7 @@
      "cells": [
       {
        "id": "MD021/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Two lists are required: the assets that are to be logged, derived from the risk assessment, and the assets that are actually being logged. The second, and the procedures behind it, are reviewed and where appropriate updated at regular intervals and after a significant incident. That the two are to be held against each other is not stated.",
@@ -4584,7 +4830,8 @@
        ]
       },
       {
-       "id": "MD021/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The detection systems in place and the measures taken should be examined in regular audits for whether they are still current and still effective. The metrics that arise when a security relevant event is taken in, reported, and escalated are evaluated, the results of the audit are documented so that they can be followed, and they are compared against the state the systems are supposed to be in. A departure from it is pursued.",
@@ -4599,6 +4846,7 @@
       },
       {
        "id": "MD021/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Analyzing an incident is what reopens the question of what is audited: the determination of the auditable events is reviewed as a consequence of the analysis.",
@@ -4612,7 +4860,8 @@
        ]
       },
       {
-       "id": "MD021/NO",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "It is verified that the collection works as it was meant to. The log settings are checked to see that they function and that what was to be gathered is being gathered, every system that regularly stores security relevant data is given enough space that nothing needed is lost, and a standardized format is used so the data can be read by a third party’s analysis tool.",
@@ -4647,7 +4896,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "BA001/DK",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "DK",
        "state": "established",
        "requirement": "An indicator taken from this literature carries thin foundations with it, and findings that cannot readily be compared between studies.",
@@ -4661,7 +4911,8 @@
        ]
       },
       {
-       "id": "BA001/GB",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "A published vocabulary is available to build the catalogue on: catalyst, actor, attack, and organization, grounded in case studies rather than telemetry.",
@@ -4675,7 +4926,8 @@
        ]
       },
       {
-       "id": "BA001/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Real cases have been reviewed and what preceded the acts described, which is where an indicator can be taken from rather than supposed.",
@@ -4689,7 +4941,8 @@
        ]
       },
       {
-       "id": "BA001/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Behavioral signs are named as things training should teach people to recognize, and three are given: unusual access patterns, the hoarding of data, and sudden changes in behavior.",
@@ -4717,6 +4970,7 @@
      "cells": [
       {
        "id": "BA002/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "A system for assessing employees needs the works council’s consent where it gathers data the operational use does not justify, and here the consent can be replaced by a decision of the conciliation board.",
@@ -4755,7 +5009,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "BA004/DK",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "DK",
        "state": "established",
        "requirement": "What has been published on psychological indicators does not establish which of them are observable in an employment setting.",
@@ -4769,7 +5024,8 @@
        ]
       },
       {
-       "id": "BA004/GB",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Reviews of the detection literature map which human factors have been modelled and on what data, and test none of them.",
@@ -4784,6 +5040,7 @@
       },
       {
        "id": "BA004/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "A personality or aptitude assessment is taken with the employee’s consent, and the employer answers for the reliability of the method, the expertise of the assessor, and the findings being free from error.",
@@ -4798,6 +5055,7 @@
       },
       {
        "id": "BA004/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Article 9 reaches an indicator only where it reveals one of the categories it closes off, data concerning health among them, and where it does the processing is prohibited unless one of that article’s own grounds applies. An assessment of disposition that reveals none of them is not caught by it, and falls back on the ordinary grounds.",
@@ -4824,7 +5082,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "BA005/GB",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The differences were measured in interview language, so an index built on the ordinary flow of workplace communication is extrapolating beyond what was observed.",
@@ -4852,6 +5111,7 @@
      "cells": [
       {
        "id": "BA006/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Inferring emotion at work is prohibited outright, with narrow exceptions for medical and safety purposes.",
@@ -4879,6 +5139,7 @@
      "cells": [
       {
        "id": "BA007/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A person has the right not to be subject to a decision taken solely by automated processing, profiling included, that produces legal effects concerning them or affects them similarly significantly. It is open only on contractual necessity, on a Union or member state law that lays down safeguards, or on explicit consent, and on the first and the third of those the person is owed at least human intervention, the chance to put their point of view, and the right to contest the outcome. Such a decision may not rest on the article 9 categories at all save on two narrow grounds. Separately, a decision of this kind falls in the high-risk category, and the obligations that follow apply from 2 December 2027.",
@@ -4918,6 +5179,7 @@
      "cells": [
       {
        "id": "BA008/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The system falls in the high-risk category on the ground of where it is deployed rather than of what it does, and the representatives have to be told before it is put into use.",
@@ -4938,6 +5200,7 @@
       },
       {
        "id": "BA008/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "A system for the automated collection, processing, and transmission of a worker’s personal data beyond general particulars and qualifications needs the works council’s consent, unless what is done with the data goes no further than obligations arising from statute, collective norms, or the contract.",
@@ -4964,7 +5227,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "BA009/GB",
+       "id": "",
+       "standing": "reported",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The evaluation methods used across the published work have been mapped, which is the starting point for validating one.",
@@ -4979,6 +5243,7 @@
       },
       {
        "id": "BA009/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The training, validation, and testing sets behind a high-risk system fall under data governance practices, and what those have to cover is listed: the design choices, where the data came from and, for personal data, what they were originally collected for, the assumptions about what the data are supposed to measure, an examination for biases likely to bear on health and safety, to affect fundamental rights adversely, or to lead to prohibited discrimination, especially where the outputs feed the inputs of later operations, and measures to detect, prevent, and mitigate what the examination finds. The sets are to be relevant, sufficiently representative, and so far as possible free of errors and complete, with statistical properties appropriate to the people the system is to be used on.",
@@ -5006,6 +5271,7 @@
      "cells": [
       {
        "id": "BA010/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "The person assessed is given a written statement on the assessment free of charge on request, and where the employer received it orally, its content is told to them.",
@@ -5040,7 +5306,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "IV001/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Reporting routes are treated as a control in their own right, and their value as depending on whether they are trusted.",
@@ -5054,7 +5321,8 @@
        ]
       },
       {
-       "id": "IV001/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "Reporting routes suited to each kind of incident should be built, so that an employee can report quickly and simply over channels that are reliable and can be trusted, and where a central point is set up for it that is communicated to everyone. A communication and contact strategy should state who must be informed and who may be, by whom, in what order, and in what depth, and who passes information about an incident outside. That nobody unauthorized passes it on is to be ensured.",
@@ -5068,7 +5336,8 @@
        ]
       },
       {
-       "id": "IV001/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "Everyone, internal and external, has demonstrably taken notice of the procedure for reporting an information security incident.",
@@ -5082,7 +5351,8 @@
        ]
       },
       {
-       "id": "IV001/AT",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "The routes by which something conspicuous in the logs is reported onward are to be laid down, alongside the fixing of who is responsible for the evaluation that found it.",
@@ -5096,7 +5366,8 @@
        ]
       },
       {
-       "id": "IV001/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Staff are to be trained on how and where to report suspicious activity and on why reporting it in time matters, and the organization is to promote a culture in which an employee feels safe reporting a concern without fear of retaliation.",
@@ -5123,7 +5394,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "IV002/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "The threshold has real cases to be set against: how the acts occurred and what preceded them, in a national population now some years old.",
@@ -5137,7 +5409,8 @@
        ]
       },
       {
-       "id": "IV002/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "The criteria for categorizing, prioritizing, and escalating are documented in the response plan and applied consistently, and the indicators that guide the prioritizing are named as the scope, the severity, and how time sensitive the matter is.",
@@ -5165,6 +5438,7 @@
      "cells": [
       {
        "id": "IV003/BE",
+       "standing": "mandatory",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Individualization is direct where the monitoring pursued the first three purposes. Where it pursued observance of the undertaking’s own rules, it is open only after the workers have been told an anomaly was found and warned that a further one of the same kind will be attributed.",
@@ -5191,7 +5465,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "IV004/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "A forensic examination should begin by defining its objectives, or the work it has been asked to do, as concretely as they can be put, and only then identifying the data sources it needs. A written guide should set out how evidence is to be secured, naming the procedures, the technical tools, the legal conditions, and what has to be documented.",
@@ -5219,6 +5494,7 @@
      "cells": [
       {
        "id": "IV005/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "What a court admits has to be confined to the adequate, relevant, and necessary, and anonymization or pseudonymization considered before it goes to other parties.",
@@ -5233,6 +5509,7 @@
       },
       {
        "id": "IV005/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The access is carried out so that the data are so far as possible not altered, and so that what it produced can be checked afterwards.",
@@ -5246,7 +5523,8 @@
        ]
       },
       {
-       "id": "IV005/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The order in which data are secured follows how volatile they are: what is quickly lost is taken first, then what is not, the contents of fixed storage, and last of all the backups. A storage medium should be duplicated forensically in full, and where that cannot be done, on memory or on a storage network partition, the method chosen is the one that alters least. Originals are kept sealed, written cryptographic checksums are made of them and held separately in several copies and secured against alteration, and for the result to be usable in court a witness should confirm how it was done and attest the checksums. Only trained staff or a forensic service provider should carry out the securing.",
@@ -5260,7 +5538,8 @@
        ]
       },
       {
-       "id": "IV005/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "The sequence of events is reconstructed and the systems, assets, and resources involved identified, with forensic analysis used on the collected data where it is needed, and the analysis is to reach the underlying systemic cause rather than stopping at what triggered the event.",
@@ -5287,7 +5566,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "IV006/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "Every step taken in securing evidence should be documented, and the documentation should show without a gap how the original evidence was handled, which methods were used, and why the people responsible chose them. The originals should be stored so that only the staff conducting the examination, known by name, can reach them.",
@@ -5301,7 +5581,8 @@
        ]
       },
       {
-       "id": "IV006/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Everyone involved in the response records what they did, in a way that prevents the record being tampered with or deleted, and the lead is answerable for documenting the whole investigation, its timelines, its decisions, and the sources of what it relied on. The incident data and their metadata, the source and the time of collection among them, are collected and protected so that they stay accurate, authentic, and traceable to where they came from.",
@@ -5328,7 +5609,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "IV007/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "It should be settled in advance which secondary data, log data and traffic captures among them, are held against a possible securing of evidence, in what way, and for how long within what the law allows.",
@@ -5342,7 +5624,8 @@
        ]
       },
       {
-       "id": "IV007/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "An incident and everything needed to analyze and resolve it are kept for at least three years, and what that covers is named: the logging, the resolution, and the advice given.",
@@ -5370,6 +5653,7 @@
      "cells": [
       {
        "id": "IV008/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Records held by line management are the same material by another route: reaching into them needs the ground the monitoring system would have needed.",
@@ -5409,6 +5693,7 @@
      "cells": [
       {
        "id": "IV010/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Both the retrieval and the opening are written up, signed by those who carried them out, and submitted to the employee without undue delay.",
@@ -5423,6 +5708,7 @@
       },
       {
        "id": "IV010/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The written notice states the method of access used, which messages or documents were opened, and what the access found.",
@@ -5437,6 +5723,7 @@
       },
       {
        "id": "IV010/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Every action bearing on the handling of an incident is recorded, the initial, intermediate, and final reports among them. Evidence that may have to be settled before a court is recorded as such, and the decree names when that matters most: where the incident may lead to disciplinary action against internal staff or an external supplier, or to the prosecution of an offense. Specialized legal advice is taken on what those evidences have to comprise.",
@@ -5463,7 +5750,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "IV011/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "An organization without a forensic team of its own has to identify possible service providers in the preparation phase, before there is anything to examine, and to document which of them come into question. Call-off agreements or framework contracts with them should be concluded so that an incident can be examined sooner.",
@@ -5490,7 +5778,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "IV012/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "A period is fixed for how long secured originals and evidence are kept, and when it has run out it is examined whether they still have to be. After it, evidence should be securely deleted or destroyed and the original media returned.",
@@ -5517,7 +5806,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "IV013/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "Everyone who is responsible for it should know how to secure traces correctly and how to use the forensic tools, and suitable training should be given for that.",
@@ -5553,6 +5843,7 @@
      "cells": [
       {
        "id": "IR001/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed.",
@@ -5567,6 +5858,7 @@
       },
       {
        "id": "IR001/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "A plan for handling incidents and notifying the national CSIRT is defined, implemented, kept current, and documented, and it carries the stages and the procedures with the roles and responsibilities attaching to each, the contacts for reporting, how communication runs inside and outside, and the reporting to be used to document the incident. The management bodies approve it. That the scenarios it covers include insider ones is not stated.",
@@ -5580,7 +5872,8 @@
        ]
       },
       {
-       "id": "IR001/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "A policy on handling security incidents has to be drawn up, stating its purpose and its aim and settling every aspect of the handling, with rules of conduct described for the different kinds of incident and instructions that are addressed to their audience and can actually be applied. It has to be known to everyone, agreed with the IT function, adopted by the leadership of the organization, and checked and updated at intervals.",
@@ -5608,6 +5901,7 @@
      "cells": [
       {
        "id": "IR002/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Containment is the first of the named stages of the response, and what it is for is stated: to prevent the consequences of the incident from spreading.",
@@ -5622,6 +5916,7 @@
       },
       {
        "id": "IR002/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "At the high category the system carries out predetermined responses to its own alerts automatically, and the decree names them: ending the process that caused the alert, disabling particular services, disconnecting users, and blocking accounts.",
@@ -5635,7 +5930,8 @@
        ]
       },
       {
-       "id": "IR002/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "The response strategy is to weigh the need for a rapid recovery against what might be gained by observing the behavior for longer or investigating it more deeply, which makes the decision to contain a decision and not a reflex.",
@@ -5663,6 +5959,7 @@
      "cells": [
       {
        "id": "IR003/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "At the high category the system carries out predetermined responses to its own alerts automatically, and two of the four named reach the person: disconnecting users, and blocking accounts. The decree puts them under the detection measure, so what triggers them is an alert and not a finding.",
@@ -5690,6 +5987,7 @@
      "cells": [
       {
        "id": "IR004/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The activities of the response are logged under the same procedures that govern the logging of everything else, and evidence is recorded. In what state a system is to be held, and for how long, is not stated.",
@@ -5716,7 +6014,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "IR005/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The interfaces between ordinary fault handling, emergency management, and security management are to be analyzed, and the resources they might share identified. The staff who handle ordinary faults are to be made aware of what handling a security incident involves, and security management should have read access to the incident management tools in use.",
@@ -5744,6 +6043,7 @@
      "cells": [
       {
        "id": "IR006/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Communication plans and procedures are established with the incident response teams or, where applicable, the competent authorities, for the notification of an incident.",
@@ -5758,6 +6058,7 @@
       },
       {
        "id": "IR006/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "The plan carries the procedures for preparing and sending the reports the NIS decree requires, and it names the contacts through which an incident is reported. Notification runs to CSIRT Italia.",
@@ -5785,6 +6086,7 @@
      "cells": [
       {
        "id": "IR007/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Procedures are documented for telling the recipients of a service, without unjustified delay, of a significant incident that may bear adversely on the provision of that service, and for telling those exposed to a significant threat what its nature is and what they can do about it. Separate procedures cover informing the public where the agency orders it.",
@@ -5812,6 +6114,7 @@
      "cells": [
       {
        "id": "IR008/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "How communication runs inside the organization is part of the plan, and the involvement of the administrative and management bodies is named as part of it. Those bodies approve the plan itself.",
@@ -5825,7 +6128,8 @@
        ]
       },
       {
-       "id": "IR008/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "The handling of a security incident is to be settled with emergency management, and where the organization keeps a separate role for ordinary fault handling that role is brought in too. The interfaces to crisis and emergency management are defined and documented, which staff answer for which task is settled, how they are to be communicated with is settled, and the contact people are to be reachable at all times.",
@@ -5853,6 +6157,7 @@
      "cells": [
       {
        "id": "IR009/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals.",
@@ -5867,6 +6172,7 @@
       },
       {
        "id": "IR009/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "The plan is reviewed and where appropriate updated periodically and in any case at least every two years, and again whenever a significant incident occurs, with the lessons learned from it worked in.",
@@ -5880,7 +6186,8 @@
        ]
       },
       {
-       "id": "IR009/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "An incident should be worked through afterwards to a standard form, examining how quickly it was detected and remedied, whether the reporting routes worked, whether there was enough information to assess it, and whether the detection measures were effective. What is learned is used to write instructions for comparable incidents, made known to the groups they concern, and updated as more is learned. The leadership of the organization is told about the incidents once a year, and at once where something has to be done immediately.",
@@ -5894,7 +6201,8 @@
        ]
       },
       {
-       "id": "IR009/NO",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "What worked and what can be improved are both identified. The controls that were compromised are mapped and reviewed and then updated or replaced, and it is assessed whether what is in place covers the organization’s risk picture at all. The processes, procedures, reporting formats, and organizational structures are evaluated for how effective they were, regularly and after an incident.",
@@ -5922,6 +6230,7 @@
      "cells": [
       {
        "id": "IR010/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The incident response procedures are tested at planned intervals.",
@@ -5957,6 +6266,7 @@
      "cells": [
       {
        "id": "CP001/AT",
+       "standing": "mandatory",
        "jurisdiction": "AT",
        "state": "established",
        "requirement": "A workplace disciplinary code has no legal effect without the works council’s consent, so what may follow from what the program observed is settled with the workforce before any case arises.",
@@ -5971,6 +6281,7 @@
       },
       {
        "id": "CP001/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A disciplinary process for handling violations of the security policies is established, communicated, and maintained, and it takes the legal, statutory, contractual, and business requirements into account. It is reviewed at planned intervals and when a change in the law calls for it. What may be relied on to establish a violation is not addressed.",
@@ -5998,6 +6309,7 @@
      "cells": [
       {
        "id": "CP002/CoE",
+       "standing": "mandatory",
        "jurisdiction": "CoE",
        "state": "established",
        "requirement": "Dismissal on geolocation and dismissal after covert cameras have both been examined under article 8 and survived on their facts, which settles the method and not the outcome.",
@@ -6018,6 +6330,7 @@
       },
       {
        "id": "CP002/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "Recordings may be used to substantiate the grounds for ending an employment relationship, and that use is stated as an exception to the purpose limitation and to the cooperation procedure.",
@@ -6057,6 +6370,7 @@
      "cells": [
       {
        "id": "CP004/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Material obtained in breach is not barred from proceedings by that alone, and a failure to inform the person does not bar it either.",
@@ -6071,6 +6385,7 @@
       },
       {
        "id": "CP004/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Material taken from personal correspondence could not be relied on, the Strasbourg case law being applied in the national setting.",
@@ -6098,6 +6413,7 @@
      "cells": [
       {
        "id": "CP005/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "Evidence that may fall to be settled before a court is recorded as such, and the prosecution of an offense is one of the three cases the decree names for it, alongside disciplinary action against internal staff and against an external supplier. What that evidence has to comprise, and in what detail, is settled on specialized legal advice.",
@@ -6156,7 +6472,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "AW001/EU",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "A Union-funded platform carries an awareness module and downloadable templates, addressed mainly to transport, energy, and other critical infrastructure operators.",
@@ -6170,7 +6487,8 @@
        ]
       },
       {
-       "id": "AW001/EU",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The Union-funded manual addresses the structure of a program rather than the conditions attached to one, and has not been revised since 2019.",
@@ -6184,7 +6502,8 @@
        ]
       },
       {
-       "id": "AW001/GB",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
        "requirement": "Awareness is delivered as a course rather than a notice, in modules of ten to twenty minutes, with governance and leadership taught before the controls.",
@@ -6199,6 +6518,7 @@
       },
       {
        "id": "AW001/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "Basic cyber hygiene practices and cybersecurity training are named among the measures an entity in scope has to take, and the implementing rules say what the awareness program holds: it is scheduled over time so that it repeats and reaches new employees, it covers the threats, the measures in place, and where to go for advice, it reaches direct suppliers and service providers as well as employees and the members of the management bodies, and it is tested for effectiveness where appropriate. What is asked to be taught is the security of systems, not insider risk.",
@@ -6219,6 +6539,7 @@
       },
       {
        "id": "AW001/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "A training plan for the workforce, the administrative and management bodies included, is defined, implemented, kept current, and documented, and those bodies approve it. It sets out what is taught and, where any are provided for, how it is checked that the content was taken in. What it teaches is the security of systems, not insider risk.",
@@ -6233,6 +6554,7 @@
       },
       {
        "id": "AW001/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "The workforce is reminded periodically of the security rules on the proper use of the equipment and of the commonest social engineering techniques, of how to identify an incident and the activities or behaviors that are suspicious and have to be reported so that specialized staff can deal with them, and of the procedure for reporting, whether what is reported turns out to be real or a false alarm.",
@@ -6246,7 +6568,8 @@
        ]
       },
       {
-       "id": "AW001/NO",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "Real cases from the handling of incidents are to be used in the training and the raising of awareness of staff, and the results of an evaluation are shared with those they concern.",
@@ -6260,7 +6583,8 @@
        ]
       },
       {
-       "id": "AW001/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "Everyone using the information systems, employees and contractors alike, has demonstrably completed an awareness training within three months of entering service. Management is to press the importance of it at appointment and at an internal transfer, and in work meetings and personnel discussions, and to encourage it being taken again periodically.",
@@ -6274,7 +6598,8 @@
        ]
       },
       {
-       "id": "AW001/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Insider threat awareness and reporting are to be included in the security training, by name, so that people can recognize and respond to internal risks. What the training covers is set out: how to recognize the behavioral signs, what an insider threat is, how and where to report suspicious activity and why reporting in time matters, and real cases or simulations used to show what an insider event costs. It reaches all staff, at onboarding and in the regular training, with an annual refresher.",
@@ -6302,6 +6627,7 @@
      "cells": [
       {
        "id": "AW002/FI",
+       "standing": "mandatory",
        "jurisdiction": "FI",
        "state": "established",
        "requirement": "What the workforce is told after the procedure is the purpose of the monitoring, its introduction, the methods used, and the terms on which electronic mail and the network may be used.",
@@ -6316,6 +6642,7 @@
       },
       {
        "id": "AW002/BE",
+       "standing": "mandatory",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "What each worker is told at installation is the monitoring policy, the purposes, whether personal data are kept and where and for how long, whether the monitoring is permanent, and what the employer and the supervising staff may do.",
@@ -6330,6 +6657,7 @@
       },
       {
        "id": "AW002/NO",
+       "standing": "mandatory",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "Before the measure starts, those affected are told its purpose, what it will mean in practice, how it will be carried out, and how long it is expected to last.",
@@ -6344,6 +6672,7 @@
       },
       {
        "id": "AW002/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "A backup of the mailboxes described in none of the notices given to the staff leaves them unable to know it exists, which is the finding rather than the keeping itself.",
@@ -6357,7 +6686,8 @@
        ]
       },
       {
-       "id": "AW002/NO",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NO",
        "state": "established",
        "requirement": "The workforce is informed of what is collected, what it is to be used for, and how the data are to be handled, and that sits alongside establishing which laws apply and deciding how long the data shall and may be stored.",
@@ -6385,6 +6715,7 @@
      "cells": [
       {
        "id": "AW003/EU",
+       "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The employees whose roles need security-relevant skills are identified and trained regularly, and the training program sets the needs of particular roles and positions against criteria. What the training covers is named: secure configuration and operation of the systems, mobile devices included, a briefing on known threats, and how to behave when a security-relevant event occurs. It is given again to staff who move into such a role, and its effectiveness is assessed.",
@@ -6399,6 +6730,7 @@
       },
       {
        "id": "AW003/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "Training dedicated to the people in specialized roles, system administrators named among them, is part of the same plan, and it covers the secure configuration and operation of the systems, the threats that are known, and what to do when an event bearing on security occurs.",
@@ -6412,7 +6744,8 @@
        ]
       },
       {
-       "id": "AW003/DE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "DE",
        "state": "established",
        "requirement": "Where the protection need is raised, particular people should be given the task of watching the logging data, it should be the greater part of what they do, and they should be given specialized further training and qualification. A group should be named that is responsible for the evaluation of logging data and for nothing else.",
@@ -6427,6 +6760,7 @@
       },
       {
        "id": "AW003/ES",
+       "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
        "requirement": "The workforce is trained regularly in what their duties require of them, and three subjects are named: the configuration of systems, the detection of and reaction to incidents, and the handling of information on any medium, which is to cover its storage, transfer, copying, distribution, and destruction. The effectiveness of the training given is assessed.",
@@ -6440,7 +6774,8 @@
        ]
       },
       {
-       "id": "AW003/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Training specific to the role is to be given to the staff who reach sensitive data or systems, on the responsibilities that reaching them carries, and cross-functional training is to be built where two kinds of expertise have to meet.",
@@ -6468,6 +6803,7 @@
      "cells": [
       {
        "id": "AW004/IT",
+       "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
        "requirement": "An up-to-date register is kept of the employees who received the training, of its contents, and of the checks carried out where checks were provided for. A register of the same kind is required for the training given to specialized roles.",
@@ -6481,7 +6817,8 @@
        ]
       },
       {
-       "id": "AW004/NL",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "NL",
        "state": "established",
        "requirement": "The completion of the awareness training within three months of entering service has to be demonstrable, which puts the record of who took it and when inside the requirement.",
@@ -6508,7 +6845,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "AW005/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Phishing simulations are to be run regularly to reduce the risk of social engineering, and simulated phishing or social engineering tests are named again among the methods by which an awareness program is evaluated.",
@@ -6535,7 +6873,8 @@
      "updated": "2026-08-29",
      "cells": [
       {
-       "id": "AW006/BE",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "BE",
        "state": "established",
        "requirement": "Whether the training reaches everyone it should, and whether it actually moves behavior, awareness, and attitude, is to be assessed. The methods are to be a mix, and surveys measuring the change in awareness, confidence, and behavior are named among them, alongside assessments before and after, simulated tests, and feedback from those who took part and those who taught. What is learned is documented and used on the next round.",
