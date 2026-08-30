@@ -200,6 +200,7 @@ FI · established · [fi-katakri] · On the termination of the employment the ke
 What it is: The involvement of managers in noticing and raising concern about the people they supervise, structured by a named route, a stated threshold for using it, and instruction in both. Unstructured, it is a manager's instinct and reaches the program by chance.
 
 GB · established · [npsa-ongoing-persec] · Line management is treated as the route by which concern reaches the program, which makes the manager part of the control.
+CZ · established · [holoska-doucek] · The person's own line manager usually takes part in the examination, and what they supply is the context of the activity that was observed rather than a judgment on it.
 
 ### PS010 · Line management records of personal circumstances {#ps010}
 What it is: Records of a worker's personal or family circumstances kept by the people who manage them, including those held outside any system the program runs: a manager's notebook, a shared drive, a private note.
@@ -237,6 +238,7 @@ EU · established · [nis2] · Asset management is named among the measures an e
 ### DP002 · Information classification scheme {#dp002}
 What it is: The categories information is assigned to, the handling rules that follow from each, and what happens to information nobody has assigned. The default is part of the scheme: a category that only the careful apply leaves everything else outside it.
 EU · established · [nis2-ir] · A system of classification levels is laid down and every asset is placed in one, on confidentiality, integrity, and authenticity. The handling policy that follows runs from acquisition through use, storage, and transport to disposal, and reaches everyone who handles an asset.
+CZ · established · [holoska-doucek] · The classification level of a document governs how a person may work on it, with whom it may be shared, and where and how it may be kept. A document carrying the right level can then be followed by the loss prevention tooling, and access to it that was not permitted is raised as an incident.
 
 ### DP003 · Data discovery and inventory {#dp003}
 What it is: The location of regulated or sensitive data across the estate, as distinct from where policy assumes it is.
@@ -289,6 +291,7 @@ ES · established · [lo-3-2018] · The criteria for using the capability are dr
 ### DP009 · Egress channel control {#dp009}
 What it is: The restriction of the routes by which data can leave: removable media, personal cloud storage, webmail, printing, and unmanaged devices.
 EU · established · [nis2-ir] · Removable media carry a policy of their own, communicated to employees and to the third parties who connect them, and it provides for a technical prohibition of connections the entity has not allowed.
+CZ · established · [holoska-doucek] · Restricting the channels through which a person can move data, personal mail, printing, writing to external media and to cloud storage, is treated as a proactive measure, and where it cannot be applied to the whole workforce it is applied to the people serving out notice.
 
 ### DP010 · Encryption and rights management {#dp010}
 What it is: The protection of information such that possession of the file is not possession of its contents.
@@ -461,6 +464,7 @@ GB · established · [pathirana-2026] · The models and data sources the researc
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the analytics engine having legal effect, and the threshold is whether it touches human dignity.
 NO · established · [no-nsm] · Knowledge of the normal state of the systems is established and maintained so that a change or an abnormality pointing to unauthorized action can be seen. The maintenance is the requirement: the normal state has to answer to reorganizations, acquisitions, mergers, downsizing, and a change of operating concept. What it is meant to expose is named as data flowing against the flow that was decided, data flowing at abnormal times, and abnormally large volumes.
 BE · established · [be-cyfun] · Behavior analytics that learn what is normal and flag departures from it are named among the tools, and so is a class aimed at the misuse of user accounts, stolen credentials and insider threats among what it is said to be for.
+CZ · established · [holoska-doucek] · The pattern is built by watching behavior over a long period, and what is looked for against it is named: a person taking an interest in documents from projects they do not ordinarily work on, and a rise in documents pulled down from central repositories onto a workstation.
 
 ### MD013 · Physical access monitoring {#md013}
 What it is: The recording of entry to and movement within controlled premises.
@@ -559,6 +563,7 @@ AT · established · [at-arbvg-96] · A system for assessing employees needs the
 
 ### BA003 · Multidisciplinary case review {#ba003}
 What it is: The examination of a person's situation by security, human resources, and legal together, rather than by any one of them.
+CZ · established · [holoska-doucek] · The examination is divided between three functions rather than held by one. Security analysts secure, process, and interpret the digital traces. Human resources holds the communication with the person and the impartial and dignified treatment of them, coordinates the other teams, documents the examination, and makes the final assessment against the organization's own rules. Legal answers for its conformity with the law of the state and of the sector, evaluates what is found, and states where a public authority has to be told. The person's line manager usually takes part, to supply the context of the activity that was observed.
 
 ### BA004 · Use of psychological and dispositional indicators {#ba004}
 What it is: The treatment of traits, psychological states, or situational factors as grounds for attention.
@@ -701,6 +706,7 @@ DE · established · [bsi-grundschutz] · The interfaces between ordinary fault 
 What it is: The reporting of the incident, or of its handling, to an authority outside the organization.
 EU · established · [nis2-ir] · Communication plans and procedures are established with the incident response teams or, where applicable, the competent authorities, for the notification of an incident.
 IT · established · [acn-379907] · The plan carries the procedures for preparing and sending the reports the NIS decree requires, and it names the contacts through which an incident is reported. Notification runs to CSIRT Italia.
+CZ · established · [holoska-doucek] · It falls to the legal function to state where an incident has to be reported to a public authority, and where personal data have been lost the supervisory authority is to be told without undue delay.
 
 ### IR007 · Notification to affected persons {#ir007}
 What it is: The telling of the people whose data or whose position the incident affected.
@@ -729,6 +735,7 @@ Summary: The action taken against a person following a finding, and the basis on
 What it is: Action taken against a person on the basis of what the program observed, short of ending the relationship.
 AT · established · [at-arbvg-96] · A workplace disciplinary code has no legal effect without the works council's consent, so what may follow from what the program observed is settled with the workforce before any case arises.
 EU · established · [nis2-ir] · A disciplinary process for handling violations of the security policies is established, communicated, and maintained, and it takes the legal, statutory, contractual, and business requirements into account. It is reviewed at planned intervals and when a change in the law calls for it. What may be relied on to establish a violation is not addressed.
+CZ · established · [holoska-doucek] · The final assessment of the examination is made against the organization's own rules and recommendations, and it is from that assessment that disciplinary proceedings follow, where they follow.
 
 ### CP002 · Termination of employment {#cp002}
 What it is: The ending of the employment relationship on that basis.

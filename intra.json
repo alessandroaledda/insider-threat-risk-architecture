@@ -1710,6 +1710,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#npsa-ongoing-persec"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "reported",
+       "jurisdiction": "CZ",
+       "state": "established",
+       "requirement": "The person’s own line manager usually takes part in the examination, and what they supply is the context of the activity that was observed rather than a judgment on it.",
+       "sources": [
+        {
+         "anchor": "holoska-doucek",
+         "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal in Threats",
+         "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
+         "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
+        }
+       ]
       }
      ]
     },
@@ -1971,6 +1986,21 @@
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "reported",
+       "jurisdiction": "CZ",
+       "state": "established",
+       "requirement": "The classification level of a document governs how a person may work on it, with whom it may be shared, and where and how it may be kept. A document carrying the right level can then be followed by the loss prevention tooling, and access to it that was not permitted is raised as an incident.",
+       "sources": [
+        {
+         "anchor": "holoska-doucek",
+         "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal in Threats",
+         "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
+         "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
         }
        ]
       }
@@ -2494,6 +2524,21 @@
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "reported",
+       "jurisdiction": "CZ",
+       "state": "established",
+       "requirement": "Restricting the channels through which a person can move data, personal mail, printing, writing to external media and to cloud storage, is treated as a proactive measure, and where it cannot be applied to the whole workforce it is applied to the people serving out notice.",
+       "sources": [
+        {
+         "anchor": "holoska-doucek",
+         "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal in Threats",
+         "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
+         "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
         }
        ]
       }
@@ -4310,6 +4355,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "reported",
+       "jurisdiction": "CZ",
+       "state": "established",
+       "requirement": "The pattern is built by watching behavior over a long period, and what is looked for against it is named: a person taking an interest in documents from projects they do not ordinarily work on, and a rise in documents pulled down from central repositories onto a workstation.",
+       "sources": [
+        {
+         "anchor": "holoska-doucek",
+         "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal in Threats",
+         "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
+         "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
+        }
+       ]
       }
      ]
     },
@@ -5269,7 +5329,23 @@
      "research": [],
      "added": "2026-08-30",
      "updated": "2026-08-30",
-     "cells": []
+     "cells": [
+      {
+       "id": "",
+       "standing": "reported",
+       "jurisdiction": "CZ",
+       "state": "established",
+       "requirement": "The examination is divided between three functions rather than held by one. Security analysts secure, process, and interpret the digital traces. Human resources holds the communication with the person and the impartial and dignified treatment of them, coordinates the other teams, documents the examination, and makes the final assessment against the organization’s own rules. Legal answers for its conformity with the law of the state and of the sector, evaluates what is found, and states where a public authority has to be told. The person’s line manager usually takes part, to supply the context of the activity that was observed.",
+       "sources": [
+        {
+         "anchor": "holoska-doucek",
+         "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal in Threats",
+         "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
+         "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "BA004",
@@ -6359,6 +6435,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#acn-379907"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "reported",
+       "jurisdiction": "CZ",
+       "state": "established",
+       "requirement": "It falls to the legal function to state where an incident has to be reported to a public authority, and where personal data have been lost the supervisory authority is to be told without undue delay.",
+       "sources": [
+        {
+         "anchor": "holoska-doucek",
+         "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal in Threats",
+         "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
+         "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
+        }
+       ]
       }
      ]
     },
@@ -6580,6 +6671,21 @@
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "reported",
+       "jurisdiction": "CZ",
+       "state": "established",
+       "requirement": "The final assessment of the examination is made against the organization’s own rules and recommendations, and it is from that assessment that disciplinary proceedings follow, where they follow.",
+       "sources": [
+        {
+         "anchor": "holoska-doucek",
+         "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal in Threats",
+         "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
+         "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
         }
        ]
       }
@@ -7227,7 +7333,7 @@
   }
  ],
  "counts": {
-  "established": 360,
+  "established": 367,
   "not covered": 0,
   "unread": 0,
   "open": 0

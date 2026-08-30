@@ -28,10 +28,10 @@ reconciled afterwards.
 | Pillars | 9 |
 | Measures | 109 |
 | Jurisdictions in scope | 34 |
-| Jurisdictions carrying something | 13 |
-| Rows established | 360 |
+| Jurisdictions carrying something | 14 |
+| Rows established | 367 |
 | Of them binding, and so controls | 236 |
-| Sources read and annotated | 67 |
+| Sources read and annotated | 68 |
 
 ## What is here
 
@@ -83,3 +83,8 @@ The licence does not cover the name. See [TRADEMARK.md](TRADEMARK.md).
 The record grows by contribution and by argument. What a contribution has to
 satisfy is in [CONTRIBUTING.md](CONTRIBUTING.md), and the short of it is that
 a row is only as good as the source somebody has actually read.
+
+Named so far, with thanks:
+
+- **Jiri Holoska**, for the first Czech source in the library and for the
+  map of the Czech and Slovak statutes that will follow it.
