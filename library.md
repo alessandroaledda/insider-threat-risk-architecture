@@ -65,6 +65,14 @@ Status: earlier editions of the same study were issued in 2009 and 2013.
 
 Reports findings from a review of insider cases drawn from the United Kingdom public and private sectors, describing how the acts occurred and what preceded them. It is one of the few publicly available European evidence bases in this field built from real cases. The cases are national and now some years old, and the report describes what occurred rather than what should be done about it.
 
+### Employment practices and data protection: monitoring workers {#ico-monitoring}
+Information Commissioner's Office · United Kingdom · 3 October 2023
+https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/monitoring-workers/
+Establishes: What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.
+Status: guidance from the authority that enforces the law rather than the law itself, and it says of itself that it is under review following the Data (Use and Access) Act. It separates must from should throughout, and a row here follows that separation rather than flattening it.
+
+The guidance covers monitoring in every form the term reaches, on the premises or away from them, during working hours or outside them, and it treats monitoring as part of the security measures an organization has in place as readily as it treats performance. Its substance for a program lies in four places. It sets out when watching without telling can be justified at all and on what conditions. It puts the introduction of monitoring inside the impact assessment and asks that the workforce be consulted there, or that the decision not to consult be recorded with its reason. It treats the ease of answering a request as a criterion in choosing a monitoring system, which makes the right of access a design constraint rather than an obligation met afterwards. And it asks that access to what monitoring produces be restricted to named people who are trained to handle it, which is a statement about the program's own holdings rather than about the estate it watches.
+
 ### Insider Risk Guidance {#npsa-guidance}
 NPSA · United Kingdom · continuously updated
 https://www.npsa.gov.uk/specialised-guidance/insider-risk-guidance

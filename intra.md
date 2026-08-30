@@ -79,6 +79,7 @@ Also: DPIA data protection impact assessment
 
 EU · established · [gdpr] · The assessment has to be completed before the measure operates, not compiled after it, wherever the processing is likely to result in a high risk.
 IT · established · [garante-243-2025] · Its absence is enough on its own: a decision has turned on the missing procedural steps without reaching the purpose the processing served.
+GB · established · [ico-monitoring] · An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a data protection officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker's household, is to be considered in it.
 
 ### GV009 · Accountability evidence {#gv009}
 What it is: The material by which the program can show how it reached a decision about itself: a threshold set, an instrument chosen, a policy changed. As distinct from asserting that the decision was reached properly, and as distinct from the record of a single case, which the investigation pillar holds.
@@ -96,6 +97,7 @@ FI · established · [fi-privacy-working-life] · Camera surveillance, access co
 BE · established · [be-cct-81] · The works council is informed on every aspect of the monitoring before the system is installed, and failing a works council the prevention committee, then the union delegation, then the workers.
 NO · established · [no-aml-kontroll] · The need for the measure, its design, its implementation, and any material change to it are discussed with the elected representatives as early as possible.
 AT · established · [at-arbvg-96] · The works council does not consent to a control measure as a step before it, but as the condition of its legal effect. What brings a measure inside the requirement is whether it touches human dignity.
+GB · established · [ico-monitoring] · The views of the workforce or its representatives should be sought and documented before monitoring is introduced, unless there is a good reason not to, and where the decision is not to, that decision should be recorded with a clear explanation. It should be done early in the planning and as part of the impact assessment.
 
 ### GV011 · Notice before an algorithmic system is deployed {#gv011}
 What it is: Notice that a system of a named class is about to be put into use, owed to the representatives of the workforce and to the workers themselves. It falls due by reason of what the system is, so it is owed even where the representatives hold no right to be consulted, and even where they have already been consulted about the same system.
@@ -119,6 +121,7 @@ What it is: The program's answer when a person asks what is held about them and 
 Also: subject access request SAR data subject access
 EU · established · [gdpr] · The reply is owed within one month of the request. It can be extended by two more where the request is complex or the requests are many, but the extension and the reasons for it have to reach the person inside the first month. Where the program will not act at all, that is said inside the same month, with the routes to a complaint and to a court named.
 IT · established · [garante-itas-2026] · Answering in stages across five months, and then handing over the correspondence purged of many elements without saying what had been taken out or why, was held not to be an answer.
+GB · established · [ico-monitoring] · What monitoring collects must be made available on a request unless an exemption applies, and the guidance turns that into a constraint on design: how easily information can be retrieved should bear on the choice of monitoring system in the first place, and that should be settled in the impact assessment. A system that cannot answer a request is a choice made earlier, not a difficulty met later.
 
 ## PS · Personnel security {#ps}
 Summary: The measures directed at the person: what is verified before and during employment, what is asked of the people who manage them, what the program may hold about them, and what happens when they leave.
@@ -304,10 +307,12 @@ NO · established · [no-innsyn-epost] · What is opened and proves not to be ne
 NO · established · [no-nsm] · The security relevant data are to be used only to safeguard the security of the systems, and kept long enough that unwanted activity can be discovered and mapped after the fact. What weighs on the period is that the data may later be wanted for an investigation, for assessing damage, and for trend analysis, held against the point that they can hold confidential information about the individual employee.
 AT · established · [at-ishb] · Log files hold personal data in many cases, so they may be used only for purposes compatible with the one they were collected for. Where that restriction bites, the handbook says it is resolved by removing the personal data or by anonymizing them, and states that pseudonymizing them is not enough.
 GB · established · [uk-dpa-2018] · The appropriate policy document has to explain the policies on retention and erasure of the data processed under the condition, and to give an indication of how long they are likely to be kept. An indication is what is asked for, not a period.
+GB · established · [ico-monitoring] · What monitoring produces must not be kept longer than is necessary for the purpose. The period should rest on business need and be reviewed regularly, and it should not be kept in case a purpose is found for it later. A retention schedule must exist and what is collected must be deleted in line with it.
 
 ### DP013 · Separation of program data {#dp013}
 What it is: The keeping of the program's own holdings apart from the systems the organization runs its business on, so that a case file is not reachable by whoever can reach the human resources record, and the stated conditions on which something crosses from one to the other.
 DE · established · [bsi-grundschutz] · The collected security relevant data are to be held centrally, as a log server assembly placed in a network segment set up for the purpose, and the administrators who operate it should hold no entitlement to alter or delete what it has recorded. The separation is of the store from the estate it observes and from the people who run that estate.
+GB · established · [ico-monitoring] · Access to what monitoring produces should be restricted to the people who need it, the most appropriate people to hold it should be identified rather than assumed, and they should be trained to handle it. The security risks of the monitoring itself should be assessed and the measures decided from that assessment.
 
 ### DP014 · Personal material in company accounts {#dp014}
 What it is: The handling of a worker's personal material held on systems the employer controls, during employment and after it.
@@ -370,6 +375,7 @@ NL · established · [wor-27] · The works council has to consent before any arr
 ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the endpoint agent into operation.
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the endpoint agent having legal effect, and the threshold is whether it touches human dignity.
 BE · established · [be-cyfun] · Endpoint and network protection tools that monitor the behavior of end users for dangerous activity are to be implemented and to be managed. What they are for is stated without euphemism: detecting risky or suspicious behavior by users on devices and networks, including the misuse of systems and attempts to get around the controls, whether these come from an attacker outside or from an insider.
+GB · established · [ico-monitoring] · Keystroke monitoring is named as an example of processing likely to cause high risk, so an assessment is owed before the agent is put on the device rather than after.
 
 ### MD005 · Network and egress monitoring {#md005}
 What it is: The inspection of traffic leaving the organization's control for volume, destination, or content.
@@ -504,6 +510,7 @@ IT · established · [statuto-art-4] · An agreement with the union representati
 NL · established · [wor-27] · The works council has to consent before any arrangement governing the measurement is adopted, amended, or withdrawn.
 ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the measurement into operation.
 AT · established · [at-arbvg-96] · A rate of work derived from statistical, data capture, or micro timing methods is named in its own right among the measures the works council has to consent to, alongside the general requirement for systems that control employees.
+GB · established · [ico-monitoring] · Monitoring that may result in financial loss, performance management given as the example, is named among the processing likely to cause high risk.
 
 ### MD017 · Monitoring on worker-owned devices {#md017}
 What it is: The operation of the program's instruments on equipment owned by the worker.
@@ -514,6 +521,7 @@ ES · established · [aepd-ares-capital] · Requiring a worker's own telephone t
 What it is: Observation conducted without notice, following a specific suspicion already held.
 
 CoE · established · [lopez-ribalda] · The suspicion has to exist before the observation begins, and the scope and duration have to answer to it.
+GB · established · [ico-monitoring] · Watching without telling is unlikely to be justified in most circumstances, and where it is, the conditions are set out. It should be authorized only by senior management. An impact assessment must be carried out. There should be grounds for suspecting criminal activity or an equivalent such as gross misconduct, and a view that telling the workforce would prejudice detecting it. It should be strictly targeted at obtaining evidence within a set timeframe, kept to the shortest possible, and it should not continue once the investigation is complete. It should not reach places where a worker would reasonably expect privacy, and in most circumstances it should not capture communications a worker would reasonably expect to be private.
 
 ### MD019 · Monitoring outside working hours {#md019}
 What it is: Observation continuing when the person is not at work.
@@ -772,6 +780,7 @@ NO · established · [no-aml-kontroll] · Before the measure starts, those affec
 IT · established · [garante-itas-2026] · A backup of the mailboxes described in none of the notices given to the staff leaves them unable to know it exists, which is the finding rather than the keeping itself.
 NO · established · [no-nsm] · The workforce is informed of what is collected, what it is to be used for, and how the data are to be handled, and that sits alongside establishing which laws apply and deciding how long the data shall and may be stored.
 GB · established · [uk-monitoring-regs] · The system controller has to have made all reasonable efforts to inform every person who may use the system that communications transmitted by it may be intercepted. Everyone who may use it, not everyone employed, and reasonable efforts rather than acknowledgement.
+GB · established · [ico-monitoring] · Workers must be made aware of how and what personal information is collected. A system could be set up so that they remain aware that monitoring is taking place, through an intranet or signage in the areas it reaches. The privacy information must be kept up to date, and workers must be told when a change is introduced.
 
 ### AW003 · Role-specific training {#aw003}
 What it is: The additional instruction given to managers, privileged users, and the people who run the program.
@@ -780,6 +789,7 @@ IT · established · [acn-379907] · Training dedicated to the people in special
 DE · established · [bsi-grundschutz] · Where the protection need is raised, particular people should be given the task of watching the logging data, it should be the greater part of what they do, and they should be given specialized further training and qualification. A group should be named that is responsible for the evaluation of logging data and for nothing else.
 ES · established · [es-ens] · The workforce is trained regularly in what their duties require of them, and three subjects are named: the configuration of systems, the detection of and reaction to incidents, and the handling of information on any medium, which is to cover its storage, transfer, copying, distribution, and destruction. The effectiveness of the training given is assessed.
 BE · established · [be-cyfun] · Training specific to the role is to be given to the staff who reach sensitive data or systems, on the responsibilities that reaching them carries, and cross-functional training is to be built where two kinds of expertise have to meet.
+GB · established · [ico-monitoring] · The people who handle what monitoring produces should be trained to handle it, and they are to be identified as the appropriate people for that rather than reached by default.
 
 ### AW004 · Training records {#aw004}
 What it is: The record, attached to a named person, of the instruction they received and when.

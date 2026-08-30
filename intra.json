@@ -565,6 +565,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#garante-243-2025"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a data protection officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker’s household, is to be considered in it.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
+        }
+       ]
       }
      ]
     },
@@ -724,6 +739,21 @@
          "title": "Arbeitsverfassungsgesetz, sections 96 and 96a",
          "establishes": "That a control measure touching human dignity has no legal effect without the works council's consent, and that consent for automated processing and for assessment systems can be replaced by a conciliation board while consent under section 96 cannot.",
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "The views of the workforce or its representatives should be sought and documented before monitoring is introduced, unless there is a good reason not to, and where the decision is not to, that decision should be recorded with a clear explanation. It should be done early in the planning and as part of the impact assessment.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
       }
@@ -887,6 +917,21 @@
          "title": "Provvedimento del 12 marzo 2026, ITAS Mutua",
          "establishes": "That an answer given in stages and then handed over in part, without saying what was withheld, does not discharge the right of access, and that a five year backup of employee mail has to be disclosed to the people whose mail it holds.",
          "url": "https://alessandroaledda.com/intra/sources/#garante-itas-2026"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "What monitoring collects must be made available on a request unless an exemption applies, and the guidance turns that into a constraint on design: how easily information can be retrieved should bear on the choice of monitoring system in the first place, and that should be settled in the impact assessment. A system that cannot answer a request is a choice made earlier, not a difficulty met later.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
       }
@@ -2622,6 +2667,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#uk-dpa-2018"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "What monitoring produces must not be kept longer than is necessary for the purpose. The period should rest on business need and be reviewed regularly, and it should not be kept in case a purpose is found for it later. A retention schedule must exist and what is collected must be deleted in line with it.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
+        }
+       ]
       }
      ]
     },
@@ -2648,6 +2708,21 @@
          "title": "IT-Grundschutz-Kompendium, Edition 2023",
          "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Access to what monitoring produces should be restricted to the people who need it, the most appropriate people to hold it should be identified rather than assumed, and they should be trained to handle it. The security risks of the monitoring itself should be assessed and the measures decided from that assessment.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
       }
@@ -3265,6 +3340,21 @@
          "title": "CyberFundamentals 2025, Essential",
          "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
          "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Keystroke monitoring is named as an example of processing likely to cause high risk, so an assessment is owed before the agent is put on the device rather than after.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
       }
@@ -4797,6 +4887,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Monitoring that may result in financial loss, performance management given as the example, is named among the processing likely to cause high risk.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
+        }
+       ]
       }
      ]
     },
@@ -4851,6 +4956,21 @@
          "title": "López Ribalda and Others v. Spain",
          "establishes": "That those criteria are weighed rather than counted, and that surveillance without notice can survive where a suspicion preceded it.",
          "url": "https://alessandroaledda.com/intra/sources/#lopez-ribalda"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Watching without telling is unlikely to be justified in most circumstances, and where it is, the conditions are set out. It should be authorized only by senior management. An impact assessment must be carried out. There should be grounds for suspecting criminal activity or an equivalent such as gross misconduct, and a view that telling the workforce would prejudice detecting it. It should be strictly targeted at obtaining evidence within a set timeframe, kept to the shortest possible, and it should not continue once the investigation is complete. It should not reach places where a worker would reasonably expect privacy, and in most circumstances it should not capture communications a worker would reasonably expect to be private.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
       }
@@ -6883,6 +7003,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "Workers must be made aware of how and what personal information is collected. A system could be set up so that they remain aware that monitoring is taking place, through an intranet or signage in the areas it reaches. The privacy information must be kept up to date, and workers must be told when a change is introduced.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
+        }
+       ]
       }
      ]
     },
@@ -6969,6 +7104,21 @@
          "title": "CyberFundamentals 2025, Essential",
          "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
          "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GB",
+       "state": "established",
+       "requirement": "The people who handle what monitoring produces should be trained to handle it, and they are to be identified as the appropriate people for that rather than reached by default.",
+       "sources": [
+        {
+         "anchor": "ico-monitoring",
+         "title": "Employment practices and data protection: monitoring workers",
+         "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
+         "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
       }
@@ -7077,7 +7227,7 @@
   }
  ],
  "counts": {
-  "established": 350,
+  "established": 360,
   "not covered": 0,
   "unread": 0,
   "open": 0
