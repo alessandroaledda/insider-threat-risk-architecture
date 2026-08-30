@@ -5,12 +5,21 @@ reviewed: 2026-08-29
 contributors:
 ---
 
-Insider Threat and Risk Architecture (INTRA™) is a [b:living] three level framework for building an insider risk management program in Europe.
+Insider Threat and Risk Architecture (INTRA™) is a [r:living] three level framework for building an insider risk management program in Europe.
 - **Pillar.** A structural component of such a program. There are nine, and they hold in any jurisdiction.
 - **Measure.** A single action or deliverable a program can implement, the unit a practitioner plans, budgets, and hands over. Measures travel almost as well, though not quite, since some exist because a legal caveat brought them into being.
 - **Control.** A measure as one European jurisdiction has it. Where a jurisdiction has spoken on a measure, the caveat it imposes governs that measure, and the measure so governed is a control.
 
-A control states the caveat and names the source it comes from. It does not state what an organization should do, it does not compare one jurisdiction with another, and it is not advice on compliance. What a measure carries depends on what has been found for it.
+A control states the caveat and names the source it comes from. It does not state what an organization should do, it does not compare one jurisdiction with another, and it is not advice on compliance.
+
+Thirty-four jurisdictions [y:in scope]. The European Union, the Council of Europe, every state in which Union or European Economic Area law applies, the United Kingdom, and Switzerland. A source qualifies if it is European in origin and if it sets out how a program is built, states a legal constraint on how one may operate, or reports research findings. American material is not listed: that part of the record is gathered already, and what is collected here can be used in a European organization without first subtracting the assumptions that do not hold there.
+
+Everything here is written in two files, and both are [b:public].
+The framework and the library are kept as markdown in a repository, under a license that lets anyone use them, change them, and build on them as long as they credit them. The data the site reads is generated from those two files, so a correction goes to the markdown and never to the JSON. What the repository holds is what this page is built from rather than a copy of it, and anyone who thinks a control is formulated wrongly, or knows a source that belongs here, can open the question there.
+
+Part of what INTRA maps does not exist. There is no European insider symposium: the reference event in the field is American, in its eleventh edition. There is no European professional body for the discipline. There is no program standard at Union level, the only thematic report from the Union agency dating from 2020 and the only program development manual from 2019. INTRA records those absences the way it records a jurisdiction that has said nothing.
+
+What a measure carries depends on what has been found for it.
 - **A source worked in.** A control is written from it.
 - **A source not yet worked in.** It is named on the measure, and nothing follows from it.
 - **No source at all.** Nothing in the European record has been found to bear on the measure, which leaves it inside the framework and the question open.
@@ -19,13 +28,6 @@ Every row states its standing.
 - [recommended] where a standard or a guidance document sets it out as practice.
 - [reported] where research records a finding.
 Only a mandatory row carries a control identifier, since a standard and a study are cited by their own reference.
-
-Thirty-four jurisdictions [y:in scope]. The European Union, the Council of Europe, every state in which Union or European Economic Area law applies, the United Kingdom, and Switzerland. A source qualifies if it is European in origin and if it sets out how a program is built, states a legal constraint on how one may operate, or reports research findings. American material is not listed: that part of the record is gathered already, and what is collected here can be used in a European organization without first subtracting the assumptions that do not hold there.
-
-Everything here is written in two files, and both are public.
-The framework and the library are kept as markdown in a repository, under a license that lets anyone use them, change them, and build on them as long as they credit them. The data the site reads is generated from those two files, so a correction goes to the markdown and never to the JSON. What the repository holds is what this page is built from rather than a copy of it, and anyone who thinks a control is formulated wrongly, or knows a source that belongs here, can open the question there.
-
-Part of what INTRA maps does not exist. There is no European insider symposium: the reference event in the field is American, in its eleventh edition. There is no European professional body for the discipline. There is no program standard at Union level, the only thematic report from the Union agency dating from 2020 and the only program development manual from 2019. INTRA records those absences the way it records a jurisdiction that has said nothing.
 
 ## GV · Governance and mandate {#gv}
 Summary: The authority under which an insider risk management program operates, its ownership, and the record of both.
