@@ -1,17 +1,21 @@
 # Insider Threat and Risk Architecture
 
-INTRA&trade; is a living, three level framework for building an insider
-program in Europe.
+INTRA&trade; is a living, three level framework for building an
+insider risk management program in Europe.
 
-- A **pillar** is a structural component of such a program. There are
-  9, and they hold in any jurisdiction.
-- A **measure** is a single action or deliverable a program can implement,
-  the unit a practitioner plans, budgets, and hands over. Measures travel
-  almost as well, though not quite, since some exist because a legal caveat
-  brought them into being.
-- A **control** is a measure as one European jurisdiction has it. Where a
-  jurisdiction has spoken on a measure, the caveat it imposes governs that
-  measure, and the measure so governed is a control.
+- A **pillar** is one of the nine parts a program is built out of. The
+  nine do not change from one jurisdiction to another: what the law varies
+  is what a program does inside a pillar, never which pillars it has.
+- A **measure** is a single action or deliverable under a pillar, and the unit
+  a practitioner plans, budgets, and hands over. Almost all of them are the
+  same thing in one European country as in another. A few exist only because
+  a law somewhere created the need for them, and those are the ones that
+  travel least.
+- A **control** is a measure as one European jurisdiction binds it. Where an
+  instrument that binds there sets a condition on a measure, the measure so
+  conditioned is a control, and it carries an identifier of its own. Where a
+  standard or a study speaks to a measure instead, what stands against it is a
+  row and not a control.
 
 A program is assembled from the three, in whole or in part, with what the law
 requires and what the field has recorded in view while it is built rather than
@@ -25,7 +29,8 @@ reconciled afterwards.
 | Measures | 109 |
 | Jurisdictions in scope | 34 |
 | Jurisdictions carrying something | 13 |
-| Controls established | 360 |
+| Rows established | 360 |
+| Of them binding, and so controls | 236 |
 | Sources read and annotated | 67 |
 
 ## What is here

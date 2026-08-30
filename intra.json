@@ -1,6 +1,6 @@
 {
  "name": "Insider Threat and Risk Architecture",
- "description": "A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and the controls each European jurisdiction makes of those measures, every row from a source that has been read.",
+ "description": "A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.",
  "author": {
   "name": "Alessandro Aledda",
   "url": "https://alessandroaledda.com/about.html"
@@ -571,7 +571,7 @@
        "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
-       "requirement": "An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a data protection officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker’s household, is to be considered in it.",
+       "requirement": "An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider risk management program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a data protection officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker’s household, is to be considered in it.",
        "sources": [
         {
          "anchor": "ico-monitoring",

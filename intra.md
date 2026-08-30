@@ -1,16 +1,16 @@
 ---
 title: Insider Threat and Risk Architecture
-subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and the controls each European jurisdiction makes of those measures, every row from a source that has been read.
+subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
 reviewed: 2026-08-29
 contributors:
 ---
 
 Insider Threat and Risk Architecture (INTRA™) is a [r:living] three level framework for building an insider risk management program in Europe.
-- **Pillar.** A structural component of such a program. There are nine, and they hold in any jurisdiction.
-- **Measure.** A single action or deliverable a program can implement, the unit a practitioner plans, budgets, and hands over. Measures travel almost as well, though not quite, since some exist because a legal caveat brought them into being.
-- **Control.** A measure as one European jurisdiction has it. Where a jurisdiction has spoken on a measure, the caveat it imposes governs that measure, and the measure so governed is a control.
+- **Pillar.** One of the nine parts a program is built out of. The nine do not change from one jurisdiction to another: what the law varies is what a program does inside a pillar, never which pillars it has.
+- **Measure.** A single action or deliverable under a pillar, and the unit a practitioner plans, budgets, and hands over. Almost all of them are the same thing in one European country as in another. A few exist only because a law somewhere created the need for them, and those are the ones that travel least.
+- **Control.** A measure as one European jurisdiction binds it. Where an instrument that binds there sets a condition on a measure, the measure so conditioned is a control, and it carries an identifier of its own. Where a standard or a study speaks to a measure instead, what stands against it is a row and not a control.
 
-A control states the caveat and names the source it comes from. It does not state what an organization should do, it does not compare one jurisdiction with another, and it is not advice on compliance.
+A control states the condition and names the source it comes from. It does not state what an organization should do, it does not compare one jurisdiction with another, and it is not advice on compliance.
 
 Thirty-four jurisdictions [y:in scope].
 The European Union, the Council of Europe, every state in which Union or European Economic Area law applies, the United Kingdom, and Switzerland. A source qualifies if it is European in origin and if it sets out how a program is built, states a legal constraint on how one may operate, or reports research findings. American material is not listed: that part of the record is gathered already, and what is collected here can be used in a European organization without first subtracting the assumptions that do not hold there.
@@ -18,11 +18,11 @@ What a measure carries depends on what has been found for it.
 - **A source worked in.** A control is written from it.
 - **A source not yet worked in.** It is named on the measure, and nothing follows from it.
 - **No source at all.** Nothing in the European record has been found to bear on the measure, which leaves it inside the framework and the question open.
-Every row states its standing.
-- [mandatory] where a jurisdiction sets the caveat.
-- [recommended] where a standard or a guidance document sets it out as practice.
-- [reported] where research records a finding.
-Only a mandatory row carries a control identifier, since a standard and a study are cited by their own reference.
+Every row states its standing, and the standing is not a judgment about the row.
+- [mandatory] where the source is an instrument that binds in that jurisdiction.
+- [recommended] where it is a standard or a guidance document.
+- [reported] where it is research.
+The standing is taken from the kind of the source, not decided row by row, and where a row rests on more than one the strongest governs. Nothing here weighs an obligation against a recommendation or records one as the other. A binding row is a mandatory one, and it is the only kind that carries a control identifier, since a standard and a study are cited by their own reference.
 
 Everything here is written in two files, and both are [b:public].
 The framework and the library are kept as markdown in a repository, under a license that lets anyone use them, change them, and build on them as long as they credit them. The data the site reads is generated from those two files, so a correction goes to the markdown and never to the JSON. What the repository holds is what this page is built from rather than a copy of it, and anyone who thinks a control is formulated wrongly, or knows a source that belongs here, can open the question there.
@@ -79,7 +79,7 @@ Also: DPIA data protection impact assessment
 
 EU · established · [gdpr] · The assessment has to be completed before the measure operates, not compiled after it, wherever the processing is likely to result in a high risk.
 IT · established · [garante-243-2025] · Its absence is enough on its own: a decision has turned on the missing procedural steps without reaching the purpose the processing served.
-GB · established · [ico-monitoring] · An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a data protection officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker's household, is to be considered in it.
+GB · established · [ico-monitoring] · An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider risk management program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a data protection officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker's household, is to be considered in it.
 
 ### GV009 · Accountability evidence {#gv009}
 What it is: The material by which the program can show how it reached a decision about itself: a threshold set, an instrument chosen, a policy changed. As distinct from asserting that the decision was reached properly, and as distinct from the record of a single case, which the investigation pillar holds.
