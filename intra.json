@@ -159,7 +159,7 @@
    "code": "GV",
    "name": "Governance and mandate",
    "summary": "The authority under which an insider risk management program operates, its ownership, and the record of both.",
-   "canonical": "https://alessandroaledda.com/intra/pillars/#GV",
+   "canonical": "https://alessandroaledda.com/intra/framework/#GV",
    "measures": [
     {
      "id": "GV001",
@@ -943,7 +943,7 @@
    "code": "PS",
    "name": "Personnel security",
    "summary": "The measures directed at the person: what is verified before and during employment, what is asked of the people who manage them, what the program may hold about them, and what happens when they leave.",
-   "canonical": "https://alessandroaledda.com/intra/pillars/#PS",
+   "canonical": "https://alessandroaledda.com/intra/framework/#PS",
    "measures": [
     {
      "id": "PS001",
@@ -1933,7 +1933,7 @@
    "code": "DP",
    "name": "Data and asset protection",
    "summary": "The protection of the information and assets the organization holds, and of the records the program itself generates.",
-   "canonical": "https://alessandroaledda.com/intra/pillars/#DP",
+   "canonical": "https://alessandroaledda.com/intra/framework/#DP",
    "measures": [
     {
      "id": "DP001",
@@ -2880,7 +2880,7 @@
    "code": "MD",
    "name": "Monitoring and detection",
    "summary": "The technical means by which work is observed, and the conditions attaching to their deployment.",
-   "canonical": "https://alessandroaledda.com/intra/pillars/#MD",
+   "canonical": "https://alessandroaledda.com/intra/framework/#MD",
    "measures": [
     {
      "id": "MD001",
@@ -5216,7 +5216,7 @@
    "code": "BA",
    "name": "Behavioral assessment",
    "summary": "The derivation of concern from the person rather than from an act.",
-   "canonical": "https://alessandroaledda.com/intra/pillars/#BA",
+   "canonical": "https://alessandroaledda.com/intra/framework/#BA",
    "measures": [
     {
      "id": "BA001",
@@ -5657,7 +5657,7 @@
    "code": "IV",
    "name": "Investigation and digital forensics",
    "summary": "The examination of an identified person, and the handling of the material on which it rests.",
-   "canonical": "https://alessandroaledda.com/intra/pillars/#IV",
+   "canonical": "https://alessandroaledda.com/intra/framework/#IV",
    "measures": [
     {
      "id": "IV001",
@@ -6193,7 +6193,7 @@
    "code": "IR",
    "name": "Incident response",
    "summary": "The measures taken while an incident is open: containment, preservation, and notification.",
-   "canonical": "https://alessandroaledda.com/intra/pillars/#IR",
+   "canonical": "https://alessandroaledda.com/intra/framework/#IR",
    "measures": [
     {
      "id": "IR001",
@@ -6631,7 +6631,7 @@
    "code": "CP",
    "name": "Consequence for the person",
    "summary": "The action taken against a person following a finding, and the basis on which it may be taken.",
-   "canonical": "https://alessandroaledda.com/intra/pillars/#CP",
+   "canonical": "https://alessandroaledda.com/intra/framework/#CP",
    "measures": [
     {
      "id": "CP001",
@@ -6853,7 +6853,7 @@
    "code": "AW",
    "name": "Awareness and training",
    "summary": "The instruction of the workforce concerning the program, and the record of it.",
-   "canonical": "https://alessandroaledda.com/intra/pillars/#AW",
+   "canonical": "https://alessandroaledda.com/intra/framework/#AW",
    "measures": [
     {
      "id": "AW001",

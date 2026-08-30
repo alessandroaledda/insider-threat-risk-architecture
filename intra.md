@@ -2,7 +2,7 @@
 title: Insider Threat and Risk Architecture
 subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
 reviewed: 2026-08-30
-contributors:
+contributors: Jiri Holoska · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.
 ---
 
 Insider Threat and Risk Architecture (INTRA™) is a [r:living] three level framework for building an insider risk management program in Europe.
