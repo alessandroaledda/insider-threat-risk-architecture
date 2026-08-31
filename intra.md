@@ -2,7 +2,7 @@
 title: Insider Threat and Risk Architecture
 subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
 reviewed: 2026-08-30
-contributors: Jiri Holoska · https://www.linkedin.com/in/holoska/ ·  · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball · https://www.linkedin.com/in/simon-ball-itl/ · Founder and Director, Insider Threat Limited · MD018 · Asked whether covert monitoring reads as a capability rather than an exception, which is why the measure now says what the prior suspicion is for.
+contributors: Jiri Holoska · https://www.linkedin.com/in/holoska/ ·  · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball · https://www.linkedin.com/in/simon-ball-itl/ · Founder and Director, Insider Threat Limited · MD018 · Pointed out that MD018 could be read as a capability rather than an exception. Its definition now states that the prior suspicion is what permits the observation, not what it is for.
 ---
 
 Insider Threat and Risk Architecture (INTRA™) is a [r:living] three level framework for building an insider risk management program in Europe.
@@ -522,7 +522,7 @@ What it is: The operation of the program's instruments on equipment owned by the
 ES · established · [aepd-ares-capital] · Requiring a worker's own telephone to carry the instruments has drawn infringements of articles 13, 5(1)(c), and 6(1), a fine of 200,000 euros, and an order to bring the processing into line within two months.
 
 ### MD018 · Covert monitoring on prior suspicion {#md018}
-What it is: Observation conducted without notice, following a specific suspicion already held. The suspicion is what permits the observation, not what the observation is for. Every source in the record that reaches this measure sets conditions on it.
+What it is: Observation conducted without notice, following a specific suspicion already held. The suspicion is what permits the observation, not what the observation is for.
 
 CoE · established · [lopez-ribalda] · The suspicion has to exist before the observation begins, and the scope and duration have to answer to it.
 GB · established · [ico-monitoring] · Watching without telling is unlikely to be justified in most circumstances, and where it is, the conditions are set out. It should be authorized only by senior management. An impact assessment must be carried out. There should be grounds for suspecting criminal activity or an equivalent such as gross misconduct, and a view that telling the workforce would prejudice detecting it. It should be strictly targeted at obtaining evidence within a set timeframe, kept to the shortest possible, and it should not continue once the investigation is complete. It should not reach places where a worker would reasonably expect privacy, and in most circumstances it should not capture communications a worker would reasonably expect to be private.

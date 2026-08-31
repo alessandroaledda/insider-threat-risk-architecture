@@ -4996,7 +4996,7 @@
     {
      "id": "MD018",
      "name": "Covert monitoring on prior suspicion",
-     "what": "Observation conducted without notice, following a specific suspicion already held. The suspicion is what permits the observation, not what the observation is for. Every source in the record that reaches this measure sets conditions on it.",
+     "what": "Observation conducted without notice, following a specific suspicion already held. The suspicion is what permits the observation, not what the observation is for.",
      "canonical": "https://alessandroaledda.com/intra/MD018/",
      "pending": [],
      "guidance": [],
