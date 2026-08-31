@@ -2,7 +2,7 @@
 title: Insider Threat and Risk Architecture
 subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
 reviewed: 2026-08-30
-contributors: Jiri Holoska · https://www.linkedin.com/in/holoska/ · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball ·  · MD018 · Asked whether covert monitoring reads as a capability rather than an exception, which is why the measure now says what the prior suspicion is for.
+contributors: Jiri Holoska · https://www.linkedin.com/in/holoska/ ·  · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball · https://www.linkedin.com/in/simon-ball-itl/ · Founder and Director, Insider Threat Limited · MD018 · Asked whether covert monitoring reads as a capability rather than an exception, which is why the measure now says what the prior suspicion is for.
 ---
 
 Insider Threat and Risk Architecture (INTRA™) is a [r:living] three level framework for building an insider risk management program in Europe.
