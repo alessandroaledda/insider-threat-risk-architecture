@@ -171,6 +171,28 @@ Status: guidance from the Board addressed to small organizations rather than an 
 
 Access to the premises is to be controlled so as to prevent or slow unauthorized reach to paper files and to computer equipment. The building is divided into areas according to risk, a list is kept of the individuals or the categories of individual permitted to enter each one, and rules and means are established for visitors, at a minimum that a visitor is accompanied by someone from the organization once outside the public areas. Keys and alarm codes are themselves protected. Where the organization goes further and records who entered a room holding material whose loss would bear seriously on the people it concerns, the Board attaches two conditions to that record: the people who handle the data are told the system exists, and the staff representatives are informed and consulted.
 
+### Opinion 2/2017 on data processing at work (WP249) {#wp249}
+Article 29 Data Protection Working Party · European Union · 8 June 2017
+https://ec.europa.eu/newsroom/article29/items/610169
+Establishes: That consent is rarely a valid ground in employment, and how legitimate interests are weighed against privacy across nine scenarios of workplace monitoring.
+Status: the Working Party was replaced by the European Data Protection Board in May 2018. The opinion has not been superseded by an equivalent Board instrument.
+
+Assesses the balance between an employer's legitimate interests and an employee's expectation of privacy across nine scenarios, among them the monitoring of information technology use inside and outside the workplace. It holds that consent is unlikely to be a valid basis in an employment relationship, because the imbalance of power means it is rarely freely given. It was written under the previous directive and updates two earlier opinions, and no equivalent instrument has been issued under the Regulation to replace it.
+
+### Documento di indirizzo on email metadata in the workplace {#garante-2023}
+Garante per la protezione dei dati personali · Italy · 21 December 2023
+https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9978728
+Status: superseded by provvedimento n. 364 of 6 June 2024 following public consultation. Listed because it explains what the 2024 document revised.
+
+The first version of the authority's position on the retention of email metadata by employers, issued as a guidance document rather than as a decision in a case. It was suspended and put to public consultation after objections to the retention period it proposed. It is superseded, and appears here because the 2024 document is a revision of it and reads as one.
+
+### Provvedimento n. 364, guidance document on email metadata in the workplace {#garante-364-2024}
+Garante per la protezione dei dati personali · Italy · 6 June 2024
+https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10026277
+Establishes: That retaining email metadata beyond twenty-one days engages the article 4 procedure, reaching the envelope of a message rather than its content.
+
+Holds that retaining email metadata beyond a short period engages the procedure under article 4 of the Workers' Statute, and treats twenty-one days as the outer limit of what an employer may retain without following that route. It reaches metadata, meaning sender, recipient, time, and size, rather than the content of messages. It is a guidance document rather than a decision, so it states the authority's position without adjudicating a case.
+
 ## Law and case law
 Summary: What constrains it, from the Union and Strasbourg down to nine national orders.
 Order: by legal order, from European Union to Council of Europe to national. Within the national law, by country in the order the table below sets out, and within each country by date.
@@ -193,14 +215,6 @@ https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng
 Establishes: The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.
 
 Article 6 sets out the lawful bases for processing, article 5(2) places on the controller the burden of demonstrating compliance, article 9 prohibits the processing of a closed list of categories, among them trade union membership, data concerning health, and biometric data used to identify a person uniquely, unless one of the grounds in article 9(2) applies, of which the employment ground requires that Union or member state law or a collective agreement authorize it and provide appropriate safeguards, article 22 gives a person the right not to be subject to a decision based solely on automated processing, profiling included, that produces legal effects concerning them or similarly significantly affects them, article 35 requires an impact assessment where processing is likely to result in a high risk, and article 88 allows member states to make more specific rules for the employment context. Article 12 sets the period inside which a person who asks has to be answered, one month from the request, extendable by two more where the request is complex or the requests are many, and then only if the extension and the reasons for it reach the person inside the first month. Where the controller will not act at all, the reasons and the routes to a complaint and to a court are owed inside that same month. Article 15 sets out what the answer holds: confirmation that processing is happening, the data themselves, and with them the purposes, the categories, the recipients, the period they will be kept, their source where they did not come from the person, and the existence of automated decision-making with meaningful information about the logic involved. Where such a decision is nonetheless taken on the ground of contractual necessity or of explicit consent, the controller has to put in place at least the right to obtain human intervention, to express a point of view, and to contest the decision, and the decision may not rest on the article 9 categories at all save under two of that article's grounds and with safeguards in place. Article 88 is why the applicable rule differs between countries even though the Regulation itself does not. The Regulation does not address insider risk as such, and none of these articles names workplace monitoring as a category.
-
-### Opinion 2/2017 on data processing at work (WP249) {#wp249}
-Article 29 Data Protection Working Party · European Union · 8 June 2017
-https://ec.europa.eu/newsroom/article29/items/610169
-Establishes: That consent is rarely a valid ground in employment, and how legitimate interests are weighed against privacy across nine scenarios of workplace monitoring.
-Status: the Working Party was replaced by the European Data Protection Board in May 2018. The opinion has not been superseded by an equivalent Board instrument.
-
-Assesses the balance between an employer's legitimate interests and an employee's expectation of privacy across nine scenarios, among them the monitoring of information technology use inside and outside the workplace. It holds that consent is unlikely to be a valid basis in an employment relationship, because the imbalance of power means it is rarely freely given. It was written under the previous directive and updates two earlier opinions, and no equivalent instrument has been issued under the Regulation to replace it.
 
 ### Regulation (EU) 2024/1689, articles 5(1)(f), 10, and 26(7), and Annex III(4) {#ai-act}
 European Parliament and Council · European Union · 13 June 2024
@@ -311,20 +325,6 @@ https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300
 Establishes: That an instrument from which remote monitoring may follow is permitted only for stated purposes, and only after a union agreement or an authorization.
 
 Permits instruments from which remote monitoring of workers may follow only for organizational and production requirements, workplace safety, or the protection of company assets, and only after a union agreement or, failing that, authorization from the labor inspectorate. The second paragraph exempts the tools an employee uses to perform the work, and that exemption is read narrowly. The article governs whether an instrument may be installed at all, a question that arises before any data protection analysis begins.
-
-### Documento di indirizzo on email metadata in the workplace {#garante-2023}
-Garante per la protezione dei dati personali · Italy · 21 December 2023
-https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9978728
-Status: superseded by provvedimento n. 364 of 6 June 2024 following public consultation. Listed because it explains what the 2024 document revised.
-
-The first version of the authority's position on the retention of email metadata by employers, issued as a guidance document rather than as a decision in a case. It was suspended and put to public consultation after objections to the retention period it proposed. It is superseded, and appears here because the 2024 document is a revision of it and reads as one.
-
-### Provvedimento n. 364, guidance document on email metadata in the workplace {#garante-364-2024}
-Garante per la protezione dei dati personali · Italy · 6 June 2024
-https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10026277
-Establishes: That retaining email metadata beyond twenty-one days engages the article 4 procedure, reaching the envelope of a message rather than its content.
-
-Holds that retaining email metadata beyond a short period engages the procedure under article 4 of the Workers' Statute, and treats twenty-one days as the outer limit of what an employer may retain without following that route. It reaches metadata, meaning sender, recipient, time, and size, rather than the content of messages. It is a guidance document rather than a decision, so it states the authority's position without adjudicating a case.
 
 ### Provvedimento n. 243 {#garante-243-2025}
 Garante per la protezione dei dati personali · Italy · 29 April 2025

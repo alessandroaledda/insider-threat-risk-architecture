@@ -525,7 +525,7 @@ IT · established · [garante-364-2024] [garante-243-2025] [garante-165-2026] ·
 ### MD008 · Access to the content of communications {#md008}
 What it is: The opening and reading of the content of a communication, for a stated purpose and on a named person. It is an event, done at a moment and answerable for itself, and it is separate from holding a copy of the store the message sits in.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
 EU · established · [wp249] · The balance has to be struck before the content is opened, and it is struck differently for technology used outside the workplace than inside it.
 CoE · established · [barbulescu] · Correspondence keeps its protection even where private use of a work device breaks the rules, so the six criteria apply to opening it and not only to logging it.
@@ -659,7 +659,7 @@ GB · established · [ico-monitoring] · Watching without telling is unlikely to
 ### MD019 · Monitoring outside working hours {#md019}
 What it is: Observation continuing when the person is not at work.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
 EU · established · [wp249] · The balance covers technology used outside the workplace as well as inside it, so continuing after hours does not fall outside the assessment.
 CoE · established · [gramaxo] · Observation running through and beyond working hours has survived on its facts, which does not settle that it survives on any others.
@@ -728,7 +728,7 @@ What it is: The derivation of a person's emotional state from observable data.
 Added: 2026-08-30
 Updated: 2026-09-01
 
-EU · established · [ai-act] · Putting on the market, putting into service, or using an AI system to infer the emotions of a person in the workplace is prohibited, unless the system is intended for medical or safety reasons.
+EU · established · [ai-act] · Putting on the market, putting into service, or using an AI system to infer the emotions of a person in the workplace is prohibited, unless the system is intended for medical or safety reasons. What the Act means by inferring an emotion it defines by reference to biometric data, and the reasoning it gives for the prohibition runs on that basis. Physical states such as pain or fatigue fall outside it, and so does the mere detection of readily apparent expressions, gestures, or movements, unless those are used to infer an emotion.
 
 ### BA007 · Automated decision-making about a worker {#ba007}
 What it is: A decision producing effects for a worker taken by automated means without human intervention.

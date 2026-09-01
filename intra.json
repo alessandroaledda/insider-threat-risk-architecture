@@ -3910,11 +3910,11 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
-       "id": "MD008/EU",
-       "standing": "mandatory",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The balance has to be struck before the content is opened, and it is struck differently for technology used outside the workplace than inside it.",
@@ -5127,11 +5127,11 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
-       "id": "MD019/EU",
-       "standing": "mandatory",
+       "id": "",
+       "standing": "recommended",
        "jurisdiction": "EU",
        "state": "established",
        "requirement": "The balance covers technology used outside the workplace as well as inside it, so continuing after hours does not fall outside the assessment.",
@@ -5546,7 +5546,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Putting on the market, putting into service, or using an AI system to infer the emotions of a person in the workplace is prohibited, unless the system is intended for medical or safety reasons.",
+       "requirement": "Putting on the market, putting into service, or using an AI system to infer the emotions of a person in the workplace is prohibited, unless the system is intended for medical or safety reasons. What the Act means by inferring an emotion it defines by reference to biometric data, and the reasoning it gives for the prohibition runs on that basis. Physical states such as pain or fatigue fall outside it, and so does the mere detection of readily apparent expressions, gestures, or movements, unless those are used to infer an emotion.",
        "sources": [
         {
          "anchor": "ai-act",
