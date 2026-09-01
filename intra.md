@@ -2,7 +2,7 @@
 title: Insider Threat and Risk Architecture
 subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
 reviewed: 2026-08-30
-contributors: Jiří Hološka · https://www.linkedin.com/in/holoska/ · Ph.D., Insider Threat and Incident Response Manager, University Lecturer · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball · https://www.linkedin.com/in/simon-ball-itl/ · Founder and Director, Insider Threat Limited · MD018 · Pointed out that MD018 could be read as a capability rather than an exception. Its definition now states that the prior suspicion is what permits the observation, not what it is for.
+contributors: Jiří Hološka · https://www.linkedin.com/in/holoska/ · Ph.D., Insider Threat and Incident Response Manager, University Lecturer · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball · https://www.linkedin.com/in/simon-ball-itl/ · Founder and Director, Insider Threat Limited · MD018 · Pointed out that MD018 could be read as a capability rather than an exception. Its definition now states that the prior suspicion is what permits the observation, not what it is for.; Benedetto Paolucci · https://www.linkedin.com/in/benedetto-paolucci-cipp-e-998416260/ · Security and Loss Prevention Manager, Data protection expert CIPP/E · PS001,PS002,PS003,PS004,MD013,DP016 · Pointed at Directive 2022/2557 and at the Board's guidance on securing personal data, and asked where the record governs physical access rather than watching it. DP016 exists because it did not.
 ---
 
 Insider Threat and Risk Architecture (INTRA™) is a [r:living] three level framework for building an insider risk management program in Europe.
@@ -128,10 +128,11 @@ Summary: The measures directed at the person: what is verified before and during
 
 ### PS001 · Pre-employment screening {#ps001}
 What it is: The verification, before employment begins, of who the candidate is, that they may lawfully work, and that the account they give of their own history holds against evidence that does not come from them.
+Updated: 2026-09-01
 
 GB · established · [npsa-ongoing-persec] · Good practice treats screening at recruitment as the opening of a process rather than its completion.
 AT · established · [at-arbvg-96] · What needs the works council's consent is the form put to the person: a personnel questionnaire asking beyond general particulars and the professional qualifications for the work intended. Verification carried out against a third party is not reached by it.
-EU · established · [nis2-ir] · Verification of an employee's background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests.
+EU · established · [nis2-ir] [cer-2557] · Verification of an employee's background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests. For a critical entity the persons a check may be requested on include those under consideration for a sensitive role, or for a role authorized to reach the premises, the information, or the control systems. That check corroborates identity and examines the criminal record for offences relevant to the specific position, and it is carried out for the sole purpose of evaluating a security risk.
 IT · established · [acn-379907] · The people authorized to reach the systems that matter are identified on a prior assessment of experience, capability, and trustworthiness, and have to give suitable guarantee that they will keep to the rules on information security. The trustworthiness of human resources is one of the areas the determination requires a written policy to cover.
 DE · established · [bsi-grundschutz] · A new employee should be checked for trustworthiness before being hired, and everyone taking part in the selection should check whether what the candidate says bearing on that is credible. The curriculum vitae is examined for correctness, plausibility, and completeness, and whatever looks conspicuous in it is followed up. Separately, the qualifications a post requires are to be formulated exactly, and a post filled only by someone who has them.
 ES · established · [es-ens] · The requirements a person has to satisfy to hold a post are defined, in particular on confidentiality, and they are taken into account in selecting who will hold it. What is verified is named: the employment history, the training, and other references, in conformity with the law and with respect for fundamental rights.
@@ -140,7 +141,8 @@ NL · established · [nl-bio2] · Every entity has a screening policy that has b
 
 ### PS002 · Risk-tiered screening standards {#ps002}
 What it is: The written standard setting, for each level of exposure a role carries, what is checked and how far. Exposure, not seniority: a systems administrator two grades down reaches further than the director above them.
-EU · established · [nis2-ir] · Criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals.
+Updated: 2026-09-01
+EU · established · [nis2-ir] [cer-2557] · Criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals. For a critical entity the tiering runs on the same principle from the other side: who may be checked is set by role rather than uniformly, being a sensitive role or an authorization to reach the premises, the information, or the control systems, directly or remotely. Alongside it the entity is to set out which categories of personnel exercise critical functions, and the check itself is to be proportionate and strictly limited to what is necessary.
 DE · established · [bsi-grundschutz] · Depth follows the area and not the person. In a high security area a further check is carried out on top of the basic check of trustworthiness, and where the work touches classified material the person goes through the statutory security clearance. This sits at the grade the compendium keeps for a raised protection need, which is itself settled by an individual risk analysis.
 ES · established · [es-ens] · For each post directly bound up with the handling of information or services, the security responsibilities it carries are defined, and they are based on the risk analysis. The measure does not apply at the basic category and applies at the two above it, so the scheme grades the obligation itself by what the system holds.
 BE · established · [be-cyfun] · What the background check weighs is the classification of the information to be reached and the risks perceived, so the depth follows what the role will hold rather than where the role sits.
@@ -149,7 +151,8 @@ NL · established · [nl-bio2] · The certificate of conduct is asked for on a w
 
 ### PS003 · Screening of privileged-role holders {#ps003}
 What it is: The further verification applied to a person because of what their access reaches, triggered by the entitlement itself rather than by the title attached to it.
-EU · established · [nis2-ir] · Among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them.
+Updated: 2026-09-01
+EU · established · [nis2-ir] [cer-2557] · Among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them. For a critical entity, holding a sensitive role in or for it, or being authorized to reach its premises, information, or control systems, is what brings a person within the checks, and the reach may be direct or remote.
 IT · established · [acn-379907] · System administrators are a category of their own. They are identified on the same prior assessment of experience, capability, and trustworthiness, stated in a requirement separate from the one covering everyone else admitted to the systems that matter.
 ES · established · [es-ens] · Security and system administrators hold a personal security clearance granted by the competent authority, either because the risk analysis called for it or because a particular system requires it.
 BE · established · [be-cyfun] · Personnel with access to the organization's most critical information or technology are to be authenticated at the point of access, and the framework says what that means: the person proves their identity technically when they reach the asset, and is not merely validated once at onboarding.
@@ -157,9 +160,10 @@ FI · established · [fi-katakri] · Where international requirements demand it,
 
 ### PS004 · Screening during employment {#ps004}
 What it is: The repetition of verification, in whole or in part, at a stated interval and on stated events: a move into a role of greater exposure, a return after a long absence, and a concern raised through any of the routes the program keeps open.
+Updated: 2026-09-01
 
 GB · established · [npsa-ongoing-persec] · Contracting is covered alongside employment, so the standard is set for people the organization does not employ.
-EU · established · [nis2-ir] · The assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it.
+EU · established · [nis2-ir] [cer-2557] · The assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it. For a critical entity the background check is not confined to recruitment either: it may be requested on a person who already holds the sensitive role or the authorization, in duly reasoned cases and against the Member State risk assessment.
 BE · established · [be-cyfun] · The background check is repeated periodically for the people in sensitive roles, so it is a standing condition of holding the role rather than a gate at the entrance.
 FI · established · [fi-katakri] · The clearances, the handling rights, the rights of use, the access rights, and the awareness of the duty not to disclose are all kept updated as changes occur, and the training that goes with a change is given before the change.
 
@@ -331,6 +335,14 @@ What it is: The processing of real personal data outside a production environmen
 
 DE · established · [bag-workday] · Live personal data may be used for a test where depersonalized data would not answer the question, and the legitimate interests ground carries it.
 
+### DP016 · Physical access control {#dp016}
+What it is: The division of premises into areas by what each one holds, and the rules governing who may enter one.
+Added: 2026-09-01
+Updated: 2026-09-01
+
+EU · established · [cer-2557] · Employee security management is to set out the categories of personnel who exercise critical functions and to establish their access rights to premises, to critical infrastructure, and to sensitive information. The physical protection asked for alongside it names fencing, barriers, perimeter monitoring, detection equipment, and access controls.
+EU · established · [edpb-secure] · The building is divided into areas according to risk, and for each area a list is kept of the individuals, or the categories of individual, permitted to enter it. Rules and means are established for visitors, at a minimum that a visitor is accompanied by someone from the organization once outside the public areas. The keys and the alarm codes are themselves protected.
+
 ## MD · Monitoring and detection {#md}
 Summary: The technical means by which work is observed, and the conditions attaching to their deployment.
 
@@ -468,6 +480,7 @@ CZ · established · [holoska-doucek] · The pattern is built by watching behavi
 
 ### MD013 · Physical access monitoring {#md013}
 What it is: The recording of entry to and movement within controlled premises.
+Updated: 2026-09-01
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the access-control recording, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach a record of entry to premises is not decided in it.
@@ -477,6 +490,7 @@ IT · established · [statuto-art-4] · An agreement with the union representati
 NL · established · [wor-27] · The works council has to consent before any arrangement governing the access-control recording is adopted, amended, or withdrawn.
 ES · established · [lo-3-2018] · Criteria for use, drawn up with the participation of the workers' representatives, and express prior information to the workers, are required before putting the access-control recording into operation.
 FI · established · [fi-privacy-working-life] · Access control is named among the systems the cooperation procedure governs, so it is settled with the workforce before it is introduced.
+EU · established · [edpb-secure] · Where access to a room holding material whose loss would bear seriously on the people it concerns is recorded, two things are owed before it is: the people who handle the data are told the system exists, and the staff representatives are informed and consulted.
 
 ### MD014 · Video surveillance of the workplace {#md014}
 What it is: The recording of images of places in which work is carried out.

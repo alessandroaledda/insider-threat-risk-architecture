@@ -11,21 +11,21 @@
  "attribution": "Alessandro Aledda, European sources on insider risk, https://alessandroaledda.com",
  "version": "2026-08-29",
  "reviewed": "2026-08-29",
- "count": 68,
+ "count": 70,
  "sections": [
   {
    "title": "Program guidance",
    "kind": "guidance",
    "order": "by date, most recent first. Undated and continuously updated sources come last.",
    "summary": "What a program should contain, from the bodies that publish on it.",
-   "count": 20
+   "count": 21
   },
   {
    "title": "Law and case law",
    "kind": "law",
    "order": "by legal order, from European Union to Council of Europe to national. Within the national law, by country in the order the table below sets out, and within each country by date.",
    "summary": "What constrains it, from the Union and Strasbourg down to nine national orders.",
-   "count": 39
+   "count": 40
   },
   {
    "title": "Research",
@@ -484,6 +484,28 @@
    "references": []
   },
   {
+   "anchor": "edpb-secure",
+   "title": "Secure personal data",
+   "section": "Program guidance",
+   "kind": "guidance",
+   "issuer": "European Data Protection Board",
+   "jurisdiction": "European Union",
+   "venue": "guide for small business",
+   "docket": "",
+   "date": "",
+   "year": "",
+   "date_note": "",
+   "establishes": "What controlling access to a building is taken to consist of, area by area, and what the Board says is owed before access to those areas is recorded.",
+   "type": "",
+   "binding": "",
+   "url": "https://www.edpb.europa.eu/sme/be-compliant/secure-personal-data_en",
+   "status": "guidance from the Board addressed to small organizations rather than an instrument, and it says of itself that it sets out basic precautions and not a full list. What it carries here is the physical half of security, which the rest of this library reaches only through the monitoring of it.",
+   "canonical": "https://alessandroaledda.com/intra/sources/#edpb-secure",
+   "annotation": "Access to the premises is to be controlled so as to prevent or slow unauthorized reach to paper files and to computer equipment. The building is divided into areas according to risk, a list is kept of the individuals or the categories of individual permitted to enter each one, and rules and means are established for visitors, at a minimum that a visitor is accompanied by someone from the organization once outside the public areas. Keys and alarm codes are themselves protected. Where the organization goes further and records who entered a room holding material whose loss would bear seriously on the people it concerns, the Board attaches two conditions to that record: the people who handle the data are told the system exists, and the staff representatives are informed and consulted.",
+   "source_line": "European Data Protection Board · European Union · guide for small business",
+   "references": []
+  },
+  {
    "anchor": "gdpr",
    "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
    "section": "Law and case law",
@@ -679,6 +701,28 @@
    "canonical": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs",
    "annotation": "Regulation 3 authorizes interception on a telecommunication system where it is effected by or with the express consent of the system controller and falls in a list: to establish the existence of facts, to ascertain compliance with regulatory or self-regulatory practices, to ascertain or demonstrate the standards achieved by the people using the system, in the interests of national security, to prevent or detect crime, to investigate or detect the unauthorized use of that or any other telecommunication system, or to secure the effective operation of the system. Regulation 4 sets four conditions on all of it: the interception is effected solely to monitor or record communications relevant to the activities carried on, the system is provided wholly or partly in connection with those activities, the system controller has made all reasonable efforts to inform every person who may use the system that communications may be intercepted, and for the national security purpose the interceptor is one of the persons the Act lists.",
    "source_line": "Secretary of State · United Kingdom · 14 March 2018",
+   "references": []
+  },
+  {
+   "anchor": "cer-2557",
+   "title": "Directive (EU) 2022/2557 on the resilience of critical entities, articles 13 and 14",
+   "section": "Law and case law",
+   "kind": "law",
+   "issuer": "European Parliament and Council",
+   "jurisdiction": "European Union",
+   "venue": "",
+   "docket": "",
+   "date": "2022-12-14",
+   "year": "2022",
+   "date_note": "",
+   "establishes": "The conditions on which a critical entity may ask for a background check, on whom, and what the check has to cover at a minimum. Also the duty to set out which categories of personnel exercise critical functions and to establish their access rights to premises.",
+   "type": "",
+   "binding": "",
+   "url": "https://eur-lex.europa.eu/eli/dir/2022/2557/oj/eng",
+   "status": "a directive, so it binds the Member State to transpose rather than the entity directly, and it reaches only the critical entities designated in the sectors it lists, banking among them. It is the sister instrument to the network and information security directive, 2022/2555, which is already here, and it carries the physical side that one leaves out.",
+   "canonical": "https://alessandroaledda.com/intra/sources/#cer-2557",
+   "annotation": "Article 14 leaves the conditions to the Member State but fixes the shape of the check. It may be requested on a person who holds a sensitive role in or for the entity, on a person authorized to reach its premises, information, or control systems, directly or remotely, and on a person under consideration for either. It has to be proportionate and strictly limited to what is necessary, and carried out for the sole purpose of evaluating a security risk to that entity. At a minimum it corroborates the identity of the person and checks the criminal record for offences relevant to the specific position. Across borders it runs through the European Criminal Records Information System, and the central authorities answer within ten working days. Article 13 asks for adequate physical protection of the premises, naming fencing, barriers, perimeter monitoring, detection equipment, and access controls, and for adequate employee security management, which it describes as setting out the categories of personnel who exercise critical functions and establishing their access rights to premises, critical infrastructure, and sensitive information.",
+   "source_line": "European Parliament and Council · European Union · 14 December 2022",
    "references": []
   },
   {

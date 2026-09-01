@@ -954,7 +954,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "",
@@ -991,13 +991,19 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Verification of an employee’s background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests.",
+       "requirement": "Verification of an employee’s background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests. For a critical entity the persons a check may be requested on include those under consideration for a sensitive role, or for a role authorized to reach the premises, the information, or the control systems. That check corroborates identity and examines the criminal record for offences relevant to the specific position, and it is carried out for the sole purpose of evaluating a security risk.",
        "sources": [
         {
          "anchor": "nis2-ir",
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        },
+        {
+         "anchor": "cer-2557",
+         "title": "Directive (EU) 2022/2557 on the resilience of critical entities, articles 13 and 14",
+         "establishes": "The conditions on which a critical entity may ask for a background check, on whom, and what the check has to cover at a minimum. Also the duty to set out which categories of personnel exercise critical functions and to establish their access rights to premises.",
+         "url": "https://alessandroaledda.com/intra/sources/#cer-2557"
         }
        ]
       },
@@ -1087,20 +1093,26 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "PS002/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals.",
+       "requirement": "Criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals. For a critical entity the tiering runs on the same principle from the other side: who may be checked is set by role rather than uniformly, being a sensitive role or an authorization to reach the premises, the information, or the control systems, directly or remotely. Alongside it the entity is to set out which categories of personnel exercise critical functions, and the check itself is to be proportionate and strictly limited to what is necessary.",
        "sources": [
         {
          "anchor": "nis2-ir",
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        },
+        {
+         "anchor": "cer-2557",
+         "title": "Directive (EU) 2022/2557 on the resilience of critical entities, articles 13 and 14",
+         "establishes": "The conditions on which a critical entity may ask for a background check, on whom, and what the check has to cover at a minimum. Also the duty to set out which categories of personnel exercise critical functions and to establish their access rights to premises.",
+         "url": "https://alessandroaledda.com/intra/sources/#cer-2557"
         }
        ]
       },
@@ -1190,20 +1202,26 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "PS003/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them.",
+       "requirement": "Among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them. For a critical entity, holding a sensitive role in or for it, or being authorized to reach its premises, information, or control systems, is what brings a person within the checks, and the reach may be direct or remote.",
        "sources": [
         {
          "anchor": "nis2-ir",
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        },
+        {
+         "anchor": "cer-2557",
+         "title": "Directive (EU) 2022/2557 on the resilience of critical entities, articles 13 and 14",
+         "establishes": "The conditions on which a critical entity may ask for a background check, on whom, and what the check has to cover at a minimum. Also the duty to set out which categories of personnel exercise critical functions and to establish their access rights to premises.",
+         "url": "https://alessandroaledda.com/intra/sources/#cer-2557"
         }
        ]
       },
@@ -1278,7 +1296,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "",
@@ -1300,13 +1318,19 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it.",
+       "requirement": "The assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it. For a critical entity the background check is not confined to recruitment either: it may be requested on a person who already holds the sensitive role or the authorization, in duly reasoned cases and against the Member State risk assessment.",
        "sources": [
         {
          "anchor": "nis2-ir",
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        },
+        {
+         "anchor": "cer-2557",
+         "title": "Directive (EU) 2022/2557 on the resilience of critical entities, articles 13 and 14",
+         "establishes": "The conditions on which a critical entity may ask for a background check, on whom, and what the check has to cover at a minimum. Also the duty to set out which categories of personnel exercise critical functions and to establish their access rights to premises.",
+         "url": "https://alessandroaledda.com/intra/sources/#cer-2557"
         }
        ]
       },
@@ -2873,6 +2897,49 @@
        ]
       }
      ]
+    },
+    {
+     "id": "DP016",
+     "name": "Physical access control",
+     "what": "The division of premises into areas by what each one holds, and the rules governing who may enter one.",
+     "canonical": "https://alessandroaledda.com/intra/DP016/",
+     "pending": [],
+     "guidance": [],
+     "research": [],
+     "added": "2026-09-01",
+     "updated": "2026-09-01",
+     "cells": [
+      {
+       "id": "DP016/EU",
+       "standing": "mandatory",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Employee security management is to set out the categories of personnel who exercise critical functions and to establish their access rights to premises, to critical infrastructure, and to sensitive information. The physical protection asked for alongside it names fencing, barriers, perimeter monitoring, detection equipment, and access controls.",
+       "sources": [
+        {
+         "anchor": "cer-2557",
+         "title": "Directive (EU) 2022/2557 on the resilience of critical entities, articles 13 and 14",
+         "establishes": "The conditions on which a critical entity may ask for a background check, on whom, and what the check has to cover at a minimum. Also the duty to set out which categories of personnel exercise critical functions and to establish their access rights to premises.",
+         "url": "https://alessandroaledda.com/intra/sources/#cer-2557"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "The building is divided into areas according to risk, and for each area a list is kept of the individuals, or the categories of individual, permitted to enter it. Rules and means are established for visitors, at a minimum that a visitor is accompanied by someone from the organization once outside the public areas. The keys and the alarm codes are themselves protected.",
+       "sources": [
+        {
+         "anchor": "edpb-secure",
+         "title": "Secure personal data",
+         "establishes": "What controlling access to a building is taken to consist of, area by area, and what the Board says is owed before access to those areas is recorded.",
+         "url": "https://alessandroaledda.com/intra/sources/#edpb-secure"
+        }
+       ]
+      }
+     ]
     }
    ]
   },
@@ -4382,7 +4449,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD013/EU",
@@ -4507,6 +4574,21 @@
          "title": "Laki yksityisyyden suojasta työelämässä (759/2004)",
          "establishes": "One act for the whole subject, holding processing to what is directly necessary, naming the conditions for cameras and for opening the employer's electronic mail, and putting technical monitoring through a cooperation procedure before it is introduced.",
          "url": "https://alessandroaledda.com/intra/sources/#fi-privacy-working-life"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Where access to a room holding material whose loss would bear seriously on the people it concerns is recorded, two things are owed before it is: the people who handle the data are told the system exists, and the staff representatives are informed and consulted.",
+       "sources": [
+        {
+         "anchor": "edpb-secure",
+         "title": "Secure personal data",
+         "establishes": "What controlling access to a building is taken to consist of, area by area, and what the Board says is owed before access to those areas is recorded.",
+         "url": "https://alessandroaledda.com/intra/sources/#edpb-secure"
         }
        ]
       }
@@ -7333,7 +7415,7 @@
   }
  ],
  "counts": {
-  "established": 367,
+  "established": 370,
   "not covered": 0,
   "unread": 0,
   "open": 0
