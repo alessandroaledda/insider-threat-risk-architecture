@@ -592,14 +592,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "GV009/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The program has to be able to produce, for any decision, the material showing how it was reached. Holding a defensible view of it is not the same evidence.",
+       "requirement": "The controller has to be responsible for the principles and able to demonstrate compliance with them, which is a duty to show rather than to assert. The article stops there. It does not itemise what has to be kept, nor does it say that every decision has to be reconstructable.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -895,7 +895,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The reply is owed within one month of the request. It can be extended by two more where the request is complex or the requests are many, but the extension and the reasons for it have to reach the person inside the first month. Where the program will not act at all, that is said inside the same month, with the routes to a complaint and to a court named.",
+       "requirement": "The reply is owed without undue delay and in any event within one month of the request, so the month is the outer limit and not the term. It can be extended by two more where the request is complex or the requests are many, but the extension and the reasons for it have to reach the person inside the first month. Where the program will not act at all, that is said inside the same month, with the routes to a complaint and to a court named.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -2322,14 +2322,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "DP007/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A ground under article 6 has to be identified before anything is collected through the loss prevention capability, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the loss prevention capability, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -3312,14 +3312,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD004/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A ground under article 6 has to be identified before anything is collected through the endpoint agent, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the endpoint agent, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -3481,14 +3481,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD005/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A ground under article 6 has to be identified before anything is collected through the traffic inspection, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the traffic inspection, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -3686,14 +3686,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD006/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A ground under article 6 has to be identified before anything is collected through the recording of the messaging platform, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the recording of the messaging platform, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -4111,14 +4111,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD011/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A ground under article 6 has to be identified before anything is collected through the session recorder, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the session recorder, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -4456,7 +4456,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A ground under article 6 has to be identified before anything is collected through the access-control recording, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the access-control recording, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -4603,14 +4603,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD014/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A ground under article 6 has to be identified before anything is collected through the cameras, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the cameras, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -4757,14 +4757,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD015/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A ground under article 6 has to be identified before anything is collected through the tracking device, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the tracking device, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.",
        "sources": [
         {
          "anchor": "gdpr",
@@ -4902,14 +4902,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD016/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A ground under article 6 has to be identified before anything is collected through the measurement, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.",
+       "requirement": "A ground under article 6 has to be identified before anything is collected through the measurement, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.",
        "sources": [
         {
          "anchor": "gdpr",

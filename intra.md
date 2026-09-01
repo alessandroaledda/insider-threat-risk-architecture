@@ -100,9 +100,9 @@ GB · established · [ico-monitoring] · An assessment must be carried out befor
 ### GV009 · Accountability evidence {#gv009}
 What it is: The material by which the program can show how it reached a decision about itself: a threshold set, an instrument chosen, a policy changed. As distinct from asserting that the decision was reached properly, and as distinct from the record of a single case, which the investigation pillar holds.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [gdpr] · The program has to be able to produce, for any decision, the material showing how it was reached. Holding a defensible view of it is not the same evidence.
+EU · established · [gdpr] · The controller has to be responsible for the principles and able to demonstrate compliance with them, which is a duty to show rather than to assert. The article stops there. It does not itemise what has to be kept, nor does it say that every decision has to be reconstructable.
 
 ### GV010 · Worker representative engagement {#gv010}
 What it is: The involvement of the body representing the workforce in the design of the program, as distinct from any instrument deployed under it.
@@ -147,7 +147,7 @@ What it is: The program's answer when a person asks what is held about them and 
 Added: 2026-08-30
 Updated: 2026-09-01
 Also: subject access request SAR data subject access
-EU · established · [gdpr] · The reply is owed within one month of the request. It can be extended by two more where the request is complex or the requests are many, but the extension and the reasons for it have to reach the person inside the first month. Where the program will not act at all, that is said inside the same month, with the routes to a complaint and to a court named.
+EU · established · [gdpr] · The reply is owed without undue delay and in any event within one month of the request, so the month is the outer limit and not the term. It can be extended by two more where the request is complex or the requests are many, but the extension and the reasons for it have to reach the person inside the first month. Where the program will not act at all, that is said inside the same month, with the routes to a complaint and to a court named.
 IT · established · [garante-165-2026] · Answering in stages across five months, and then handing over the correspondence purged of many elements without saying what had been taken out or why, was held not to be an answer.
 GB · established · [ico-monitoring] · What monitoring collects must be made available on a request unless an exemption applies, and the guidance turns that into a constraint on design: how easily information can be retrieved should bear on the choice of monitoring system in the first place, and that should be settled in the impact assessment. A system that cannot answer a request is a choice made earlier, not a difficulty met later.
 
@@ -336,10 +336,10 @@ NL · established · [nl-bio2] · Every access right that has been issued is ass
 ### DP007 · Data loss prevention deployment {#dp007}
 What it is: The introduction of a capability that inspects content in motion, at rest, or in use, and acts on it against a policy.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 Also: DLP
 
-EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the loss prevention capability, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the loss prevention capability, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach a capability that inspects material other than correspondence is not decided in it.
 FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to deploy the capability, and the worker informed before content of theirs is inspected.
 DE · established · [betrvg-87] · The works council has to agree before the loss prevention capability is introduced at all.
@@ -467,9 +467,9 @@ GB · established · [uk-monitoring-regs] · Investigating or detecting the unau
 ### MD004 · Endpoint activity monitoring {#md004}
 What it is: The deployment of an agent that records what is done on a workstation or laptop.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the endpoint agent, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the endpoint agent, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach an agent recording what is done on a device is not decided in it.
 FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the endpoint agent in place, and the worker informed before it reaches them.
 DE · established · [betrvg-87] · The works council has to agree before introducing the endpoint agent, and again on the manner in which it is used.
@@ -483,9 +483,9 @@ GB · established · [ico-monitoring] · Keystroke monitoring is named as an exa
 ### MD005 · Network and egress monitoring {#md005}
 What it is: The inspection of traffic leaving the organization's control for volume, destination, or content.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the traffic inspection, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the traffic inspection, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach the inspection of traffic is not decided in it.
 FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the traffic inspection in place, and the worker informed before it reaches them.
 DE · established · [betrvg-87] [bag-headset] · The works council has to agree before introducing the traffic inspection, and again on the manner in which it is used. What brings a device under that agreement is what it is capable of: a system that let supervisors hear conversations between employees was caught by it although nothing was recorded or kept.
@@ -501,9 +501,9 @@ GB · established · [uk-monitoring-regs] · Inspection that amounts to intercep
 ### MD006 · Electronic mail and collaboration monitoring {#md006}
 What it is: The recording of what passes through the organization's messaging and collaboration platforms.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the recording of the messaging platform, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the recording of the messaging platform, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case was decided on that monitoring itself: the employer read the content of a worker's messaging account.
 FR · established · [code-travail-controle] · The committee has to be informed and consulted before the decision to record the platform, and the worker informed that what passes through it is kept.
 DE · established · [betrvg-87] · The works council has to agree before introducing the recording of the messaging platform, and again on the manner in which it is used.
@@ -553,9 +553,9 @@ IT · established · [garante-165-2026] · Holding a mailbox as a whole engages 
 ### MD011 · Privileged session recording {#md011}
 What it is: The capture of what is done during a session held under elevated entitlement.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the session recorder, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the session recorder, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach the recording of a session held under elevated entitlement is not decided in it.
 FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the session recorder in place, and the worker informed before it reaches them.
 DE · established · [betrvg-87] · The works council has to agree before introducing the session recorder, and again on the manner in which it is used.
@@ -587,7 +587,7 @@ What it is: The recording of entry to and movement within controlled premises.
 Added: 2026-08-30
 Updated: 2026-09-01
 
-EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the access-control recording, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the access-control recording, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach a record of entry to premises is not decided in it.
 FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the access-control recording in place, and the worker informed before it reaches them.
 DE · established · [betrvg-87] · The works council has to agree before introducing the access-control recording, and again on the manner in which it is used.
@@ -600,9 +600,9 @@ EU · established · [edpb-secure] · Where access to a room holding material wh
 ### MD014 · Video surveillance of the workplace {#md014}
 What it is: The recording of images of places in which work is carried out.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the cameras, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the cameras, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [lopez-ribalda] · Cameras without notice have survived where a specific suspicion came first and the scope and duration were held tight. The criteria are weighed, not counted.
 FR · established · [code-travail-controle] · The committee has to be informed and consulted before the decision to install the cameras, and the workers informed before they are recorded.
 DE · established · [betrvg-87] · The works council has to agree before introducing the cameras, and again on the manner in which it is used.
@@ -615,9 +615,9 @@ AT · established · [at-arbvg-96] · The works council's consent is the conditi
 ### MD015 · Geolocation of vehicles and devices {#md015}
 What it is: The recording of the position of a vehicle or device issued to a worker.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the tracking device, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the tracking device, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [gramaxo] [mole-mangan] · Tracking a company vehicle through and beyond working hours has survived on its facts, on a bench divided four to three, with the mileage relied on separated from the location data as a whole. A case note reads the majority as having placed the technology itself largely beyond examination, so the survival is weaker authority than it appears.
 FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the tracking device in place, and the worker informed before it reaches them.
 DE · established · [betrvg-87] · The works council has to agree before introducing the tracking device, and again on the manner in which it is used.
@@ -629,9 +629,9 @@ AT · established · [at-arbvg-96] · The works council's consent is the conditi
 ### MD016 · Measurement of pace and performance {#md016}
 What it is: The derivation of a rate of work from the traces the work itself produces.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the measurement, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is not that ground in an employment relationship.
+EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the measurement, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach a rate of work derived from the traces of the work is not decided in it.
 FR · established · [ce-amazon] · Measuring warehouse work through handheld scanners has been found unlawful in its detail, and the fine for it stands at 15,000,000 euros after review.
 DE · established · [betrvg-87] · The works council has to agree before introducing the measurement, and again on the manner in which it is used.
