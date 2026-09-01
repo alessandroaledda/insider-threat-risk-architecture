@@ -145,10 +145,10 @@ NO · established · [no-aml-kontroll] · The need for the measures is evaluated
 ### GV014 · Answering a request from the person {#gv014}
 What it is: The program's answer when a person asks what is held about them and what is done with it. It is a measure once there is a route the request reaches, someone answerable for the reply, a period inside which it is given, and a rule for what is withheld and on what ground. An answer given late, or given in part without saying what was taken out and why, is not an answer.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 Also: subject access request SAR data subject access
 EU · established · [gdpr] · The reply is owed within one month of the request. It can be extended by two more where the request is complex or the requests are many, but the extension and the reasons for it have to reach the person inside the first month. Where the program will not act at all, that is said inside the same month, with the routes to a complaint and to a court named.
-IT · established · [garante-itas-2026] · Answering in stages across five months, and then handing over the correspondence purged of many elements without saying what had been taken out or why, was held not to be an answer.
+IT · established · [garante-165-2026] · Answering in stages across five months, and then handing over the correspondence purged of many elements without saying what had been taken out or why, was held not to be an answer.
 GB · established · [ico-monitoring] · What monitoring collects must be made available on a request unless an exemption applies, and the guidance turns that into a constraint on design: how easily information can be retrieved should bear on the choice of monitoring system in the first place, and that should be settled in the impact assessment. A system that cannot answer a request is a choice made earlier, not a difficulty met later.
 
 ## PS · Personnel security {#ps}
@@ -374,9 +374,9 @@ EU · established · [nis2] · Policies and procedures on the use of cryptograph
 ### DP011 · Retention and disposal of business records {#dp011}
 What it is: The period for which the organization keeps what it holds, and the manner of its destruction.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-IT · established · [garante-364-2024] [garante-243-2025] [garante-itas-2026] · Twenty-one days is the outer limit for email metadata before the article 4 route is engaged, and ninety days of it alongside browsing logs has drawn a fine. A five year backup of everything passing through the mailboxes, kept to preserve the information estate, was held unlawful where no notice given to the staff described it.
+IT · established · [garante-364-2024] [garante-243-2025] [garante-165-2026] · Twenty-one days is the outer limit for email metadata before the article 4 route is engaged, and ninety days of it alongside browsing logs has drawn a fine. A five year backup of everything passing through the mailboxes, kept to preserve the information estate, was held unlawful where no notice given to the staff described it.
 BE · established · [be-cct-81] · Whether personal data are kept, where they are kept, and for how long are among the things stated to the workforce before the monitoring begins.
 NO · established · [no-innsyn-epost] · What is left in the mailbox and in the worker's own areas, and is not necessary for the daily running of the undertaking, is deleted within a reasonable time of the employment ending.
 
@@ -999,11 +999,11 @@ BE · established · [be-cyfun] · Insider threat awareness and reporting are to
 ### AW002 · Transparency notice on what is observed {#aw002}
 What it is: The account of the program's reach given to the persons subject to it.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 FI · established · [fi-privacy-working-life] · What the workforce is told after the procedure is the purpose of the monitoring, its introduction, the methods used, and the terms on which electronic mail and the network may be used.
 BE · established · [be-cct-81] · What each worker is told at installation is the monitoring policy, the purposes, whether personal data are kept and where and for how long, whether the monitoring is permanent, and what the employer and the supervising staff may do.
 NO · established · [no-aml-kontroll] · Before the measure starts, those affected are told its purpose, what it will mean in practice, how it will be carried out, and how long it is expected to last.
-IT · established · [garante-itas-2026] · A backup of the mailboxes described in none of the notices given to the staff leaves them unable to know it exists, which is the finding rather than the keeping itself.
+IT · established · [garante-165-2026] · A backup of the mailboxes described in none of the notices given to the staff leaves them unable to know it exists, which is the finding rather than the keeping itself.
 NO · established · [no-nsm] · The workforce is informed of what is collected, what it is to be used for, and how the data are to be handled, and that sits alongside establishing which laws apply and deciding how long the data shall and may be stored.
 GB · established · [uk-monitoring-regs] · The system controller has to have made all reasonable efforts to inform every person who may use the system that communications transmitted by it may be intercepted. Everyone who may use it, not everyone employed, and reasonable efforts rather than acknowledgement.
 GB · established · [ico-monitoring] · Workers must be made aware of how and what personal information is collected. A system could be set up so that they remain aware that monitoring is taking place, through an intranet or signage in the areas it reaches. The privacy information must be kept up to date, and workers must be told when a change is introduced.

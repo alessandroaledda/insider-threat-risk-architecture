@@ -354,13 +354,12 @@ Establishes: That records of illness, union activity, and family circumstances k
 
 A decision against a logistics operator whose managers kept records of illnesses, trade union activity, and the personal and family circumstances of workers at one site, outside any declared processing. It holds that the collection had no lawful basis and that the categories involved attract the stricter regime governing health and trade union data. It concerns records assembled by line management rather than by a monitoring system, which is a different route to the same material.
 
-### Provvedimento n. 165 {#garante-165-2026}
+### Provvedimento n. 165, ITAS Mutua {#garante-165-2026}
 Garante per la protezione dei dati personali · Italy · 12 March 2026
 https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10233328
-Establishes: That mailbox backups and browsing logs are instruments from which remote monitoring may follow, and what becomes of personal material left behind.
+Establishes: That mailbox backups and browsing logs are instruments from which remote monitoring may follow, that an answer given in stages and handed over in part without saying what was withheld does not discharge the right of access, and that a five year backup of employee mail has to be disclosed to the people whose mail it holds.
 
-Applies the 2024 guidance document to an employer that kept backups of individual mailboxes and logs of internet browsing, and treats both as instruments from which remote monitoring may follow, so that the procedure under article 4 of the Workers' Statute is engaged. It also addresses a former employee's request for access to personal material left in the company account after the relationship ended. It decides one employer's arrangements and sets no retention period beyond the one the 2024 document already stated.
-
+A complaint by a former employee who asked for the personal documents and folders on his computer and in his individualized company mailbox, and then made a formal request of access. The account had been deactivated and deleted within a month of his leaving, and the employer restored it from backup onto a dedicated laptop for two meetings at its offices. The correspondence reached him five months after the first request, purged of many elements, with no account of what had been taken out or on what basis. The authority found breaches of articles 12 and 15 on the answering. It found a further breach on a separate matter: the employer kept a five year backup of everything passing through its employees' mailboxes, to preserve its information estate for the supervision it is subject to, and had described that backup in none of the notices given to its staff. Fifty thousand euro. On the monitoring side it applies the 2024 guidance document, treating mailbox backups and browsing logs alike as instruments from which remote monitoring may follow, so that the procedure under article 4 of the Workers' Statute is engaged. It reaches article 88 and article 114 of the Code, which is the route by which that article enters a data protection decision. It decides one employer's arrangements and sets no retention period beyond the one the 2024 document already stated.
 
 ### Determinazione ACN n. 379907 del 18 dicembre 2025 {#acn-379907}
 Agenzia per la cybersicurezza nazionale · Italy · 18 December 2025
@@ -377,13 +376,6 @@ Establishes: The security measures a Spanish public sector body has to apply, gr
 Status: a royal decree, so it binds. It reaches the public sector and the private entities that supply it, and not employers generally. Annex II carries the measures, each with the categories it applies at and the reinforcements that come with a higher one.
 
 The national security scheme sets out the principles and minimum requirements for the security of the information systems the Spanish public sector uses. Annex II is a catalogue of measures in three groups: the organizational and operational frame, the operation of the systems, and the protection measures. Each measure is written as numbered requirements, applies at a basic, medium, or high category, and carries reinforcements labeled R1 upward that are added as the category rises. What it gives an insider risk management program is a set of requirements that reach the person and the entitlement directly, and it names the abuse of a granted right as the thing the segregation of duties exists to prevent.
-
-### Provvedimento del 12 marzo 2026, ITAS Mutua {#garante-itas-2026}
-Garante per la protezione dei dati personali · Italy · 12 March 2026
-https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10233328
-Establishes: That an answer given in stages and then handed over in part, without saying what was withheld, does not discharge the right of access, and that a five year backup of employee mail has to be disclosed to the people whose mail it holds.
-
-A complaint by a former employee who asked for the personal documents and folders on his computer and in his individualized company mailbox, and then made a formal request of access. The account had been deactivated and deleted within a month of his leaving, and the employer restored it from backup onto a dedicated laptop for two meetings at its offices. The correspondence reached him five months after the first request, purged of many elements, with no account of what had been taken out or on what basis. The authority found breaches of articles 12 and 15 on the answering. It found a further breach on a separate matter: the employer kept a five year backup of everything passing through its employees' mailboxes, to preserve its information estate for the supervision it is subject to, and had described that backup in none of the notices given to its staff. Fifty thousand euro. It also reaches article 88 and article 114 of the Code, which is the route by which the Statuto's article 4 enters a data protection decision.
 
 ### Provvedimento del 17 aprile 2026, Framos Italia {#garante-framos-2026}
 Garante per la protezione dei dati personali · Italy · 17 April 2026

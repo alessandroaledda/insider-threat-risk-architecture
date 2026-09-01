@@ -11,7 +11,7 @@
  "attribution": "Alessandro Aledda, European sources on insider risk, https://alessandroaledda.com",
  "version": "2026-08-29",
  "reviewed": "2026-08-29",
- "count": 70,
+ "count": 69,
  "sections": [
   {
    "title": "Program guidance",
@@ -25,7 +25,7 @@
    "kind": "law",
    "order": "by legal order, from European Union to Council of Europe to national. Within the national law, by country in the order the table below sets out, and within each country by date.",
    "summary": "What constrains it, from the Union and Strasbourg down to nine national orders.",
-   "count": 37
+   "count": 36
   },
   {
    "title": "Research",
@@ -991,7 +991,7 @@
   },
   {
    "anchor": "garante-165-2026",
-   "title": "Provvedimento n. 165",
+   "title": "Provvedimento n. 165, ITAS Mutua",
    "section": "Law and case law",
    "kind": "law",
    "issuer": "Garante per la protezione dei dati personali",
@@ -1001,13 +1001,13 @@
    "date": "2026-03-12",
    "year": "2026",
    "date_note": "",
-   "establishes": "That mailbox backups and browsing logs are instruments from which remote monitoring may follow, and what becomes of personal material left behind.",
+   "establishes": "That mailbox backups and browsing logs are instruments from which remote monitoring may follow, that an answer given in stages and handed over in part without saying what was withheld does not discharge the right of access, and that a five year backup of employee mail has to be disclosed to the people whose mail it holds.",
    "type": "",
    "binding": "",
    "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10233328",
    "status": "",
    "canonical": "https://alessandroaledda.com/intra/sources/#garante-165-2026",
-   "annotation": "Applies the 2024 guidance document to an employer that kept backups of individual mailboxes and logs of internet browsing, and treats both as instruments from which remote monitoring may follow, so that the procedure under article 4 of the Workers’ Statute is engaged. It also addresses a former employee’s request for access to personal material left in the company account after the relationship ended. It decides one employer’s arrangements and sets no retention period beyond the one the 2024 document already stated.",
+   "annotation": "A complaint by a former employee who asked for the personal documents and folders on his computer and in his individualized company mailbox, and then made a formal request of access. The account had been deactivated and deleted within a month of his leaving, and the employer restored it from backup onto a dedicated laptop for two meetings at its offices. The correspondence reached him five months after the first request, purged of many elements, with no account of what had been taken out or on what basis. The authority found breaches of articles 12 and 15 on the answering. It found a further breach on a separate matter: the employer kept a five year backup of everything passing through its employees’ mailboxes, to preserve its information estate for the supervision it is subject to, and had described that backup in none of the notices given to its staff. Fifty thousand euro. On the monitoring side it applies the 2024 guidance document, treating mailbox backups and browsing logs alike as instruments from which remote monitoring may follow, so that the procedure under article 4 of the Workers’ Statute is engaged. It reaches article 88 and article 114 of the Code, which is the route by which that article enters a data protection decision. It decides one employer’s arrangements and sets no retention period beyond the one the 2024 document already stated.",
    "source_line": "Garante per la protezione dei dati personali · Italy · 12 March 2026",
    "references": []
   },
@@ -1053,28 +1053,6 @@
    "canonical": "https://alessandroaledda.com/intra/sources/#es-ens",
    "annotation": "The national security scheme sets out the principles and minimum requirements for the security of the information systems the Spanish public sector uses. Annex II is a catalogue of measures in three groups: the organizational and operational frame, the operation of the systems, and the protection measures. Each measure is written as numbered requirements, applies at a basic, medium, or high category, and carries reinforcements labeled R1 upward that are added as the category rises. What it gives an insider risk management program is a set of requirements that reach the person and the entitlement directly, and it names the abuse of a granted right as the thing the segregation of duties exists to prevent.",
    "source_line": "Gobierno de España · Spain · 3 May 2022",
-   "references": []
-  },
-  {
-   "anchor": "garante-itas-2026",
-   "title": "Provvedimento del 12 marzo 2026, ITAS Mutua",
-   "section": "Law and case law",
-   "kind": "law",
-   "issuer": "Garante per la protezione dei dati personali",
-   "jurisdiction": "Italy",
-   "venue": "",
-   "docket": "",
-   "date": "2026-03-12",
-   "year": "2026",
-   "date_note": "",
-   "establishes": "That an answer given in stages and then handed over in part, without saying what was withheld, does not discharge the right of access, and that a five year backup of employee mail has to be disclosed to the people whose mail it holds.",
-   "type": "",
-   "binding": "",
-   "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10233328",
-   "status": "",
-   "canonical": "https://alessandroaledda.com/intra/sources/#garante-itas-2026",
-   "annotation": "A complaint by a former employee who asked for the personal documents and folders on his computer and in his individualized company mailbox, and then made a formal request of access. The account had been deactivated and deleted within a month of his leaving, and the employer restored it from backup onto a dedicated laptop for two meetings at its offices. The correspondence reached him five months after the first request, purged of many elements, with no account of what had been taken out or on what basis. The authority found breaches of articles 12 and 15 on the answering. It found a further breach on a separate matter: the employer kept a five year backup of everything passing through its employees’ mailboxes, to preserve its information estate for the supervision it is subject to, and had described that backup in none of the notices given to its staff. Fifty thousand euro. It also reaches article 88 and article 114 of the Code, which is the route by which the Statuto’s article 4 enters a data protection decision.",
-   "source_line": "Garante per la protezione dei dati personali · Italy · 12 March 2026",
    "references": []
   },
   {
