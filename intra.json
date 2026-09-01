@@ -1012,7 +1012,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "The people authorized to reach the systems that matter are identified on a prior assessment of experience, capability, and trustworthiness, and have to give suitable guarantee that they will keep to the rules on information security. The trustworthiness of human resources is one of the areas the determination requires a written policy to cover.",
+       "requirement": "For a subject in the national NIS register, the people authorized to reach the systems that matter are identified on a prior assessment of experience, capability, and trustworthiness, and have to give suitable guarantee that they will keep to the rules on information security. The trustworthiness of human resources is one of the areas the determination requires a written policy to cover.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -1230,7 +1230,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "System administrators are a category of their own. They are identified on the same prior assessment of experience, capability, and trustworthiness, stated in a requirement separate from the one covering everyone else admitted to the systems that matter.",
+       "requirement": "For a subject in the national NIS register, system administrators are a category of their own. They are identified on the same prior assessment of experience, capability, and trustworthiness, stated in a requirement separate from the one covering everyone else admitted to the systems that matter.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -1513,7 +1513,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "Accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked when something changes. A transfer of personnel is named as such a change, alongside the end of an employment.",
+       "requirement": "For a subject in the national NIS register, accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked when something changes. A transfer of personnel is named as such a change, alongside the end of an employment.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -2067,7 +2067,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "DP004/EU",
@@ -2095,7 +2095,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "Permissions are assigned on least privilege, separation of functions, and need to know. How an account authenticates is set against the risk, weighed on the privileges it holds, the criticality of the systems, and the kind of operations it can perform on them, and multi-factor authentication is used on the systems that matter.",
+       "requirement": "For a subject in the national NIS register, permissions are assigned on least privilege, separation of functions, and need to know. How an account authenticates is set against the risk, weighed on the privileges it holds, the criticality of the systems, and the kind of operations it can perform on them, and multi-factor authentication is used on the systems that matter.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -2168,7 +2168,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "Every account is inventoried and approved by someone inside the organization, those with administrative privileges and those used for remote access included, and accounts are individual to a user unless there is a documented technical reason otherwise. A system administrator’s privileged and unprivileged accounts are to be completely distinct, and to carry different credentials.",
+       "requirement": "For a subject in the national NIS register, every account is inventoried and approved by someone inside the organization, those with administrative privileges and those used for remote access included, and accounts are individual to a user unless there is a documented technical reason otherwise. A system administrator’s privileged and unprivileged accounts are to be completely distinct, and to carry different credentials.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -2271,7 +2271,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "Accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked where a change calls for it.",
+       "requirement": "For a subject in the national NIS register, accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked where a change calls for it.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -3023,7 +3023,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "All remote access and all access made with administrative privileges are recorded. For the systems that matter, the logs needed to monitor security events are acquired and kept securely and, where it can be done, centrally, and how long they are kept is fixed from the risk assessment and documented.",
+       "requirement": "For a subject in the national NIS register, all remote access and all access made with administrative privileges are recorded. For the systems that matter, the logs needed to monitor security events are acquired and kept securely and, where it can be done, centrally, and how long they are kept is fixed from the risk assessment and documented.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -3216,7 +3216,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "Qualitative and quantitative parameters for detecting unauthorized access, or access abusing the privileges granted, are defined, monitored, and documented. The requirement is on essential subjects, and the same annexes do not place it on important ones.",
+       "requirement": "For a subject in the national NIS register, qualitative and quantitative parameters for detecting unauthorized access, or access abusing the privileges granted, are defined, monitored, and documented. The requirement is on essential subjects, and the same annexes do not place it on important ones.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -6308,7 +6308,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "A plan for handling incidents and notifying the national CSIRT is defined, implemented, kept current, and documented, and it carries the stages and the procedures with the roles and responsibilities attaching to each, the contacts for reporting, how communication runs inside and outside, and the reporting to be used to document the incident. The management bodies approve it. That the scenarios it covers include insider ones is not stated.",
+       "requirement": "For a subject in the national NIS register, a plan for handling incidents and notifying the national CSIRT is defined, implemented, kept current, and documented, and it carries the stages and the procedures with the roles and responsibilities attaching to each, the contacts for reporting, how communication runs inside and outside, and the reporting to be used to document the incident. The management bodies approve it. That the scenarios it covers include insider ones is not stated.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -6508,7 +6508,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "The plan carries the procedures for preparing and sending the reports the NIS decree requires, and it names the contacts through which an incident is reported. Notification runs to CSIRT Italia.",
+       "requirement": "For a subject in the national NIS register, the plan carries the procedures for preparing and sending the reports the NIS decree requires, and it names the contacts through which an incident is reported. Notification runs to CSIRT Italia.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -6572,14 +6572,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "IR008/IT",
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "How communication runs inside the organization is part of the plan, and the involvement of the administrative and management bodies is named as part of it. Those bodies approve the plan itself.",
+       "requirement": "For a subject in the national NIS register, how communication runs inside the organization is part of the plan, and the involvement of the administrative and management bodies is named as part of it. Those bodies approve the plan itself.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -6637,7 +6637,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "The plan is reviewed and where appropriate updated periodically and in any case at least every two years, and again whenever a significant incident occurs, with the lessons learned from it worked in.",
+       "requirement": "For a subject in the national NIS register, the plan is reviewed and where appropriate updated periodically and in any case at least every two years, and again whenever a significant incident occurs, with the lessons learned from it worked in.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -6946,7 +6946,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "",
@@ -7019,7 +7019,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "A training plan for the workforce, the administrative and management bodies included, is defined, implemented, kept current, and documented, and those bodies approve it. It sets out what is taught and, where any are provided for, how it is checked that the content was taken in. What it teaches is the security of systems, not insider risk.",
+       "requirement": "For a subject in the national NIS register, a training plan for the workforce, the administrative and management bodies included, is defined, implemented, kept current, and documented, and those bodies approve it. It sets out what is taught and, where any are provided for, how it is checked that the content was taken in. What it teaches is the security of systems, not insider risk.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -7240,7 +7240,7 @@
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "Training dedicated to the people in specialized roles, system administrators named among them, is part of the same plan, and it covers the secure configuration and operation of the systems, the threats that are known, and what to do when an event bearing on security occurs.",
+       "requirement": "For an essential subject, training dedicated to the people in specialized roles, system administrators named among them, is part of the same plan, and it covers the secure configuration and operation of the systems, the threats that are known, and what to do when an event bearing on security occurs.",
        "sources": [
         {
          "anchor": "acn-379907",
@@ -7321,14 +7321,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "AW004/IT",
        "standing": "mandatory",
        "jurisdiction": "IT",
        "state": "established",
-       "requirement": "An up-to-date register is kept of the employees who received the training, of its contents, and of the checks carried out where checks were provided for. A register of the same kind is required for the training given to specialized roles.",
+       "requirement": "For a subject in the national NIS register, an up-to-date register is kept of the employees who received the training, of its contents, and of the checks carried out where checks were provided for. A register of the same kind is required for the training given to specialized roles.",
        "sources": [
         {
          "anchor": "acn-379907",
