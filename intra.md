@@ -161,7 +161,7 @@ Updated: 2026-09-01
 
 GB · established · [npsa-ongoing-persec] · Good practice treats screening at recruitment as the opening of a process rather than its completion.
 AT · established · [at-arbvg-96] · What needs the works council's consent is the form put to the person: a personnel questionnaire asking beyond general particulars and the professional qualifications for the work intended. Verification carried out against a third party is not reached by it.
-EU · established · [nis2-ir] [cer-2557] · Verification of an employee's background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests. For a critical entity the persons a check may be requested on include those under consideration for a sensitive role, or for a role authorized to reach the premises, the information, or the control systems. That check corroborates identity and examines the criminal record for offences relevant to the specific position, and it is carried out for the sole purpose of evaluating a security risk.
+EU · established · [nis2-ir] [cer-2557] · For the digital infrastructure and service providers it reaches, verification of an employee's background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests. For a critical entity the persons a check may be requested on include those under consideration for a sensitive role, or for a role authorized to reach the premises, the information, or the control systems. That check corroborates identity and examines the criminal record for offences relevant to the specific position, and it is carried out for the sole purpose of evaluating a security risk.
 IT · established · [acn-379907] · The people authorized to reach the systems that matter are identified on a prior assessment of experience, capability, and trustworthiness, and have to give suitable guarantee that they will keep to the rules on information security. The trustworthiness of human resources is one of the areas the determination requires a written policy to cover.
 DE · established · [bsi-grundschutz] · A new employee should be checked for trustworthiness before being hired, and everyone taking part in the selection should check whether what the candidate says bearing on that is credible. The curriculum vitae is examined for correctness, plausibility, and completeness, and whatever looks conspicuous in it is followed up. Separately, the qualifications a post requires are to be formulated exactly, and a post filled only by someone who has them.
 ES · established · [es-ens] · The requirements a person has to satisfy to hold a post are defined, in particular on confidentiality, and they are taken into account in selecting who will hold it. What is verified is named: the employment history, the training, and other references, in conformity with the law and with respect for fundamental rights.
@@ -172,7 +172,7 @@ NL · established · [nl-bio2] · Every entity has a screening policy that has b
 What it is: The written standard setting, for each level of exposure a role carries, what is checked and how far. Exposure, not seniority: a systems administrator two grades down reaches further than the director above them.
 Added: 2026-08-30
 Updated: 2026-09-01
-EU · established · [nis2-ir] [cer-2557] · Criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals. For a critical entity the tiering runs on the same principle from the other side: who may be checked is set by role rather than uniformly, being a sensitive role or an authorization to reach the premises, the information, or the control systems, directly or remotely. Alongside it the entity is to set out which categories of personnel exercise critical functions, and the check itself is to be proportionate and strictly limited to what is necessary.
+EU · established · [nis2-ir] [cer-2557] · For the digital infrastructure and service providers it reaches, criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals. For a critical entity the tiering runs on the same principle from the other side: who may be checked is set by role rather than uniformly, being a sensitive role or an authorization to reach the premises, the information, or the control systems, directly or remotely. Alongside it the entity is to set out which categories of personnel exercise critical functions, and the check itself is to be proportionate and strictly limited to what is necessary.
 DE · established · [bsi-grundschutz] · Depth follows the area and not the person. In a high security area a further check is carried out on top of the basic check of trustworthiness, and where the work touches classified material the person goes through the statutory security clearance. This sits at the grade the compendium keeps for a raised protection need, which is itself settled by an individual risk analysis.
 ES · established · [es-ens] · For each post directly bound up with the handling of information or services, the security responsibilities it carries are defined, and they are based on the risk analysis. The measure does not apply at the basic category and applies at the two above it, so the scheme grades the obligation itself by what the system holds.
 BE · established · [be-cyfun] · What the background check weighs is the classification of the information to be reached and the risks perceived, so the depth follows what the role will hold rather than where the role sits.
@@ -183,7 +183,7 @@ NL · established · [nl-bio2] · The certificate of conduct is asked for on a w
 What it is: The further verification applied to a person because of what their access reaches, triggered by the entitlement itself rather than by the title attached to it.
 Added: 2026-08-30
 Updated: 2026-09-01
-EU · established · [nis2-ir] [cer-2557] · Among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them. For a critical entity, holding a sensitive role in or for it, or being authorized to reach its premises, information, or control systems, is what brings a person within the checks, and the reach may be direct or remote.
+EU · established · [nis2-ir] [cer-2557] · For the digital infrastructure and service providers it reaches, among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them. For a critical entity, holding a sensitive role in or for it, or being authorized to reach its premises, information, or control systems, is what brings a person within the checks, and the reach may be direct or remote.
 IT · established · [acn-379907] · System administrators are a category of their own. They are identified on the same prior assessment of experience, capability, and trustworthiness, stated in a requirement separate from the one covering everyone else admitted to the systems that matter.
 ES · established · [es-ens] · Security and system administrators hold a personal security clearance granted by the competent authority, either because the risk analysis called for it or because a particular system requires it.
 BE · established · [be-cyfun] · Personnel with access to the organization's most critical information or technology are to be authenticated at the point of access, and the framework says what that means: the person proves their identity technically when they reach the asset, and is not merely validated once at onboarding.
@@ -195,7 +195,7 @@ Added: 2026-08-30
 Updated: 2026-09-01
 
 GB · established · [npsa-ongoing-persec] · Contracting is covered alongside employment, so the standard is set for people the organization does not employ.
-EU · established · [nis2-ir] [cer-2557] · The assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it. For a critical entity the background check is not confined to recruitment either: it may be requested on a person who already holds the sensitive role or the authorization, in duly reasoned cases and against the Member State risk assessment.
+EU · established · [nis2-ir] [cer-2557] · For the digital infrastructure and service providers it reaches, the assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it. For a critical entity the background check is not confined to recruitment either: it may be requested on a person who already holds the sensitive role or the authorization, in duly reasoned cases and against the Member State risk assessment.
 BE · established · [be-cyfun] · The background check is repeated periodically for the people in sensitive roles, so it is a standing condition of holding the role rather than a gate at the entrance.
 FI · established · [fi-katakri] · The clearances, the handling rights, the rights of use, the access rights, and the awareness of the duty not to disclose are all kept updated as changes occur, and the training that goes with a change is given before the change.
 
@@ -219,8 +219,8 @@ NL · established · [nl-bio2] · Everyone, internal and external, is pointed to
 ### PS007 · Role change and internal transfer {#ps007}
 What it is: The reassessment of what a person holds and owes when they move within the organization, including the withdrawal of what the previous role needed. Without the withdrawal, access accrues across a career and the person ends up reaching everywhere they have ever been.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · Access rights are modified on a change of employment and not only on its end, so a move inside the organization is an event the entitlements have to answer to.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, access rights are modified on a change of employment and not only on its end, so a move inside the organization is an event the entitlements have to answer to.
 IT · established · [acn-379907] · Accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked when something changes. A transfer of personnel is named as such a change, alongside the end of an employment.
 FR · established · [fr-anssi] · The procedures for arrival, departure, and change of function are defined together with the human resources function, and what they have to reach is listed: the creation and deletion of accounts and the mailboxes attached to them, the rights to grant and to withdraw from a person whose function changes, physical access to the premises with badges and keys issued and returned, the mobile equipment assigned, and the handling of sensitive information, transferring or changing the passwords and codes on existing systems among it.
 BE · established · [be-cyfun] · A human resources process for cybersecurity is developed and maintained, and it runs across recruitment, onboarding, employment, change of function, and offboarding rather than attaching to any one of them.
@@ -230,12 +230,12 @@ NL · established · [nl-bio2] · A change of function is one of the two occasio
 ### PS008 · Leaver process {#ps008}
 What it is: What happens when employment ends: access withdrawn, assets recovered, continuing obligations restated, and the accounts themselves closed within a period the organization has stated in advance.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
 GB · established · [npsa-ongoing-persec] · Exit is covered as a stage of personnel security, with what is withdrawn and what is restated set out together.
 NO · established · [no-innsyn-epost] · The mailbox is closed when the employment ends, and stays open only where there is a particular need and only for a short period.
 IT · established · [garante-framos-2026] [acn-379907] · Leaving the account running after the employment ends is itself a processing and needs a ground of its own. Telling correspondents the person has gone, and keeping what may be wanted later, are not grounds, and running past the period the employer itself declared counts against it. Separately, obligations in the field of information security that stay valid after the employment ends, or changes, are fixed at the contractual level, confidentiality clauses among the examples given, on essential subjects.
-EU · established · [nis2-ir] · Access rights are modified on termination, and the register of what was granted is what the withdrawal is checked against.
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, access rights are modified on termination, and the register of what was granted is what the withdrawal is checked against.
 DE · established · [bsi-grundschutz] · The successor is briefed in time, by the person leaving where that can be done, and where it cannot the person leaving writes the documentation instead. Every document, key, device, badge, and access right received in the course of the work is collected back. The obligations of confidentiality are put to the person once more before they go, and to keep conflicts of interest from arising a non-competition clause and a waiting period should be agreed. Contingency and other plans are updated, and every part of the organization affected is told, the security staff and the IT function among them.
 FR · established · [fr-anssi] · The rights assigned to a person are revoked on their departure, and the procedure covers the accounts and mailboxes, the badges and keys, the mobile equipment issued, and the passwords and codes on existing systems, which are transferred or changed.
 FI · established · [fi-katakri] · On the termination of the employment the keys, the badges, and the classified material are collected in, the access, handling, and use rights are deleted, and the person is reminded of the responsibilities of non-disclosure that remain.
@@ -294,15 +294,15 @@ EU · established · [nis2] · Asset management is named among the measures an e
 ### DP002 · Information classification scheme {#dp002}
 What it is: The categories information is assigned to, the handling rules that follow from each, and what happens to information nobody has assigned. The default is part of the scheme: a category that only the careful apply leaves everything else outside it.
 Added: 2026-08-30
-Updated: 2026-08-31
-EU · established · [nis2-ir] · A system of classification levels is laid down and every asset is placed in one, on confidentiality, integrity, and authenticity. The handling policy that follows runs from acquisition through use, storage, and transport to disposal, and reaches everyone who handles an asset.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, a system of classification levels is laid down and every asset is placed in one, on confidentiality, integrity, and authenticity. The handling policy that follows runs from acquisition through use, storage, and transport to disposal, and reaches everyone who handles an asset.
 CZ · established · [holoska-doucek] · The classification level of a document governs how a person may work on it, with whom it may be shared, and where and how it may be kept. A document carrying the right level can then be followed by the loss prevention tooling, and access to it that was not permitted is raised as an incident.
 
 ### DP003 · Data discovery and inventory {#dp003}
 What it is: The location of regulated or sensitive data across the estate, as distinct from where policy assumes it is.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · The inventory is to be complete, accurate, up to date, and consistent, and changes to its entries are recorded so that they can be traced.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, the inventory is to be complete, accurate, up to date, and consistent, and changes to its entries are recorded so that they can be traced.
 
 ### DP004 · Access control and least privilege {#dp004}
 What it is: The entitlements each person actually holds, held to what their task requires and no wider. The measure is the state of the entitlements, not the policy that describes the state they ought to be in.
@@ -316,8 +316,8 @@ ES · established · [es-ens] · The access control system is organized so that 
 ### DP005 · Privileged access management {#dp005}
 What it is: The separation, brokering, and time-bounding of access that exceeds ordinary entitlement.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · Privileged and system administration accounts carry policies of their own, strong identification and authentication among them, and the systems used to administer are kept for administration and separated from everything else.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, privileged and system administration accounts carry policies of their own, strong identification and authentication among them, and the systems used to administer are kept for administration and separated from everything else.
 IT · established · [acn-379907] · Every account is inventoried and approved by someone inside the organization, those with administrative privileges and those used for remote access included, and accounts are individual to a user unless there is a documented technical reason otherwise. A system administrator's privileged and unprivileged accounts are to be completely distinct, and to carry different credentials.
 DE · established · [bsi-grundschutz] · An administrative activity should be one that two people have to carry out together. Where multi-factor authentication is used the factors are split between the two of them, and where a password is used it is divided in two and each of them holds a half. This sits at the grade the compendium keeps for a raised protection need.
 ES · established · [es-ens] · Development and operation are not to fall to the same person, nor are authorizing a use and controlling it. At the high category the same person may not hold configuration and maintenance together, and auditing or supervision may not be combined with any other function at all. Accounts carrying audit privileges are strictly controlled and personal to their holder, and the system's security information is reachable only by the authorized administrators.
@@ -327,8 +327,8 @@ NL · established · [nl-bio2] · Only authorized personnel reach the system uti
 ### DP006 · Access recertification {#dp006}
 What it is: The periodic comparison of the access a person holds against the work they perform, and its adjustment.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · Access rights are reviewed at planned intervals and changed on organizational change, and the result of the review is documented together with the changes it called for.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, access rights are reviewed at planned intervals and changed on organizational change, and the result of the review is documented together with the changes it called for.
 IT · established · [acn-379907] · Accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked where a change calls for it.
 DE · established · [bsi-grundschutz] · Which identifiers, groups, and rights profiles have been permitted and created is documented, and the documentation is checked at intervals against the state the entitlements are actually in, and against whether what has been granted still answers to the security requirements and to what the users now do. The documentation itself is protected from unauthorized access.
 NL · established · [nl-bio2] · Every access right that has been issued is assessed at least once a year.
@@ -362,7 +362,7 @@ ES · established · [lo-3-2018] · The criteria for using the capability are dr
 What it is: The restriction of the routes by which data can leave: removable media, personal cloud storage, webmail, printing, and unmanaged devices.
 Added: 2026-08-30
 Updated: 2026-09-01
-EU · established · [nis2-ir] · Removable media carry a policy of their own, communicated to employees and to the third parties who connect them, and it provides for a technical prohibition of connections the entity has not allowed.
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, removable media carry a policy of their own, communicated to employees and to the third parties who connect them, and it provides for a technical prohibition of connections the entity has not allowed.
 CZ · established · [holoska-doucek] · Restricting the channels through which a person can move data, personal mail, printing, writing to external media and to cloud storage, is treated as a proactive measure, and where it cannot be applied to the whole workforce it is applied to the users who have given or received notice.
 
 ### DP010 · Encryption and rights management {#dp010}
@@ -437,8 +437,8 @@ GB · established · [uk-monitoring-regs] · What may be looked for is a closed 
 ### MD002 · Log collection and centralization {#md002}
 What it is: The aggregation of records of activity from systems across the estate into a single store.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · The list of assets to be logged is derived from the risk assessment, and what the logs hold is named: inbound and outbound traffic, the creation, modification, and deletion of users and the extension of their permissions, access to systems and applications, authentication events, all privileged access and everything done by administrative accounts, access or changes to critical configuration and backup files, physical access to facilities, and the activation, stopping, and pausing of the logs themselves. They are kept for a period fixed in advance and protected from unauthorized access or change, time sources are synchronized so that logs can be correlated across systems, and the availability of the logging systems is monitored independently of the systems they log.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, the list of assets to be logged is derived from the risk assessment, and what the logs hold is named: inbound and outbound traffic, the creation, modification, and deletion of users and the extension of their permissions, access to systems and applications, authentication events, all privileged access and everything done by administrative accounts, access or changes to critical configuration and backup files, physical access to facilities, and the activation, stopping, and pausing of the logs themselves. They are kept for a period fixed in advance and protected from unauthorized access or change, time sources are synchronized so that logs can be correlated across systems, and the availability of the logging systems is monitored independently of the systems they log.
 IT · established · [acn-379907] · All remote access and all access made with administrative privileges are recorded. For the systems that matter, the logs needed to monitor security events are acquired and kept securely and, where it can be done, centrally, and how long they are kept is fixed from the risk assessment and documented.
 DE · established · [bsi-grundschutz] · A logging policy of its own is drawn up, saying how, where, and what is logged, with the kind and the extent of it following the protection the information needs. All security relevant events on systems and applications are logged, the clocks of everything that logs are kept synchronized and the date and time format made uniform, and it is checked at defined intervals that the logging still works. Data protection law and the co-determination rights of the workforce representation are to be kept to, logging data are deleted on a defined process, and their uncontrolled deletion or alteration is prevented technically. The data should be held centrally, on a log server assembly in a network segment set up for it, and filtered, normalized, aggregated, and correlated for evaluation while a copy is kept in unaltered original form. The administrators who run it should have no entitlement to change or delete what has been recorded.
 ES · established · [es-ens] · The audit record carries at least the identifier of the user or entity the event belongs to, the date and time, what information the event was performed on, the type of event, and whether it succeeded or failed. Above the low level the security documentation states which events are audited and how long the records are kept before deletion, the clock is an administration function protected by authentication and integrity, and the records and their backups may be reached or deleted only by duly authorized personnel.
@@ -452,11 +452,11 @@ BE · established · [be-cyfun] · The logging functionality of the protection a
 ### MD003 · Detection use case development {#md003}
 What it is: The construction of a specific, testable rule or query that raises an alert on a defined pattern of activity.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
 GB · established · [citd] · A characterization framework and a working tool came out of the research program, which is a starting point a use case can be derived from rather than invented.
 GB · established · [citd-deployment] · Deploying a research tool inside three organizations for a year surfaced the operational constraints that the detection literature leaves out.
-EU · established · [nis2-ir] · Alarm thresholds are set where appropriate, an alarm is raised automatically once one is exceeded, and a qualified response follows in good time. Monitoring is to be automated as far as it can be and built so as to minimize both false positives and false negatives, and a process for correlating and analyzing logs is put in place.
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, alarm thresholds are set where appropriate, an alarm is raised automatically once one is exceeded, and a qualified response follows in good time. Monitoring is to be automated as far as it can be and built so as to minimize both false positives and false negatives, and a process for correlating and analyzing logs is put in place.
 IT · established · [acn-379907] · Qualitative and quantitative parameters for detecting unauthorized access, or access abusing the privileges granted, are defined, monitored, and documented. The requirement is on essential subjects, and the same annexes do not place it on important ones.
 ES · established · [es-ens] · At the high category, measures are applied to prevent, detect, and react to attempts at data mining: the queries are limited, their volume and frequency are monitored, and suspicious behavior is alerted to the security administrators in real time. Systems for detecting advanced threats and anomalous behavior are required at the same category, alongside tools that analyze the activity and the audit information looking for possible or actual compromises.
 NL · established · [nl-bio2] · Use cases for the misuse of authentication data are defined, monitored, and acted on, and two of them are named in the text: logins from unusual places, and spikes in failed login attempts. Separately, the creation and modification of accounts carrying special rights is monitored, and where such a change was not authorized it is an information security incident and is recorded and handled as one.
@@ -667,16 +667,16 @@ CoE · established · [gramaxo] · Observation running through and beyond workin
 ### MD020 · Alert triage and case creation {#md020}
 What it is: The disposition of what the instruments raise: what is closed, what is held, and what becomes a case.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 BE · established · [be-cct-81] · Collecting and naming are two operations. The convention calls the second individualization and governs it separately from the monitoring that produced the data.
-EU · established · [nis2-ir] · A suspicious event is assessed against criteria laid down in advance and against a triage that decides what is dealt with first. The relevant logs are reviewed for that assessment, and an event is reassessed and reclassified when new information arrives or when what was already held has been analyzed.
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, a suspicious event is assessed against criteria laid down in advance and against a triage that decides what is dealt with first. The relevant logs are reviewed for that assessment, and an event is reassessed and reclassified when new information arrives or when what was already held has been analyzed.
 NO · established · [no-nsm] · The log data are gone through and the relevant data about the event gathered to give a decision a basis, which may mean assembling data from several sources or running tests to confirm or rule out an event. The severity is then settled against the plan laid down in advance: whether it is a possible or a confirmed security incident or a false alarm, its class under the classification regime, which roles are brought in, and whether the contingency plan is triggered.
 
 ### MD021 · Detection coverage assessment {#md021}
 What it is: The holding of two lists against each other: what the program declared it has to be able to detect, and what its instruments actually deliver today, given where the agents are installed, which systems send their records, and which rules are live. Its output is a named gap. Without it coverage is assumed rather than known, and it decays quietly, since a source that stops sending announces nothing.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · Two lists are required: the assets that are to be logged, derived from the risk assessment, and the assets that are actually being logged. The second, and the procedures behind it, are reviewed and where appropriate updated at regular intervals and after a significant incident. That the two are to be held against each other is not stated.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, two lists are required: the assets that are to be logged, derived from the risk assessment, and the assets that are actually being logged. The second, and the procedures behind it, are reviewed and where appropriate updated at regular intervals and after a significant incident. That the two are to be held against each other is not stated.
 DE · established · [bsi-grundschutz] · The detection systems in place and the measures taken should be examined in regular audits for whether they are still current and still effective. The metrics that arise when a security relevant event is taken in, reported, and escalated are evaluated, the results of the audit are documented so that they can be followed, and they are compared against the state the systems are supposed to be in. A departure from it is pursued.
 ES · established · [es-ens] · Analyzing an incident is what reopens the question of what is audited: the determination of the auditable events is reviewed as a consequence of the analysis.
 NO · established · [no-nsm] · It is verified that the collection works as it was meant to. The log settings are checked to see that they function and that what was to be gathered is being gathered, every system that regularly stores security relevant data is given enough space that nothing needed is lost, and a standardized format is used so the data can be read by a third party's analysis tool.
@@ -862,16 +862,16 @@ Summary: The measures taken while an incident is open: containment, preservation
 ### IR001 · Insider incident playbooks {#ir001}
 What it is: The prepared sequences for the insider scenarios the program has decided it must be able to answer.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · Response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed.
 IT · established · [acn-379907] · A plan for handling incidents and notifying the national CSIRT is defined, implemented, kept current, and documented, and it carries the stages and the procedures with the roles and responsibilities attaching to each, the contacts for reporting, how communication runs inside and outside, and the reporting to be used to document the incident. The management bodies approve it. That the scenarios it covers include insider ones is not stated.
 DE · established · [bsi-grundschutz] · A policy on handling security incidents has to be drawn up, stating its purpose and its aim and settling every aspect of the handling, with rules of conduct described for the different kinds of incident and instructions that are addressed to their audience and can actually be applied. It has to be known to everyone, agreed with the IT function, adopted by the leadership of the organization, and checked and updated at intervals.
 
 ### IR002 · Containment of an incident in progress {#ir002}
 What it is: The interruption of activity while it is happening, before its nature has been established.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · Containment is the first of the named stages of the response, and what it is for is stated: to prevent the consequences of the incident from spreading.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, containment is the first of the named stages of the response, and what it is for is stated: to prevent the consequences of the incident from spreading.
 ES · established · [es-ens] · At the high category the system carries out predetermined responses to its own alerts automatically, and the decree names them: ending the process that caused the alert, disabling particular services, disconnecting users, and blocking accounts.
 BE · established · [be-cyfun] · The response strategy is to weigh the need for a rapid recovery against what might be gained by observing the behavior for longer or investigating it more deeply, which makes the decision to contain a decision and not a reflex.
 
@@ -884,8 +884,8 @@ ES · established · [es-ens] · At the high category the system carries out pre
 ### IR004 · Preservation of systems and records {#ir004}
 What it is: The holding of systems and records in the state they were in when the case opened.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · The activities of the response are logged under the same procedures that govern the logging of everything else, and evidence is recorded. In what state a system is to be held, and for how long, is not stated.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, the activities of the response are logged under the same procedures that govern the logging of everything else, and evidence is recorded. In what state a system is to be held, and for how long, is not stated.
 
 ### IR005 · Coordination with security operations {#ir005}
 What it is: The joint working of the insider function with the teams that answer external intrusion.
@@ -896,8 +896,8 @@ DE · established · [bsi-grundschutz] · The interfaces between ordinary fault 
 ### IR006 · Notification to a supervisory authority {#ir006}
 What it is: The reporting of the incident, or of its handling, to an authority outside the organization.
 Added: 2026-08-30
-Updated: 2026-08-31
-EU · established · [nis2-ir] · Communication plans and procedures are established with the incident response teams or, where applicable, the competent authorities, for the notification of an incident.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, communication plans and procedures are established with the incident response teams or, where applicable, the competent authorities, for the notification of an incident.
 IT · established · [acn-379907] · The plan carries the procedures for preparing and sending the reports the NIS decree requires, and it names the contacts through which an incident is reported. Notification runs to CSIRT Italia.
 CZ · established · [holoska-doucek] · It falls to the legal function to state where an incident has to be reported to a public authority, and where personal data have been lost the supervisory authority is to be told without undue delay.
 
@@ -917,8 +917,8 @@ DE · established · [bsi-grundschutz] · The handling of a security incident is
 ### IR009 · Post-incident review {#ir009}
 What it is: The examination, after the fact, of what the program saw, when, and what it did with it.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · A review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, a review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals.
 IT · established · [acn-379907] · The plan is reviewed and where appropriate updated periodically and in any case at least every two years, and again whenever a significant incident occurs, with the lessons learned from it worked in.
 DE · established · [bsi-grundschutz] · An incident should be worked through afterwards to a standard form, examining how quickly it was detected and remedied, whether the reporting routes worked, whether there was enough information to assess it, and whether the detection measures were effective. What is learned is used to write instructions for comparable incidents, made known to the groups they concern, and updated as more is learned. The leadership of the organization is told about the incidents once a year, and at once where something has to be done immediately.
 NO · established · [no-nsm] · What worked and what can be improved are both identified. The controls that were compromised are mapped and reviewed and then updated or replaced, and it is assessed whether what is in place covers the organization's risk picture at all. The processes, procedures, reporting formats, and organizational structures are evaluated for how effective they were, regularly and after an incident.
@@ -926,8 +926,8 @@ NO · established · [no-nsm] · What worked and what can be improved are both i
 ### IR010 · Exercising the response {#ir010}
 What it is: The rehearsal of the playbooks against a scenario, with the people who would run them.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · The incident response procedures are tested at planned intervals.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, the incident response procedures are tested at planned intervals.
 
 ## CP · Consequence for the person {#cp}
 Summary: The action taken against a person following a finding, and the basis on which it may be taken.
@@ -935,9 +935,9 @@ Summary: The action taken against a person following a finding, and the basis on
 ### CP001 · Disciplinary action on monitoring evidence {#cp001}
 What it is: Action taken against a person on the basis of what the program observed, short of ending the relationship.
 Added: 2026-08-30
-Updated: 2026-08-31
+Updated: 2026-09-01
 AT · established · [at-arbvg-96] · A workplace disciplinary code has no legal effect without the works council's consent, so what may follow from what the program observed is settled with the workforce before any case arises.
-EU · established · [nis2-ir] · A disciplinary process for handling violations of the security policies is established, communicated, and maintained, and it takes the legal, statutory, contractual, and business requirements into account. It is reviewed at planned intervals and when a change in the law calls for it. What may be relied on to establish a violation is not addressed.
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, a disciplinary process for handling violations of the security policies is established, communicated, and maintained, and it takes the legal, statutory, contractual, and business requirements into account. It is reviewed at planned intervals and when a change in the law calls for it. What may be relied on to establish a violation is not addressed.
 CZ · established · [holoska-doucek] · The final assessment of the examination is made against the organization's own rules and recommendations, and it is from that assessment that disciplinary proceedings follow, where they follow.
 
 ### CP002 · Termination of employment {#cp002}
@@ -1011,8 +1011,8 @@ GB · established · [ico-monitoring] · Workers must be made aware of how and w
 ### AW003 · Role-specific training {#aw003}
 What it is: The additional instruction given to managers, privileged users, and the people who run the program.
 Added: 2026-08-30
-Updated: 2026-08-30
-EU · established · [nis2-ir] · The employees whose roles need security-relevant skills are identified and trained regularly, and the training program sets the needs of particular roles and positions against criteria. What the training covers is named: secure configuration and operation of the systems, mobile devices included, a briefing on known threats, and how to behave when a security-relevant event occurs. It is given again to staff who move into such a role, and its effectiveness is assessed.
+Updated: 2026-09-01
+EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, the employees whose roles need security-relevant skills are identified and trained regularly, and the training program sets the needs of particular roles and positions against criteria. What the training covers is named: secure configuration and operation of the systems, mobile devices included, a briefing on known threats, and how to behave when a security-relevant event occurs. It is given again to staff who move into such a role, and its effectiveness is assessed.
 IT · established · [acn-379907] · Training dedicated to the people in specialized roles, system administrators named among them, is part of the same plan, and it covers the secure configuration and operation of the systems, the threats that are known, and what to do when an event bearing on security occurs.
 DE · established · [bsi-grundschutz] · Where the protection need is raised, particular people should be given the task of watching the logging data, it should be the greater part of what they do, and they should be given specialized further training and qualification. A group should be named that is responsible for the evaluation of logging data and for nothing else.
 ES · established · [es-ens] · The workforce is trained regularly in what their duties require of them, and three subjects are named: the configuration of systems, the detection of and reaction to incidents, and the handling of information on any medium, which is to cover its storage, transfer, copying, distribution, and destruction. The effectiveness of the training given is assessed.

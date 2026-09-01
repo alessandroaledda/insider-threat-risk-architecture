@@ -991,7 +991,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Verification of an employee’s background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests. For a critical entity the persons a check may be requested on include those under consideration for a sensitive role, or for a role authorized to reach the premises, the information, or the control systems. That check corroborates identity and examines the criminal record for offences relevant to the specific position, and it is carried out for the sole purpose of evaluating a security risk.",
+       "requirement": "For the digital infrastructure and service providers it reaches, verification of an employee’s background is required as far as it can be done, where it is necessary for the role, the responsibilities, and the authorizations held. The mechanisms for hiring are named in the same place: reference checks, vetting procedures, validation of certifications, or written tests. For a critical entity the persons a check may be requested on include those under consideration for a sensitive role, or for a role authorized to reach the premises, the information, or the control systems. That check corroborates identity and examines the criminal record for offences relevant to the specific position, and it is carried out for the sole purpose of evaluating a security risk.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -1100,7 +1100,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals. For a critical entity the tiering runs on the same principle from the other side: who may be checked is set by role rather than uniformly, being a sensitive role or an authorization to reach the premises, the information, or the control systems, directly or remotely. Alongside it the entity is to set out which categories of personnel exercise critical functions, and the check itself is to be proportionate and strictly limited to what is necessary.",
+       "requirement": "For the digital infrastructure and service providers it reaches, criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals. For a critical entity the tiering runs on the same principle from the other side: who may be checked is set by role rather than uniformly, being a sensitive role or an authorization to reach the premises, the information, or the control systems, directly or remotely. Alongside it the entity is to set out which categories of personnel exercise critical functions, and the check itself is to be proportionate and strictly limited to what is necessary.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -1209,7 +1209,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them. For a critical entity, holding a sensitive role in or for it, or being authorized to reach its premises, information, or control systems, is what brings a person within the checks, and the reach may be direct or remote.",
+       "requirement": "For the digital infrastructure and service providers it reaches, among the things the verification takes into account are the network and information systems the person is to reach, so what the access reaches is part of what sets the depth of the check. Separately, the people holding administrative or privileged access are to be made aware of their roles, responsibilities, and authorities, and to act in accordance with them. For a critical entity, holding a sensitive role in or for it, or being authorized to reach its premises, information, or control systems, is what brings a person within the checks, and the reach may be direct or remote.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -1318,7 +1318,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it. For a critical entity the background check is not confined to recruitment either: it may be requested on a person who already holds the sensitive role or the authorization, in duly reasoned cases and against the Member State risk assessment.",
+       "requirement": "For the digital infrastructure and service providers it reaches, the assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it. For a critical entity the background check is not confined to recruitment either: it may be requested on a person who already holds the sensitive role or the authorization, in duly reasoned cases and against the Member State risk assessment.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -1491,14 +1491,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "PS007/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Access rights are modified on a change of employment and not only on its end, so a move inside the organization is an event the entitlements have to answer to.",
+       "requirement": "For the digital infrastructure and service providers it reaches, access rights are modified on a change of employment and not only on its end, so a move inside the organization is an event the entitlements have to answer to.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -1594,7 +1594,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "",
@@ -1652,7 +1652,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Access rights are modified on termination, and the register of what was granted is what the withdrawal is checked against.",
+       "requirement": "For the digital infrastructure and service providers it reaches, access rights are modified on termination, and the register of what was granted is what the withdrawal is checked against.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -1996,14 +1996,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-31",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "DP002/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A system of classification levels is laid down and every asset is placed in one, on confidentiality, integrity, and authenticity. The handling policy that follows runs from acquisition through use, storage, and transport to disposal, and reaches everyone who handles an asset.",
+       "requirement": "For the digital infrastructure and service providers it reaches, a system of classification levels is laid down and every asset is placed in one, on confidentiality, integrity, and authenticity. The handling policy that follows runs from acquisition through use, storage, and transport to disposal, and reaches everyone who handles an asset.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -2039,14 +2039,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "DP003/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The inventory is to be complete, accurate, up to date, and consistent, and changes to its entries are recorded so that they can be traced.",
+       "requirement": "For the digital infrastructure and service providers it reaches, the inventory is to be complete, accurate, up to date, and consistent, and changes to its entries are recorded so that they can be traced.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -2146,14 +2146,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "DP005/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Privileged and system administration accounts carry policies of their own, strong identification and authentication among them, and the systems used to administer are kept for administration and separated from everything else.",
+       "requirement": "For the digital infrastructure and service providers it reaches, privileged and system administration accounts carry policies of their own, strong identification and authentication among them, and the systems used to administer are kept for administration and separated from everything else.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -2249,14 +2249,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "DP006/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Access rights are reviewed at planned intervals and changed on organizational change, and the result of the review is documented together with the changes it called for.",
+       "requirement": "For the digital infrastructure and service providers it reaches, access rights are reviewed at planned intervals and changed on organizational change, and the result of the review is documented together with the changes it called for.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -2541,7 +2541,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Removable media carry a policy of their own, communicated to employees and to the third parties who connect them, and it provides for a technical prohibition of connections the entity has not allowed.",
+       "requirement": "For the digital infrastructure and service providers it reaches, removable media carry a policy of their own, communicated to employees and to the third parties who connect them, and it provides for a technical prohibition of connections the entity has not allowed.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -3001,14 +3001,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD002/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The list of assets to be logged is derived from the risk assessment, and what the logs hold is named: inbound and outbound traffic, the creation, modification, and deletion of users and the extension of their permissions, access to systems and applications, authentication events, all privileged access and everything done by administrative accounts, access or changes to critical configuration and backup files, physical access to facilities, and the activation, stopping, and pausing of the logs themselves. They are kept for a period fixed in advance and protected from unauthorized access or change, time sources are synchronized so that logs can be correlated across systems, and the availability of the logging systems is monitored independently of the systems they log.",
+       "requirement": "For the digital infrastructure and service providers it reaches, the list of assets to be logged is derived from the risk assessment, and what the logs hold is named: inbound and outbound traffic, the creation, modification, and deletion of users and the extension of their permissions, access to systems and applications, authentication events, all privileged access and everything done by administrative accounts, access or changes to critical configuration and backup files, physical access to facilities, and the activation, stopping, and pausing of the logs themselves. They are kept for a period fixed in advance and protected from unauthorized access or change, time sources are synchronized so that logs can be correlated across systems, and the availability of the logging systems is monitored independently of the systems they log.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -3164,7 +3164,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "",
@@ -3201,7 +3201,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Alarm thresholds are set where appropriate, an alarm is raised automatically once one is exceeded, and a qualified response follows in good time. Monitoring is to be automated as far as it can be and built so as to minimize both false positives and false negatives, and a process for correlating and analyzing logs is put in place.",
+       "requirement": "For the digital infrastructure and service providers it reaches, alarm thresholds are set where appropriate, an alarm is raised automatically once one is exceeded, and a qualified response follows in good time. Monitoring is to be automated as far as it can be and built so as to minimize both false positives and false negatives, and a process for correlating and analyzing logs is put in place.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -5170,7 +5170,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD020/BE",
@@ -5192,7 +5192,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A suspicious event is assessed against criteria laid down in advance and against a triage that decides what is dealt with first. The relevant logs are reviewed for that assessment, and an event is reassessed and reclassified when new information arrives or when what was already held has been analyzed.",
+       "requirement": "For the digital infrastructure and service providers it reaches, a suspicious event is assessed against criteria laid down in advance and against a triage that decides what is dealt with first. The relevant logs are reviewed for that assessment, and an event is reassessed and reclassified when new information arrives or when what was already held has been analyzed.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -5228,14 +5228,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD021/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Two lists are required: the assets that are to be logged, derived from the risk assessment, and the assets that are actually being logged. The second, and the procedures behind it, are reviewed and where appropriate updated at regular intervals and after a significant incident. That the two are to be held against each other is not stated.",
+       "requirement": "For the digital infrastructure and service providers it reaches, two lists are required: the assets that are to be logged, derived from the risk assessment, and the assets that are actually being logged. The second, and the procedures behind it, are reviewed and where appropriate updated at regular intervals and after a significant incident. That the two are to be held against each other is not stated.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -6286,14 +6286,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "IR001/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed.",
+       "requirement": "For the digital infrastructure and service providers it reaches, response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -6344,14 +6344,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "IR002/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Containment is the first of the named stages of the response, and what it is for is stated: to prevent the consequences of the incident from spreading.",
+       "requirement": "For the digital infrastructure and service providers it reaches, containment is the first of the named stages of the response, and what it is for is stated: to prevent the consequences of the incident from spreading.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -6430,14 +6430,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "IR004/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The activities of the response are logged under the same procedures that govern the logging of everything else, and evidence is recorded. In what state a system is to be held, and for how long, is not stated.",
+       "requirement": "For the digital infrastructure and service providers it reaches, the activities of the response are logged under the same procedures that govern the logging of everything else, and evidence is recorded. In what state a system is to be held, and for how long, is not stated.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -6486,14 +6486,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-31",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "IR006/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Communication plans and procedures are established with the incident response teams or, where applicable, the competent authorities, for the notification of an incident.",
+       "requirement": "For the digital infrastructure and service providers it reaches, communication plans and procedures are established with the incident response teams or, where applicable, the competent authorities, for the notification of an incident.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -6615,14 +6615,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "IR009/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals.",
+       "requirement": "For the digital infrastructure and service providers it reaches, a review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -6688,14 +6688,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "IR010/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The incident response procedures are tested at planned intervals.",
+       "requirement": "For the digital infrastructure and service providers it reaches, the incident response procedures are tested at planned intervals.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -6724,7 +6724,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-31",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "CP001/AT",
@@ -6746,7 +6746,7 @@
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "A disciplinary process for handling violations of the security policies is established, communicated, and maintained, and it takes the legal, statutory, contractual, and business requirements into account. It is reviewed at planned intervals and when a change in the law calls for it. What may be relied on to establish a violation is not addressed.",
+       "requirement": "For the digital infrastructure and service providers it reaches, a disciplinary process for handling violations of the security policies is established, communicated, and maintained, and it takes the legal, statutory, contractual, and business requirements into account. It is reviewed at planned intervals and when a change in the law calls for it. What may be relied on to establish a violation is not addressed.",
        "sources": [
         {
          "anchor": "nis2-ir",
@@ -7218,14 +7218,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "AW003/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The employees whose roles need security-relevant skills are identified and trained regularly, and the training program sets the needs of particular roles and positions against criteria. What the training covers is named: secure configuration and operation of the systems, mobile devices included, a briefing on known threats, and how to behave when a security-relevant event occurs. It is given again to staff who move into such a role, and its effectiveness is assessed.",
+       "requirement": "For the digital infrastructure and service providers it reaches, the employees whose roles need security-relevant skills are identified and trained regularly, and the training program sets the needs of particular roles and positions against criteria. What the training covers is named: secure configuration and operation of the systems, mobile devices included, a briefing on known threats, and how to behave when a security-relevant event occurs. It is given again to staff who move into such a role, and its effectiveness is assessed.",
        "sources": [
         {
          "anchor": "nis2-ir",
