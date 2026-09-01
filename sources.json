@@ -1431,12 +1431,12 @@
   },
   {
    "anchor": "holoska-doucek",
-   "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal in Threats",
+   "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal Threats",
    "section": "Research",
    "kind": "research",
    "issuer": "Hološka and Doucek",
    "jurisdiction": "",
-   "venue": "Prague University of Economics and Business; Trilobit",
+   "venue": "Prague University of Economics and Business, Faculty of Informatics and Statistics; IDIMT-2024",
    "docket": "",
    "date": "2024",
    "year": "2024",
@@ -1444,11 +1444,11 @@
    "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
    "type": "",
    "binding": "",
-   "url": "https://trilobit.fai.utb.cz/transformace-pristupu-k-zvladani-hrozeb-informacni-bezpecnosti-interni-hrozby-jako-nova-priorita",
+   "url": "https://doi.org/10.35011/IDIMT-2024-73",
    "status": "a research paper, and it describes itself as an overview rather than field work. Its quantitative material is the Ponemon survey, American in origin and global in sample, so what it carries here is the Czech account and not the numbers. Its closing sections name the Czech and Slovak statutes that bear on insider conduct. Those instruments are not in this library, and when they enter they will be read and cited from their own text rather than from this paper.",
    "canonical": "https://alessandroaledda.com/intra/sources/#holoska-doucek",
    "annotation": "The paper divides the examination of an employee between three functions and says what each answers for. Security analysts secure, process, and interpret the digital traces. Human resources holds the communication with the person and the impartial and dignified treatment of them, coordinates the other teams, documents the examination, escalates it, reports it upward, and makes the final assessment against the organization’s own rules, from which disciplinary proceedings may follow. Legal answers for the examination being conducted in accordance with the law of the state and of the sector, evaluates what is found, and states where a public authority has to be told. The person’s own line manager usually takes part, to supply the context of the activity that was observed. On what is done before any of that, it treats the classification level of a document as what governs how it may be worked on, with whom it may be shared, and where it may be kept, and it observes that a restriction which cannot be placed on the whole workforce is placed on the people serving out notice.",
-   "source_line": "Hološka and Doucek · Prague University of Economics and Business · Trilobit · 2024",
+   "source_line": "Hološka and Doucek · Prague University of Economics and Business, Faculty of Informatics and Statistics · IDIMT-2024 · 2024",
    "references": []
   },
   {

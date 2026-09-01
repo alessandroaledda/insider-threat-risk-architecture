@@ -500,9 +500,9 @@ Establishes: That Gramaxo placed the technology largely beyond examination, weak
 
 A short case note on the Gramaxo judgment, arguing that the majority treated the geolocation technology as necessary to the employer's interest and so placed it largely beyond examination. The authors summarize that stance as a just more surveillance approach, and read the judgment as weakening the scrutiny applied in the earlier cases. It is a commentary on a single judgment rather than a survey of the case law.
 
-### Redefining Threats: Extending the Threat Response Focus from External to Internal in Threats {#holoska-doucek}
-Hološka and Doucek · Prague University of Economics and Business · Trilobit · 2024
-https://trilobit.fai.utb.cz/transformace-pristupu-k-zvladani-hrozeb-informacni-bezpecnosti-interni-hrozby-jako-nova-priorita
+### Redefining Threats: Extending the Threat Response Focus from External to Internal Threats {#holoska-doucek}
+Hološka and Doucek · Prague University of Economics and Business, Faculty of Informatics and Statistics · IDIMT-2024 · 2024
+https://doi.org/10.35011/IDIMT-2024-73
 Establishes: How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.
 Status: a research paper, and it describes itself as an overview rather than field work. Its quantitative material is the Ponemon survey, American in origin and global in sample, so what it carries here is the Czech account and not the numbers. Its closing sections name the Czech and Slovak statutes that bear on insider conduct. Those instruments are not in this library, and when they enter they will be read and cited from their own text rather than from this paper.
 

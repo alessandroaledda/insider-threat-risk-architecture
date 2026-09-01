@@ -291,7 +291,7 @@ ES · established · [lo-3-2018] · The criteria for using the capability are dr
 ### DP009 · Egress channel control {#dp009}
 What it is: The restriction of the routes by which data can leave: removable media, personal cloud storage, webmail, printing, and unmanaged devices.
 EU · established · [nis2-ir] · Removable media carry a policy of their own, communicated to employees and to the third parties who connect them, and it provides for a technical prohibition of connections the entity has not allowed.
-CZ · established · [holoska-doucek] · Restricting the channels through which a person can move data, personal mail, printing, writing to external media and to cloud storage, is treated as a proactive measure, and where it cannot be applied to the whole workforce it is applied to the people serving out notice.
+CZ · established · [holoska-doucek] · Restricting the channels through which a person can move data, personal mail, printing, writing to external media and to cloud storage, is treated as a proactive measure, and where it cannot be applied to the whole workforce it is applied to the users who have given or received notice.
 
 ### DP010 · Encryption and rights management {#dp010}
 What it is: The protection of information such that possession of the file is not possession of its contents.
