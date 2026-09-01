@@ -86,5 +86,11 @@ a row is only as good as the source somebody has actually read.
 
 Named so far, with thanks:
 
-- **Jiri Holoska**, for the first Czech source in the library and for the
-  map of the Czech and Slovak statutes that will follow it.
+- **Jiří Hološka** — The first Czech source in the library, and the map of the
+  Czech and Slovak statutes that will follow it.
+- **Simon Ball** — Pointed out that MD018 could be read as a capability rather
+  than an exception. Its definition now states that the prior suspicion is
+  what permits the observation, not what it is for.
+- **Benedetto Paolucci** — Pointed at Directive 2022/2557 and at the Board's
+  guidance on securing personal data, and asked where the record governs
+  physical access rather than watching it. DP016 exists because it did not.
