@@ -71,6 +71,17 @@ GitHub reads `CITATION.cff`, so the **Cite this repository** button on this
 page will give you the same thing in a form your reference manager
 understands.
 
+`intra.json` is published with its checksum, so the copy you cite can be
+checked against the one that was published:
+
+```
+curl -sO https://alessandroaledda.com/intra/intra.json
+curl -s https://alessandroaledda.com/intra/intra.json.sha256 | sha256sum -c
+```
+
+The same digest covers `intra.json` in this repository: the two are the same
+bytes.
+
 ## Licence and the name
 
 The content is under [CC BY 4.0](LICENSE): use it, change it, build on it,
