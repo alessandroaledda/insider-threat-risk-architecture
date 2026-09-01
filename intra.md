@@ -122,9 +122,9 @@ GB · established · [ico-monitoring] · The views of the workforce or its repre
 ### GV011 · Notice before an algorithmic system is deployed {#gv011}
 What it is: Notice that a system of a named class is about to be put into use, owed to the representatives of the workforce and to the workers themselves. It falls due by reason of what the system is, so it is owed even where the representatives hold no right to be consulted, and even where they have already been consulted about the same system.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [ai-act] [digital-omnibus-ai] · Workers' representatives have to be told before a high-risk system is put into use. The duty applies from 2 December 2027 for the Annex III categories.
+EU · established · [ai-act] [digital-omnibus-ai] · Before a high-risk system is put into service or used at the workplace, the employer deploying it has to inform the workers' representatives and the affected workers that they will be subject to it. The duty applies from 2 December 2027 for the Annex III categories.
 
 ### GV012 · Program metrics and reporting {#gv012}
 What it is: What the program reports about its own operation to the body that governs it, and how often. Not what the program found, but how much of it there was, how long it took, and what it cost.
@@ -567,9 +567,9 @@ AT · established · [at-arbvg-96] · The works council's consent is the conditi
 ### MD012 · User and entity behavior analytics {#md012}
 What it is: The automated derivation of a baseline of activity and the treatment of departures from it as signals.
 Added: 2026-08-30
-Updated: 2026-08-31
+Updated: 2026-09-01
 
-EU · established · [ai-act] [digital-omnibus-ai] · The engine falls in the high-risk category, which brings the full set of obligations, and none of that settles whether the detection method is lawful under data protection or employment law.
+EU · established · [ai-act] [digital-omnibus-ai] · Whether the engine falls in the high-risk category turns on whether it is intended to monitor and evaluate the performance and behavior of the people it watches. Where it does, the full set of obligations follows, and none of that settles whether the detection method is lawful under data protection or employment law.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach an engine deriving a baseline from activity is not decided in it.
 FR · established · [code-travail-controle] · The social and economic committee has to be informed and consulted before the decision to put the analytics engine in place, and the worker informed before it reaches them.
 DE · established · [betrvg-87] · The works council has to agree before introducing the analytics engine, and again on the manner in which it is used.
@@ -726,9 +726,9 @@ GB · established · [insider-language-index] · The differences were measured i
 ### BA006 · Inference of emotional state {#ba006}
 What it is: The derivation of a person's emotional state from observable data.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [ai-act] · Inferring emotion at work is prohibited outright, with narrow exceptions for medical and safety purposes.
+EU · established · [ai-act] · Putting on the market, putting into service, or using an AI system to infer the emotions of a person in the workplace is prohibited, unless the system is intended for medical or safety reasons.
 
 ### BA007 · Automated decision-making about a worker {#ba007}
 What it is: A decision producing effects for a worker taken by automated means without human intervention.
@@ -741,9 +741,9 @@ GB · established · [uk-gdpr] · The rule here is not the Union's. A decision i
 ### BA008 · Deployment of an algorithmic system in employment {#ba008}
 What it is: The introduction of a system of that class in a setting in which the people it reaches are workers.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-01
 
-EU · established · [ai-act] [digital-omnibus-ai] · The system falls in the high-risk category on the ground of where it is deployed rather than of what it does, and the representatives have to be told before it is put into use.
+EU · established · [ai-act] [digital-omnibus-ai] · What puts a system in the high-risk category is the purpose it is intended for and not the place it runs in: making decisions on the terms of a work relationship, allocating tasks on individual behavior or personal traits, or monitoring and evaluating the performance and behavior of the people in it. The representatives and the workers concerned have to be told before it is put into use.
 AT · established · [at-arbvg-96] · A system for the automated collection, processing, and transmission of a worker's personal data beyond general particulars and qualifications needs the works council's consent, unless what is done with the data goes no further than obligations arising from statute, collective norms, or the contract.
 
 ### BA009 · Model validation and bias testing {#ba009}

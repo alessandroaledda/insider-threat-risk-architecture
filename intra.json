@@ -768,14 +768,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "GV011/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Workers’ representatives have to be told before a high-risk system is put into use. The duty applies from 2 December 2027 for the Annex III categories.",
+       "requirement": "Before a high-risk system is put into service or used at the workplace, the employer deploying it has to inform the workers’ representatives and the affected workers that they will be subject to it. The duty applies from 2 December 2027 for the Annex III categories.",
        "sources": [
         {
          "anchor": "ai-act",
@@ -4250,14 +4250,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-31",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "MD012/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The engine falls in the high-risk category, which brings the full set of obligations, and none of that settles whether the detection method is lawful under data protection or employment law.",
+       "requirement": "Whether the engine falls in the high-risk category turns on whether it is intended to monitor and evaluate the performance and behavior of the people it watches. Where it does, the full set of obligations follows, and none of that settles whether the detection method is lawful under data protection or employment law.",
        "sources": [
         {
          "anchor": "ai-act",
@@ -5539,14 +5539,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "BA006/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "Inferring emotion at work is prohibited outright, with narrow exceptions for medical and safety purposes.",
+       "requirement": "Putting on the market, putting into service, or using an AI system to infer the emotions of a person in the workplace is prohibited, unless the system is intended for medical or safety reasons.",
        "sources": [
         {
          "anchor": "ai-act",
@@ -5622,14 +5622,14 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "BA008/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "The system falls in the high-risk category on the ground of where it is deployed rather than of what it does, and the representatives have to be told before it is put into use.",
+       "requirement": "What puts a system in the high-risk category is the purpose it is intended for and not the place it runs in: making decisions on the terms of a work relationship, allocating tasks on individual behavior or personal traits, or monitoring and evaluating the performance and behavior of the people in it. The representatives and the workers concerned have to be told before it is put into use.",
        "sources": [
         {
          "anchor": "ai-act",
