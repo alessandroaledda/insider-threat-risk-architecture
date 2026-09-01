@@ -8,8 +8,8 @@
  "canonical": "https://alessandroaledda.com/intra/",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "license_name": "CC BY 4.0",
- "version": "2026-08-30",
- "reviewed": "2026-08-30",
+ "version": "2026-09-01",
+ "reviewed": "2026-09-01",
  "jurisdictions": [
   {
    "code": "EU",
@@ -1718,7 +1718,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-08-31",
      "cells": [
       {
        "id": "",
@@ -1996,7 +1996,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-08-31",
      "cells": [
       {
        "id": "DP002/EU",
@@ -2534,7 +2534,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-01",
      "cells": [
       {
        "id": "DP009/EU",
@@ -4250,7 +4250,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-08-31",
      "cells": [
       {
        "id": "MD012/EU",
@@ -5084,7 +5084,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-08-31",
      "cells": [
       {
        "id": "MD018/CoE",
@@ -5410,7 +5410,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-08-31",
      "cells": [
       {
        "id": "",
@@ -6486,7 +6486,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-08-31",
      "cells": [
       {
        "id": "IR006/EU",
@@ -6724,7 +6724,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-08-31",
      "cells": [
       {
        "id": "CP001/AT",
