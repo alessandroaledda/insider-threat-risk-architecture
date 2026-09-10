@@ -22,7 +22,7 @@ Every row states its standing, and the standing is not a judgment about the row.
 - [mandatory] where the source is an instrument that binds in that jurisdiction.
 - [recommended] where it is a standard or a guidance document.
 - [reported] where it is research.
-The standing is taken from the kind of the source, not decided row by row, and where a row rests on more than one the strongest governs. Nothing here weighs an obligation against a recommendation or records one as the other. A binding row is a mandatory one, and it is the only kind that carries a control identifier, since a standard and a study are cited by their own reference.
+The standing is taken from the kind of the source, not decided row by row, and where a row rests on more than one the strongest governs, because the mark says how hard a row binds, and a statute is not made softer by the guidance cited beside it. ITER's mark says how far a row can be trusted, and there the weakest governs. Nothing here weighs an obligation against a recommendation or records one as the other. A binding row is a mandatory one, and it is the only kind that carries a control identifier, since a standard and a study are cited by their own reference.
 
 Everything here is written in two files, and both are [b:public].
 The framework and the library are kept as markdown in a repository, under a license that lets anyone use them, change them, and build on them as long as they credit them. The data the site reads is generated from those two files, so a correction goes to the markdown and never to the JSON. What the repository holds is what this page is built from rather than a copy of it, and anyone who thinks a control is formulated wrongly, or knows a source that belongs here, can open the question there.
@@ -896,7 +896,8 @@ DE · established · [bsi-grundschutz] · The interfaces between ordinary fault 
 ### IR006 · Notification to a supervisory authority {#ir006}
 What it is: The reporting of the incident, or of its handling, to an authority outside the organization.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-10
+ITER: T1, T2, T3, T4, T5
 EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, communication plans and procedures are established with the incident response teams or, where applicable, the competent authorities, for the notification of an incident.
 IT · established · [acn-379907] · For a subject in the national NIS register, the plan carries the procedures for preparing and sending the reports the NIS decree requires, and it names the contacts through which an incident is reported. Notification runs to CSIRT Italia.
 CZ · established · [holoska-doucek] · It falls to the legal function to state where an incident has to be reported to a public authority, and where personal data have been lost the supervisory authority is to be told without undue delay.
@@ -904,7 +905,8 @@ CZ · established · [holoska-doucek] · It falls to the legal function to state
 ### IR007 · Notification to affected persons {#ir007}
 What it is: The telling of the people whose data or whose position the incident affected.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-10
+ITER: T1, T3, T4, T5
 IT · established · [acn-379907] · Procedures are documented for telling the recipients of a service, without unjustified delay, of a significant incident that may bear adversely on the provision of that service, and for telling those exposed to a significant threat what its nature is and what they can do about it. Separate procedures cover informing the public where the agency orders it.
 
 ### IR008 · Escalation to crisis management {#ir008}
