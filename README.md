@@ -48,6 +48,8 @@ This repository is where they are written.
 
 ## The rules the record is kept by
 
+The method both records are kept by is written once, at <https://alessandroaledda.com/method/>.
+
 - Only European sources. American material is not listed, by choice rather
   than by oversight: that part of the record is gathered already, and what is
   collected here can be used in a European organization without first
