@@ -8,8 +8,8 @@
  "canonical": "https://alessandroaledda.com/intra/",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "license_name": "CC BY 4.0",
- "version": "2026-09-01",
- "reviewed": "2026-09-01",
+ "version": "2026-09-20",
+ "reviewed": "2026-09-20",
  "jurisdictions": [
   {
    "code": "EU",
@@ -434,7 +434,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "GV007/EU",
@@ -520,6 +520,27 @@
          "title": "Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale",
          "establishes": "When an employer may look into a work mailbox or a worker's personal areas on its equipment, that monitoring of internet use is outside what it may do at all, and that the regulation cannot be contracted around.",
          "url": "https://alessandroaledda.com/intra/sources/#no-innsyn-epost"
+        }
+       ]
+      },
+      {
+       "id": "GV007/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "The purposes, the scope and the manner in which monitoring is applied are set in the collective agreement or in the work regulations, or in an announcement where the employer is bound by neither. The code names the instrument the record is kept in, and names the same one for image recording, for electronic mail, and for every other form of monitoring.",
+       "sources": [
+        {
+         "anchor": "pl-kp-222",
+         "title": "Kodeks pracy, article 22(2)",
+         "establishes": "That image recording at work is open for four purposes only, one of them keeping secret information whose disclosure could harm the employer, that its purposes, scope and manner are fixed in the collective agreement, the work regulations or an announcement, that it is notified two weeks before it starts and handed to each worker before they are admitted to work, and that recordings are kept three months.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
+        },
+        {
+         "anchor": "pl-kp-223",
+         "title": "Kodeks pracy, article 22(3)",
+         "establishes": "That monitoring of a worker's official electronic mail is open only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided, that it may not violate the secrecy of correspondence, and that the same provisions, and with them the procedure of article 22(2), reach every other form of monitoring used for those purposes.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
         }
        ]
       }
@@ -620,7 +641,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "GV010/FR",
@@ -754,6 +775,21 @@
          "title": "Employment practices and data protection: monitoring workers",
          "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
+        }
+       ]
+      },
+      {
+       "id": "GV010/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "Rooms made available to the workplace trade union organisation are outside the reach of image recording. Monitoring a sanitary room requires the prior consent of that organisation or, where none operates at the employer, of employee representatives chosen in the manner that employer adopts. What is required there is consent, not consultation, and it is obtained before the monitoring starts.",
+       "sources": [
+        {
+         "anchor": "pl-kp-222",
+         "title": "Kodeks pracy, article 22(2)",
+         "establishes": "That image recording at work is open for four purposes only, one of them keeping secret information whose disclosure could harm the employer, that its purposes, scope and manner are fixed in the collective agreement, the work regulations or an announcement, that it is notified two weeks before it starts and handed to each worker before they are admitted to work, and that recordings are kept three months.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
         }
        ]
       }
@@ -1433,7 +1469,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "",
@@ -1477,6 +1513,27 @@
          "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
          "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
          "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
+      },
+      {
+       "id": "PS006/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "Before admitting a worker to work, the employer hands them, on paper or electronically, the purposes, the scope and the manner in which monitoring is applied. The obligation attaches to the start of the individual relationship and stands separately from the notice owed to the workforce when monitoring is introduced.",
+       "sources": [
+        {
+         "anchor": "pl-kp-222",
+         "title": "Kodeks pracy, article 22(2)",
+         "establishes": "That image recording at work is open for four purposes only, one of them keeping secret information whose disclosure could harm the employer, that its purposes, scope and manner are fixed in the collective agreement, the work regulations or an announcement, that it is notified two weeks before it starts and handed to each worker before they are admitted to work, and that recordings are kept three months.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
+        },
+        {
+         "anchor": "pl-kp-223",
+         "title": "Kodeks pracy, article 22(3)",
+         "establishes": "That monitoring of a worker's official electronic mail is open only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided, that it may not violate the secrecy of correspondence, and that the same provisions, and with them the procedure of article 22(2), reach every other form of monitoring used for those purposes.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
         }
        ]
       }
@@ -2322,7 +2379,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "DP007/EU",
@@ -2447,6 +2504,21 @@
          "title": "Arbeitsverfassungsgesetz, sections 96 and 96a",
          "establishes": "That a control measure touching human dignity has no legal effect without the works council's consent, and that consent for automated processing and for assessment systems can be replaced by a conciliation board while consent under section 96 cannot.",
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
+        }
+       ]
+      },
+      {
+       "id": "DP007/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "A capability inspecting content is a form of monitoring other than electronic mail, and the code carries to it the procedural regime of article 22(2) where its use is necessary for the purposes article 22(3) states. Those purposes are working time and the proper use of work tools. Keeping secret information whose disclosure could harm the employer is stated in the code as a purpose of image recording, and is not among the purposes stated for any other form.",
+       "sources": [
+        {
+         "anchor": "pl-kp-223",
+         "title": "Kodeks pracy, article 22(3)",
+         "establishes": "That monitoring of a worker's official electronic mail is open only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided, that it may not violate the secrecy of correspondence, and that the same provisions, and with them the procedure of article 22(2), reach every other form of monitoring used for those purposes.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
         }
        ]
       }
@@ -2675,7 +2747,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "DP012/NO",
@@ -2749,6 +2821,21 @@
          "title": "Employment practices and data protection: monitoring workers",
          "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
+        }
+       ]
+      },
+      {
+       "id": "DP012/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "Image recordings are processed only for the purposes for which they were collected and kept no longer than three months from the day of recording. After that period those containing personal data are destroyed, unless separate provisions say otherwise.",
+       "sources": [
+        {
+         "anchor": "pl-kp-222",
+         "title": "Kodeks pracy, article 22(2)",
+         "establishes": "That image recording at work is open for four purposes only, one of them keeping secret information whose disclosure could harm the employer, that its purposes, scope and manner are fixed in the collective agreement, the work regulations or an announcement, that it is notified two weeks before it starts and handed to each worker before they are admitted to work, and that recordings are kept three months.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
         }
        ]
       }
@@ -3312,7 +3399,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "MD004/EU",
@@ -3469,6 +3556,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
+      },
+      {
+       "id": "MD004/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "An agent recording what is done on a workstation is a form of monitoring other than electronic mail, and article 22(3)(4) carries to it the provisions governing that monitoring, and with them the procedural regime of article 22(2). Its purposes, scope and manner are therefore set in the collective agreement or the work regulations, notified two weeks before it starts, and handed to each worker before they are admitted to work.",
+       "sources": [
+        {
+         "anchor": "pl-kp-223",
+         "title": "Kodeks pracy, article 22(3)",
+         "establishes": "That monitoring of a worker's official electronic mail is open only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided, that it may not violate the secrecy of correspondence, and that the same provisions, and with them the procedure of article 22(2), reach every other form of monitoring used for those purposes.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
+        }
+       ]
       }
      ]
     },
@@ -3481,7 +3583,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "MD005/EU",
@@ -3674,6 +3776,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
         }
        ]
+      },
+      {
+       "id": "MD005/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "Inspection of traffic leaving the organization is a form of monitoring other than electronic mail, and the code carries to it the same provisions and the same procedural regime. The condition attached is the purpose: article 22(3) extends to another form of monitoring where its use is necessary to an organisation of work permitting full use of working time or to the proper use of the work tools provided.",
+       "sources": [
+        {
+         "anchor": "pl-kp-223",
+         "title": "Kodeks pracy, article 22(3)",
+         "establishes": "That monitoring of a worker's official electronic mail is open only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided, that it may not violate the secrecy of correspondence, and that the same provisions, and with them the procedure of article 22(2), reach every other form of monitoring used for those purposes.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
+        }
+       ]
       }
      ]
     },
@@ -3686,7 +3803,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "MD006/EU",
@@ -3856,6 +3973,21 @@
          "title": "Investigatory Powers (Interception by Businesses etc. for Monitoring and Record-Keeping Purposes) Regulations 2018",
          "establishes": "The closed list of purposes for which an employer may intercept communications on its own system, and the four conditions on doing it, of which one is telling everyone who may use the system.",
          "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
+        }
+       ]
+      },
+      {
+       "id": "MD006/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "Monitoring of a worker’s official electronic mail is open to the employer only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided. Those two purposes are the whole list, and neither of them is the protection of information. The monitoring may not violate the secrecy of correspondence or the worker’s other personal rights.",
+       "sources": [
+        {
+         "anchor": "pl-kp-223",
+         "title": "Kodeks pracy, article 22(3)",
+         "establishes": "That monitoring of a worker's official electronic mail is open only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided, that it may not violate the secrecy of correspondence, and that the same provisions, and with them the procedure of article 22(2), reach every other form of monitoring used for those purposes.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
         }
        ]
       }
@@ -4603,7 +4735,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "MD014/EU",
@@ -4743,6 +4875,21 @@
          "title": "Arbeitsverfassungsgesetz, sections 96 and 96a",
          "establishes": "That a control measure touching human dignity has no legal effect without the works council's consent, and that consent for automated processing and for assessment systems can be replaced by a conciliation board while consent under section 96 cannot.",
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
+        }
+       ]
+      },
+      {
+       "id": "MD014/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "Special supervision of the workplace, or of the area around it, by technical means recording images is open to the employer for four purposes and no others: the safety of workers, the protection of property, the control of production, and keeping secret information whose disclosure could expose the employer to harm. Sanitary rooms, changing rooms, canteens and smoking rooms are outside it unless it is indispensable for one of those purposes and will not violate the dignity or other personal rights of the worker, in particular through techniques preventing those present from being recognised.",
+       "sources": [
+        {
+         "anchor": "pl-kp-222",
+         "title": "Kodeks pracy, article 22(2)",
+         "establishes": "That image recording at work is open for four purposes only, one of them keeping secret information whose disclosure could harm the employer, that its purposes, scope and manner are fixed in the collective agreement, the work regulations or an announcement, that it is notified two weeks before it starts and handed to each worker before they are admitted to work, and that recordings are kept three months.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
         }
        ]
       }
@@ -6053,7 +6200,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "",
@@ -6082,6 +6229,21 @@
          "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
          "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
          "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
+      },
+      {
+       "id": "IV007/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "Where image recordings are evidence in proceedings conducted under the law, or the employer has learnt that they may be, the three-month period runs on until the proceedings are finally concluded. The extension follows from the material being evidence and is not a decision the employer takes about retention.",
+       "sources": [
+        {
+         "anchor": "pl-kp-222",
+         "title": "Kodeks pracy, article 22(2)",
+         "establishes": "That image recording at work is open for four purposes only, one of them keeping secret information whose disclosure could harm the employer, that its purposes, scope and manner are fixed in the collective agreement, the work regulations or an announcement, that it is notified two weeks before it starts and handed to each worker before they are admitted to work, and that recordings are kept three months.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
         }
        ]
       }
@@ -7100,7 +7262,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-20",
      "cells": [
       {
        "id": "AW002/FI",
@@ -7204,6 +7366,27 @@
          "title": "Employment practices and data protection: monitoring workers",
          "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
+        }
+       ]
+      },
+      {
+       "id": "AW002/PL",
+       "standing": "mandatory",
+       "jurisdiction": "PL",
+       "state": "established",
+       "requirement": "Workers are informed of the introduction of monitoring, in the manner the employer adopts, no later than two weeks before it starts, and the monitored rooms and area are marked visibly and legibly by signs or audible announcements no later than one day before. The code states that the marking does not displace articles 12 and 13 of the General Data Protection Regulation.",
+       "sources": [
+        {
+         "anchor": "pl-kp-222",
+         "title": "Kodeks pracy, article 22(2)",
+         "establishes": "That image recording at work is open for four purposes only, one of them keeping secret information whose disclosure could harm the employer, that its purposes, scope and manner are fixed in the collective agreement, the work regulations or an announcement, that it is notified two weeks before it starts and handed to each worker before they are admitted to work, and that recordings are kept three months.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
+        },
+        {
+         "anchor": "pl-kp-223",
+         "title": "Kodeks pracy, article 22(3)",
+         "establishes": "That monitoring of a worker's official electronic mail is open only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided, that it may not violate the secrecy of correspondence, and that the same provisions, and with them the procedure of article 22(2), reach every other form of monitoring used for those purposes.",
+         "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
         }
        ]
       }
@@ -7415,7 +7598,7 @@
   }
  ],
  "counts": {
-  "established": 370,
+  "established": 381,
   "not covered": 0,
   "unread": 0,
   "open": 0

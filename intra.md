@@ -1,7 +1,7 @@
 ---
 title: Insider Threat and Risk Architecture
 subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
-reviewed: 2026-09-01
+reviewed: 2026-09-20
 contributors: Jiří Hološka · https://www.linkedin.com/in/holoska/ · Ph.D., Insider Threat and Incident Response Manager, University Lecturer · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball · https://www.linkedin.com/in/simon-ball-itl/ · Founder and Director, Insider Threat Limited · MD018 · Pointed out that MD018 could be read as a capability rather than an exception. Its definition now states that the prior suspicion is what permits the observation, not what it is for.; Benedetto Paolucci · https://www.linkedin.com/in/benedetto-paolucci-cipp-e-998416260/ · Security and Loss Prevention Manager, Data protection expert CIPP/E · PS001,PS002,PS003,PS004,MD013,DP016 · Pointed at Directive 2022/2557 and at the Board's guidance on securing personal data, and asked where the record governs physical access rather than watching it. DP016 exists because it did not.
 ---
 
@@ -25,7 +25,7 @@ Every row states its standing, and the standing is not a judgment about the row.
 The standing is taken from the kind of the source, not decided row by row, and where a row rests on more than one the strongest governs, because the mark says how hard a row binds, and a statute is not made softer by the guidance cited beside it. ITER's mark says how far a row can be trusted, and there the weakest governs. Nothing here weighs an obligation against a recommendation or records one as the other. A binding row is a mandatory one, and it is the only kind that carries a control identifier, since a standard and a study are cited by their own reference.
 
 Everything here is written in two files, and both are [b:public].
-The framework and the library are kept as markdown in a repository, under a license that lets anyone use them, change them, and build on them as long as they credit them. The data the site reads is generated from those two files, so a correction goes to the markdown and never to the JSON. What the repository holds is what this page is built from rather than a copy of it, and anyone who thinks a control is formulated wrongly, or knows a source that belongs here, can open the question there.
+The framework and the library are kept as markdown in a repository, under a license that lets anyone use them, change them, and build on them as long as they credit them. The data the site reads is generated from those two files, so a correction goes to the markdown and never to the JSON. What the repository holds is what this page is built from rather than a copy of it, and anyone who thinks a control is formulated wrongly, or knows a source that belongs here, can open the question there. The method both records are kept by is [written once](/method/).
 
 Part of what INTRA maps does not exist. There is no European insider symposium: the reference event in the field is American, in its eleventh edition. There is no European professional body for the discipline. There is no program standard at Union level, the only thematic report from the Union agency dating from 2020 and the only program development manual from 2019. INTRA records those absences the way it records a jurisdiction that has said nothing.
 
@@ -79,13 +79,14 @@ NL · established · [nl-bio2] · The monitoring process in the security operati
 ### GV007 · Lawful basis register {#gv007}
 What it is: The record naming, for each stream of data the program collects and each use it puts that data to, the ground it rests on and the condition the jurisdiction attaches to that ground. Written before the collection starts, and held in a form that can be shown rather than asserted.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-20
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be recorded for each stream the program collects, before it collects it, and the register has to survive the article 5(2) test of being shown rather than asserted.
 DE · established · [bag-workday] · The national employment provision cannot carry the register on its own: the ground recorded has to be one that stands under article 6 itself, the employer's legitimate interests among them.
 FI · established · [fi-privacy-working-life] · Only data directly necessary for the employment relationship may be processed, and no exception to that test can be made even with the employee's consent.
 BE · established · [be-cct-81] · Four purposes are listed and the list is closed: unlawful or defamatory acts, the confidential economic interests of the undertaking, the security and technical functioning of its systems, and good faith observance of the rules it has set for using the technology.
 NO · established · [no-aml-kontroll] [no-innsyn-epost] · A control measure rests on objective grounds in the circumstances of the undertaking and must not be a disproportionate burden on the person subject to it. No instruction and no agreement may depart from that to the worker's detriment, so an agreement cannot be the ground for reaching further.
+PL · established · [pl-kp-222] [pl-kp-223] · The purposes, the scope and the manner in which monitoring is applied are set in the collective agreement or in the work regulations, or in an announcement where the employer is bound by neither. The code names the instrument the record is kept in, and names the same one for image recording, for electronic mail, and for every other form of monitoring.
 
 ### GV008 · Impact assessment before deployment {#gv008}
 What it is: The written assessment, made before a measure operates and kept afterwards, of what it will do to the people subject to it: what it will collect about them, what may follow from what it collects, and what they can do about either. It is a document, and its absence is a finding on its own.
@@ -107,7 +108,7 @@ EU · established · [gdpr] · The controller has to be responsible for the prin
 ### GV010 · Worker representative engagement {#gv010}
 What it is: The involvement of the body representing the workforce in the design of the program, as distinct from any instrument deployed under it.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-20
 
 FR · established · [code-travail-controle] · The body brought in is the social and economic committee, informed and consulted before the decision, and informed again before automated personnel management processing is introduced.
 DE · established · [betrvg-87] · The body brought in is the works council, and its role is co-determination rather than consultation: the employer cannot proceed over its objection.
@@ -118,6 +119,7 @@ BE · established · [be-cct-81] · The works council is informed on every aspec
 NO · established · [no-aml-kontroll] · The need for the measure, its design, its implementation, and any material change to it are discussed with the elected representatives as early as possible.
 AT · established · [at-arbvg-96] · The works council does not consent to a control measure as a step before it, but as the condition of its legal effect. What brings a measure inside the requirement is whether it touches human dignity.
 GB · established · [ico-monitoring] · The views of the workforce or its representatives should be sought and documented before monitoring is introduced, unless there is a good reason not to, and where the decision is not to, that decision should be recorded with a clear explanation. It should be done early in the planning and as part of the impact assessment.
+PL · established · [pl-kp-222] · Rooms made available to the workplace trade union organisation are outside the reach of image recording. Monitoring a sanitary room requires the prior consent of that organisation or, where none operates at the employer, of employee representatives chosen in the manner that employer adopts. What is required there is consent, not consultation, and it is obtained before the monitoring starts.
 
 ### GV011 · Notice before an algorithmic system is deployed {#gv011}
 What it is: Notice that a system of a named class is about to be put into use, owed to the representatives of the workforce and to the workers themselves. It falls due by reason of what the system is, so it is owed even where the representatives hold no right to be consulted, and even where they have already been consulted about the same system.
@@ -211,10 +213,11 @@ ES · established · [es-ens] · Where staff are contracted through a third part
 ### PS006 · Onboarding security briefing {#ps006}
 What it is: What a person is told at the point of joining: what is observed about them and why, what is expected of them, what they are to report and to whom, and what follows from a breach. Recorded as having been given, since it is relied on afterwards.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-20
 DE · established · [bsi-grundschutz] · At the start of the employment the person is informed of the rules, the instructions, and the procedures that exist, and a checklist and a named contact should be set up to carry it. Every employee is obliged to keep to the law and to the internal rules, has to know the legal frame of their own work, and has their tasks and responsibilities documented. They are told that what they receive at work is for internal use only, and made aware that they protect the organization's information security outside working hours and away from its premises as well.
 ES · established · [es-ens] · Each person working on the system is informed of the duties and responsibilities their post carries: the disciplinary measures that may follow, what is owed during the post and what is owed on its ending or on a move to another, and the duty of confidentiality over the data they reach, both while they hold the post and afterwards. Above the basic category, express confirmation that the person knows the security instructions and accepts them has to be obtained.
 NL · established · [nl-bio2] · Everyone, internal and external, is pointed to their responsibilities for information security on appointment or on a change of function, and the rules and instructions that apply to them are to be simple to reach.
+PL · established · [pl-kp-222] [pl-kp-223] · Before admitting a worker to work, the employer hands them, on paper or electronically, the purposes, the scope and the manner in which monitoring is applied. The obligation attaches to the start of the individual relationship and stands separately from the notice owed to the workforce when monitoring is introduced.
 
 ### PS007 · Role change and internal transfer {#ps007}
 What it is: The reassessment of what a person holds and owes when they move within the organization, including the withdrawal of what the previous role needed. Without the withdrawal, access accrues across a career and the person ends up reaching everywhere they have ever been.
@@ -336,7 +339,7 @@ NL · established · [nl-bio2] · Every access right that has been issued is ass
 ### DP007 · Data loss prevention deployment {#dp007}
 What it is: The introduction of a capability that inspects content in motion, at rest, or in use, and acts on it against a policy.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-20
 Also: DLP
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the loss prevention capability, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
@@ -347,6 +350,7 @@ IT · established · [statuto-art-4] · An agreement with the union representati
 NL · established · [wor-27] · The works council has to consent before the arrangement bringing the loss prevention capability in is adopted.
 ES · established · [lo-3-2018] · Express prior information to the workers is required before the loss prevention capability is put into operation.
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the loss prevention capability having legal effect, and the threshold is whether it touches human dignity.
+PL · established · [pl-kp-223] · A capability inspecting content is a form of monitoring other than electronic mail, and the code carries to it the procedural regime of article 22(2) where its use is necessary for the purposes article 22(3) states. Those purposes are working time and the proper use of work tools. Keeping secret information whose disclosure could harm the employer is stated in the code as a purpose of image recording, and is not among the purposes stated for any other form.
 
 ### DP008 · Data loss prevention policy and tuning {#dp008}
 What it is: The rules the capability enforces, the thresholds at which it acts, and their revision against what it turned out to catch. Distinct from its deployment because the two are settled separately: in several jurisdictions the workforce is consulted once on bringing the capability in and again on the manner in which it is used, so changing a threshold reopens the question.
@@ -383,12 +387,13 @@ NO · established · [no-innsyn-epost] · What is left in the mailbox and in the
 ### DP012 · Retention and disposal of program records {#dp012}
 What it is: The period for which the program keeps what it produced rather than what it observed: the alert, the case file, the note, the export, the assessment. Distinct from the retention of the business records the program reads, which the organization sets for its own reasons and the program does not control.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-20
 NO · established · [no-innsyn-epost] · What is opened and proves not to be necessary or relevant to the purpose is closed at once, and any copy of it deleted.
 NO · established · [no-nsm] · The security relevant data are to be used only to safeguard the security of the systems, and kept long enough that unwanted activity can be discovered and mapped after the fact. What weighs on the period is that the data may later be wanted for an investigation, for assessing damage, and for trend analysis, held against the point that they can hold confidential information about the individual employee.
 AT · established · [at-ishb] · Log files hold personal data in many cases, so they may be used only for purposes compatible with the one they were collected for. Where that restriction bites, the handbook says it is resolved by removing the personal data or by anonymizing them, and states that pseudonymizing them is not enough.
 GB · established · [uk-dpa-2018] · The appropriate policy document has to explain the policies on retention and erasure of the data processed under the condition, and to give an indication of how long they are likely to be kept. An indication is what is asked for, not a period.
 GB · established · [ico-monitoring] · What monitoring produces must not be kept longer than is necessary for the purpose. The period should rest on business need and be reviewed regularly, and it should not be kept in case a purpose is found for it later. A retention schedule must exist and what is collected must be deleted in line with it.
+PL · established · [pl-kp-222] · Image recordings are processed only for the purposes for which they were collected and kept no longer than three months from the day of recording. After that period those containing personal data are destroyed, unless separate provisions say otherwise.
 
 ### DP013 · Separation of program data {#dp013}
 What it is: The keeping of the program's own holdings apart from the systems the organization runs its business on, so that a case file is not reachable by whoever can reach the human resources record, and the stated conditions on which something crosses from one to the other.
@@ -467,7 +472,7 @@ GB · established · [uk-monitoring-regs] · Investigating or detecting the unau
 ### MD004 · Endpoint activity monitoring {#md004}
 What it is: The deployment of an agent that records what is done on a workstation or laptop.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-20
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the endpoint agent, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach an agent recording what is done on a device is not decided in it.
@@ -479,11 +484,12 @@ ES · established · [lo-3-2018] · Criteria for use, drawn up with the particip
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the endpoint agent having legal effect, and the threshold is whether it touches human dignity.
 BE · established · [be-cyfun] · Endpoint and network protection tools that monitor the behavior of end users for dangerous activity are to be implemented and to be managed. What they are for is stated without euphemism: detecting risky or suspicious behavior by users on devices and networks, including the misuse of systems and attempts to get around the controls, whether these come from an attacker outside or from an insider.
 GB · established · [ico-monitoring] · Keystroke monitoring is named as an example of processing likely to cause high risk, so an assessment is owed before the agent is put on the device rather than after.
+PL · established · [pl-kp-223] · An agent recording what is done on a workstation is a form of monitoring other than electronic mail, and article 22(3)(4) carries to it the provisions governing that monitoring, and with them the procedural regime of article 22(2). Its purposes, scope and manner are therefore set in the collective agreement or the work regulations, notified two weeks before it starts, and handed to each worker before they are admitted to work.
 
 ### MD005 · Network and egress monitoring {#md005}
 What it is: The inspection of traffic leaving the organization's control for volume, destination, or content.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-20
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the traffic inspection, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach the inspection of traffic is not decided in it.
@@ -497,11 +503,12 @@ NO · established · [no-innsyn-epost] · Monitoring a worker's use of electroni
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the traffic inspection having legal effect, and the threshold is whether it touches human dignity.
 DE · established · [bsi-grundschutz] · Proxies that break the encrypted connection should be placed at the boundary to external networks so that what passes can be examined, they are themselves protected from unauthorized access, and security relevant events on them are detected automatically. An organizational rule is to be drawn up stating the data protection conditions under which the log data may be evaluated by hand.
 GB · established · [uk-monitoring-regs] · Inspection that amounts to interception in the course of transmission is authorized only on the express consent of the system controller, only for a purpose in the list, and only where it is effected solely to monitor or record communications relevant to the activities carried on and the system is provided wholly or partly in connection with them.
+PL · established · [pl-kp-223] · Inspection of traffic leaving the organization is a form of monitoring other than electronic mail, and the code carries to it the same provisions and the same procedural regime. The condition attached is the purpose: article 22(3) extends to another form of monitoring where its use is necessary to an organisation of work permitting full use of working time or to the proper use of the work tools provided.
 
 ### MD006 · Electronic mail and collaboration monitoring {#md006}
 What it is: The recording of what passes through the organization's messaging and collaboration platforms.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-20
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the recording of the messaging platform, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case was decided on that monitoring itself: the employer read the content of a worker's messaging account.
@@ -514,6 +521,7 @@ FI · established · [fi-privacy-working-life] · Retrieval of messages belongin
 NO · established · [no-innsyn-epost] · The mailbox provided for the work is reached only where it is necessary for daily operations or another legitimate interest, or on reasonable suspicion of a gross breach of the duties of the employment or of grounds for dismissal. The same holds for what was deleted from it and survives on a backup.
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the recording of the messaging platform having legal effect, and the threshold is whether it touches human dignity.
 GB · established · [uk-monitoring-regs] · Recording what passes through the employer's own messaging system is interception in the course of transmission. It is authorized on the express consent of the system controller, for a purpose in the closed list, and on four conditions, of which the third is that the system controller has made all reasonable efforts to inform every person who may use the system that communications transmitted by it may be intercepted.
+PL · established · [pl-kp-223] · Monitoring of a worker's official electronic mail is open to the employer only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided. Those two purposes are the whole list, and neither of them is the protection of information. The monitoring may not violate the secrecy of correspondence or the worker's other personal rights.
 
 ### MD007 · Retention of communications metadata {#md007}
 What it is: The retention of the transmission data of a message: its parties, times, size, and routing.
@@ -600,7 +608,7 @@ EU · established · [edpb-secure] · Where access to a room holding material wh
 ### MD014 · Video surveillance of the workplace {#md014}
 What it is: The recording of images of places in which work is carried out.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-20
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the cameras, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [lopez-ribalda] · Cameras without notice have survived where a specific suspicion came first and the scope and duration were held tight. The criteria are weighed, not counted.
@@ -611,6 +619,7 @@ NL · established · [wor-27] · The works council has to consent before any arr
 ES · established · [lo-3-2018] · Camera images may be processed for the control functions in article 20.3, on condition of express prior information to the workers and their representatives.
 FI · established · [fi-privacy-working-life] · Cameras are for the security of persons, the protection of property, and the supervision of production, and may not be aimed at a particular employee outside three named cases, nor placed in lavatories, changing rooms, or rooms set aside for personal use. Less intrusive means are examined first, and a notice is displayed where the cameras are.
 AT · established · [at-arbvg-96] · The works council's consent is the condition of the cameras having legal effect, and the threshold is whether they touch human dignity.
+PL · established · [pl-kp-222] · Special supervision of the workplace, or of the area around it, by technical means recording images is open to the employer for four purposes and no others: the safety of workers, the protection of property, the control of production, and keeping secret information whose disclosure could expose the employer to harm. Sanitary rooms, changing rooms, canteens and smoking rooms are outside it unless it is indispensable for one of those purposes and will not violate the dignity or other personal rights of the worker, in particular through techniques preventing those present from being recognised.
 
 ### MD015 · Geolocation of vehicles and devices {#md015}
 What it is: The recording of the position of a vehicle or device issued to a worker.
@@ -814,9 +823,10 @@ BE · established · [be-cyfun] · Everyone involved in the response records wha
 ### IV007 · Legal hold and preservation {#iv007}
 What it is: The suspension of ordinary deletion over material bearing on a matter under examination.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-20
 DE · established · [bsi-grundschutz] · It should be settled in advance which secondary data, log data and traffic captures among them, are held against a possible securing of evidence, in what way, and for how long within what the law allows.
 NL · established · [nl-bio2] · An incident and everything needed to analyze and resolve it are kept for at least three years, and what that covers is named: the logging, the resolution, and the advice given.
+PL · established · [pl-kp-222] · Where image recordings are evidence in proceedings conducted under the law, or the employer has learnt that they may be, the three-month period runs on until the proceedings are finally concluded. The extension follows from the material being evidence and is not a decision the employer takes about retention.
 
 ### IV008 · Use of records held for other purposes {#iv008}
 What it is: The examination, for the purposes of a case, of records the organization holds for unrelated reasons.
@@ -1001,7 +1011,7 @@ BE · established · [be-cyfun] · Insider threat awareness and reporting are to
 ### AW002 · Transparency notice on what is observed {#aw002}
 What it is: The account of the program's reach given to the persons subject to it.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-20
 FI · established · [fi-privacy-working-life] · What the workforce is told after the procedure is the purpose of the monitoring, its introduction, the methods used, and the terms on which electronic mail and the network may be used.
 BE · established · [be-cct-81] · What each worker is told at installation is the monitoring policy, the purposes, whether personal data are kept and where and for how long, whether the monitoring is permanent, and what the employer and the supervising staff may do.
 NO · established · [no-aml-kontroll] · Before the measure starts, those affected are told its purpose, what it will mean in practice, how it will be carried out, and how long it is expected to last.
@@ -1009,6 +1019,7 @@ IT · established · [garante-165-2026] · A backup of the mailboxes described i
 NO · established · [no-nsm] · The workforce is informed of what is collected, what it is to be used for, and how the data are to be handled, and that sits alongside establishing which laws apply and deciding how long the data shall and may be stored.
 GB · established · [uk-monitoring-regs] · The system controller has to have made all reasonable efforts to inform every person who may use the system that communications transmitted by it may be intercepted. Everyone who may use it, not everyone employed, and reasonable efforts rather than acknowledgement.
 GB · established · [ico-monitoring] · Workers must be made aware of how and what personal information is collected. A system could be set up so that they remain aware that monitoring is taking place, through an intranet or signage in the areas it reaches. The privacy information must be kept up to date, and workers must be told when a change is introduced.
+PL · established · [pl-kp-222] [pl-kp-223] · Workers are informed of the introduction of monitoring, in the manner the employer adopts, no later than two weeks before it starts, and the monitored rooms and area are marked visibly and legibly by signs or audible announcements no later than one day before. The code states that the marking does not displace articles 12 and 13 of the General Data Protection Regulation.
 
 ### AW003 · Role-specific training {#aw003}
 What it is: The additional instruction given to managers, privileged users, and the people who run the program.
