@@ -1,7 +1,7 @@
 ---
 title: Insider Threat and Risk Architecture
 subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
-reviewed: 2026-09-20
+reviewed: 2026-09-23
 contributors: Jiří Hološka · https://www.linkedin.com/in/holoska/ · Ph.D., Insider Threat and Incident Response Manager, University Lecturer · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball · https://www.linkedin.com/in/simon-ball-itl/ · Founder and Director, Insider Threat Limited · MD018 · Pointed out that MD018 could be read as a capability rather than an exception. Its definition now states that the prior suspicion is what permits the observation, not what it is for.; Benedetto Paolucci · https://www.linkedin.com/in/benedetto-paolucci-cipp-e-998416260/ · Security and Loss Prevention Manager, Data protection expert CIPP/E · PS001,PS002,PS003,PS004,MD013,DP016 · Pointed at Directive 2022/2557 and at the Board's guidance on securing personal data, and asked where the record governs physical access rather than watching it. DP016 exists because it did not.
 ---
 
@@ -96,7 +96,7 @@ Also: DPIA data protection impact assessment
 
 EU · established · [gdpr] · The assessment has to be completed before the measure operates, not compiled after it, wherever the processing is likely to result in a high risk.
 IT · established · [garante-243-2025] · Its absence is enough on its own: a decision has turned on the missing procedural steps without reaching the purpose the processing served.
-GB · established · [ico-monitoring] · An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider risk management program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a data protection officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker's household, is to be considered in it.
+GB · established · [ico-monitoring] · An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider risk management program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a Data Protection Officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker's household, is to be considered in it.
 
 ### GV009 · Accountability evidence {#gv009}
 What it is: The material by which the program can show how it reached a decision about itself: a threshold set, an instrument chosen, a policy changed. As distinct from asserting that the decision was reached properly, and as distinct from the record of a single case, which the investigation pillar holds.
@@ -451,7 +451,7 @@ FR · established · [fr-anssi] · The critical components are determined first,
 FI · established · [fi-katakri] · The retention follows what the records may later have to answer. At the fourth classification level the essential recordings are kept at least six months; where the limitation periods of the criminal law bear on the information, at least five years, which is also the floor at the two levels above. The clocks within a security domain are synchronized to a single reference, the log files are backed up, a procedure covers their integrity, and they and the register services are protected against unauthorized access.
 NO · established · [no-nsm] · A written strategy for security monitoring settles the purpose and the field of use of what is collected, which data are collected, their secure storage including for legal proceedings, capacity planning, who may reach them, the consolidation of logs from the different units and services, deletion, and the interval at which the strategy is reviewed, at least once a year and after a major incident. What is collected is verified against what was meant to be, the data are archived and digitally signed at intervals for integrity, functionality is put in place that detects attempts to alter or delete a log, everything is synchronized to one and the same time source, and what has lost its operational or security relevance is removed.
 NL · established · [nl-bio2] · There is an overview of the log files that are generated. How long the log files and the data in the security information and event monitoring are kept is settled against the risk, and the scenario it is settled against is named: that the attackers have been inside for a long time. Improper alteration or deletion of log data, and any attempt at it, is reported as soon as it can be.
-AT · established · [at-ishb] · Logging security relevant events works as a security measure only where the data are evaluated at regular intervals by an independent reviewer. Where no independent reviewer can be put in place the administrators may do it, and the handbook states the consequence rather than leaving it: checking the administrators' own activity then becomes hard. The evaluation is to be laid before the data protection officer or the security officer in any case, the responsibility for carrying it out is to be fixed exactly, the four eyes principle should be used in the security critical cases, and it must be ensured by technical or organizational means that the administrators' activities can be adequately checked.
+AT · established · [at-ishb] · Logging security relevant events works as a security measure only where the data are evaluated at regular intervals by an independent reviewer. Where no independent reviewer can be put in place the administrators may do it, and the handbook states the consequence rather than leaving it: checking the administrators' own activity then becomes hard. The evaluation is to be laid before the Data Protection Officer or the security officer in any case, the responsibility for carrying it out is to be fixed exactly, the four eyes principle should be used in the security critical cases, and it must be ensured by technical or organizational means that the administrators' activities can be adequately checked.
 BE · established · [be-cyfun] · The logging functionality of the protection and detection tools is enabled, the logs are backed up and kept for a period fixed in advance, and they are reviewed regularly for unusual or potentially harmful activity, on a documented procedure.
 
 ### MD003 · Detection use case development {#md003}
@@ -838,7 +838,9 @@ IT · established · [garante-107-2026] · Records held by line management are t
 ### IV009 · Interview of the subject {#iv009}
 What it is: The questioning of the person under examination, and the safeguards owed to them during it.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-23
+IT · established · [it-statuto-7] · No disciplinary measure may be adopted without the charge having been put to the person beforehand and the person having been heard in their defence, and the person may be assisted by a representative of the union they belong to or have given a mandate to.
+FR · established · [fr-ct-1332] · Except where the sanction is a warning, the person is summoned to an interview and told its purpose, may be assisted by a person of the undertaking, and at the interview the employer sets out the grounds for the sanction it contemplates and takes the person's explanations.
 
 ### IV010 · Decision record {#iv010}
 What it is: The record of what was examined, on what basis, by whom the decision was taken, and what was concluded.
@@ -947,18 +949,23 @@ Summary: The action taken against a person following a finding, and the basis on
 ### CP001 · Disciplinary action on monitoring evidence {#cp001}
 What it is: Action taken against a person on the basis of what the program observed, short of ending the relationship.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-23
 AT · established · [at-arbvg-96] · A workplace disciplinary code has no legal effect without the works council's consent, so what may follow from what the program observed is settled with the workforce before any case arises.
 EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, a disciplinary process for handling violations of the security policies is established, communicated, and maintained, and it takes the legal, statutory, contractual, and business requirements into account. It is reviewed at planned intervals and when a change in the law calls for it. What may be relied on to establish a violation is not addressed.
 CZ · established · [holoska-doucek] · The final assessment of the examination is made against the organization's own rules and recommendations, and it is from that assessment that disciplinary proceedings follow, where they follow.
+IT · established · [it-statuto-7] · The disciplinary rules, the infractions each sanction attaches to and the procedure for putting a charge are brought to the knowledge of workers by posting them in a place accessible to all, so what may follow from what the program observed is settled before any case arises. Nothing heavier than a verbal reprimand may be applied before five days have passed from the written charge.
+ES · established · [es-et-58] · A sanction rests on the gradation of faults and sanctions set out in the legal provisions or in the applicable collective agreement, and a serious or very serious fault may be sanctioned only by a written communication to the person stating the date and the facts that motivate it. A sanction may not take the form of a cut to rest entitlements or a fine on pay.
+FR · established · [fr-ct-1332] · No sanction may be taken without the grievance being put to the person in writing at the same time, and a faulty act may not on its own found disciplinary proceedings beyond two months from the day the employer came to know of it, unless criminal proceedings were brought within the same period. The term runs from the moment of knowledge and not from the act.
 
 ### CP002 · Termination of employment {#cp002}
 What it is: The ending of the employment relationship on that basis.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-23
 
 CoE · established · [gramaxo] [lopez-ribalda] · Dismissal on geolocation and dismissal after covert cameras have both been examined under article 8 and survived on their facts, which settles the method and not the outcome.
 FI · established · [fi-privacy-working-life] · Recordings may be used to substantiate the grounds for ending an employment relationship, and that use is stated as an exception to the purpose limitation and to the cooperation procedure.
+DE · established · [de-betrvg-102] · The works council is heard before every dismissal and told the grounds for it, and a dismissal pronounced without that hearing is void. What the program has established about a person does not reach the ending of the relationship without passing the council first.
+IT · established · [it-statuto-7] · A disciplinary sanction may not bring a permanent change to the employment relationship, the ending of it being left to the law on individual dismissals, and two years after it was applied a sanction may no longer be taken into account for any purpose.
 
 ### CP003 · Consistency of outcomes {#cp003}
 What it is: The comparison of a proposed outcome against those reached in comparable cases.
@@ -987,11 +994,13 @@ Updated: 2026-08-30
 ### CP007 · Communication of the outcome to the person {#cp007}
 What it is: The telling of the person what was concluded about them.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-23
 
 
 ## AW · Awareness and training {#aw}
 Summary: The instruction of the workforce concerning the program, and the record of it.
+ES · established · [es-et-58] · The sanction of a serious or very serious fault requires a written communication to the person stating the date and the facts that motivate it, and the assessment of the fault and the sanction imposed are always reviewable before the social jurisdiction.
+FR · established · [fr-ct-1332] · The sanction is reasoned and notified to the person, no sooner than two working days and no later than one month after the interview at which the grounds were set out.
 
 ### AW001 · Workforce awareness on insider risk {#aw001}
 What it is: The instruction of the workforce in what the program is, what it asks of them, and what it protects.

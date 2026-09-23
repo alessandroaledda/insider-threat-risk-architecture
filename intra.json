@@ -8,8 +8,8 @@
  "canonical": "https://alessandroaledda.com/intra/",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "license_name": "CC BY 4.0",
- "version": "2026-09-20",
- "reviewed": "2026-09-20",
+ "version": "2026-09-23",
+ "reviewed": "2026-09-23",
  "jurisdictions": [
   {
    "code": "EU",
@@ -592,7 +592,7 @@
        "standing": "recommended",
        "jurisdiction": "GB",
        "state": "established",
-       "requirement": "An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider risk management program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a data protection officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker’s household, is to be considered in it.",
+       "requirement": "An assessment must be carried out before any processing likely to cause high risk, and the examples given reach an insider risk management program directly: the biometric data of workers, keystroke monitoring, monitoring that may result in financial loss, and the use of profiling or special category data to decide on access. Where there is a Data Protection Officer, their independent advice must be sought and recorded. Anyone else the monitoring captures, a customer or a member of a worker’s household, is to be considered in it.",
        "sources": [
         {
          "anchor": "ico-monitoring",
@@ -2789,7 +2789,7 @@
         {
          "anchor": "at-ishb",
          "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
-         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the Data Protection Officer either way.",
          "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
         }
        ]
@@ -2950,7 +2950,7 @@
         {
          "anchor": "at-ishb",
          "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
-         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the Data Protection Officer either way.",
          "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
         }
        ]
@@ -3215,12 +3215,12 @@
        "standing": "recommended",
        "jurisdiction": "AT",
        "state": "established",
-       "requirement": "Logging security relevant events works as a security measure only where the data are evaluated at regular intervals by an independent reviewer. Where no independent reviewer can be put in place the administrators may do it, and the handbook states the consequence rather than leaving it: checking the administrators’ own activity then becomes hard. The evaluation is to be laid before the data protection officer or the security officer in any case, the responsibility for carrying it out is to be fixed exactly, the four eyes principle should be used in the security critical cases, and it must be ensured by technical or organizational means that the administrators’ activities can be adequately checked.",
+       "requirement": "Logging security relevant events works as a security measure only where the data are evaluated at regular intervals by an independent reviewer. Where no independent reviewer can be put in place the administrators may do it, and the handbook states the consequence rather than leaving it: checking the administrators’ own activity then becomes hard. The evaluation is to be laid before the Data Protection Officer or the security officer in any case, the responsibility for carrying it out is to be fixed exactly, the four eyes principle should be used in the security critical cases, and it must be ensured by technical or organizational means that the administrators’ activities can be adequately checked.",
        "sources": [
         {
          "anchor": "at-ishb",
          "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
-         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the Data Protection Officer either way.",
          "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
         }
        ]
@@ -3353,7 +3353,7 @@
         {
          "anchor": "at-ishb",
          "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
-         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the Data Protection Officer either way.",
          "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
         }
        ]
@@ -5954,7 +5954,7 @@
         {
          "anchor": "at-ishb",
          "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
-         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.",
+         "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the Data Protection Officer either way.",
          "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
         }
        ]
@@ -6286,8 +6286,39 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
-     "cells": []
+     "updated": "2026-09-23",
+     "cells": [
+      {
+       "id": "IV009/IT",
+       "standing": "mandatory",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "No disciplinary measure may be adopted without the charge having been put to the person beforehand and the person having been heard in their defence, and the person may be assisted by a representative of the union they belong to or have given a mandate to.",
+       "sources": [
+        {
+         "anchor": "it-statuto-7",
+         "title": "Statuto dei lavoratori, article 7",
+         "establishes": "That the disciplinary rules must be brought to the knowledge of workers by posting them where all can read them, that no measure may be taken before the charge has been put to the person and their defence heard, and that nothing heavier than a verbal reprimand may follow within five days of the written charge.",
+         "url": "https://alessandroaledda.com/intra/sources/#it-statuto-7"
+        }
+       ]
+      },
+      {
+       "id": "IV009/FR",
+       "standing": "mandatory",
+       "jurisdiction": "FR",
+       "state": "established",
+       "requirement": "Except where the sanction is a warning, the person is summoned to an interview and told its purpose, may be assisted by a person of the undertaking, and at the interview the employer sets out the grounds for the sanction it contemplates and takes the person’s explanations.",
+       "sources": [
+        {
+         "anchor": "fr-ct-1332",
+         "title": "Code du travail, articles L1332-1 to L1332-4",
+         "establishes": "That no sanction may be imposed without the grievance being put to the person in writing, that anything beyond a warning requires an interview at which the person may be assisted and a decision that is reasoned and notified, and that a faulty act may not on its own found proceedings more than two months after the day the employer came to know of it.",
+         "url": "https://alessandroaledda.com/intra/sources/#fr-ct-1332"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "IV010",
@@ -6886,7 +6917,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-23",
      "cells": [
       {
        "id": "CP001/AT",
@@ -6932,6 +6963,51 @@
          "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
         }
        ]
+      },
+      {
+       "id": "CP001/IT",
+       "standing": "mandatory",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "The disciplinary rules, the infractions each sanction attaches to and the procedure for putting a charge are brought to the knowledge of workers by posting them in a place accessible to all, so what may follow from what the program observed is settled before any case arises. Nothing heavier than a verbal reprimand may be applied before five days have passed from the written charge.",
+       "sources": [
+        {
+         "anchor": "it-statuto-7",
+         "title": "Statuto dei lavoratori, article 7",
+         "establishes": "That the disciplinary rules must be brought to the knowledge of workers by posting them where all can read them, that no measure may be taken before the charge has been put to the person and their defence heard, and that nothing heavier than a verbal reprimand may follow within five days of the written charge.",
+         "url": "https://alessandroaledda.com/intra/sources/#it-statuto-7"
+        }
+       ]
+      },
+      {
+       "id": "CP001/ES",
+       "standing": "mandatory",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "A sanction rests on the gradation of faults and sanctions set out in the legal provisions or in the applicable collective agreement, and a serious or very serious fault may be sanctioned only by a written communication to the person stating the date and the facts that motivate it. A sanction may not take the form of a cut to rest entitlements or a fine on pay.",
+       "sources": [
+        {
+         "anchor": "es-et-58",
+         "title": "Estatuto de los Trabajadores, article 58",
+         "establishes": "That a sanction rests on the gradation of faults and sanctions set out in law or in the applicable collective agreement, that a serious or very serious fault may be sanctioned only by a written communication stating the date and the facts, and that a sanction may not take the form of a cut to rest entitlements or a fine on pay.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-et-58"
+        }
+       ]
+      },
+      {
+       "id": "CP001/FR",
+       "standing": "mandatory",
+       "jurisdiction": "FR",
+       "state": "established",
+       "requirement": "No sanction may be taken without the grievance being put to the person in writing at the same time, and a faulty act may not on its own found disciplinary proceedings beyond two months from the day the employer came to know of it, unless criminal proceedings were brought within the same period. The term runs from the moment of knowledge and not from the act.",
+       "sources": [
+        {
+         "anchor": "fr-ct-1332",
+         "title": "Code du travail, articles L1332-1 to L1332-4",
+         "establishes": "That no sanction may be imposed without the grievance being put to the person in writing, that anything beyond a warning requires an interview at which the person may be assisted and a decision that is reasoned and notified, and that a faulty act may not on its own found proceedings more than two months after the day the employer came to know of it.",
+         "url": "https://alessandroaledda.com/intra/sources/#fr-ct-1332"
+        }
+       ]
       }
      ]
     },
@@ -6944,7 +7020,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-23",
      "cells": [
       {
        "id": "CP002/CoE",
@@ -6979,6 +7055,36 @@
          "title": "Laki yksityisyyden suojasta työelämässä (759/2004)",
          "establishes": "One act for the whole subject, holding processing to what is directly necessary, naming the conditions for cameras and for opening the employer's electronic mail, and putting technical monitoring through a cooperation procedure before it is introduced.",
          "url": "https://alessandroaledda.com/intra/sources/#fi-privacy-working-life"
+        }
+       ]
+      },
+      {
+       "id": "CP002/DE",
+       "standing": "mandatory",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "The works council is heard before every dismissal and told the grounds for it, and a dismissal pronounced without that hearing is void. What the program has established about a person does not reach the ending of the relationship without passing the council first.",
+       "sources": [
+        {
+         "anchor": "de-betrvg-102",
+         "title": "Betriebsverfassungsgesetz, section 102",
+         "establishes": "That the works council is heard before every dismissal and told the grounds for it, and that a dismissal pronounced without that hearing is void.",
+         "url": "https://alessandroaledda.com/intra/sources/#de-betrvg-102"
+        }
+       ]
+      },
+      {
+       "id": "CP002/IT",
+       "standing": "mandatory",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "A disciplinary sanction may not bring a permanent change to the employment relationship, the ending of it being left to the law on individual dismissals, and two years after it was applied a sanction may no longer be taken into account for any purpose.",
+       "sources": [
+        {
+         "anchor": "it-statuto-7",
+         "title": "Statuto dei lavoratori, article 7",
+         "establishes": "That the disciplinary rules must be brought to the knowledge of workers by posting them where all can read them, that no measure may be taken before the charge has been put to the person and their defence heard, and that nothing heavier than a verbal reprimand may follow within five days of the written charge.",
+         "url": "https://alessandroaledda.com/intra/sources/#it-statuto-7"
         }
        ]
       }
@@ -7088,7 +7194,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-23",
      "cells": []
     }
    ]
@@ -7598,7 +7704,7 @@
   }
  ],
  "counts": {
-  "established": 381,
+  "established": 388,
   "not covered": 0,
   "unread": 0,
   "open": 0

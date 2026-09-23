@@ -1,7 +1,7 @@
 ---
 title: Library
 subtitle: European sources on insider risk, annotated. The whole record is published as data, free to use with attribution.
-reviewed: 2026-08-29
+reviewed: 2026-09-23
 ---
 
 This is a collection of European sources on insider risk. It sets out to cover the relevant open record in full, and each source carries a note saying what it establishes and what it does not cover, so that a reader can place it before opening it. A source qualifies if it is European in origin and if it sets out how a program is built, states a legal constraint on how one may operate, or reports research findings.
@@ -140,7 +140,7 @@ The framework is organized in the five functions of govern, identify, protect, d
 
 ### NSMs grunnprinsipper for IKT-sikkerhet 2.1 {#no-nsm}
 Nasjonal sikkerhetsmyndighet · Norway · 2023
-https://nsm.no/regelverk-og-hjelp/rad-og-anbefalinger/grunnprinsipper-for-ikt-sikkerhet-2-0/
+https://nsm.no/regelverk-og-hjelp/rad-og-anbefalinger/ta-i-bruk-grunnprinsippene/
 Read: 2026-08-29
 Establishes: A set of principles for securing information systems, with the monitoring ones carrying what the collected data may be used for, what employees are to be told about it, and the requirement to verify that the collection is working.
 Status: recommendations and not an act. They are written for any organization, and the authority says which of them are relevant will vary with its size.
@@ -149,7 +149,7 @@ Four groups of principles: identify and map, protect and maintain, detect, and h
 
 ### Guide d'hygiène informatique {#fr-anssi}
 Agence nationale de la sécurité des systèmes d'information · France · September 2017
-https://cyber.gouv.fr/publications/guide-dhygiene-informatique
+https://messervices.cyber.gouv.fr/guides/guide-dhygiene-informatique
 Read: 2026-08-29
 Establishes: Forty two measures at a standard and a reinforced level, among them the joining, leaving, and function change procedures written with the human resources function, and a minimum retention of one year for security critical events.
 Status: a guide and not an act. It is version 2.0 and dates from 2017, which is old for a technical document, and it is still the agency's hygiene guide.
@@ -178,7 +178,7 @@ The criteria are in three subdivisions: security management, which carries the p
 Bundeskanzleramt und A-SIT · Austria · 6 November 2023
 https://www.sicherheitshandbuch.gv.at/downloads/sicherheitshandbuch.pdf
 Read: 2026-08-29
-Establishes: That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the data protection officer either way.
+Establishes: That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the Data Protection Officer either way.
 Status: a handbook and not an act. It is written for organizations and for public administration, and the sections that turn on Austrian law say so where they do.
 
 Over seven hundred pages structured on the information security management standard. Its section on the control of log files is the one place in the record that treats the reading of the logs as a role rather than as a task, names the four eyes principle for the security critical cases, and sets out concrete criteria for what an evaluation looks for. Its section on the legal aspects of mail and internet logs states plainly that the monitoring of a worker's communications is a problem to which there is at present no clear solution, and settles nothing beyond describing where the competing claims lie.
@@ -488,7 +488,7 @@ The administrative supreme court reviewed the fine of 32,000,000 euros that the 
 
 ### Wet op de ondernemingsraden, article 27(1)(l) {#wor-27}
 Staten-Generaal · Netherlands · 28 January 1971, as amended
-https://wetten.overheid.nl/BWBR0002747
+https://wetten.overheid.nl/BWBR0002747/2023-02-18
 Read: 2026-08-16
 Establishes: Consent of the works council for an arrangement directed at or merely suitable for observing presence, conduct, or performance.
 
@@ -496,7 +496,7 @@ The employer needs the consent of the works council for any proposed decision to
 
 ### Laki yksityisyyden suojasta työelämässä (759/2004) {#fi-privacy-working-life}
 Parliament of Finland · Finland · 13 August 2004, amendments up to 347/2019
-https://www.finlex.fi/fi/laki/ajantasa/2004/20040759
+https://www.finlex.fi/fi/lainsaadanto/2004/759
 Read: 2026-08-29
 Establishes: One act for the whole subject, holding processing to what is directly necessary, naming the conditions for cameras and for opening the employer's electronic mail, and putting technical monitoring through a cooperation procedure before it is introduced.
 Status: the English text on Finlex is a ministry translation. The act is binding in Finnish and Swedish.
@@ -553,6 +553,39 @@ Establishes: That monitoring of a worker's official electronic mail is open only
 Status: the address is the page for the announcement of the consolidated text. The text read is the consolidated file the Chancellery of the Sejm maintains from it, marked 18 August 2026.
 
 The article opens monitoring of a worker's official electronic mail, and for two purposes only: an organisation of work permitting full use of working time, and the proper use of the work tools provided to the worker. Neither of them is the protection of information, which the code states as a purpose of image recording alone. The monitoring may not violate the secrecy of correspondence or the worker's other personal rights. Paragraph 3 applies the procedure of article 22(2), paragraphs 6 to 10, to it. Paragraph 4 applies paragraphs 1 to 3, and with them that procedure, to forms of monitoring other than electronic mail where their use is necessary for the same two purposes, so that an instrument a program deploys on an endpoint, on the network, or over content is set in the collective agreement or the work regulations, notified two weeks before it starts, and handed to each worker before they are admitted to work. The condition the code attaches to the extension is its purpose, and the purpose it states is about working time and the use of tools.
+
+### Statuto dei lavoratori, article 7 {#it-statuto-7}
+Parlamento della Repubblica · Italy · 20 May 1970
+https://olympus.uniurb.it/index.php?option=com_content&view=article&id=280%3Alegge-20-maggio-1970-n-300-statuto-dei-lavoratori&catid=5&Itemid=137
+Read: 2026-09-23
+Establishes: That the disciplinary rules must be brought to the knowledge of workers by posting them where all can read them, that no measure may be taken before the charge has been put to the person and their defence heard, and that nothing heavier than a verbal reprimand may follow within five days of the written charge.
+Status: the official consolidated text is on Normattiva, whose interface refuses automated requests; what is linked is the text as the Olympus observatory of the University of Urbino publishes it, the host this record already uses for Italian case law.
+
+Article 7 governs the disciplinary power of the employer. The disciplinary rules, the infractions each sanction attaches to and the procedure for contesting them are brought to the knowledge of workers by posting in a place accessible to all, and they apply what the collective agreements settle where those exist. No disciplinary measure may be adopted without the charge having been put to the person beforehand and the person having been heard in their defence, and the person may be assisted by a representative of the union they belong to or have given a mandate to. A sanction may not bring a permanent change to the employment relationship, a fine may not exceed four hours of base pay, and a suspension from duty and pay may not exceed ten days. Nothing heavier than a verbal reprimand may be applied before five days have passed from the written charge. Two years after it was applied, a sanction may no longer be taken into account for any purpose.
+
+### Betriebsverfassungsgesetz, section 102 {#de-betrvg-102}
+Bundestag · Germany · 15 January 1972, as amended
+https://www.gesetze-im-internet.de/betrvg/__102.html
+Read: 2026-09-23
+Establishes: That the works council is heard before every dismissal and told the grounds for it, and that a dismissal pronounced without that hearing is void.
+
+The first paragraph of section 102 reaches every dismissal: the works council is to be heard beforehand, the employer states the grounds to it, and a dismissal pronounced without the works council having been heard is void. The provision is written of dismissal and not of the examination that precedes one, so what the works council is told about a case is settled elsewhere.
+
+### Code du travail, articles L1332-1 to L1332-4 {#fr-ct-1332}
+République française · France · in force 1 May 2008, article L1332-2 as amended 24 March 2012
+https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177888/
+Read: 2026-09-23
+Establishes: That no sanction may be imposed without the grievance being put to the person in writing, that anything beyond a warning requires an interview at which the person may be assisted and a decision that is reasoned and notified, and that a faulty act may not on its own found proceedings more than two months after the day the employer came to know of it.
+
+Article L1332-1: no sanction may be taken against an employee without the employee being informed, at the same time and in writing, of the grievances held against them. Article L1332-2: except where the sanction is a warning, the employer summons the employee to an interview and states its purpose, the employee may be assisted by a person of the undertaking, the employer sets out the grounds for the sanction it contemplates and takes the employee's explanations, and the sanction is reasoned and notified to the person no sooner than two working days and no later than one month after the interview. Article L1332-4: no faulty act may on its own found disciplinary proceedings beyond a period of two months from the day the employer came to know of it, unless that act gave rise within the same period to criminal proceedings.
+
+### Estatuto de los Trabajadores, article 58 {#es-et-58}
+Real Decreto Legislativo 2/2015 · Spain · 23 October 2015, consolidated text as at 4 December 2025
+https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
+Read: 2026-09-23
+Establishes: That a sanction rests on the gradation of faults and sanctions set out in law or in the applicable collective agreement, that a serious or very serious fault may be sanctioned only by a written communication stating the date and the facts, and that a sanction may not take the form of a cut to rest entitlements or a fine on pay.
+
+Article 58 has three paragraphs. Workers may be sanctioned by the management of the undertaking for breaches of their obligations, according to the gradation of faults and sanctions established in the legal provisions or in the applicable collective agreement. The assessment of the fault and the sanction imposed are always reviewable before the social jurisdiction, and the sanction of serious and very serious faults requires a written communication to the worker stating the date and the facts that motivate it. A sanction may not consist of a reduction in the duration of holidays, of any other diminution of the worker's rest entitlements, or of a fine on pay.
 
 ## Research
 Summary: What has been found, by whom, and with what evidence.
