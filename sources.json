@@ -11,7 +11,7 @@
  "attribution": "Alessandro Aledda, European sources on insider risk, https://alessandroaledda.com",
  "version": "2026-09-23",
  "reviewed": "2026-09-23",
- "count": 77,
+ "count": 76,
  "sections": [
   {
    "title": "Program guidance",
@@ -25,7 +25,7 @@
    "kind": "law",
    "order": "by legal order, from European Union to Council of Europe to national. Within the national law, by country in the order the table below sets out, and within each country by date.",
    "summary": "What constrains it, from the Union and Strasbourg down to nine national orders.",
-   "count": 44
+   "count": 43
   },
   {
    "title": "Research",
@@ -1540,7 +1540,7 @@
   },
   {
    "anchor": "es-et-58",
-   "title": "Estatuto de los Trabajadores, article 58",
+   "title": "Estatuto de los Trabajadores, articles 54, 55, 58 and 60",
    "section": "Law and case law",
    "kind": "law",
    "issuer": "Real Decreto Legislativo 2/2015",
@@ -1550,37 +1550,14 @@
    "date": "2015-10-23",
    "year": "2015",
    "date_note": "consolidated text as at 4 December 2025",
-   "establishes": "That a sanction rests on the gradation of faults and sanctions set out in law or in the applicable collective agreement, that a serious or very serious fault may be sanctioned only by a written communication stating the date and the facts, and that a sanction may not take the form of a cut to rest entitlements or a fine on pay.",
+   "establishes": "That a sanction rests on the gradation of faults set out in law or in the applicable collective agreement and is communicated in writing where the fault is serious, that a dismissal rests on a serious and culpable breach and is notified with the facts and the date it takes effect, that a worker who represents the workforce is heard in a contradictory proceeding first, and that a fault lapses ten, twenty or sixty days after the undertaking came to know of it.",
    "read": "2026-09-23",
    "type": "",
    "binding": "",
    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430",
    "status": "",
    "canonical": "https://alessandroaledda.com/intra/sources/#es-et-58",
-   "annotation": "Article 58 has three paragraphs. Workers may be sanctioned by the management of the undertaking for breaches of their obligations, according to the gradation of faults and sanctions established in the legal provisions or in the applicable collective agreement. The assessment of the fault and the sanction imposed are always reviewable before the social jurisdiction, and the sanction of serious and very serious faults requires a written communication to the worker stating the date and the facts that motivate it. A sanction may not consist of a reduction in the duration of holidays, of any other diminution of the worker’s rest entitlements, or of a fine on pay.",
-   "source_line": "Real Decreto Legislativo 2/2015 · Spain · 23 October 2015, consolidated text as at 4 December 2025",
-   "references": []
-  },
-  {
-   "anchor": "es-et-54",
-   "title": "Estatuto de los Trabajadores, articles 54, 55 and 60",
-   "section": "Law and case law",
-   "kind": "law",
-   "issuer": "Real Decreto Legislativo 2/2015",
-   "jurisdiction": "Spain",
-   "venue": "",
-   "docket": "",
-   "date": "2015-10-23",
-   "year": "2015",
-   "date_note": "consolidated text as at 4 December 2025",
-   "establishes": "That a disciplinary dismissal rests on a serious and culpable breach and is notified in writing with the facts and the date it takes effect, that a worker who represents the workforce is dismissed only after a contradictory proceeding in which they are heard, and that a fault lapses ten, twenty or sixty days after the undertaking came to know of it according to its gravity, and in any case six months after it was committed.",
-   "read": "2026-09-23",
-   "type": "",
-   "binding": "",
-   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430",
-   "status": "",
-   "canonical": "https://alessandroaledda.com/intra/sources/#es-et-54",
-   "annotation": "Article 54 allows the contract to be ended by the employer for a serious and culpable breach, and lists what counts as one, among them indiscipline, the transgression of contractual good faith and the abuse of trust in the performance of the work. Article 55 requires the dismissal to be notified to the worker in writing, stating the facts that motivate it and the date on which it takes effect, and where the worker is a legal representative of the workforce or a union delegate it requires a contradictory proceeding in which the worker and the remaining members of the body they belong to are heard; where the employer knows the worker is a union member, the union delegates are given a prior hearing. Article 60 fixes when a fault lapses: ten days for a light fault, twenty for a serious one and sixty for a very serious one, counted from the date the undertaking came to know it had been committed, and six months from the commission in any case.",
+   "annotation": "Article 54 allows the contract to be ended by the employer for a serious and culpable breach, and lists what counts as one, among them indiscipline, the transgression of contractual good faith and the abuse of trust in the performance of the work. Article 55 requires the dismissal to be notified to the worker in writing, stating the facts that motivate it and the date on which it takes effect, and where the worker is a legal representative of the workforce or a union delegate it requires a contradictory proceeding in which the worker and the remaining members of the body they belong to are heard; where the employer knows the worker is a union member, the union delegates are given a prior hearing. Article 58 grounds a sanction in the gradation of faults and sanctions established in the legal provisions or in the applicable collective agreement, makes the assessment and the sanction reviewable before the social jurisdiction, requires a written communication stating the date and the facts for serious and very serious faults, and forbids a sanction that cuts rest entitlements or fines pay. Article 60 fixes when a fault lapses: ten days for a light fault, twenty for a serious one and sixty for a very serious one, counted from the date the undertaking came to know it had been committed, and six months from the commission in any case.",
    "source_line": "Real Decreto Legislativo 2/2015 · Spain · 23 October 2015, consolidated text as at 4 December 2025",
    "references": []
   },

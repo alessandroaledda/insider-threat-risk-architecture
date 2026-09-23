@@ -9,6 +9,8 @@
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "license_name": "CC BY 4.0",
  "version": "2026-09-23",
+ "release": "1.2.2",
+ "source_commit": "4c88fa0ea377f09277a66a2493456869c7e91f2b",
  "reviewed": "2026-09-23",
  "jurisdictions": [
   {
@@ -6317,6 +6319,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#fr-ct-1332"
         }
        ]
+      },
+      {
+       "id": "IV009/ES",
+       "standing": "mandatory",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "Where the person represents the workforce or is a union delegate, the dismissal proceeds only after a contradictory proceeding in which the person and the remaining members of the body they belong to are heard, and where the employer knows the person belongs to a union, the union delegates are heard beforehand.",
+       "sources": [
+        {
+         "anchor": "es-et-58",
+         "title": "Estatuto de los Trabajadores, articles 54, 55, 58 and 60",
+         "establishes": "That a sanction rests on the gradation of faults set out in law or in the applicable collective agreement and is communicated in writing where the fault is serious, that a dismissal rests on a serious and culpable breach and is notified with the facts and the date it takes effect, that a worker who represents the workforce is heard in a contradictory proceeding first, and that a fault lapses ten, twenty or sixty days after the undertaking came to know of it.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-et-58"
+        }
+       ]
       }
      ]
     },
@@ -6984,12 +7001,12 @@
        "standing": "mandatory",
        "jurisdiction": "ES",
        "state": "established",
-       "requirement": "A sanction rests on the gradation of faults and sanctions set out in the legal provisions or in the applicable collective agreement, and a serious or very serious fault may be sanctioned only by a written communication to the person stating the date and the facts that motivate it. A sanction may not take the form of a cut to rest entitlements or a fine on pay.",
+       "requirement": "A sanction rests on the gradation of faults and sanctions set out in the legal provisions or in the applicable collective agreement, and a serious or very serious fault may be sanctioned only by a written communication to the person stating the date and the facts that motivate it. A sanction may not take the form of a cut to rest entitlements or a fine on pay. A fault lapses ten days after the undertaking came to know of it where it is light, twenty where it is serious and sixty where it is very serious, and six months after it was committed in any case.",
        "sources": [
         {
          "anchor": "es-et-58",
-         "title": "Estatuto de los Trabajadores, article 58",
-         "establishes": "That a sanction rests on the gradation of faults and sanctions set out in law or in the applicable collective agreement, that a serious or very serious fault may be sanctioned only by a written communication stating the date and the facts, and that a sanction may not take the form of a cut to rest entitlements or a fine on pay.",
+         "title": "Estatuto de los Trabajadores, articles 54, 55, 58 and 60",
+         "establishes": "That a sanction rests on the gradation of faults set out in law or in the applicable collective agreement and is communicated in writing where the fault is serious, that a dismissal rests on a serious and culpable breach and is notified with the facts and the date it takes effect, that a worker who represents the workforce is heard in a contradictory proceeding first, and that a fault lapses ten, twenty or sixty days after the undertaking came to know of it.",
          "url": "https://alessandroaledda.com/intra/sources/#es-et-58"
         }
        ]
@@ -7063,13 +7080,19 @@
        "standing": "mandatory",
        "jurisdiction": "DE",
        "state": "established",
-       "requirement": "The works council is heard before every dismissal and told the grounds for it, and a dismissal pronounced without that hearing is void. What the program has established about a person does not reach the ending of the relationship without passing the council first.",
+       "requirement": "The works council is heard before every dismissal and told the grounds for it, and a dismissal pronounced without that hearing is void, so what the program has established about a person does not reach the ending of the relationship without passing the council first. A dismissal without notice may be given only within two weeks of the party entitled to dismiss coming to know the facts material to it.",
        "sources": [
         {
          "anchor": "de-betrvg-102",
          "title": "Betriebsverfassungsgesetz, section 102",
          "establishes": "That the works council is heard before every dismissal and told the grounds for it, and that a dismissal pronounced without that hearing is void.",
          "url": "https://alessandroaledda.com/intra/sources/#de-betrvg-102"
+        },
+        {
+         "anchor": "de-bgb-626",
+         "title": "Bürgerliches Gesetzbuch, section 626",
+         "establishes": "That a contract of service may be ended without notice where facts make its continuation unreasonable for the party ending it, and that the dismissal may be given only within two weeks of that party coming to know the facts that ground it.",
+         "url": "https://alessandroaledda.com/intra/sources/#de-bgb-626"
         }
        ]
       },
@@ -7085,6 +7108,21 @@
          "title": "Statuto dei lavoratori, article 7",
          "establishes": "That the disciplinary rules must be brought to the knowledge of workers by posting them where all can read them, that no measure may be taken before the charge has been put to the person and their defence heard, and that nothing heavier than a verbal reprimand may follow within five days of the written charge.",
          "url": "https://alessandroaledda.com/intra/sources/#it-statuto-7"
+        }
+       ]
+      },
+      {
+       "id": "CP002/ES",
+       "standing": "mandatory",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "A disciplinary dismissal rests on a serious and culpable breach, among them the transgression of contractual good faith and the abuse of trust in the performance of the work, and it is notified to the person in writing stating the facts that motivate it and the date it takes effect.",
+       "sources": [
+        {
+         "anchor": "es-et-58",
+         "title": "Estatuto de los Trabajadores, articles 54, 55, 58 and 60",
+         "establishes": "That a sanction rests on the gradation of faults set out in law or in the applicable collective agreement and is communicated in writing where the fault is serious, that a dismissal rests on a serious and culpable breach and is notified with the facts and the date it takes effect, that a worker who represents the workforce is heard in a contradictory proceeding first, and that a fault lapses ten, twenty or sixty days after the undertaking came to know of it.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-et-58"
         }
        ]
       }
@@ -7704,7 +7742,7 @@
   }
  ],
  "counts": {
-  "established": 388,
+  "established": 390,
   "not covered": 0,
   "unread": 0,
   "open": 0
