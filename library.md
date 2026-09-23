@@ -587,6 +587,22 @@ Establishes: That a sanction rests on the gradation of faults and sanctions set 
 
 Article 58 has three paragraphs. Workers may be sanctioned by the management of the undertaking for breaches of their obligations, according to the gradation of faults and sanctions established in the legal provisions or in the applicable collective agreement. The assessment of the fault and the sanction imposed are always reviewable before the social jurisdiction, and the sanction of serious and very serious faults requires a written communication to the worker stating the date and the facts that motivate it. A sanction may not consist of a reduction in the duration of holidays, of any other diminution of the worker's rest entitlements, or of a fine on pay.
 
+### Estatuto de los Trabajadores, articles 54, 55 and 60 {#es-et-54}
+Real Decreto Legislativo 2/2015 · Spain · 23 October 2015, consolidated text as at 4 December 2025
+https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
+Read: 2026-09-23
+Establishes: That a disciplinary dismissal rests on a serious and culpable breach and is notified in writing with the facts and the date it takes effect, that a worker who represents the workforce is dismissed only after a contradictory proceeding in which they are heard, and that a fault lapses ten, twenty or sixty days after the undertaking came to know of it according to its gravity, and in any case six months after it was committed.
+
+Article 54 allows the contract to be ended by the employer for a serious and culpable breach, and lists what counts as one, among them indiscipline, the transgression of contractual good faith and the abuse of trust in the performance of the work. Article 55 requires the dismissal to be notified to the worker in writing, stating the facts that motivate it and the date on which it takes effect, and where the worker is a legal representative of the workforce or a union delegate it requires a contradictory proceeding in which the worker and the remaining members of the body they belong to are heard; where the employer knows the worker is a union member, the union delegates are given a prior hearing. Article 60 fixes when a fault lapses: ten days for a light fault, twenty for a serious one and sixty for a very serious one, counted from the date the undertaking came to know it had been committed, and six months from the commission in any case.
+
+### Bürgerliches Gesetzbuch, section 626 {#de-bgb-626}
+Bundesministerium der Justiz · Germany · 18 August 1896, in the version of 2 January 2002
+https://www.gesetze-im-internet.de/bgb/__626.html
+Read: 2026-09-23
+Establishes: That a contract of service may be ended without notice where facts make its continuation unreasonable for the party ending it, and that the dismissal may be given only within two weeks of that party coming to know the facts that ground it.
+
+The first paragraph allows either party to end the service relationship without observing a period of notice where facts are present on the ground of which, weighing the interests of both parties and all the circumstances of the case, continuing the relationship until the notice period expires cannot be expected of the party ending it. The second paragraph limits that power in time: the dismissal may be given only within two weeks, and the period begins at the moment the party entitled to dismiss comes to know the facts material to the dismissal. The section governs the dismissal and not the examination that establishes the facts, so how long an organization may take to establish them is a question it leaves open.
+
 ## Research
 Summary: What has been found, by whom, and with what evidence.
 Order: by date. The project entry, which covers work published across several years, comes first.

@@ -841,6 +841,7 @@ Added: 2026-08-30
 Updated: 2026-09-23
 IT · established · [it-statuto-7] · No disciplinary measure may be adopted without the charge having been put to the person beforehand and the person having been heard in their defence, and the person may be assisted by a representative of the union they belong to or have given a mandate to.
 FR · established · [fr-ct-1332] · Except where the sanction is a warning, the person is summoned to an interview and told its purpose, may be assisted by a person of the undertaking, and at the interview the employer sets out the grounds for the sanction it contemplates and takes the person's explanations.
+ES · established · [es-et-54] · Where the person represents the workforce or is a union delegate, the dismissal proceeds only after a contradictory proceeding in which the person and the remaining members of the body they belong to are heard, and where the employer knows the person belongs to a union, the union delegates are heard beforehand.
 
 ### IV010 · Decision record {#iv010}
 What it is: The record of what was examined, on what basis, by whom the decision was taken, and what was concluded.
@@ -956,6 +957,7 @@ CZ · established · [holoska-doucek] · The final assessment of the examination
 IT · established · [it-statuto-7] · The disciplinary rules, the infractions each sanction attaches to and the procedure for putting a charge are brought to the knowledge of workers by posting them in a place accessible to all, so what may follow from what the program observed is settled before any case arises. Nothing heavier than a verbal reprimand may be applied before five days have passed from the written charge.
 ES · established · [es-et-58] · A sanction rests on the gradation of faults and sanctions set out in the legal provisions or in the applicable collective agreement, and a serious or very serious fault may be sanctioned only by a written communication to the person stating the date and the facts that motivate it. A sanction may not take the form of a cut to rest entitlements or a fine on pay.
 FR · established · [fr-ct-1332] · No sanction may be taken without the grievance being put to the person in writing at the same time, and a faulty act may not on its own found disciplinary proceedings beyond two months from the day the employer came to know of it, unless criminal proceedings were brought within the same period. The term runs from the moment of knowledge and not from the act.
+ES · established · [es-et-54] · A fault lapses ten days after the undertaking came to know of it where it is light, twenty where it is serious and sixty where it is very serious, and six months after it was committed in any case. What the program observes therefore carries a term, and the term runs from knowledge.
 
 ### CP002 · Termination of employment {#cp002}
 What it is: The ending of the employment relationship on that basis.
@@ -966,6 +968,8 @@ CoE · established · [gramaxo] [lopez-ribalda] · Dismissal on geolocation and 
 FI · established · [fi-privacy-working-life] · Recordings may be used to substantiate the grounds for ending an employment relationship, and that use is stated as an exception to the purpose limitation and to the cooperation procedure.
 DE · established · [de-betrvg-102] · The works council is heard before every dismissal and told the grounds for it, and a dismissal pronounced without that hearing is void. What the program has established about a person does not reach the ending of the relationship without passing the council first.
 IT · established · [it-statuto-7] · A disciplinary sanction may not bring a permanent change to the employment relationship, the ending of it being left to the law on individual dismissals, and two years after it was applied a sanction may no longer be taken into account for any purpose.
+ES · established · [es-et-54] · A disciplinary dismissal rests on a serious and culpable breach, among them the transgression of contractual good faith and the abuse of trust in the performance of the work, and it is notified to the person in writing stating the facts that motivate it and the date it takes effect.
+DE · established · [de-bgb-626] · A dismissal without notice may be given only within two weeks of the party entitled to dismiss coming to know the facts material to it, and only where those facts make continuing the relationship unreasonable when the interests of both parties are weighed.
 
 ### CP003 · Consistency of outcomes {#cp003}
 What it is: The comparison of a proposed outcome against those reached in comparable cases.
