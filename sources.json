@@ -11,7 +11,7 @@
  "attribution": "Alessandro Aledda, European sources on insider risk, https://alessandroaledda.com",
  "version": "2026-09-23",
  "reviewed": "2026-09-23",
- "count": 76,
+ "count": 77,
  "sections": [
   {
    "title": "Program guidance",
@@ -25,7 +25,7 @@
    "kind": "law",
    "order": "by legal order, from European Union to Council of Europe to national. Within the national law, by country in the order the table below sets out, and within each country by date.",
    "summary": "What constrains it, from the Union and Strasbourg down to nine national orders.",
-   "count": 43
+   "count": 44
   },
   {
    "title": "Research",
@@ -1582,6 +1582,29 @@
    "canonical": "https://alessandroaledda.com/intra/sources/#de-bgb-626",
    "annotation": "The first paragraph allows either party to end the service relationship without observing a period of notice where facts are present on the ground of which, weighing the interests of both parties and all the circumstances of the case, continuing the relationship until the notice period expires cannot be expected of the party ending it. The second paragraph limits that power in time: the dismissal may be given only within two weeks, and the period begins at the moment the party entitled to dismiss comes to know the facts material to the dismissal. The section governs the dismissal and not the examination that establishes the facts, so how long an organization may take to establish them is a question it leaves open.",
    "source_line": "Bundesministerium der Justiz · Germany · 18 August 1896, in the version of 2 January 2002",
+   "references": []
+  },
+  {
+   "anchor": "dora",
+   "title": "Regulation (EU) 2022/2554, articles 11, 13, 17, 18 and 24",
+   "section": "Law and case law",
+   "kind": "law",
+   "issuer": "European Parliament and Council",
+   "jurisdiction": "European Union",
+   "venue": "",
+   "docket": "",
+   "date": "2022-12-14",
+   "year": "2022",
+   "date_note": "",
+   "establishes": "That a financial entity defines and runs an incident management process with early warning indicators, a classification, named roles per scenario and communication plans, that at least major incidents reach senior management and the management body, that a review after a major incident asks whether the procedures were followed and the actions were effective, and that the response is rehearsed under a testing programme.",
+   "read": "2026-09-23",
+   "type": "",
+   "binding": "",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2554",
+   "status": "the register answers automated requests with a challenge, so the text was read in the browser at the address above, which is the consolidated English text of the Official Journal.",
+   "canonical": "https://alessandroaledda.com/intra/sources/#dora",
+   "annotation": "The regulation governs digital operational resilience in the financial sector, and four of its articles bear on how an organization answers an event. Article 11 requires an ICT business continuity policy, implemented through documented arrangements, plans and procedures. Article 17 requires the entity to define, establish and implement an incident management process to detect, manage and notify incidents, to record all of them and all significant cyber threats, and to run the process so that root causes are identified, documented and addressed; the process puts in place early warning indicators, procedures to identify, track, log, categorise and classify incidents by priority, severity and the criticality of the services affected, roles and responsibilities assigned per incident type and scenario, plans for communication to staff, to external stakeholders and to the media and for internal escalation, the reporting of at least major incidents to senior management and to the management body with their impact, the response and the further controls that follow, and response procedures that mitigate impact and return services to operation securely. Article 13 requires capabilities and staff to gather information on vulnerabilities, threats and incidents and to analyse their likely impact, and it requires a review after a major incident that disrupts core activities: the review analyses the causes of disruption, identifies the improvements needed, and determines whether the established procedures were followed and the actions taken were effective, looking at the promptness of the response, the quality and speed of any forensic analysis, the effectiveness of escalation inside the entity and the effectiveness of internal and external communication. Article 24 requires a testing programme, maintained and reviewed, for assessing preparedness for handling incidents and identifying weaknesses and gaps. The regulation is written of ICT-related incidents and does not name the insider, so what it settles is the shape of the answer and not the kind of event that prompts it.",
+   "source_line": "European Parliament and Council · European Union · 14 December 2022",
    "references": []
   },
   {

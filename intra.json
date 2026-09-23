@@ -9,8 +9,8 @@
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "license_name": "CC BY 4.0",
  "version": "2026-09-23",
- "release": "1.2.2",
- "source_commit": "4c88fa0ea377f09277a66a2493456869c7e91f2b",
+ "release": "1.2.3",
+ "source_commit": "79b28da99ca8ec51ef5cd89318e5dc37a3b8c341",
  "reviewed": "2026-09-23",
  "jurisdictions": [
   {
@@ -6496,20 +6496,26 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-23",
      "cells": [
       {
        "id": "IR001/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "For the digital infrastructure and service providers it reaches, response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed.",
+       "requirement": "For the digital infrastructure and service providers it reaches, response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed. Under the financial sector’s own regulation the process assigns roles and responsibilities per incident type and scenario, sets out plans for communication and for internal escalation, and establishes response procedures that mitigate impact and return services to operation securely.",
        "sources": [
         {
          "anchor": "nis2-ir",
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        },
+        {
+         "anchor": "dora",
+         "title": "Regulation (EU) 2022/2554, articles 11, 13, 17, 18 and 24",
+         "establishes": "That a financial entity defines and runs an incident management process with early warning indicators, a classification, named roles per scenario and communication plans, that at least major incidents reach senior management and the management body, that a review after a major incident asks whether the procedures were followed and the actions were effective, and that the response is rehearsed under a testing programme.",
+         "url": "https://alessandroaledda.com/intra/sources/#dora"
         }
        ]
       },
@@ -6782,7 +6788,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-23",
      "cells": [
       {
        "id": "IR008/IT",
@@ -6813,6 +6819,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
         }
        ]
+      },
+      {
+       "id": "IR008/EU",
+       "standing": "mandatory",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "For the financial entities it reaches, at least major incidents are reported to relevant senior management and the management body is informed of them, with the impact, the response and the further controls that follow from them. Which body decides for the organization as a whole is left to the entity.",
+       "sources": [
+        {
+         "anchor": "dora",
+         "title": "Regulation (EU) 2022/2554, articles 11, 13, 17, 18 and 24",
+         "establishes": "That a financial entity defines and runs an incident management process with early warning indicators, a classification, named roles per scenario and communication plans, that at least major incidents reach senior management and the management body, that a review after a major incident asks whether the procedures were followed and the actions were effective, and that the response is rehearsed under a testing programme.",
+         "url": "https://alessandroaledda.com/intra/sources/#dora"
+        }
+       ]
       }
      ]
     },
@@ -6825,20 +6846,26 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-23",
      "cells": [
       {
        "id": "IR009/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "For the digital infrastructure and service providers it reaches, a review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals.",
+       "requirement": "For the digital infrastructure and service providers it reaches, a review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals. Under the financial sector’s own regulation the review follows a major incident that disrupts core activities, and it asks two further questions: whether the established procedures were followed and whether the actions taken were effective, looking at the promptness of the response, the quality and speed of any forensic analysis, and the effectiveness of escalation and of communication.",
        "sources": [
         {
          "anchor": "nis2-ir",
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        },
+        {
+         "anchor": "dora",
+         "title": "Regulation (EU) 2022/2554, articles 11, 13, 17, 18 and 24",
+         "establishes": "That a financial entity defines and runs an incident management process with early warning indicators, a classification, named roles per scenario and communication plans, that at least major incidents reach senior management and the management body, that a review after a major incident asks whether the procedures were followed and the actions were effective, and that the response is rehearsed under a testing programme.",
+         "url": "https://alessandroaledda.com/intra/sources/#dora"
         }
        ]
       },
@@ -6898,20 +6925,26 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-23",
      "cells": [
       {
        "id": "IR010/EU",
        "standing": "mandatory",
        "jurisdiction": "EU",
        "state": "established",
-       "requirement": "For the digital infrastructure and service providers it reaches, the incident response procedures are tested at planned intervals.",
+       "requirement": "For the digital infrastructure and service providers it reaches, the incident response procedures are tested at planned intervals. Under the financial sector’s own regulation the testing programme is established, maintained and reviewed, and it exists to assess preparedness for handling incidents and to identify weaknesses and gaps.",
        "sources": [
         {
          "anchor": "nis2-ir",
          "title": "Commission Implementing Regulation (EU) 2024/2690",
          "establishes": "What the directive's categories hold, in an annex setting out asset classification, the inventory, access control, privileged accounts, and removable media as requirements rather than as headings.",
          "url": "https://alessandroaledda.com/intra/sources/#nis2-ir"
+        },
+        {
+         "anchor": "dora",
+         "title": "Regulation (EU) 2022/2554, articles 11, 13, 17, 18 and 24",
+         "establishes": "That a financial entity defines and runs an incident management process with early warning indicators, a classification, named roles per scenario and communication plans, that at least major incidents reach senior management and the management body, that a review after a major incident asks whether the procedures were followed and the actions were effective, and that the response is rehearsed under a testing programme.",
+         "url": "https://alessandroaledda.com/intra/sources/#dora"
         }
        ]
       }
@@ -7742,7 +7775,7 @@
   }
  ],
  "counts": {
-  "established": 390,
+  "established": 391,
   "not covered": 0,
   "unread": 0,
   "open": 0

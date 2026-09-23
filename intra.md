@@ -875,8 +875,8 @@ Summary: The measures taken while an incident is open: containment, preservation
 ### IR001 · Insider incident playbooks {#ir001}
 What it is: The prepared sequences for the insider scenarios the program has decided it must be able to answer.
 Added: 2026-08-30
-Updated: 2026-09-01
-EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed.
+Updated: 2026-09-23
+EU · established · [nis2-ir] [dora] · For the digital infrastructure and service providers it reaches, response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed. Under the financial sector's own regulation the process assigns roles and responsibilities per incident type and scenario, sets out plans for communication and for internal escalation, and establishes response procedures that mitigate impact and return services to operation securely.
 IT · established · [acn-379907] · For a subject in the national NIS register, a plan for handling incidents and notifying the national CSIRT is defined, implemented, kept current, and documented, and it carries the stages and the procedures with the roles and responsibilities attaching to each, the contacts for reporting, how communication runs inside and outside, and the reporting to be used to document the incident. The management bodies approve it. That the scenarios it covers include insider ones is not stated.
 DE · established · [bsi-grundschutz] · A policy on handling security incidents has to be drawn up, stating its purpose and its aim and settling every aspect of the handling, with rules of conduct described for the different kinds of incident and instructions that are addressed to their audience and can actually be applied. It has to be known to everyone, agreed with the IT function, adopted by the leadership of the organization, and checked and updated at intervals.
 
@@ -925,15 +925,16 @@ IT · established · [acn-379907] · Procedures are documented for telling the r
 ### IR008 · Escalation to crisis management {#ir008}
 What it is: The passing of a matter to the body that decides for the organization as a whole.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-23
 IT · established · [acn-379907] · For a subject in the national NIS register, how communication runs inside the organization is part of the plan, and the involvement of the administrative and management bodies is named as part of it. Those bodies approve the plan itself.
 DE · established · [bsi-grundschutz] · The handling of a security incident is to be settled with emergency management, and where the organization keeps a separate role for ordinary fault handling that role is brought in too. The interfaces to crisis and emergency management are defined and documented, which staff answer for which task is settled, how they are to be communicated with is settled, and the contact people are to be reachable at all times.
+EU · established · [dora] · For the financial entities it reaches, at least major incidents are reported to relevant senior management and the management body is informed of them, with the impact, the response and the further controls that follow from them. Which body decides for the organization as a whole is left to the entity.
 
 ### IR009 · Post-incident review {#ir009}
 What it is: The examination, after the fact, of what the program saw, when, and what it did with it.
 Added: 2026-08-30
-Updated: 2026-09-01
-EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, a review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals.
+Updated: 2026-09-23
+EU · established · [nis2-ir] [dora] · For the digital infrastructure and service providers it reaches, a review after the fact is carried out once recovery is done, where appropriate. It identifies the root cause where that can be done and produces documented lessons, and what those lessons are to improve is named: the approach to security, the treatment of risk, and the procedures for handling, detecting, and responding. Whether incidents led to a review at all is itself checked at planned intervals. Under the financial sector's own regulation the review follows a major incident that disrupts core activities, and it asks two further questions: whether the established procedures were followed and whether the actions taken were effective, looking at the promptness of the response, the quality and speed of any forensic analysis, and the effectiveness of escalation and of communication.
 IT · established · [acn-379907] · For a subject in the national NIS register, the plan is reviewed and where appropriate updated periodically and in any case at least every two years, and again whenever a significant incident occurs, with the lessons learned from it worked in.
 DE · established · [bsi-grundschutz] · An incident should be worked through afterwards to a standard form, examining how quickly it was detected and remedied, whether the reporting routes worked, whether there was enough information to assess it, and whether the detection measures were effective. What is learned is used to write instructions for comparable incidents, made known to the groups they concern, and updated as more is learned. The leadership of the organization is told about the incidents once a year, and at once where something has to be done immediately.
 NO · established · [no-nsm] · What worked and what can be improved are both identified. The controls that were compromised are mapped and reviewed and then updated or replaced, and it is assessed whether what is in place covers the organization's risk picture at all. The processes, procedures, reporting formats, and organizational structures are evaluated for how effective they were, regularly and after an incident.
@@ -941,8 +942,8 @@ NO · established · [no-nsm] · What worked and what can be improved are both i
 ### IR010 · Exercising the response {#ir010}
 What it is: The rehearsal of the playbooks against a scenario, with the people who would run them.
 Added: 2026-08-30
-Updated: 2026-09-01
-EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, the incident response procedures are tested at planned intervals.
+Updated: 2026-09-23
+EU · established · [nis2-ir] [dora] · For the digital infrastructure and service providers it reaches, the incident response procedures are tested at planned intervals. Under the financial sector's own regulation the testing programme is established, maintained and reviewed, and it exists to assess preparedness for handling incidents and to identify weaknesses and gaps.
 
 ## CP · Consequence for the person {#cp}
 Summary: The action taken against a person following a finding, and the basis on which it may be taken.
