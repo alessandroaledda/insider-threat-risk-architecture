@@ -8,10 +8,10 @@
  "canonical": "https://alessandroaledda.com/intra/",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "license_name": "CC BY 4.0",
- "version": "2026-09-23",
- "release": "1.2.3",
- "source_commit": "79b28da99ca8ec51ef5cd89318e5dc37a3b8c341",
- "reviewed": "2026-09-23",
+ "version": "2026-09-24",
+ "release": "1.2.4",
+ "source_commit": "b781c25fe07cdceb9685e0ce6b1b674c36d05230",
+ "reviewed": "2026-09-24",
  "jurisdictions": [
   {
    "code": "EU",
@@ -5458,7 +5458,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-24",
      "cells": [
       {
        "id": "",
@@ -5519,6 +5519,36 @@
          "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
         }
        ]
+      },
+      {
+       "id": "BA001/DE",
+       "standing": "mandatory",
+       "jurisdiction": "DE",
+       "state": "established",
+       "requirement": "The drawing up of general principles of assessment needs the works council’s consent, as a personnel questionnaire does, so the set of circumstances a program treats as bearing on concern is settled with the workforce before it is applied. Where no agreement is reached on the content, the conciliation board decides.",
+       "sources": [
+        {
+         "anchor": "de-betrvg-94",
+         "title": "Betriebsverfassungsgesetz, section 94",
+         "establishes": "That a personnel questionnaire needs the works council's consent, and that the same applies to the drawing up of general principles of assessment.",
+         "url": "https://alessandroaledda.com/intra/sources/#de-betrvg-94"
+        }
+       ]
+      },
+      {
+       "id": "BA001/IT",
+       "standing": "mandatory",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "The employer may not enquire, including through third parties, into a worker’s political, religious or union opinions, nor into facts that do not bear on the assessment of professional aptitude, either at hiring or during the relationship. An indicator that would be established by such an enquiry cannot be gathered, whatever it is called.",
+       "sources": [
+        {
+         "anchor": "it-statuto-8",
+         "title": "Statuto dei lavoratori, article 8",
+         "establishes": "That an employer may not enquire, including through third parties, into a worker's political, religious or union opinions, nor into facts that do not bear on the assessment of their professional aptitude, either at hiring or during the relationship.",
+         "url": "https://alessandroaledda.com/intra/sources/#it-statuto-8"
+        }
+       ]
       }
      ]
     },
@@ -5531,7 +5561,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-24",
      "cells": [
       {
        "id": "BA002/AT",
@@ -5545,6 +5575,21 @@
          "title": "Arbeitsverfassungsgesetz, sections 96 and 96a",
          "establishes": "That a control measure touching human dignity has no legal effect without the works council's consent, and that consent for automated processing and for assessment systems can be replaced by a conciliation board while consent under section 96 cannot.",
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
+        }
+       ]
+      },
+      {
+       "id": "BA002/FR",
+       "standing": "mandatory",
+       "jurisdiction": "FR",
+       "state": "established",
+       "requirement": "The person is expressly informed, before they are applied, of the evaluation methods and techniques used in their regard, the methods have to be relevant to the purpose pursued, and the results are confidential. What may be sought of them may have no purpose other than assessing professional aptitude and must bear a direct and necessary link to it.",
+       "sources": [
+        {
+         "anchor": "fr-ct-1222",
+         "title": "Code du travail, articles L1222-2 and L1222-3",
+         "establishes": "That information sought from an employee may have no purpose other than assessing their professional aptitude and must bear a direct and necessary link to it, and that the employee is expressly informed before an evaluation method is applied to them, the results being confidential and the methods relevant to the purpose pursued.",
+         "url": "https://alessandroaledda.com/intra/sources/#fr-ct-1222"
         }
        ]
       }
@@ -5587,7 +5632,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-09-24",
      "cells": [
       {
        "id": "",
@@ -5646,6 +5691,21 @@
          "title": "Regulation (EU) 2016/679, articles 5(2), 6, 9, 12, 15, 22, 35, and 88",
          "establishes": "The grounds on which processing may rest, the burden of showing it, the categories whose processing is prohibited outright save on a named ground, what a person asking has to be told and by when, the limit on deciding about someone by machine alone, when an impact assessment is owed, and the leave each member state has to set its own employment rule.",
          "url": "https://alessandroaledda.com/intra/sources/#gdpr"
+        }
+       ]
+      },
+      {
+       "id": "BA004/IT",
+       "standing": "mandatory",
+       "jurisdiction": "IT",
+       "state": "established",
+       "requirement": "Facts that do not bear on the assessment of professional aptitude may not be enquired into at all, which reaches a trait or a situational factor before any question of how it is weighed arises. Who decides what bears on professional aptitude is not stated.",
+       "sources": [
+        {
+         "anchor": "it-statuto-8",
+         "title": "Statuto dei lavoratori, article 8",
+         "establishes": "That an employer may not enquire, including through third parties, into a worker's political, religious or union opinions, nor into facts that do not bear on the assessment of their professional aptitude, either at hiring or during the relationship.",
+         "url": "https://alessandroaledda.com/intra/sources/#it-statuto-8"
         }
        ]
       }
@@ -5771,7 +5831,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-09-24",
      "cells": [
       {
        "id": "BA008/EU",
@@ -5806,6 +5866,21 @@
          "title": "Arbeitsverfassungsgesetz, sections 96 and 96a",
          "establishes": "That a control measure touching human dignity has no legal effect without the works council's consent, and that consent for automated processing and for assessment systems can be replaced by a conciliation board while consent under section 96 cannot.",
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
+        }
+       ]
+      },
+      {
+       "id": "BA008/ES",
+       "standing": "mandatory",
+       "jurisdiction": "ES",
+       "state": "established",
+       "requirement": "The works committee is informed of the parameters, rules and instructions on which an algorithm or an artificial intelligence system is based, where the decisions it affects may bear on working conditions or on access to employment and its continuation, the building of profiles included.",
+       "sources": [
+        {
+         "anchor": "es-et-64",
+         "title": "Estatuto de los Trabajadores, article 64",
+         "establishes": "That the works committee is informed of the parameters, rules and instructions on which algorithms or artificial intelligence systems bearing on decisions that may affect working conditions, access to employment and its continuation, profiling included, are based, and that it is informed of every sanction imposed for a very serious fault.",
+         "url": "https://alessandroaledda.com/intra/sources/#es-et-64"
         }
        ]
       }
@@ -7253,8 +7328,24 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
-     "cells": []
+     "updated": "2026-09-24",
+     "cells": [
+      {
+       "id": "CP006/EU",
+       "standing": "mandatory",
+       "jurisdiction": "EU",
+       "state": "established",
+       "requirement": "Acquiring a trade secret without the holder’s consent by unauthorised access to, appropriation of, or copying of electronic files lawfully under their control is unlawful, and the holder may apply for measures to prevent it or obtain redress. A court finding the acquisition, use or disclosure unlawful may order it to cease and the files containing the secret to be destroyed, and damages follow the actual prejudice. The protection holds only where the holder took reasonable steps to keep the information secret, and Member States may limit what an employee owes their employer where the employee acted without intent.",
+       "sources": [
+        {
+         "anchor": "trade-secrets",
+         "title": "Directive (EU) 2016/943 on trade secrets",
+         "establishes": "That unauthorised access to or copying of files containing a trade secret is an unlawful acquisition of it, that a holder may apply for measures to prevent or obtain redress, that a court finding an unlawful acquisition, use or disclosure may order it to cease and the documents to be destroyed, and that damages follow the actual prejudice, with a power for Member States to limit what an employee owes their employer where the employee acted without intent.",
+         "url": "https://alessandroaledda.com/intra/sources/#trade-secrets"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "CP007",
@@ -7775,7 +7866,7 @@
   }
  ],
  "counts": {
-  "established": 391,
+  "established": 397,
   "not covered": 0,
   "unread": 0,
   "open": 0

@@ -1,7 +1,7 @@
 ---
 title: Insider Threat and Risk Architecture
 subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
-reviewed: 2026-09-23
+reviewed: 2026-09-24
 contributors: Jiří Hološka · https://www.linkedin.com/in/holoska/ · Ph.D., Insider Threat and Incident Response Manager, University Lecturer · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball · https://www.linkedin.com/in/simon-ball-itl/ · Founder and Director, Insider Threat Limited · MD018 · Pointed out that MD018 could be read as a capability rather than an exception. Its definition now states that the prior suspicion is what permits the observation, not what it is for.; Benedetto Paolucci · https://www.linkedin.com/in/benedetto-paolucci-cipp-e-998416260/ · Security and Loss Prevention Manager, Data protection expert CIPP/E · PS001,PS002,PS003,PS004,MD013,DP016 · Pointed at Directive 2022/2557 and at the Board's guidance on securing personal data, and asked where the record governs physical access rather than watching it. DP016 exists because it did not.
 ---
 
@@ -696,18 +696,21 @@ Summary: The derivation of concern from the person rather than from an act.
 ### BA001 · Risk indicator catalogue {#ba001}
 What it is: The defined set of observable circumstances the program treats as bearing on the likelihood of harm.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-24
 
 DK · established · [sok-psychology] · An indicator taken from this literature carries thin foundations with it, and findings that cannot readily be compared between studies.
 GB · established · [nurse-2014] · A published vocabulary is available to build the catalogue on: catalyst, actor, attack, and organization, grounded in case studies rather than telemetry.
 GB · established · [npsa-data-collection] · Real cases have been reviewed and what preceded the acts described, which is where an indicator can be taken from rather than supposed.
 BE · established · [be-cyfun] · Behavioral signs are named as things training should teach people to recognize, and three are given: unusual access patterns, the hoarding of data, and sudden changes in behavior.
+DE · established · [de-betrvg-94] · The drawing up of general principles of assessment needs the works council's consent, as a personnel questionnaire does, so the set of circumstances a program treats as bearing on concern is settled with the workforce before it is applied. Where no agreement is reached on the content, the conciliation board decides.
+IT · established · [it-statuto-8] · The employer may not enquire, including through third parties, into a worker's political, religious or union opinions, nor into facts that do not bear on the assessment of professional aptitude, either at hiring or during the relationship. An indicator that would be established by such an enquiry cannot be gathered, whatever it is called.
 
 ### BA002 · Individual risk assessment {#ba002}
 What it is: The assignment to a named person of a judgment expressing the degree of concern they warrant.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-24
 AT · established · [at-arbvg-96] · A system for assessing employees needs the works council's consent where it gathers data the operational use does not justify, and here the consent can be replaced by a decision of the conciliation board.
+FR · established · [fr-ct-1222] · The person is expressly informed, before they are applied, of the evaluation methods and techniques used in their regard, the methods have to be relevant to the purpose pursued, and the results are confidential. What may be sought of them may have no purpose other than assessing professional aptitude and must bear a direct and necessary link to it.
 
 ### BA003 · Multidisciplinary case review {#ba003}
 What it is: The examination of a person's situation by security, human resources, and legal together, rather than by any one of them.
@@ -718,12 +721,13 @@ CZ · established · [holoska-doucek] · The examination is divided between thre
 ### BA004 · Use of psychological and dispositional indicators {#ba004}
 What it is: The treatment of traits, psychological states, or situational factors as grounds for attention.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-24
 
 DK · established · [sok-psychology] · What has been published on psychological indicators does not establish which of them are observable in an employment setting.
 GB · established · [pathirana-2026] · Reviews of the detection literature map which human factors have been modelled and on what data, and test none of them.
 FI · established · [fi-privacy-working-life] · A personality or aptitude assessment is taken with the employee's consent, and the employer answers for the reliability of the method, the expertise of the assessor, and the findings being free from error.
 EU · established · [gdpr] · Article 9 reaches an indicator only where it reveals one of the categories it closes off, data concerning health among them, and where it does the processing is prohibited unless one of that article's own grounds applies. An assessment of disposition that reveals none of them is not caught by it, and falls back on the ordinary grounds.
+IT · established · [it-statuto-8] · Facts that do not bear on the assessment of professional aptitude may not be enquired into at all, which reaches a trait or a situational factor before any question of how it is weighed arises. Who decides what bears on professional aptitude is not stated.
 
 ### BA005 · Use of linguistic indicators {#ba005}
 What it is: The derivation of concern from a person's written or spoken language.
@@ -750,10 +754,11 @@ GB · established · [uk-gdpr] · The rule here is not the Union's. A decision i
 ### BA008 · Deployment of an algorithmic system in employment {#ba008}
 What it is: The introduction of a system of that class in a setting in which the people it reaches are workers.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-09-24
 
 EU · established · [ai-act] [digital-omnibus-ai] · What puts a system in the high-risk category is the purpose it is intended for and not the place it runs in: making decisions on the terms of a work relationship, allocating tasks on individual behavior or personal traits, or monitoring and evaluating the performance and behavior of the people in it. The representatives and the workers concerned have to be told before it is put into use.
 AT · established · [at-arbvg-96] · A system for the automated collection, processing, and transmission of a worker's personal data beyond general particulars and qualifications needs the works council's consent, unless what is done with the data goes no further than obligations arising from statute, collective norms, or the contract.
+ES · established · [es-et-64] · The works committee is informed of the parameters, rules and instructions on which an algorithm or an artificial intelligence system is based, where the decisions it affects may bear on working conditions or on access to employment and its continuation, the building of profiles included.
 
 ### BA009 · Model validation and bias testing {#ba009}
 What it is: The examination of an assessment method for accuracy and for differential effect before and during its use.
@@ -992,7 +997,8 @@ ES · established · [es-ens] · Evidence that may fall to be settled before a c
 ### CP006 · Civil recovery and injunctive action {#cp006}
 What it is: Proceedings brought by the organization to recover what was taken or to restrain its use.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-09-24
+EU · established · [trade-secrets] · Acquiring a trade secret without the holder's consent by unauthorised access to, appropriation of, or copying of electronic files lawfully under their control is unlawful, and the holder may apply for measures to prevent it or obtain redress. A court finding the acquisition, use or disclosure unlawful may order it to cease and the files containing the secret to be destroyed, and damages follow the actual prejudice. The protection holds only where the holder took reasonable steps to keep the information secret, and Member States may limit what an employee owes their employer where the employee acted without intent.
 
 ### CP007 · Communication of the outcome to the person {#cp007}
 What it is: The telling of the person what was concluded about them.

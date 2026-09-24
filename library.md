@@ -1,7 +1,7 @@
 ---
 title: Library
 subtitle: European sources on insider risk, annotated. The whole record is published as data, free to use with attribution.
-reviewed: 2026-09-23
+reviewed: 2026-09-24
 ---
 
 This is a collection of European sources on insider risk. It sets out to cover the relevant open record in full, and each source carries a note saying what it establishes and what it does not cover, so that a reader can place it before opening it. A source qualifies if it is European in origin and if it sets out how a program is built, states a legal constraint on how one may operate, or reports research findings.
@@ -603,6 +603,48 @@ Status: the register answers automated requests with a challenge, so the text wa
 
 The regulation governs digital operational resilience in the financial sector, and four of its articles bear on how an organization answers an event. Article 11 requires an ICT business continuity policy, implemented through documented arrangements, plans and procedures. Article 17 requires the entity to define, establish and implement an incident management process to detect, manage and notify incidents, to record all of them and all significant cyber threats, and to run the process so that root causes are identified, documented and addressed; the process puts in place early warning indicators, procedures to identify, track, log, categorise and classify incidents by priority, severity and the criticality of the services affected, roles and responsibilities assigned per incident type and scenario, plans for communication to staff, to external stakeholders and to the media and for internal escalation, the reporting of at least major incidents to senior management and to the management body with their impact, the response and the further controls that follow, and response procedures that mitigate impact and return services to operation securely. Article 13 requires capabilities and staff to gather information on vulnerabilities, threats and incidents and to analyse their likely impact, and it requires a review after a major incident that disrupts core activities: the review analyses the causes of disruption, identifies the improvements needed, and determines whether the established procedures were followed and the actions taken were effective, looking at the promptness of the response, the quality and speed of any forensic analysis, the effectiveness of escalation inside the entity and the effectiveness of internal and external communication. Article 24 requires a testing programme, maintained and reviewed, for assessing preparedness for handling incidents and identifying weaknesses and gaps. The regulation is written of ICT-related incidents and does not name the insider, so what it settles is the shape of the answer and not the kind of event that prompts it.
 
+### Betriebsverfassungsgesetz, section 94 {#de-betrvg-94}
+Bundestag · Germany · 15 January 1972, as amended
+https://www.gesetze-im-internet.de/betrvg/__94.html
+Read: 2026-09-24
+Establishes: That a personnel questionnaire needs the works council's consent, and that the same applies to the drawing up of general principles of assessment.
+
+The first paragraph makes a personnel questionnaire conditional on the works council's consent, and where no agreement is reached on its content the conciliation board decides. The second paragraph extends that to personal particulars in written contracts of employment intended for general use in the establishment, and to the drawing up of general principles of assessment. The section governs the instrument by which people are assessed and not any judgment reached about one of them.
+
+### Statuto dei lavoratori, article 8 {#it-statuto-8}
+Parlamento della Repubblica · Italy · 20 May 1970
+https://olympus.uniurb.it/index.php?option=com_content&view=article&id=280%3Alegge-20-maggio-1970-n-300-statuto-dei-lavoratori&catid=5&Itemid=137
+Read: 2026-09-24
+Establishes: That an employer may not enquire, including through third parties, into a worker's political, religious or union opinions, nor into facts that do not bear on the assessment of their professional aptitude, either at hiring or during the relationship.
+Status: the official consolidated text is on Normattiva, whose interface refuses automated requests; what is linked is the text as the Olympus observatory of the University of Urbino publishes it, the host this record already uses for Italian sources.
+
+Article 8 forbids the employer, for the purposes of hiring as during the course of the employment relationship, from carrying out enquiries, including through third parties, into the political, religious or union opinions of the worker, and into facts that are not relevant to the assessment of the worker's professional aptitude. The prohibition is on the enquiry rather than on the use of what an enquiry produced, and it does not say who decides what bears on professional aptitude.
+
+### Code du travail, articles L1222-2 and L1222-3 {#fr-ct-1222}
+République française · France · in force 1 May 2008
+https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189417/
+Read: 2026-09-24
+Establishes: That information sought from an employee may have no purpose other than assessing their professional aptitude and must bear a direct and necessary link to it, and that the employee is expressly informed before an evaluation method is applied to them, the results being confidential and the methods relevant to the purpose pursued.
+
+Article L1222-2 limits the information an employer may seek from an employee: it may have no purpose other than the assessment of professional aptitudes, it must present a direct and necessary link with that assessment, and the employee answers in good faith. Article L1222-3 requires the employee to be expressly informed, before they are applied, of the professional evaluation methods and techniques used in their regard, makes the results confidential, and requires the methods and techniques to be relevant to the purpose pursued.
+
+### Estatuto de los Trabajadores, article 64 {#es-et-64}
+Real Decreto Legislativo 2/2015 · Spain · 23 October 2015, consolidated text as at 4 December 2025
+https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
+Read: 2026-09-24
+Establishes: That the works committee is informed of the parameters, rules and instructions on which algorithms or artificial intelligence systems bearing on decisions that may affect working conditions, access to employment and its continuation, profiling included, are based, and that it is informed of every sanction imposed for a very serious fault.
+
+Article 64 sets out the rights of information and consultation of the works committee. Under paragraph 4 it is entitled to be informed of the parameters, rules and instructions on which the algorithms or artificial intelligence systems that affect decision-making are based, where those decisions may bear on working conditions and on access to employment and its continuation, including the building of profiles. The same paragraph entitles it to be informed of all sanctions imposed for very serious faults, and to know the models of written contract used in the undertaking and the documents relating to the ending of the relationship.
+
+### Directive (EU) 2016/943 on trade secrets {#trade-secrets}
+European Parliament and Council · European Union · 8 June 2016
+https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016L0943
+Read: 2026-09-24
+Establishes: That unauthorised access to or copying of files containing a trade secret is an unlawful acquisition of it, that a holder may apply for measures to prevent or obtain redress, that a court finding an unlawful acquisition, use or disclosure may order it to cease and the documents to be destroyed, and that damages follow the actual prejudice, with a power for Member States to limit what an employee owes their employer where the employee acted without intent.
+Status: the register answers automated requests with a challenge, so the text was read in a browser at the address above.
+
+The directive protects undisclosed know-how and business information against unlawful acquisition, use and disclosure. Article 2 defines a trade secret as information that is secret, has commercial value because it is secret, and has been subject to reasonable steps to keep it so, which makes the protection conditional on what the holder did before the loss. Article 4 entitles the holder to the measures, procedures and remedies the directive provides in order to prevent or obtain redress, and it treats as unlawful the acquisition of a trade secret without consent by unauthorised access to, appropriation of, or copying of documents, objects, materials, substances or electronic files lawfully under the holder's control, as well as any other conduct contrary to honest commercial practices. Article 12 allows a court that has found an unlawful acquisition, use or disclosure on the merits to order the use or disclosure to cease, the production and marketing of infringing goods to be prohibited, corrective measures to be taken, and the documents and files containing the trade secret to be destroyed in whole or in part. Article 14 requires damages appropriate to the actual prejudice suffered where the infringer knew or ought to have known, and permits Member States to limit the liability of employees towards their employers where they acted without intent.
+
 ## Research
 Summary: What has been found, by whom, and with what evidence.
 Order: by date. The project entry, which covers work published across several years, comes first.
@@ -682,6 +724,8 @@ A systematic review of how insider threat detection research has taken up human 
 
 ## What does not exist (yet)
 Summary: The holes in the record, stated rather than left to be discovered.
+
+There is no European rule requiring an outcome for a person to be compared with those reached in comparable cases. Consistency is a principle national courts apply when an outcome is contested, and the record has found no instrument that obliges the comparison before one is reached. CP003 is empty for that reason and not for want of looking.
 
 There is no European insider symposium. The reference event in the field is American, in its eleventh edition, held in Washington.
 
