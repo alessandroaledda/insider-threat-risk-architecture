@@ -1,6 +1,6 @@
 {
  "name": "Insider Threat and Risk Architecture",
- "description": "A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.",
+ "description": "A living three-level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.",
  "author": {
   "name": "Alessandro Aledda",
   "url": "https://alessandroaledda.com/about.html"
@@ -10,7 +10,7 @@
  "license_name": "CC BY 4.0",
  "version": "2026-09-24",
  "release": "1.2.4",
- "source_commit": "b781c25fe07cdceb9685e0ce6b1b674c36d05230",
+ "source_commit": "286335b6db841fccf8142c7e983b93ee52d914ab",
  "reviewed": "2026-09-24",
  "jurisdictions": [
   {

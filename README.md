@@ -1,6 +1,6 @@
 # Insider Threat and Risk Architecture
 
-INTRA&trade; is a living, three level framework for building an
+INTRA&trade; is a living, three-level framework for building an
 insider risk management program in Europe.
 
 - A **pillar** is one of the nine parts a program is built out of. The

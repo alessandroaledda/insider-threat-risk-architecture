@@ -1,11 +1,11 @@
 ---
 title: Insider Threat and Risk Architecture
-subtitle: A living three level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
+subtitle: A living three-level framework for building an insider risk management program in Europe. Nine pillars, the measures under them, and what each European jurisdiction has established on each of them, every row from a source that has been read.
 reviewed: 2026-09-24
 contributors: Jiří Hološka · https://www.linkedin.com/in/holoska/ · Ph.D., Insider Threat and Incident Response Manager, University Lecturer · holoska-doucek · The first Czech source in the library, and the map of the Czech and Slovak statutes that will follow it.; Simon Ball · https://www.linkedin.com/in/simon-ball-itl/ · Founder and Director, Insider Threat Limited · MD018 · Pointed out that MD018 could be read as a capability rather than an exception. Its definition now states that the prior suspicion is what permits the observation, not what it is for.; Benedetto Paolucci · https://www.linkedin.com/in/benedetto-paolucci-cipp-e-998416260/ · Security and Loss Prevention Manager, Data protection expert CIPP/E · PS001,PS002,PS003,PS004,MD013,DP016 · Pointed at Directive 2022/2557 and at the Board's guidance on securing personal data, and asked where the record governs physical access rather than watching it. DP016 exists because it did not.
 ---
 
-Insider Threat and Risk Architecture (INTRA™) is a [r:living] three level framework for building an insider risk management program in Europe.
+Insider Threat and Risk Architecture (INTRA™) is a [r:living] three-level framework for building an insider risk management program in Europe.
 - **Pillar.** One of the nine parts a program is built out of. The nine do not change from one jurisdiction to another: what the law varies is what a program does inside a pillar, never which pillars it has.
 - **Measure.** A single action or deliverable under a pillar, and the unit a practitioner plans, budgets, and hands over. Almost all of them are the same thing in one European country as in another. A few exist only because a law somewhere created the need for them, and those are the ones that travel least.
 - **Control.** A measure as one European jurisdiction binds it. Where an instrument that binds there sets a condition on a measure, the measure so conditioned is a control, and it carries an identifier of its own. Where a standard or a study speaks to a measure instead, what stands against it is a row and not a control.
