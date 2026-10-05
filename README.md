@@ -30,7 +30,7 @@ reconciled afterwards.
 | Jurisdictions in scope | 34 |
 | Jurisdictions carrying something | 19 |
 | Rows established | 493 |
-| Of them binding, and so controls | 0 |
+| Of them binding, and so controls | 312 |
 | Sources read and annotated | 116 |
 
 ## What is here
