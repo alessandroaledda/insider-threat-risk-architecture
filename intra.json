@@ -8,10 +8,10 @@
  "canonical": "https://alessandroaledda.com/intra/",
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "license_name": "CC BY 4.0",
- "version": "2026-09-24",
- "release": "1.2.4",
- "source_commit": "2e1f4e879a53b5fcac6c53bbf411ba92e5943e48",
- "reviewed": "2026-09-24",
+ "version": "2026-10-05",
+ "release": "1.3.0",
+ "source_commit": "9ab5974b72f427334d15dc699dd289c563e67dde",
+ "reviewed": "2026-10-05",
  "jurisdictions": [
   {
    "code": "EU",
@@ -172,7 +172,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -201,6 +201,21 @@
          "title": "Insider Risk Mitigation Framework",
          "establishes": "A structure for an insider risk management program that an organization reviews itself against, with governance and culture as foundations rather than adjuncts.",
          "url": "https://alessandroaledda.com/intra/sources/#npsa-framework"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "For essential and important entities, the management body approves the cybersecurity risk management measures, supervises their implementation, and is accountable for non-compliance; the guidance restates article 20 of the Directive while the transposing Act is pending.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-boards-2026",
+         "title": "Guidance on Cyber Governance for Management Board Members in NIS2 entities",
+         "establishes": "That the management body of an essential or important entity approves the risk management measures, supervises their implementation, follows training and offers it to employees, and is accountable for non-compliance; that insider threats are among the threats a board identifies; and that an incident response plan, a classification procedure, a designated team, and external notification procedures are what response readiness holds.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-boards-2026"
         }
        ]
       }
@@ -436,7 +451,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-20",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "GV007/EU",
@@ -545,6 +560,57 @@
          "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
         }
        ]
+      },
+      {
+       "id": "GV007/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "The bases for processing to control employees are the balancing of interests or, for a public authority, public interest; consent is not one an employer can use. In the balancing, security reasons weigh more than efficiency reasons. Where cameras serve several purposes the legal basis is examined purpose by purpose, and surveillance to direct work and check how employees perform their tasks normally has none.",
+       "sources": [
+        {
+         "anchor": "imy-kontroll-anstallda",
+         "title": "Kontroll och övervakning av anställda",
+         "establishes": "That the bases for monitoring employees are the balancing of interests or, for public authorities, public interest, that consent is not one of them, that security reasons weigh more than efficiency reasons in the balancing, that employees are told in advance which controls may be made, that data collected for one purpose are not used for an incompatible other, and that the employer normally has no right to the content of an employee's private files or emails.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kontroll-anstallda"
+        },
+        {
+         "anchor": "imy-apotea-2023",
+         "title": "Beslut efter tillsyn, Apotea AB, kamerabevakning vid logistikcenter i Morgongåva",
+         "establishes": "That surveillance to direct work and check how employees perform their tasks normally has no legal basis under article 6, that the balancing is made purpose by purpose, that the integrity interest at a workplace weighs heavily as a starting point since an employee does not usually expect to be watched, and that surveillance to handle medicine incidents prevailed because it was limited to relevant areas, access was limited to three post-holders, logged, and used as a last resort, and the activity was one where employees could expect cameras more than usual.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-apotea-2023"
+        }
+       ]
+      },
+      {
+       "id": "GV007/CH",
+       "standing": "mandatory",
+       "jurisdiction": "CH",
+       "state": "established",
+       "requirement": "An infringement of personality is unlawful unless justified by the person’s consent, by an overriding private or public interest, or by law; processing is lawful, in good faith, proportionate, and for a purpose recognizable to the person.",
+       "sources": [
+        {
+         "anchor": "ch-dsg",
+         "title": "Bundesgesetz über den Datenschutz (DSG), SR 235.1, Artikel 6, 19, 21, 22, 24, 31, and 61",
+         "establishes": "That processing is lawful, in good faith, and proportionate, for a purpose recognizable to the person and compatible with it, that the controller informs the person of the collection, that a decision resting on automated processing alone with legal or significant effect is disclosed to the person, that a prior impact assessment is made where processing may carry a high risk for the personality or fundamental rights, that a security breach likely to carry a high risk is notified to the EDÖB as fast as possible, that an infringement of personality is unlawful unless justified by consent, an overriding private or public interest, or law, and that natural persons are fined up to CHF 250,000 for the listed intentional breaches.",
+         "url": "https://alessandroaledda.com/intra/sources/#ch-dsg"
+        }
+       ]
+      },
+      {
+       "id": "GV007/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Processing for the surveillance of employees in the employment relationship rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, and the employer undertakes formally not to use the data for a purpose other than the one stated in the prior information.",
+       "sources": [
+        {
+         "anchor": "lu-ct-261",
+         "title": "Code du travail, articles L.261-1 and L.261-2",
+         "establishes": "That processing for the surveillance of employees rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, that the representation of the staff is informed collectively beforehand of the purpose, the modalities, the retention, and a formal undertaking not to use the data for another purpose, that the délégation, or failing it the employees, may within 15 days ask the CNPD for a prior opinion with suspensive effect, the CNPD ruling within one month, that for three purposes articles L.211-8 and L.414-9 apply, that a complaint to the CNPD is neither a grave nor a legitimate ground of dismissal, and that breach is a criminal offence.",
+         "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
+        }
+       ]
       }
      ]
     },
@@ -557,7 +623,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "GV008/EU",
@@ -603,6 +669,93 @@
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "A large-scale CCTV system calls for a DPIA, a covert system calls for one before installation, and the DPO is consulted on any DPIA that is carried out.",
+       "sources": [
+        {
+         "anchor": "dpc-cctv-2023",
+         "title": "Guidance on the Use of CCTV, For Data Controllers",
+         "establishes": "That staff monitoring by camera belongs to special circumstances only, that employees are told where cameras are and why, that footage justified for security is not used for attendance or performance, that a case-by-case use for a disciplinary matter has to be shown necessary and limited in scope, that covert surveillance is generally unlawful and exceptionally permitted for offences only under a written policy and after a DPIA, and that a DPIA in the employment context could engage trade union or safety representatives.",
+         "url": "https://alessandroaledda.com/intra/sources/#dpc-cctv-2023"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "SE",
+       "state": "recommended",
+       "requirement": "Before cameras go up the employer sets out, in a documented assessment, the problem they solve, why less intrusive measures do not suffice, and how the employees’ integrity is protected.",
+       "sources": [
+        {
+         "anchor": "imy-kamera-arbetsplats",
+         "title": "Så får du som arbetsgivare kamerabevaka på arbetsplatsen",
+         "establishes": "That cameras at work serve the prevention of accidents or crime, that filming employees to check how they perform is not allowed, that the employer first sets out the problem, why less intrusive measures do not suffice, and how integrity is protected, negotiates with the union, and informs, and that hidden cameras, cameras in toilets and changing rooms, and audio are out or rarely permitted.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kamera-arbetsplats"
+        }
+       ]
+      },
+      {
+       "id": "GV008/CH",
+       "standing": "mandatory",
+       "jurisdiction": "CH",
+       "state": "established",
+       "requirement": "A prior impact assessment is made where processing may carry a high risk for the personality or fundamental rights of the person. The business examines and justifies in writing the overriding interest and the proportionality of a planned monitoring or control system, and produces the justification to the cantonal labour inspectorate on request.",
+       "sources": [
+        {
+         "anchor": "ch-dsg",
+         "title": "Bundesgesetz über den Datenschutz (DSG), SR 235.1, Artikel 6, 19, 21, 22, 24, 31, and 61",
+         "establishes": "That processing is lawful, in good faith, and proportionate, for a purpose recognizable to the person and compatible with it, that the controller informs the person of the collection, that a decision resting on automated processing alone with legal or significant effect is disclosed to the person, that a prior impact assessment is made where processing may carry a high risk for the personality or fundamental rights, that a security breach likely to carry a high risk is notified to the EDÖB as fast as possible, that an infringement of personality is unlawful unless justified by consent, an overriding private or public interest, or law, and that natural persons are fined up to CHF 250,000 for the listed intentional breaches.",
+         "url": "https://alessandroaledda.com/intra/sources/#ch-dsg"
+        },
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "PT",
+       "state": "recommended",
+       "requirement": "Before the internal rules on use and control of ICT are set, the employer assesses their impact. Before geolocation is installed, the employer assesses its impact.",
+       "sources": [
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        },
+        {
+         "anchor": "cnpd-7680-2014",
+         "title": "Deliberação n.º 7680/2014, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes da utilização de tecnologias de geolocalização no contexto laboral",
+         "establishes": "That geolocation of vehicles is admitted for fleet management in external service in five activities, that protection of goods is weighed strictly and does not cover every vehicle, that geolocation of mobile phones is excessive for both purposes and the employer neither obtains location data from the operator nor installs GPS applications, that location data are never used to control performance, that indications of a crime may support a criminal complaint and a disciplinary proceeding where the facts themselves breach the worker's duties, that driving parameters tied to the driver are anonymized, and that the purpose of fleet management is spent in the real-time view or the last position.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-7680-2014"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "LU",
+       "state": "recommended",
+       "requirement": "A geolocation system in principle requires an impact assessment, the CNPD’s list of processing that always requires one covering regular and systematic control of employees’ activities and systematic tracking of location.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-geo-2021",
+         "title": "Lignes directrices en matière de géolocalisation des véhicules mis à la disposition des salariés",
+         "establishes": "That geolocation of a vehicle given to an employee is always surveillance under article L.261-1, that the employer does not monitor the employee outside working hours, so a vehicle also used privately carries a deactivation under the employee's control and a vehicle for professional use only may stay located permanently, that the data are not used to observe performance or behaviour outside the initial purposes, so a system installed against theft does not serve to check speeding, time between clients, or route, nor to found disciplinary measures, that location data are kept two months at most, three years where the system is the only means of checking working time (five in the public sector), one year for billing evidence, and that a geolocation system in principle requires an impact assessment.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-geo-2021"
+        }
+       ]
       }
      ]
     },
@@ -643,7 +796,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-20",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "GV010/FR",
@@ -794,6 +947,105 @@
          "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "In the employment context the stakeholders a DPIA engages could include trade union or safety representatives. No Irish statute requires information or consultation of worker representatives before monitoring is introduced.",
+       "sources": [
+        {
+         "anchor": "dpc-cctv-2023",
+         "title": "Guidance on the Use of CCTV, For Data Controllers",
+         "establishes": "That staff monitoring by camera belongs to special circumstances only, that employees are told where cameras are and why, that footage justified for security is not used for attendance or performance, that a case-by-case use for a disciplinary matter has to be shown necessary and limited in scope, that covert surveillance is generally unlawful and exceptionally permitted for offences only under a written policy and after a DPIA, and that a DPIA in the employment context could engage trade union or safety representatives.",
+         "url": "https://alessandroaledda.com/intra/sources/#dpc-cctv-2023"
+        }
+       ]
+      },
+      {
+       "id": "GV010/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "An employer bound by a collective agreement negotiates with the organization on its own initiative before deciding an important change of its operations or of the work or employment conditions of the organization’s members; where special reasons require it, the decision may precede the negotiation. An employer’s decision on camera surveillance of a workplace is subject to the negotiation duty of 11-14 §§ of the Co-determination Act. The employer usually negotiates with the union before switching on location services, and negotiates before cameras are installed.",
+       "sources": [
+        {
+         "anchor": "se-mbl",
+         "title": "Lag (1976:580) om medbestämmande i arbetslivet, 11 §, 12 §, and 19 §",
+         "establishes": "That an employer bound by a collective agreement negotiates on its own initiative, before deciding, with the organization it is bound to, on an important change of its operations or of the work or employment conditions of the organization's members, that it may decide first only where special reasons require it, that the organization may call negotiation on other matters, and that the employer keeps the organization informed of how its operations develop.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-mbl"
+        },
+        {
+         "anchor": "se-kbl",
+         "title": "Kamerabevakningslag (2018:1200), 15 §, 21 §, and 22 §",
+         "establishes": "That notice of camera surveillance is given by clear signage or in another effective way, with a separate notice for sound, that an employer's decision on camera surveillance of a workplace is subject to the negotiation duty of 11-14 §§ MBL, and that the material is covered by confidentiality.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-kbl"
+        },
+        {
+         "anchor": "imy-gps",
+         "title": "Så får du som arbetsgivare använda platstjänster (GPS)",
+         "establishes": "That positioning is allowed where a concrete operational need justifies it, that real-time monitoring of employees without such a need is not, that secret monitoring is a breach, that employees are told what is collected, why, where, for how long, and who sees it, and that the employer usually negotiates with the union before switching location services on.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-gps"
+        },
+        {
+         "anchor": "imy-kamera-arbetsplats",
+         "title": "Så får du som arbetsgivare kamerabevaka på arbetsplatsen",
+         "establishes": "That cameras at work serve the prevention of accidents or crime, that filming employees to check how they perform is not allowed, that the employer first sets out the problem, why less intrusive measures do not suffice, and how integrity is protected, negotiates with the union, and informs, and that hidden cameras, cameras in toilets and changing rooms, and audio are out or rarely permitted.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kamera-arbetsplats"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "The participation of employees in the planning, installation, hours of operation, and retention period of a monitoring or control system is one of the three conditions of its admissibility; where a system required for other reasons can also monitor employees, they have a right to information and consultation under articles 5 and 6 ArGV 3.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "GV010/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "The request for authorization of remote surveillance is accompanied by the opinion of the comissão de trabalhadores, or, where it is not given within 10 days of consultation, by proof that it was requested. The internal regulation on use and control of ICT is heard by the comissão de trabalhadores or other representative structure under article 99(2) of the Labour Code, published, and sent to the ACT; access to a mailbox takes place preferably in the presence of a representative of the comissão de trabalhadores, a union delegate, or a person the worker names.",
+       "sources": [
+        {
+         "anchor": "pt-ct",
+         "title": "Código do Trabalho, articles 17, 20, 21, 22, and 170-A",
+         "establishes": "That remote surveillance to control the worker's professional performance is prohibited, that it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it, that the worker is informed of its existence and purpose, that its use is subject to authorization by the CNPD on a request accompanied by the opinion of the comissão de trabalhadores, that the notice reads \"Este local encontra-se sob vigilância de um circuito fechado de televisão\", that the data are kept only for the period the purpose needs and destroyed on the worker's transfer or on termination, that the worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, the employer's power to set rules of use notwithstanding, and that in telework the employer may not capture image, sound, writing, or history, nor impose permanent connection by image or sound.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-ct"
+        },
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
+      },
+      {
+       "id": "GV010/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Before surveillance is introduced the délégation du personnel, or failing one the Inspection du travail et des mines, is informed collectively of the purpose in detail, the modalities of the system, the retention period or criteria, and the formal undertaking not to use the data otherwise; within 15 days the délégation, or failing it the employees concerned, may ask the CNPD for a prior opinion on the project, which suspends it until the CNPD rules within one month; where the surveillance serves health and safety, control of production or performance as the only means of fixing exact pay, or flexible working hours, articles L.211-8 and L.414-9 apply.",
+       "sources": [
+        {
+         "anchor": "lu-ct-261",
+         "title": "Code du travail, articles L.261-1 and L.261-2",
+         "establishes": "That processing for the surveillance of employees rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, that the representation of the staff is informed collectively beforehand of the purpose, the modalities, the retention, and a formal undertaking not to use the data for another purpose, that the délégation, or failing it the employees, may within 15 days ask the CNPD for a prior opinion with suspensive effect, the CNPD ruling within one month, that for three purposes articles L.211-8 and L.414-9 apply, that a complaint to the CNPD is neither a grave nor a legitimate ground of dismissal, and that breach is a criminal offence.",
+         "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
+        }
+       ]
       }
      ]
     },
@@ -926,7 +1178,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "GV014/EU",
@@ -972,6 +1224,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
+      },
+      {
+       "id": "GV014/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "A complaint to the CNPD by an employee concerned is neither a grave nor a legitimate ground of dismissal.",
+       "sources": [
+        {
+         "anchor": "lu-ct-261",
+         "title": "Code du travail, articles L.261-1 and L.261-2",
+         "establishes": "That processing for the surveillance of employees rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, that the representation of the staff is informed collectively beforehand of the purpose, the modalities, the retention, and a formal undertaking not to use the data for another purpose, that the délégation, or failing it the employees, may within 15 days ask the CNPD for a prior opinion with suspensive effect, the CNPD ruling within one month, that for three purposes articles L.211-8 and L.414-9 apply, that a complaint to the CNPD is neither a grave nor a legitimate ground of dismissal, and that breach is a criminal offence.",
+         "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
+        }
+       ]
       }
      ]
     }
@@ -992,7 +1259,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -1117,6 +1384,36 @@
          "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
          "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
          "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
+      },
+      {
+       "id": "PS001/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "For security-sensitive activities, vetting precedes participation and rests on a basic investigation, a register check, and where required a special personal investigation, with the post placed in one of three security classes.",
+       "sources": [
+        {
+         "anchor": "se-sakerhetsskyddslag",
+         "title": "Säkerhetsskyddslag (2018:585), 2 kap. 4 § and 3 kap.",
+         "establishes": "For security-sensitive activities, that personnel security prevents persons who are not reliable from a security standpoint from taking part, that vetting is made before participation begins and followed up for as long as it lasts, that it rests on a basic investigation, register checks, and where required a special personal investigation, that posts are placed in security classes 1 to 3, and that register data are drawn continuously during participation.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-sakerhetsskyddslag"
+        }
+       ]
+      },
+      {
+       "id": "PS001/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "For entities in scope, the processes that govern human resources, selection of candidates and hiring among them, are assessed and reviewed against the entity’s cybersecurity requirements.",
+       "sources": [
+        {
+         "anchor": "pt-reg-756-2026",
+         "title": "Regulamento n.º 756/2026, Regulamento do Regime Jurídico da Cibersegurança",
+         "establishes": "For entities in scope, that HR processes, selection, hiring, position categorization, and termination, are assessed against the entity's cybersecurity requirements, that identities and credentials are issued, managed, verified, revoked, and audited, that access follows need to know and least privilege, that privileged passwords sit in a password manager and remote and privileged access carries multi-factor authentication, that logs are collected, stored, protected, and reviewed regularly, their retention set by risk and proportionality, failures in log processing raising alerts and critical systems' logs stored on an autonomous system, that internal and external threats, intentional or accidental, are identified, that all staff receive awareness and training under a measured plan which includes awareness of internal threats, and that a significant incident is notified through the CNCS platform in an initial notification, an end-of-impact notification, and a final or interim report.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
         }
        ]
       }
@@ -1334,7 +1631,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -1399,6 +1696,21 @@
          "title": "Katakri 2020",
          "establishes": "The criteria an authority audits against, among them the requirement to recognize which functions call for special trustworthiness, a clearance graded on three scales, and log retention set by the limitation periods of the criminal law.",
          "url": "https://alessandroaledda.com/intra/sources/#fi-katakri"
+        }
+       ]
+      },
+      {
+       "id": "PS004/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "For security-sensitive activities, the vetting is followed up for as long as participation lasts, and register data are drawn continuously during it; the Act sets no interval.",
+       "sources": [
+        {
+         "anchor": "se-sakerhetsskyddslag",
+         "title": "Säkerhetsskyddslag (2018:585), 2 kap. 4 § and 3 kap.",
+         "establishes": "For security-sensitive activities, that personnel security prevents persons who are not reliable from a security standpoint from taking part, that vetting is made before participation begins and followed up for as long as it lasts, that it rests on a basic investigation, register checks, and where required a special personal investigation, that posts are placed in security classes 1 to 3, and that register data are drawn continuously during participation.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-sakerhetsskyddslag"
         }
        ]
       }
@@ -1550,7 +1862,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "PS007/EU",
@@ -1641,6 +1953,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "For Public Service Bodies, the joiner, mover, leaver policy states how access is changed for movers, and user permissions are reviewed when people change roles.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-baseline",
+         "title": "Cyber Security Baseline Standards, Revision 1",
+         "establishes": "For Public Service Bodies, that an access control policy on least privilege is defined and communicated, that a joiner, mover, leaver policy revokes access no longer required, that user permissions are reviewed monthly and on role change and privileged accounts on a defined schedule, that logging is enabled with a monitoring capability able to tie a user to suspicious activity, and that awareness training is mandatory for all staff.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-baseline"
+        }
+       ]
       }
      ]
     },
@@ -1653,7 +1980,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -1763,6 +2090,42 @@
          "title": "Katakri 2020",
          "establishes": "The criteria an authority audits against, among them the requirement to recognize which functions call for special trustworthiness, a clearance graded on three scales, and log retention set by the limitation periods of the criminal law.",
          "url": "https://alessandroaledda.com/intra/sources/#fi-katakri"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "For Public Service Bodies, the joiner, mover, leaver policy states how access is revoked when it is no longer required, and third parties hold approved access only for the period their role needs.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-baseline",
+         "title": "Cyber Security Baseline Standards, Revision 1",
+         "establishes": "For Public Service Bodies, that an access control policy on least privilege is defined and communicated, that a joiner, mover, leaver policy revokes access no longer required, that user permissions are reviewed monthly and on role change and privileged accounts on a defined schedule, that logging is enabled with a monitoring capability able to tie a user to suspicious activity, and that awareness training is mandatory for all staff.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-baseline"
+        }
+       ]
+      },
+      {
+       "id": "PS008/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "For entities in scope, termination of the employment relationship is among the HR processes assessed against cybersecurity requirements, and credentials are revoked under the instituted processes. Data from remote surveillance are destroyed on the worker’s transfer to another workplace or on termination of the contract.",
+       "sources": [
+        {
+         "anchor": "pt-reg-756-2026",
+         "title": "Regulamento n.º 756/2026, Regulamento do Regime Jurídico da Cibersegurança",
+         "establishes": "For entities in scope, that HR processes, selection, hiring, position categorization, and termination, are assessed against the entity's cybersecurity requirements, that identities and credentials are issued, managed, verified, revoked, and audited, that access follows need to know and least privilege, that privileged passwords sit in a password manager and remote and privileged access carries multi-factor authentication, that logs are collected, stored, protected, and reviewed regularly, their retention set by risk and proportionality, failures in log processing raising alerts and critical systems' logs stored on an autonomous system, that internal and external threats, intentional or accidental, are identified, that all staff receive awareness and training under a measured plan which includes awareness of internal threats, and that a significant incident is notified through the CNCS platform in an initial notification, an end-of-impact notification, and a final or interim report.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
+        },
+        {
+         "anchor": "pt-ct",
+         "title": "Código do Trabalho, articles 17, 20, 21, 22, and 170-A",
+         "establishes": "That remote surveillance to control the worker's professional performance is prohibited, that it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it, that the worker is informed of its existence and purpose, that its use is subject to authorization by the CNPD on a request accompanied by the opinion of the comissão de trabalhadores, that the notice reads \"Este local encontra-se sob vigilância de um circuito fechado de televisão\", that the data are kept only for the period the purpose needs and destroyed on the worker's transfer or on termination, that the worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, the employer's power to set rules of use notwithstanding, and that in telework the employer may not capture image, sound, writing, or history, nor impose permanent connection by image or sound.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-ct"
         }
        ]
       }
@@ -2126,7 +2489,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "DP004/EU",
@@ -2193,6 +2556,78 @@
          "url": "https://alessandroaledda.com/intra/sources/#es-ens"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "For Public Service Bodies, an access control policy on least privilege is defined, approved by management, published, and communicated to employees and external parties, and it separates the request of access from its authorization.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-baseline",
+         "title": "Cyber Security Baseline Standards, Revision 1",
+         "establishes": "For Public Service Bodies, that an access control policy on least privilege is defined and communicated, that a joiner, mover, leaver policy revokes access no longer required, that user permissions are reviewed monthly and on role change and privileged accounts on a defined schedule, that logging is enabled with a monitoring capability able to tie a user to suspicious activity, and that awareness training is mandatory for all staff.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-baseline"
+        }
+       ]
+      },
+      {
+       "id": "DP004/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "For operators in scope, the measures taken include access control and asset management. For state authorities, only authorized users and systems reach the IT environment, and no digital identity holds more access than it needs.",
+       "sources": [
+        {
+         "anchor": "se-cybersakerhetslag",
+         "title": "Cybersäkerhetslag (2025:1506)",
+         "establishes": "That operators in scope take appropriate and proportionate technical, operational, and organizational measures that include access control and asset management, personnel security, cryptography, and cyber hygiene and training, that the persons in an operator's management undergo training on security measures, that a significant incident is notified within 24 hours of knowledge and reported within 72 hours with a final report within one month, and that the government designates the supervisory authority or authorities.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-cybersakerhetslag"
+        },
+        {
+         "anchor": "msbfs-2020-7",
+         "title": "MSBFS 2020:7, föreskrifter om säkerhetsåtgärder i informationssystem för statliga myndigheter",
+         "establishes": "For state authorities, that only authorized users and systems reach the IT environment and that no digital identity has more access than it needs, that administrative identities are used for administration only and assigned restrictively, that security logs record failed access attempts, configuration changes, changes of privileges, and access to protected information, and that the logs are analysed to detect and handle incidents and deviations.",
+         "url": "https://alessandroaledda.com/intra/sources/#msbfs-2020-7"
+        }
+       ]
+      },
+      {
+       "id": "DP004/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "For entities in scope, access and permissions are granted on need to know and least privilege under an access and permissions policy, and identities and credentials are issued, managed, verified, revoked, and audited. Commercial, industrial, and intellectual property secrecy is protected upstream by strict access control to the confidential information, and not by reading email.",
+       "sources": [
+        {
+         "anchor": "pt-reg-756-2026",
+         "title": "Regulamento n.º 756/2026, Regulamento do Regime Jurídico da Cibersegurança",
+         "establishes": "For entities in scope, that HR processes, selection, hiring, position categorization, and termination, are assessed against the entity's cybersecurity requirements, that identities and credentials are issued, managed, verified, revoked, and audited, that access follows need to know and least privilege, that privileged passwords sit in a password manager and remote and privileged access carries multi-factor authentication, that logs are collected, stored, protected, and reviewed regularly, their retention set by risk and proportionality, failures in log processing raising alerts and critical systems' logs stored on an autonomous system, that internal and external threats, intentional or accidental, are identified, that all staff receive awareness and training under a measured plan which includes awareness of internal threats, and that a significant incident is notified through the CNCS platform in an initial notification, an end-of-impact notification, and a final or interim report.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
+        },
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
+      },
+      {
+       "id": "DP004/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Access to the geolocation software is by individual accounts, identifier and password, created only for the persons for whom access is strictly necessary to their tasks; shared accounts breached article 32.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-11fr-2021",
+         "title": "Délibération n° 11FR/2021",
+         "establishes": "That location data kept two years and four months for geographic tracking, protection of goods, and working time of travelling employees exceeded what the purposes needed, that a retention set per purpose is owed, two months for location, one year for billing evidence, three years for working time, that the employees were not informed as article 13 requires, and that access to the geolocation software through shared accounts breached article 32, individual accounts being owed only to those for whom access is strictly necessary to their tasks.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-11fr-2021"
+        }
+       ]
       }
      ]
     },
@@ -2205,7 +2640,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "DP005/EU",
@@ -2296,6 +2731,51 @@
          "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "For Public Service Bodies, the granting of highly privileged rights is strictly controlled and their ongoing need reviewed regularly, administrative accounts are separated from user accounts, and a secure listing of users with administrative privileges is maintained.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-baseline",
+         "title": "Cyber Security Baseline Standards, Revision 1",
+         "establishes": "For Public Service Bodies, that an access control policy on least privilege is defined and communicated, that a joiner, mover, leaver policy revokes access no longer required, that user permissions are reviewed monthly and on role change and privileged accounts on a defined schedule, that logging is enabled with a monitoring capability able to tie a user to suspicious activity, and that awareness training is mandatory for all staff.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-baseline"
+        }
+       ]
+      },
+      {
+       "id": "DP005/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "For state authorities, identities that give administrative privileges are used for administration only and assigned restrictively.",
+       "sources": [
+        {
+         "anchor": "msbfs-2020-7",
+         "title": "MSBFS 2020:7, föreskrifter om säkerhetsåtgärder i informationssystem för statliga myndigheter",
+         "establishes": "For state authorities, that only authorized users and systems reach the IT environment and that no digital identity has more access than it needs, that administrative identities are used for administration only and assigned restrictively, that security logs record failed access attempts, configuration changes, changes of privileges, and access to protected information, and that the logs are analysed to detect and handle incidents and deviations.",
+         "url": "https://alessandroaledda.com/intra/sources/#msbfs-2020-7"
+        }
+       ]
+      },
+      {
+       "id": "DP005/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "For entities in scope, passwords for privileged access are held in a password management solution, and remote and privileged accounts carry multi-factor authentication.",
+       "sources": [
+        {
+         "anchor": "pt-reg-756-2026",
+         "title": "Regulamento n.º 756/2026, Regulamento do Regime Jurídico da Cibersegurança",
+         "establishes": "For entities in scope, that HR processes, selection, hiring, position categorization, and termination, are assessed against the entity's cybersecurity requirements, that identities and credentials are issued, managed, verified, revoked, and audited, that access follows need to know and least privilege, that privileged passwords sit in a password manager and remote and privileged access carries multi-factor authentication, that logs are collected, stored, protected, and reviewed regularly, their retention set by risk and proportionality, failures in log processing raising alerts and critical systems' logs stored on an autonomous system, that internal and external threats, intentional or accidental, are identified, that all staff receive awareness and training under a measured plan which includes awareness of internal threats, and that a significant incident is notified through the CNCS platform in an initial notification, an end-of-impact notification, and a final or interim report.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
+        }
+       ]
       }
      ]
     },
@@ -2308,7 +2788,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "DP006/EU",
@@ -2367,6 +2847,21 @@
          "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
          "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
          "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "For Public Service Bodies, user permissions are reviewed monthly and on role change, and privileged accounts on a defined schedule, weekly, monthly, or three-monthly, or following any incident.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-baseline",
+         "title": "Cyber Security Baseline Standards, Revision 1",
+         "establishes": "For Public Service Bodies, that an access control policy on least privilege is defined and communicated, that a joiner, mover, leaver policy revokes access no longer required, that user permissions are reviewed monthly and on role change and privileged accounts on a defined schedule, that logging is enabled with a monitoring capability able to tie a user to suspicious activity, and that awareness training is mandatory for all staff.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-baseline"
         }
        ]
       }
@@ -2749,7 +3244,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-20",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "DP012/NO",
@@ -2840,6 +3335,78 @@
          "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
         }
        ]
+      },
+      {
+       "id": "DP012/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "Oral reports are documented by recording or minutes, and written reports and documentation are kept no longer than two years after the follow-up case is closed.",
+       "sources": [
+        {
+         "anchor": "se-visselblasarlag",
+         "title": "Lag (2021:890) om skydd för personer som rapporterar om missförhållanden",
+         "establishes": "That an operator with 50 or more workers at the start of the calendar year has internal reporting channels, run by independent and autonomous persons or units, that receipt is confirmed within seven days and feedback given within three months, that oral reports are documented and documentation kept no longer than two years after the follow-up case is closed, and that whoever handles a report may not disclose what reveals the reporter's identity.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-visselblasarlag"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "Monitoring data are deleted after the shortest period fixed in advance, and archiving them after the control for security reasons is impermissible.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "DP012/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "Data from the control of private use of ICT are kept at most six months, save during a disciplinary or judicial proceeding; the logs of access to the monitoring system are kept one year. Remote surveillance data are kept for the period the purpose needs and destroyed on transfer or termination; breach of the retention rule is a contraordenação grave.",
+       "sources": [
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        },
+        {
+         "anchor": "pt-ct",
+         "title": "Código do Trabalho, articles 17, 20, 21, 22, and 170-A",
+         "establishes": "That remote surveillance to control the worker's professional performance is prohibited, that it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it, that the worker is informed of its existence and purpose, that its use is subject to authorization by the CNPD on a request accompanied by the opinion of the comissão de trabalhadores, that the notice reads \"Este local encontra-se sob vigilância de um circuito fechado de televisão\", that the data are kept only for the period the purpose needs and destroyed on the worker's transfer or on termination, that the worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, the employer's power to set rules of use notwithstanding, and that in telework the employer may not capture image, sound, writing, or history, nor impose permanent connection by image or sound.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-ct"
+        }
+       ]
+      },
+      {
+       "id": "DP012/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Location data are kept two months at most; where the system is the only means of checking working time, three years (five in the public sector); where used as billing evidence, the necessary data one year. Location data kept two years and four months for tracking, protection of goods, and working time exceeded the purposes; the retention is set per purpose, two months, one year for billing, three years for working time.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-geo-2021",
+         "title": "Lignes directrices en matière de géolocalisation des véhicules mis à la disposition des salariés",
+         "establishes": "That geolocation of a vehicle given to an employee is always surveillance under article L.261-1, that the employer does not monitor the employee outside working hours, so a vehicle also used privately carries a deactivation under the employee's control and a vehicle for professional use only may stay located permanently, that the data are not used to observe performance or behaviour outside the initial purposes, so a system installed against theft does not serve to check speeding, time between clients, or route, nor to found disciplinary measures, that location data are kept two months at most, three years where the system is the only means of checking working time (five in the public sector), one year for billing evidence, and that a geolocation system in principle requires an impact assessment.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-geo-2021"
+        },
+        {
+         "anchor": "cnpd-lu-11fr-2021",
+         "title": "Délibération n° 11FR/2021",
+         "establishes": "That location data kept two years and four months for geographic tracking, protection of goods, and working time of travelling employees exceeded what the purposes needed, that a retention set per purpose is owed, two months for location, one year for billing evidence, three years for working time, that the employees were not informed as article 13 requires, and that access to the geolocation software through shared accounts breached article 32, individual accounts being owed only to those for whom access is strictly necessary to their tasks.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-11fr-2021"
+        }
+       ]
       }
      ]
     },
@@ -2852,7 +3419,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -2883,6 +3450,51 @@
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "Access to the collected monitoring data is regulated internally and limited to the persons authorized to evaluate them.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "PT",
+       "state": "recommended",
+       "requirement": "A specific access profile exists for the control purpose, access is only by accounts that identify the individual univocally, and the servers hold a record of access to the sensitive information for internal and external audit.",
+       "sources": [
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
+      },
+      {
+       "id": "DP013/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Individual accounts on the monitoring system only for those whose tasks strictly require access.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-11fr-2021",
+         "title": "Délibération n° 11FR/2021",
+         "establishes": "That location data kept two years and four months for geographic tracking, protection of goods, and working time of travelling employees exceeded what the purposes needed, that a retention set per purpose is owed, two months for location, one year for billing evidence, three years for working time, that the employees were not informed as article 13 requires, and that access to the geolocation software through shared accounts breached article 32, individual accounts being owed only to those for whom access is strictly necessary to their tasks.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-11fr-2021"
+        }
+       ]
       }
      ]
     },
@@ -2895,7 +3507,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "DP014/IT",
@@ -2954,6 +3566,21 @@
          "title": "Österreichisches Informationssicherheitshandbuch 4.4.0",
          "establishes": "That logging is only effective as a security measure once someone independent reads it, that where nobody independent can, the administrators' own activity is what stops being checkable, and that the evaluation goes before the Data Protection Officer either way.",
          "url": "https://alessandroaledda.com/intra/sources/#at-ishb"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "SE",
+       "state": "recommended",
+       "requirement": "The employer normally has no right to the content of an employee’s private files or emails.",
+       "sources": [
+        {
+         "anchor": "imy-kontroll-anstallda",
+         "title": "Kontroll och övervakning av anställda",
+         "establishes": "That the bases for monitoring employees are the balancing of interests or, for public authorities, public interest, that consent is not one of them, that security reasons weigh more than efficiency reasons in the balancing, that employees are told in advance which controls may be made, that data collected for one purpose are not used for an incompatible other, and that the employer normally has no right to the content of an employee's private files or emails.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kontroll-anstallda"
         }
        ]
       }
@@ -3047,7 +3674,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -3078,6 +3705,36 @@
          "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "Insider threats are named among the threat actors and threats an entity identifies against its assets, beside ransomware, supply chain compromise, and state-sponsored actors.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-boards-2026",
+         "title": "Guidance on Cyber Governance for Management Board Members in NIS2 entities",
+         "establishes": "That the management body of an essential or important entity approves the risk management measures, supervises their implementation, follows training and offers it to employees, and is accountable for non-compliance; that insider threats are among the threats a board identifies; and that an incident response plan, a classification procedure, a designated team, and external notification procedures are what response readiness holds.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-boards-2026"
+        }
+       ]
+      },
+      {
+       "id": "MD001/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "For entities in scope, threats are identified and documented as internal or external, natural or human, accidental or intentional.",
+       "sources": [
+        {
+         "anchor": "pt-reg-756-2026",
+         "title": "Regulamento n.º 756/2026, Regulamento do Regime Jurídico da Cibersegurança",
+         "establishes": "For entities in scope, that HR processes, selection, hiring, position categorization, and termination, are assessed against the entity's cybersecurity requirements, that identities and credentials are issued, managed, verified, revoked, and audited, that access follows need to know and least privilege, that privileged passwords sit in a password manager and remote and privileged access carries multi-factor authentication, that logs are collected, stored, protected, and reviewed regularly, their retention set by risk and proportionality, failures in log processing raising alerts and critical systems' logs stored on an autonomous system, that internal and external threats, intentional or accidental, are identified, that all staff receive awareness and training under a measured plan which includes awareness of internal threats, and that a significant incident is notified through the CNCS platform in an initial notification, an end-of-impact notification, and a final or interim report.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
+        }
+       ]
       }
      ]
     },
@@ -3090,7 +3747,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD002/EU",
@@ -3239,6 +3896,42 @@
          "title": "CyberFundamentals 2025, Essential",
          "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
          "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "For Public Service Bodies, logging is enabled to provide the information needed to respond to incidents, proportionate to the system, the threat, and the resources, with datasets time-synchronised; backups of logs are retained longer than the time an incident may take to detect; analysis runs on copies with the master unaltered; access to log data is limited to those with a business need.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-baseline",
+         "title": "Cyber Security Baseline Standards, Revision 1",
+         "establishes": "For Public Service Bodies, that an access control policy on least privilege is defined and communicated, that a joiner, mover, leaver policy revokes access no longer required, that user permissions are reviewed monthly and on role change and privileged accounts on a defined schedule, that logging is enabled with a monitoring capability able to tie a user to suspicious activity, and that awareness training is mandatory for all staff.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-baseline"
+        }
+       ]
+      },
+      {
+       "id": "MD002/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "For entities in scope, logs are collected, stored, protected, and reviewed regularly, their retention set by the risk of the systems and the activities and by proportionality; failures in log processing raise alerts; logs of critical systems are stored on an autonomous system. Access to the monitoring system is logged with user, timestamp, operation, a sequential id, and a hash over them, digitally signed for legal validity; anomalous situations are defined to feed an alarm system; a log analysis policy produces periodic reports kept for the CNPD.",
+       "sources": [
+        {
+         "anchor": "pt-reg-756-2026",
+         "title": "Regulamento n.º 756/2026, Regulamento do Regime Jurídico da Cibersegurança",
+         "establishes": "For entities in scope, that HR processes, selection, hiring, position categorization, and termination, are assessed against the entity's cybersecurity requirements, that identities and credentials are issued, managed, verified, revoked, and audited, that access follows need to know and least privilege, that privileged passwords sit in a password manager and remote and privileged access carries multi-factor authentication, that logs are collected, stored, protected, and reviewed regularly, their retention set by risk and proportionality, failures in log processing raising alerts and critical systems' logs stored on an autonomous system, that internal and external threats, intentional or accidental, are identified, that all staff receive awareness and training under a measured plan which includes awareness of internal threats, and that a significant incident is notified through the CNCS platform in an initial notification, an end-of-impact notification, and a final or interim report.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
+        },
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
         }
        ]
       }
@@ -3401,7 +4094,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-20",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD004/EU",
@@ -3573,6 +4266,54 @@
          "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
         }
        ]
+      },
+      {
+       "id": "MD004/CH",
+       "standing": "mandatory",
+       "jurisdiction": "CH",
+       "state": "established",
+       "requirement": "Monitoring and control systems meant to monitor the behaviour of employees at the workplace may not be used. IT tools that monitor the computer or phone activity of employees at work or at home, email, spyware, activity trackers, app or web logs, mouse or keyboard logs among them, are behaviour monitoring systems. Spyware installed covertly on an employee’s computer for three months, taking screenshots, is behaviour monitoring prohibited by article 26 ArGV 3 and disproportionate.",
+       "sources": [
+        {
+         "anchor": "argv3-26",
+         "title": "Verordnung 3 zum Arbeitsgesetz (ArGV 3), Artikel 26",
+         "establishes": "That monitoring and control systems meant to monitor the behaviour of employees at the workplace may not be used, and that systems required for other reasons are designed and placed so that they do not impair the health and freedom of movement of employees.",
+         "url": "https://alessandroaledda.com/intra/sources/#argv3-26"
+        },
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        },
+        {
+         "anchor": "bge-139-ii-7",
+         "title": "BGE 139 II 7",
+         "establishes": "That covert spyware on an employee's computer for three months, taking screenshots, is behaviour monitoring prohibited by article 26 ArGV 3 and disproportionate, that a signed IT usage directive gives general notice of controls and does not authorize it, that the lawful sequence is technical prevention, then anonymized analysis of logs, then named analysis of access logs on concrete suspicion of abuse, that the evidence so obtained is excluded because the employee's personality interest outweighs the interest in the truth, and that the dismissal resting on it was annulled.",
+         "url": "https://alessandroaledda.com/intra/sources/#bge-139-ii-7"
+        }
+       ]
+      },
+      {
+       "id": "MD004/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "In telework the employer may not capture image, sound, writing, or history, nor use other means of control that may affect privacy, nor impose permanent connection by image or sound; breach is a contraordenação muito grave. Software that records pages visited, the terminal’s real-time location, use of mouse and keyboard, screenshots, application access, and time per document is not admitted; the prohibition of remote control of performance applies in full to work from home.",
+       "sources": [
+        {
+         "anchor": "pt-ct",
+         "title": "Código do Trabalho, articles 17, 20, 21, 22, and 170-A",
+         "establishes": "That remote surveillance to control the worker's professional performance is prohibited, that it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it, that the worker is informed of its existence and purpose, that its use is subject to authorization by the CNPD on a request accompanied by the opinion of the comissão de trabalhadores, that the notice reads \"Este local encontra-se sob vigilância de um circuito fechado de televisão\", that the data are kept only for the period the purpose needs and destroyed on the worker's transfer or on termination, that the worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, the employer's power to set rules of use notwithstanding, and that in telework the employer may not capture image, sound, writing, or history, nor impose permanent connection by image or sound.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-ct"
+        },
+        {
+         "anchor": "cnpd-teletrabalho-2020",
+         "title": "Orientações sobre o controlo à distância em regime de teletrabalho",
+         "establishes": "That the prohibition of remote surveillance to control performance applies in full to telework, that software which beyond working time records pages visited, the terminal's real-time location, use of mouse and keyboard, screenshots, application access, and time per document is not admitted, that a permanently on camera and recording of calls between managers and workers are not admitted, that control is exercised by objectives, reporting duties, and meetings, and that time recording tools replicate what is recorded on the premises, start, end, and lunch break.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-teletrabalho-2020"
+        }
+       ]
       }
      ]
     },
@@ -3585,7 +4326,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-20",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD005/EU",
@@ -3793,6 +4534,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "For Public Service Bodies, the network monitoring capability identifies unauthorised or accidental misuse of systems or data and ties a specific user to suspicious activity.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-baseline",
+         "title": "Cyber Security Baseline Standards, Revision 1",
+         "establishes": "For Public Service Bodies, that an access control policy on least privilege is defined and communicated, that a joiner, mover, leaver policy revokes access no longer required, that user permissions are reviewed monthly and on role change and privileged accounts on a defined schedule, that logging is enabled with a monitoring capability able to tie a user to suspicious activity, and that awareness training is mandatory for all staff.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-baseline"
+        }
+       ]
       }
      ]
     },
@@ -3805,7 +4561,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-20",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD006/EU",
@@ -3992,6 +4748,57 @@
          "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "SE",
+       "state": "recommended",
+       "requirement": "Monitoring rests on the balancing of interests, is announced in advance, and does not reach the content of the employee’s private emails.",
+       "sources": [
+        {
+         "anchor": "imy-kontroll-anstallda",
+         "title": "Kontroll och övervakning av anställda",
+         "establishes": "That the bases for monitoring employees are the balancing of interests or, for public authorities, public interest, that consent is not one of them, that security reasons weigh more than efficiency reasons in the balancing, that employees are told in advance which controls may be made, that data collected for one purpose are not used for an incompatible other, and that the employer normally has no right to the content of an employee's private files or emails.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kontroll-anstallda"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "The internal rules on the use of internet and of the email account are communicated to the employees, including what the employer does when it accesses the emails of an absent employee.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "MD006/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "The worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, email included; the employer may set rules of use of the means of communication. Control of email is not permanent or systematic; it is pontual, directed to the areas and activities of greater risk, and as a rule random; virus detection does not by itself justify reading received mail; filtering by file type is done with the workers’ knowledge; workers keep personal messages in identified personal folders.",
+       "sources": [
+        {
+         "anchor": "pt-ct",
+         "title": "Código do Trabalho, articles 17, 20, 21, 22, and 170-A",
+         "establishes": "That remote surveillance to control the worker's professional performance is prohibited, that it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it, that the worker is informed of its existence and purpose, that its use is subject to authorization by the CNPD on a request accompanied by the opinion of the comissão de trabalhadores, that the notice reads \"Este local encontra-se sob vigilância de um circuito fechado de televisão\", that the data are kept only for the period the purpose needs and destroyed on the worker's transfer or on termination, that the worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, the employer's power to set rules of use notwithstanding, and that in telework the employer may not capture image, sound, writing, or history, nor impose permanent connection by image or sound.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-ct"
+        },
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
       }
      ]
     },
@@ -4044,7 +4851,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -4156,6 +4963,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#uk-monitoring-regs"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "PT",
+       "state": "recommended",
+       "requirement": "Whatever the rules of use, the employer never opens automatically email addressed to the worker, and the messages keep their personal nature even where a disciplinary infraction is being investigated; access to a mailbox is the last resort, in the presence of the worker, and limited to recipients, subject, date, and time, the worker able to point out private messages that are then not consulted.",
+       "sources": [
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
       }
      ]
     },
@@ -4168,7 +4990,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD009/IT",
@@ -4203,6 +5025,21 @@
          "title": "Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale",
          "establishes": "When an employer may look into a work mailbox or a worker's personal areas on its equipment, that monitoring of internet use is outside what it may do at all, and that the regulation cannot be contracted around.",
          "url": "https://alessandroaledda.com/intra/sources/#no-innsyn-epost"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "Users of IT systems and networks are told in advance in what form business data may be monitored, and internet use is regulated internally.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
         }
        ]
       }
@@ -4384,7 +5221,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD012/EU",
@@ -4571,6 +5408,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "IT tools that use artificial intelligence, neural networks or expert systems, for automated analysis and evaluation of employee-based data, visual, movement, speech, or communication patterns and psychological findings among them, are behaviour monitoring systems, which article 26(1) excludes.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
       }
      ]
     },
@@ -4583,7 +5435,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD013/EU",
@@ -4725,6 +5577,36 @@
          "url": "https://alessandroaledda.com/intra/sources/#edpb-secure"
         }
        ]
+      },
+      {
+       "id": "MD013/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "Access to recordings limited to three post-holders, logged in the software and checkable afterwards, used only where other ways of tracing a loss have failed, is what made a surveillance of a dispensing area proportionate.",
+       "sources": [
+        {
+         "anchor": "imy-apotea-2023",
+         "title": "Beslut efter tillsyn, Apotea AB, kamerabevakning vid logistikcenter i Morgongåva",
+         "establishes": "That surveillance to direct work and check how employees perform their tasks normally has no legal basis under article 6, that the balancing is made purpose by purpose, that the integrity interest at a workplace weighs heavily as a starting point since an employee does not usually expect to be watched, and that surveillance to handle medicine incidents prevailed because it was limited to relevant areas, access was limited to three post-holders, logged, and used as a last resort, and the activity was one where employees could expect cameras more than usual.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-apotea-2023"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "LU",
+       "state": "recommended",
+       "requirement": "A server room, archives, a safe or secured room, and storage areas where no employee works permanently are zones where a camera is in principle proportionate; a workshop, an office with a permanent workstation, and the staff representation’s office or its sole access are not.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-video-2024",
+         "title": "Lignes directrices en matière de vidéosurveillance",
+         "establishes": "That video surveillance aimed at employees is always surveillance under article L.261-1, that employees have in principle the right not to be under continuous and permanent surveillance, so the inside of an office, an open space, a workshop, or a kitchen with permanent workstations is disproportionate and a camera on a till is pointed at the till and the customers' side, that footage from a system installed to protect goods may be used against an employee stealing goods and may not be used to find that an employee talks too long with a client or colleague nor as evidence for disciplinary measures, which is a prohibited change of purpose, that cameras do not film places reserved to employees for private use, toilets, changing rooms, smoking corner, rest areas, the délégation's room, the kitchenette, and that checking that employees work, keep hours, follow instructions, or behave well with customers are not purposes that can be pursued.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-video-2024"
+        }
+       ]
       }
      ]
     },
@@ -4737,7 +5619,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-20",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD014/EU",
@@ -4894,6 +5776,111 @@
          "url": "https://alessandroaledda.com/intra/sources/#pl-kp-222"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "Staff monitoring by camera occurs in special circumstances only; cameras are focused on areas of particular risk and kept out of break rooms, changing rooms, and toilets; a system justified for security or health and safety is not used for attendance or performance; monitoring of staff by managerial staff in a manned workplace is unlikely to be justifiable.",
+       "sources": [
+        {
+         "anchor": "dpc-cctv-2023",
+         "title": "Guidance on the Use of CCTV, For Data Controllers",
+         "establishes": "That staff monitoring by camera belongs to special circumstances only, that employees are told where cameras are and why, that footage justified for security is not used for attendance or performance, that a case-by-case use for a disciplinary matter has to be shown necessary and limited in scope, that covert surveillance is generally unlawful and exceptionally permitted for offences only under a written policy and after a DPIA, and that a DPIA in the employment context could engage trade union or safety representatives.",
+         "url": "https://alessandroaledda.com/intra/sources/#dpc-cctv-2023"
+        }
+       ]
+      },
+      {
+       "id": "MD014/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "Cameras at work serve the prevention of accidents, theft, sabotage, or crime, limited to the areas and times the purpose needs; filming employees to check how they perform is not allowed; toilets, changing rooms, hidden cameras, and sound are excluded or rarely permitted; notice is given by clear signage or in another effective way, the sign showing the purpose and the controller’s contact details. Camera surveillance of a staff room for five nights without a legal basis, without signage or other effective notice, and without information to the persons filmed breached article 6(1), 15 § of the camera surveillance act, and article 13, and cost SEK 300,000; signs at staff entrances without the DPO’s contact details breached article 13. At a workplace the integrity interest weighs heavily as a starting point, since an employee does not usually expect to be watched; it is outweighed where the surveillance is limited to relevant areas, access is limited, logged, and a last resort, and the activity is one where cameras are to be expected.",
+       "sources": [
+        {
+         "anchor": "imy-kamera-anstallda",
+         "title": "Kamerabevakning av anställda",
+         "establishes": "That every camera is an intrusion, that theft, sabotage, and workplace accidents are purposes that can outweigh it where surveillance is limited in area and time, that performance control is not a purpose, that the decision passes through 11-14 §§ MBL, that information is given by clear signage or in another effective way, and that 22 § of the camera surveillance act binds whoever handles the recordings to confidentiality.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kamera-anstallda"
+        },
+        {
+         "anchor": "imy-kamera-arbetsplats",
+         "title": "Så får du som arbetsgivare kamerabevaka på arbetsplatsen",
+         "establishes": "That cameras at work serve the prevention of accidents or crime, that filming employees to check how they perform is not allowed, that the employer first sets out the problem, why less intrusive measures do not suffice, and how integrity is protected, negotiates with the union, and informs, and that hidden cameras, cameras in toilets and changing rooms, and audio are out or rarely permitted.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kamera-arbetsplats"
+        },
+        {
+         "anchor": "imy-hm-2024",
+         "title": "Beslut efter tillsyn, H&M Hennes & Mauritz GBC AB, kamerabevakning i verksamhetslokaler i Borås",
+         "establishes": "That camera surveillance of a staff room over five nights without a legal basis breached article 6(1), that the absence of clear signage or other effective notice breached 15 § kamerabevakningslagen, that the absence of information to the persons filmed breached article 13, and that the three together cost SEK 300,000; and that signs at staff entrances without the DPO's contact details breached article 13 and were ordered corrected within four weeks.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-hm-2024"
+        },
+        {
+         "anchor": "imy-apotea-2023",
+         "title": "Beslut efter tillsyn, Apotea AB, kamerabevakning vid logistikcenter i Morgongåva",
+         "establishes": "That surveillance to direct work and check how employees perform their tasks normally has no legal basis under article 6, that the balancing is made purpose by purpose, that the integrity interest at a workplace weighs heavily as a starting point since an employee does not usually expect to be watched, and that surveillance to handle medicine incidents prevailed because it was limited to relevant areas, access was limited to three post-holders, logged, and used as a last resort, and the activity was one where employees could expect cameras more than usual.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-apotea-2023"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "Video cameras in work rooms or vehicle cabins that can record undeclared what employees do and how are behaviour monitoring; cameras may stand where staff are present rarely and briefly, car parks, entrances and exits, dangerous machines, vaults, stores of dangerous goods; cameras against customer theft are positioned so that staff are practically not captured and their positions and fields of view discussed with the staff; monitored areas are marked; a door-closing sensor on toilets is impermissible.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "MD014/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "Remote surveillance to control professional performance is prohibited; it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it; the worker is informed of its existence and purpose and the notice reads “Este local encontra-se sob vigilância de um circuito fechado de televisão”.",
+       "sources": [
+        {
+         "anchor": "pt-ct",
+         "title": "Código do Trabalho, articles 17, 20, 21, 22, and 170-A",
+         "establishes": "That remote surveillance to control the worker's professional performance is prohibited, that it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it, that the worker is informed of its existence and purpose, that its use is subject to authorization by the CNPD on a request accompanied by the opinion of the comissão de trabalhadores, that the notice reads \"Este local encontra-se sob vigilância de um circuito fechado de televisão\", that the data are kept only for the period the purpose needs and destroyed on the worker's transfer or on termination, that the worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, the employer's power to set rules of use notwithstanding, and that in telework the employer may not capture image, sound, writing, or history, nor impose permanent connection by image or sound.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-ct"
+        }
+       ]
+      },
+      {
+       "id": "MD014/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Video surveillance aimed at employees is surveillance under article L.261-1 and follows its information and prior-opinion procedure. Employees have in principle the right not to be under continuous and permanent surveillance; the inside of an office, an open space, a workshop, or a restaurant kitchen with permanent workstations is disproportionate, a camera on a till is pointed at the till and the customers’ side, the field of view is limited to the surface the purpose needs, and no camera films toilets, changing rooms, the smoking corner, rest areas, the kitchenette, or the délégation’s room. Cameras inside the agencies of a transport company and a camera reaching a neighbouring plot breached minimisation and were ordered removed or reoriented; employees not informed individually of the controller, the DPO, the purposes, the legitimate interests, the recipients, and their rights were owed that information within four months; the fine was EUR 4,900.",
+       "sources": [
+        {
+         "anchor": "lu-ct-261",
+         "title": "Code du travail, articles L.261-1 and L.261-2",
+         "establishes": "That processing for the surveillance of employees rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, that the representation of the staff is informed collectively beforehand of the purpose, the modalities, the retention, and a formal undertaking not to use the data for another purpose, that the délégation, or failing it the employees, may within 15 days ask the CNPD for a prior opinion with suspensive effect, the CNPD ruling within one month, that for three purposes articles L.211-8 and L.414-9 apply, that a complaint to the CNPD is neither a grave nor a legitimate ground of dismissal, and that breach is a criminal offence.",
+         "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
+        },
+        {
+         "anchor": "cnpd-lu-video-2024",
+         "title": "Lignes directrices en matière de vidéosurveillance",
+         "establishes": "That video surveillance aimed at employees is always surveillance under article L.261-1, that employees have in principle the right not to be under continuous and permanent surveillance, so the inside of an office, an open space, a workshop, or a kitchen with permanent workstations is disproportionate and a camera on a till is pointed at the till and the customers' side, that footage from a system installed to protect goods may be used against an employee stealing goods and may not be used to find that an employee talks too long with a client or colleague nor as evidence for disciplinary measures, which is a prohibited change of purpose, that cameras do not film places reserved to employees for private use, toilets, changing rooms, smoking corner, rest areas, the délégation's room, the kitchenette, and that checking that employees work, keep hours, follow instructions, or behave well with customers are not purposes that can be pursued.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-video-2024"
+        },
+        {
+         "anchor": "cnpd-lu-1fr-2022",
+         "title": "Délibération n° 1FR/2022",
+         "establishes": "That a transport company's cameras inside its agencies and a camera reaching a neighbouring plot breached minimisation, that the retention of location data breached storage limitation, that employees and third parties were not informed as article 13 requires on either system, that the fine was EUR 4,900 after a proposal of EUR 10,000, and that the orders were to remove or reorient the cameras and to inform employees individually, with the controller's identity, the DPO's contact details, the purposes, the legitimate interests, the recipients, and their rights, and for geolocation the legal basis, within four months.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-1fr-2022"
+        }
+       ]
       }
      ]
     },
@@ -4906,7 +5893,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD015/EU",
@@ -5039,6 +6026,78 @@
          "url": "https://alessandroaledda.com/intra/sources/#at-arbvg-96"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "SE",
+       "state": "recommended",
+       "requirement": "Positioning is allowed where a concrete operational need justifies it, real-time monitoring of employees without such a need is not, secret positioning is a breach, and the employees are told what is collected, why, where, for how long, and who sees it.",
+       "sources": [
+        {
+         "anchor": "imy-gps",
+         "title": "Så får du som arbetsgivare använda platstjänster (GPS)",
+         "establishes": "That positioning is allowed where a concrete operational need justifies it, that real-time monitoring of employees without such a need is not, that secret monitoring is a breach, that employees are told what is collected, why, where, for how long, and who sees it, and that the employer usually negotiates with the union before switching location services on.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-gps"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "Satellite or other positioning systems that continuously track and record the position of persons are behaviour monitoring; route recording of company vehicles for route optimization, and precise vehicle location for transport of persons, cash, dangerous or perishable goods, or for service fleets, are permitted purposes.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "PT",
+       "state": "recommended",
+       "requirement": "Geolocation of vehicles is admitted for fleet management in external service in external or home technical assistance, distribution of goods, passenger transport, goods transport, and private security; vehicles not in external service are excluded; protection of goods is weighed strictly and does not cover every vehicle; the purpose is spent in the real-time view or the last position; driving parameters tied to the driver are anonymized. Geolocation of a mobile phone is excessive for protection of goods and for management of external service; the employer neither obtains location data from the operator as subscriber nor installs applications that activate the GPS sensors.",
+       "sources": [
+        {
+         "anchor": "cnpd-7680-2014",
+         "title": "Deliberação n.º 7680/2014, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes da utilização de tecnologias de geolocalização no contexto laboral",
+         "establishes": "That geolocation of vehicles is admitted for fleet management in external service in five activities, that protection of goods is weighed strictly and does not cover every vehicle, that geolocation of mobile phones is excessive for both purposes and the employer neither obtains location data from the operator nor installs GPS applications, that location data are never used to control performance, that indications of a crime may support a criminal complaint and a disciplinary proceeding where the facts themselves breach the worker's duties, that driving parameters tied to the driver are anonymized, and that the purpose of fleet management is spent in the real-time view or the last position.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-7680-2014"
+        }
+       ]
+      },
+      {
+       "id": "MD015/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Geolocation of a vehicle given to an employee is always surveillance under article L.261-1; the employer does not monitor the employee outside working hours, leave, sick days, lunch breaks, home-to-work trips, medical visits, and weekends included; a vehicle also used privately carries a deactivation in the employee’s hands, and a vehicle for professional use only may stay located permanently. Employees are informed individually of a geolocation system, its purposes, its legal basis, the retention per purpose, the recipients, and their rights.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-geo-2021",
+         "title": "Lignes directrices en matière de géolocalisation des véhicules mis à la disposition des salariés",
+         "establishes": "That geolocation of a vehicle given to an employee is always surveillance under article L.261-1, that the employer does not monitor the employee outside working hours, so a vehicle also used privately carries a deactivation under the employee's control and a vehicle for professional use only may stay located permanently, that the data are not used to observe performance or behaviour outside the initial purposes, so a system installed against theft does not serve to check speeding, time between clients, or route, nor to found disciplinary measures, that location data are kept two months at most, three years where the system is the only means of checking working time (five in the public sector), one year for billing evidence, and that a geolocation system in principle requires an impact assessment.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-geo-2021"
+        },
+        {
+         "anchor": "cnpd-lu-11fr-2021",
+         "title": "Délibération n° 11FR/2021",
+         "establishes": "That location data kept two years and four months for geographic tracking, protection of goods, and working time of travelling employees exceeded what the purposes needed, that a retention set per purpose is owed, two months for location, one year for billing evidence, three years for working time, that the employees were not informed as article 13 requires, and that access to the geolocation software through shared accounts breached article 32, individual accounts being owed only to those for whom access is strictly necessary to their tasks.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-11fr-2021"
+        },
+        {
+         "anchor": "cnpd-lu-1fr-2022",
+         "title": "Délibération n° 1FR/2022",
+         "establishes": "That a transport company's cameras inside its agencies and a camera reaching a neighbouring plot breached minimisation, that the retention of location data breached storage limitation, that employees and third parties were not informed as article 13 requires on either system, that the fine was EUR 4,900 after a proposal of EUR 10,000, and that the orders were to remove or reorient the cameras and to inform employees individually, with the controller's identity, the DPO's contact details, the purposes, the legitimate interests, the recipients, and their rights, and for geolocation the legal basis, within four months.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-1fr-2022"
+        }
+       ]
       }
      ]
     },
@@ -5051,7 +6110,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD016/EU",
@@ -5193,6 +6252,102 @@
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
+      },
+      {
+       "id": "MD016/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "Cameras are not used to check how employees perform. Surveillance to direct work and check how employees perform their tasks normally has no legal basis under article 6.",
+       "sources": [
+        {
+         "anchor": "imy-kamera-arbetsplats",
+         "title": "Så får du som arbetsgivare kamerabevaka på arbetsplatsen",
+         "establishes": "That cameras at work serve the prevention of accidents or crime, that filming employees to check how they perform is not allowed, that the employer first sets out the problem, why less intrusive measures do not suffice, and how integrity is protected, negotiates with the union, and informs, and that hidden cameras, cameras in toilets and changing rooms, and audio are out or rarely permitted.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kamera-arbetsplats"
+        },
+        {
+         "anchor": "imy-kamera-anstallda",
+         "title": "Kamerabevakning av anställda",
+         "establishes": "That every camera is an intrusion, that theft, sabotage, and workplace accidents are purposes that can outweigh it where surveillance is limited in area and time, that performance control is not a purpose, that the decision passes through 11-14 §§ MBL, that information is given by clear signage or in another effective way, and that 22 § of the camera surveillance act binds whoever handles the recordings to confidentiality.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kamera-anstallda"
+        },
+        {
+         "anchor": "imy-apotea-2023",
+         "title": "Beslut efter tillsyn, Apotea AB, kamerabevakning vid logistikcenter i Morgongåva",
+         "establishes": "That surveillance to direct work and check how employees perform their tasks normally has no legal basis under article 6, that the balancing is made purpose by purpose, that the integrity interest at a workplace weighs heavily as a starting point since an employee does not usually expect to be watched, and that surveillance to handle medicine incidents prevailed because it was limited to relevant areas, access was limited to three post-holders, logged, and used as a last resort, and the activity was one where employees could expect cameras more than usual.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-apotea-2023"
+        }
+       ]
+      },
+      {
+       "id": "MD016/CH",
+       "standing": "mandatory",
+       "jurisdiction": "CH",
+       "state": "established",
+       "requirement": "The prohibition reaches behaviour monitoring; a system required for other reasons, quality or performance monitoring among them, is designed so that it does not impair health or freedom of movement. Automatic registration of the number or quality of parts produced or of calls taken in a call centre is permitted performance monitoring, kept proportionate; where behaviour and performance cannot be separated, the overriding interest and proportionality are examined and justified in writing.",
+       "sources": [
+        {
+         "anchor": "argv3-26",
+         "title": "Verordnung 3 zum Arbeitsgesetz (ArGV 3), Artikel 26",
+         "establishes": "That monitoring and control systems meant to monitor the behaviour of employees at the workplace may not be used, and that systems required for other reasons are designed and placed so that they do not impair the health and freedom of movement of employees.",
+         "url": "https://alessandroaledda.com/intra/sources/#argv3-26"
+        },
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "MD016/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "Remote surveillance by technological equipment to control the worker’s professional performance is prohibited. Location data are never used to control the worker’s performance.",
+       "sources": [
+        {
+         "anchor": "pt-ct",
+         "title": "Código do Trabalho, articles 17, 20, 21, 22, and 170-A",
+         "establishes": "That remote surveillance to control the worker's professional performance is prohibited, that it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it, that the worker is informed of its existence and purpose, that its use is subject to authorization by the CNPD on a request accompanied by the opinion of the comissão de trabalhadores, that the notice reads \"Este local encontra-se sob vigilância de um circuito fechado de televisão\", that the data are kept only for the period the purpose needs and destroyed on the worker's transfer or on termination, that the worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, the employer's power to set rules of use notwithstanding, and that in telework the employer may not capture image, sound, writing, or history, nor impose permanent connection by image or sound.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-ct"
+        },
+        {
+         "anchor": "cnpd-7680-2014",
+         "title": "Deliberação n.º 7680/2014, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes da utilização de tecnologias de geolocalização no contexto laboral",
+         "establishes": "That geolocation of vehicles is admitted for fleet management in external service in five activities, that protection of goods is weighed strictly and does not cover every vehicle, that geolocation of mobile phones is excessive for both purposes and the employer neither obtains location data from the operator nor installs GPS applications, that location data are never used to control performance, that indications of a crime may support a criminal complaint and a disciplinary proceeding where the facts themselves breach the worker's duties, that driving parameters tied to the driver are anonymized, and that the purpose of fleet management is spent in the real-time view or the last position.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-7680-2014"
+        }
+       ]
+      },
+      {
+       "id": "MD016/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Location data are not used to observe performance or behaviour outside the initial purposes; a system installed against theft does not serve to check speeding, time between clients, or the route taken. Checking that employees work and do not spend too long on their phones, keep their hours, follow instructions, or behave appropriately with customers are not purposes a camera can pursue. Control of the production or performance of the employee as the only means of fixing exact pay is one of the three purposes for which articles L.211-8 and L.414-9 apply.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-geo-2021",
+         "title": "Lignes directrices en matière de géolocalisation des véhicules mis à la disposition des salariés",
+         "establishes": "That geolocation of a vehicle given to an employee is always surveillance under article L.261-1, that the employer does not monitor the employee outside working hours, so a vehicle also used privately carries a deactivation under the employee's control and a vehicle for professional use only may stay located permanently, that the data are not used to observe performance or behaviour outside the initial purposes, so a system installed against theft does not serve to check speeding, time between clients, or route, nor to found disciplinary measures, that location data are kept two months at most, three years where the system is the only means of checking working time (five in the public sector), one year for billing evidence, and that a geolocation system in principle requires an impact assessment.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-geo-2021"
+        },
+        {
+         "anchor": "cnpd-lu-video-2024",
+         "title": "Lignes directrices en matière de vidéosurveillance",
+         "establishes": "That video surveillance aimed at employees is always surveillance under article L.261-1, that employees have in principle the right not to be under continuous and permanent surveillance, so the inside of an office, an open space, a workshop, or a kitchen with permanent workstations is disproportionate and a camera on a till is pointed at the till and the customers' side, that footage from a system installed to protect goods may be used against an employee stealing goods and may not be used to find that an employee talks too long with a client or colleague nor as evidence for disciplinary measures, which is a prohibited change of purpose, that cameras do not film places reserved to employees for private use, toilets, changing rooms, smoking corner, rest areas, the délégation's room, the kitchenette, and that checking that employees work, keep hours, follow instructions, or behave well with customers are not purposes that can be pursued.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-video-2024"
+        },
+        {
+         "anchor": "lu-ct-261",
+         "title": "Code du travail, articles L.261-1 and L.261-2",
+         "establishes": "That processing for the surveillance of employees rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, that the representation of the staff is informed collectively beforehand of the purpose, the modalities, the retention, and a formal undertaking not to use the data for another purpose, that the délégation, or failing it the employees, may within 15 days ask the CNPD for a prior opinion with suspensive effect, the CNPD ruling within one month, that for three purposes articles L.211-8 and L.414-9 apply, that a complaint to the CNPD is neither a grave nor a legitimate ground of dismissal, and that breach is a criminal offence.",
+         "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
+        }
+       ]
       }
      ]
     },
@@ -5233,7 +6388,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-31",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD018/CoE",
@@ -5264,6 +6419,63 @@
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "Covert surveillance is generally unlawful and permitted exceptionally, case by case, where the data are kept for preventing, detecting, or investigating offences; it rests on a written policy stating purpose, justification, procedure, measures, and safeguards, follows a DPIA, is focused and of short duration, records only the individuals and locations concerned, and ceases if no evidence is obtained within a reasonable period.",
+       "sources": [
+        {
+         "anchor": "dpc-cctv-2023",
+         "title": "Guidance on the Use of CCTV, For Data Controllers",
+         "establishes": "That staff monitoring by camera belongs to special circumstances only, that employees are told where cameras are and why, that footage justified for security is not used for attendance or performance, that a case-by-case use for a disciplinary matter has to be shown necessary and limited in scope, that covert surveillance is generally unlawful and exceptionally permitted for offences only under a written policy and after a DPIA, and that a DPIA in the employment context could engage trade union or safety representatives.",
+         "url": "https://alessandroaledda.com/intra/sources/#dpc-cctv-2023"
+        }
+       ]
+      },
+      {
+       "id": "MD018/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "A hidden camera with sound and image in a room staff were permitted to use, run for five nights, had no legal basis. Hidden cameras are excluded.",
+       "sources": [
+        {
+         "anchor": "imy-hm-2024",
+         "title": "Beslut efter tillsyn, H&M Hennes & Mauritz GBC AB, kamerabevakning i verksamhetslokaler i Borås",
+         "establishes": "That camera surveillance of a staff room over five nights without a legal basis breached article 6(1), that the absence of clear signage or other effective notice breached 15 § kamerabevakningslagen, that the absence of information to the persons filmed breached article 13, and that the three together cost SEK 300,000; and that signs at staff entrances without the DPO's contact details breached article 13 and were ordered corrected within four weeks.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-hm-2024"
+        },
+        {
+         "anchor": "imy-kamera-arbetsplats",
+         "title": "Så får du som arbetsgivare kamerabevaka på arbetsplatsen",
+         "establishes": "That cameras at work serve the prevention of accidents or crime, that filming employees to check how they perform is not allowed, that the employer first sets out the problem, why less intrusive measures do not suffice, and how integrity is protected, negotiates with the union, and informs, and that hidden cameras, cameras in toilets and changing rooms, and audio are out or rarely permitted.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kamera-arbetsplats"
+        }
+       ]
+      },
+      {
+       "id": "MD018/CH",
+       "standing": "mandatory",
+       "jurisdiction": "CH",
+       "state": "established",
+       "requirement": "A signed IT usage directive gives general notice of controls and does not authorize covert spyware; the sequence is technical prevention, anonymized log analysis, then named analysis on concrete suspicion. The prosecution of offences inside the business is for the police and not for the business, and monitoring data collected impermissibly are mostly unusable in criminal proceedings.",
+       "sources": [
+        {
+         "anchor": "bge-139-ii-7",
+         "title": "BGE 139 II 7",
+         "establishes": "That covert spyware on an employee's computer for three months, taking screenshots, is behaviour monitoring prohibited by article 26 ArGV 3 and disproportionate, that a signed IT usage directive gives general notice of controls and does not authorize it, that the lawful sequence is technical prevention, then anonymized analysis of logs, then named analysis of access logs on concrete suspicion of abuse, that the evidence so obtained is excluded because the employee's personality interest outweighs the interest in the truth, and that the dismissal resting on it was annulled.",
+         "url": "https://alessandroaledda.com/intra/sources/#bge-139-ii-7"
+        },
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
       }
      ]
     },
@@ -5276,7 +6488,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -5305,6 +6517,36 @@
          "title": "Florindo de Almeida Vasconcelos Gramaxo v. Portugal",
          "establishes": "That geolocation of a company vehicle, inside and outside working hours, did not violate article 8 on the facts, by four votes to three.",
          "url": "https://alessandroaledda.com/intra/sources/#gramaxo"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "One way of keeping a required system restrained is to run it only in the absence of employees, such as an anti-theft system switched on when needed.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "LU",
+       "state": "recommended",
+       "requirement": "Tracking outside working hours is prohibited, and the employee controls the deactivation of the device on a vehicle that may be used privately.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-geo-2021",
+         "title": "Lignes directrices en matière de géolocalisation des véhicules mis à la disposition des salariés",
+         "establishes": "That geolocation of a vehicle given to an employee is always surveillance under article L.261-1, that the employer does not monitor the employee outside working hours, so a vehicle also used privately carries a deactivation under the employee's control and a vehicle for professional use only may stay located permanently, that the data are not used to observe performance or behaviour outside the initial purposes, so a system installed against theft does not serve to check speeding, time between clients, or route, nor to found disciplinary measures, that location data are kept two months at most, three years where the system is the only means of checking working time (five in the public sector), one year for billing evidence, and that a geolocation system in principle requires an impact assessment.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-geo-2021"
         }
        ]
       }
@@ -5632,7 +6874,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-24",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -5708,6 +6950,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#it-statuto-8"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "Sensors that capture and evaluate biometric or physiological data of employees, face recognition, voice analysis, head, eye, pupil, movement, or muscle activity, body temperature, breathing or heart rate, perspiration, are behaviour monitoring systems, which article 26(1) excludes.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
       }
      ]
     },
@@ -5776,7 +7033,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "BA007/EU",
@@ -5817,6 +7074,21 @@
          "title": "Regulation (EU) 2016/679 as it has effect in domestic law, articles 6, 9, 22A to 22D, and 35",
          "establishes": "The grounds, the closed categories, when an assessment is owed, and a rule on deciding about someone by machine that is not the Union's.",
          "url": "https://alessandroaledda.com/intra/sources/#uk-gdpr"
+        }
+       ]
+      },
+      {
+       "id": "BA007/CH",
+       "standing": "mandatory",
+       "jurisdiction": "CH",
+       "state": "established",
+       "requirement": "The controller informs the person of a decision that rests on automated processing alone and carries a legal effect or affects them significantly.",
+       "sources": [
+        {
+         "anchor": "ch-dsg",
+         "title": "Bundesgesetz über den Datenschutz (DSG), SR 235.1, Artikel 6, 19, 21, 22, 24, 31, and 61",
+         "establishes": "That processing is lawful, in good faith, and proportionate, for a purpose recognizable to the person and compatible with it, that the controller informs the person of the collection, that a decision resting on automated processing alone with legal or significant effect is disclosed to the person, that a prior impact assessment is made where processing may carry a high risk for the personality or fundamental rights, that a security breach likely to carry a high risk is notified to the EDÖB as fast as possible, that an infringement of personality is unlawful unless justified by consent, an overriding private or public interest, or law, and that natural persons are fined up to CHF 250,000 for the listed intentional breaches.",
+         "url": "https://alessandroaledda.com/intra/sources/#ch-dsg"
         }
        ]
       }
@@ -5974,7 +7246,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -6048,6 +7320,36 @@
          "title": "CyberFundamentals 2025, Essential",
          "establishes": "What the Belgian centre sets out for the heaviest of its assurance levels, and the only place in this record where a national authority names the insider as something the detection tools are there to catch.",
          "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
+        }
+       ]
+      },
+      {
+       "id": "IV001/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "An operator with 50 or more workers at the start of the calendar year has internal reporting channels run by independent and autonomous persons or units; receipt is confirmed within seven days and feedback given within three months; private operators of 50 to 249 were reached from 17 December 2023 and others from 17 July 2022.",
+       "sources": [
+        {
+         "anchor": "se-visselblasarlag",
+         "title": "Lag (2021:890) om skydd för personer som rapporterar om missförhållanden",
+         "establishes": "That an operator with 50 or more workers at the start of the calendar year has internal reporting channels, run by independent and autonomous persons or units, that receipt is confirmed within seven days and feedback given within three months, that oral reports are documented and documentation kept no longer than two years after the follow-up case is closed, and that whoever handles a report may not disclose what reveals the reporter's identity.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-visselblasarlag"
+        }
+       ]
+      },
+      {
+       "id": "IV001/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "A private-law legal person with 50 or more workers over twelve consecutive months, and a public one, has channels and procedures for internal reporting and follow-up, run by a designated person or service or by a third party, designed to guarantee the confidentiality of the reporter and of any third party named and to bar unauthorized staff; receipt is acknowledged within seven days, an impartial person or service follows up, and feedback comes within three months; those of 50 to 249 may share resources and were reached from 17 December 2023.",
+       "sources": [
+        {
+         "anchor": "lu-loi-2023-signalement",
+         "title": "Loi du 16 mai 2023 portant transposition de la directive (UE) 2019/1937",
+         "establishes": "That private-law legal persons with 50 or more workers over twelve consecutive months, and public ones, establish channels and procedures for internal reporting and follow-up, that those of 50 to 249 may share resources and were reached from 17 December 2023, that the channel may be run by a designated person or service or by a third party, that it is designed so as to guarantee the confidentiality of the reporter and of any third party named and to bar unauthorized staff, that receipt is acknowledged within seven days, that an impartial person or service follows up, and that feedback comes within three months of the acknowledgement.",
+         "url": "https://alessandroaledda.com/intra/sources/#lu-loi-2023-signalement"
         }
        ]
       }
@@ -6335,7 +7637,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "IV008/IT",
@@ -6349,6 +7651,84 @@
          "title": "Provvedimento n. 107, Amazon Italia Logistica",
          "establishes": "That records of illness, union activity, and family circumstances kept by managers had no lawful basis, and attract the stricter regime.",
          "url": "https://alessandroaledda.com/intra/sources/#garante-107-2026"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "Footage held for security may be used to investigate an allegation of gross misconduct or another disciplinary matter case by case, where the employer can demonstrate why it is necessary as evidence and that the access is limited in scope to that matter.",
+       "sources": [
+        {
+         "anchor": "dpc-cctv-2023",
+         "title": "Guidance on the Use of CCTV, For Data Controllers",
+         "establishes": "That staff monitoring by camera belongs to special circumstances only, that employees are told where cameras are and why, that footage justified for security is not used for attendance or performance, that a case-by-case use for a disciplinary matter has to be shown necessary and limited in scope, that covert surveillance is generally unlawful and exceptionally permitted for offences only under a written policy and after a DPIA, and that a DPIA in the employment context could engage trade union or safety representatives.",
+         "url": "https://alessandroaledda.com/intra/sources/#dpc-cctv-2023"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "SE",
+       "state": "recommended",
+       "requirement": "Data collected for one purpose are not used for an incompatible other. Operational data are not turned to the evaluation of an individual’s performance.",
+       "sources": [
+        {
+         "anchor": "imy-kontroll-anstallda",
+         "title": "Kontroll och övervakning av anställda",
+         "establishes": "That the bases for monitoring employees are the balancing of interests or, for public authorities, public interest, that consent is not one of them, that security reasons weigh more than efficiency reasons in the balancing, that employees are told in advance which controls may be made, that data collected for one purpose are not used for an incompatible other, and that the employer normally has no right to the content of an employee's private files or emails.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kontroll-anstallda"
+        },
+        {
+         "anchor": "imy-jobbmobiler",
+         "title": "Så får du som arbetsgivare kolla medarbetarnas jobbmobiler",
+         "establishes": "That checking an employee's computer or phone, email and browsing history included, is lawful in exceptional cases, on suspicion of criminal or grossly disloyal conduct and not for general security, that the employee is told what is checked, why, where the data are kept, for how long, and who has access, and that the data are not used for another purpose.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-jobbmobiler"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "PT",
+       "state": "recommended",
+       "requirement": "Where location data show indications of a crime they may support a criminal complaint, and a disciplinary proceeding where the facts themselves breach the worker’s duties; otherwise the purpose does not shift. Investigation of a disciplinary infraction does not open email addressed to the worker.",
+       "sources": [
+        {
+         "anchor": "cnpd-7680-2014",
+         "title": "Deliberação n.º 7680/2014, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes da utilização de tecnologias de geolocalização no contexto laboral",
+         "establishes": "That geolocation of vehicles is admitted for fleet management in external service in five activities, that protection of goods is weighed strictly and does not cover every vehicle, that geolocation of mobile phones is excessive for both purposes and the employer neither obtains location data from the operator nor installs GPS applications, that location data are never used to control performance, that indications of a crime may support a criminal complaint and a disciplinary proceeding where the facts themselves breach the worker's duties, that driving parameters tied to the driver are anonymized, and that the purpose of fleet management is spent in the real-time view or the last position.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-7680-2014"
+        },
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "LU",
+       "state": "recommended",
+       "requirement": "Footage from a system installed to protect goods may be used against an employee stealing goods; using the camera to find that an employee talks too long with a client or colleague, and then the recording as evidence for disciplinary measures, is a change of purpose the Regulation prohibits. Data from a system installed against theft are not turned to disciplinary ends on speeding, travel time, or route.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-video-2024",
+         "title": "Lignes directrices en matière de vidéosurveillance",
+         "establishes": "That video surveillance aimed at employees is always surveillance under article L.261-1, that employees have in principle the right not to be under continuous and permanent surveillance, so the inside of an office, an open space, a workshop, or a kitchen with permanent workstations is disproportionate and a camera on a till is pointed at the till and the customers' side, that footage from a system installed to protect goods may be used against an employee stealing goods and may not be used to find that an employee talks too long with a client or colleague nor as evidence for disciplinary measures, which is a prohibited change of purpose, that cameras do not film places reserved to employees for private use, toilets, changing rooms, smoking corner, rest areas, the délégation's room, the kitchenette, and that checking that employees work, keep hours, follow instructions, or behave well with customers are not purposes that can be pursued.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-video-2024"
+        },
+        {
+         "anchor": "cnpd-lu-geo-2021",
+         "title": "Lignes directrices en matière de géolocalisation des véhicules mis à la disposition des salariés",
+         "establishes": "That geolocation of a vehicle given to an employee is always surveillance under article L.261-1, that the employer does not monitor the employee outside working hours, so a vehicle also used privately carries a deactivation under the employee's control and a vehicle for professional use only may stay located permanently, that the data are not used to observe performance or behaviour outside the initial purposes, so a system installed against theft does not serve to check speeding, time between clients, or route, nor to found disciplinary measures, that location data are kept two months at most, three years where the system is the only means of checking working time (five in the public sector), one year for billing evidence, and that a geolocation system in principle requires an impact assessment.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-geo-2021"
         }
        ]
       }
@@ -6571,7 +7951,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-23",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "IR001/EU",
@@ -6621,6 +8001,21 @@
          "title": "IT-Grundschutz-Kompendium, Edition 2023",
          "establishes": "What the German federal authority holds to be the state of the art, in numbered requirements, among them the checking of a candidate's own account of themselves, a logging infrastructure the administrators who run it cannot alter, a regular audit of the detection systems against the state they are supposed to be in, and how evidence is secured.",
          "url": "https://alessandroaledda.com/intra/sources/#bsi-grundschutz"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "Response readiness holds a documented incident response plan, a classification procedure with criteria for whether an incident requires regulatory reporting, a designated team with roles, and procedures for notifying the NCSC, law enforcement, affected persons, and media.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-boards-2026",
+         "title": "Guidance on Cyber Governance for Management Board Members in NIS2 entities",
+         "establishes": "That the management body of an essential or important entity approves the risk management measures, supervises their implementation, follows training and offers it to employees, and is accountable for non-compliance; that insider threats are among the threats a board identifies; and that an incident response plan, a classification procedure, a designated team, and external notification procedures are what response readiness holds.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-boards-2026"
         }
        ]
       }
@@ -6777,7 +8172,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-10",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "IR006/EU",
@@ -6821,6 +8216,51 @@
          "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal Threats",
          "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
          "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "The classification procedure states the criteria on which an incident is one that requires regulatory reporting.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-boards-2026",
+         "title": "Guidance on Cyber Governance for Management Board Members in NIS2 entities",
+         "establishes": "That the management body of an essential or important entity approves the risk management measures, supervises their implementation, follows training and offers it to employees, and is accountable for non-compliance; that insider threats are among the threats a board identifies; and that an incident response plan, a classification procedure, a designated team, and external notification procedures are what response readiness holds.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-boards-2026"
+        }
+       ]
+      },
+      {
+       "id": "IR006/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "For operators in scope, a significant incident is notified to the supervisory authority within 24 hours of knowledge, reported within 72 hours, and closed by a final report within one month of the notification.",
+       "sources": [
+        {
+         "anchor": "se-cybersakerhetslag",
+         "title": "Cybersäkerhetslag (2025:1506)",
+         "establishes": "That operators in scope take appropriate and proportionate technical, operational, and organizational measures that include access control and asset management, personnel security, cryptography, and cyber hygiene and training, that the persons in an operator's management undergo training on security measures, that a significant incident is notified within 24 hours of knowledge and reported within 72 hours with a final report within one month, and that the government designates the supervisory authority or authorities.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-cybersakerhetslag"
+        }
+       ]
+      },
+      {
+       "id": "IR006/CH",
+       "standing": "mandatory",
+       "jurisdiction": "CH",
+       "state": "established",
+       "requirement": "A security breach likely to carry a high risk for the personality or fundamental rights of the person is notified to the EDÖB as fast as possible.",
+       "sources": [
+        {
+         "anchor": "ch-dsg",
+         "title": "Bundesgesetz über den Datenschutz (DSG), SR 235.1, Artikel 6, 19, 21, 22, 24, 31, and 61",
+         "establishes": "That processing is lawful, in good faith, and proportionate, for a purpose recognizable to the person and compatible with it, that the controller informs the person of the collection, that a decision resting on automated processing alone with legal or significant effect is disclosed to the person, that a prior impact assessment is made where processing may carry a high risk for the personality or fundamental rights, that a security breach likely to carry a high risk is notified to the EDÖB as fast as possible, that an infringement of personality is unlawful unless justified by consent, an overriding private or public interest, or law, and that natural persons are fined up to CHF 250,000 for the listed intentional breaches.",
+         "url": "https://alessandroaledda.com/intra/sources/#ch-dsg"
         }
        ]
       }
@@ -7042,7 +8482,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-23",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "CP001/AT",
@@ -7131,6 +8571,36 @@
          "title": "Code du travail, articles L1332-1 to L1332-4",
          "establishes": "That no sanction may be imposed without the grievance being put to the person in writing, that anything beyond a warning requires an interview at which the person may be assisted and a decision that is reasoned and notified, and that a faulty act may not on its own found proceedings more than two months after the day the employer came to know of it.",
          "url": "https://alessandroaledda.com/intra/sources/#fr-ct-1332"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "PT",
+       "state": "recommended",
+       "requirement": "On disproportionate use of email a warning to the worker is advisable; control data kept beyond six months rest on a pending disciplinary or judicial proceeding.",
+       "sources": [
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "LU",
+       "state": "recommended",
+       "requirement": "Disciplinary measures do not rest on recordings used for a purpose other than the one the system was installed for.",
+       "sources": [
+        {
+         "anchor": "cnpd-lu-video-2024",
+         "title": "Lignes directrices en matière de vidéosurveillance",
+         "establishes": "That video surveillance aimed at employees is always surveillance under article L.261-1, that employees have in principle the right not to be under continuous and permanent surveillance, so the inside of an office, an open space, a workshop, or a kitchen with permanent workstations is disproportionate and a camera on a till is pointed at the till and the customers' side, that footage from a system installed to protect goods may be used against an employee stealing goods and may not be used to find that an employee talks too long with a client or colleague nor as evidence for disciplinary measures, which is a prohibited change of purpose, that cameras do not film places reserved to employees for private use, toilets, changing rooms, smoking corner, rest areas, the délégation's room, the kitchenette, and that checking that employees work, keep hours, follow instructions, or behave well with customers are not purposes that can be pursued.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-video-2024"
         }
        ]
       }
@@ -7257,7 +8727,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "CP004/EU",
@@ -7288,6 +8758,36 @@
          "url": "https://alessandroaledda.com/intra/sources/#cassazione-24204-2025"
         }
        ]
+      },
+      {
+       "id": "CP004/CH",
+       "standing": "mandatory",
+       "jurisdiction": "CH",
+       "state": "established",
+       "requirement": "Evidence obtained by unlawful covert monitoring is excluded where the employee’s personality interest outweighs the interest in establishing the truth, and the employer’s interest in the truth did not outweigh it.",
+       "sources": [
+        {
+         "anchor": "bge-139-ii-7",
+         "title": "BGE 139 II 7",
+         "establishes": "That covert spyware on an employee's computer for three months, taking screenshots, is behaviour monitoring prohibited by article 26 ArGV 3 and disproportionate, that a signed IT usage directive gives general notice of controls and does not authorize it, that the lawful sequence is technical prevention, then anonymized analysis of logs, then named analysis of access logs on concrete suspicion of abuse, that the evidence so obtained is excluded because the employee's personality interest outweighs the interest in the truth, and that the dismissal resting on it was annulled.",
+         "url": "https://alessandroaledda.com/intra/sources/#bge-139-ii-7"
+        }
+       ]
+      },
+      {
+       "id": "CP004/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Breach of article L.261-1 is a criminal offence, eight days to one year of imprisonment and a fine of EUR 251 to 125,000, and the court may order the processing to cease on penalty; whether a court admits evidence so obtained is not stated by the article.",
+       "sources": [
+        {
+         "anchor": "lu-ct-261",
+         "title": "Code du travail, articles L.261-1 and L.261-2",
+         "establishes": "That processing for the surveillance of employees rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, that the representation of the staff is informed collectively beforehand of the purpose, the modalities, the retention, and a formal undertaking not to use the data for another purpose, that the délégation, or failing it the employees, may within 15 days ask the CNPD for a prior opinion with suspensive effect, the CNPD ruling within one month, that for three purposes articles L.211-8 and L.414-9 apply, that a complaint to the CNPD is neither a grave nor a legitimate ground of dismissal, and that breach is a criminal offence.",
+         "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
+        }
+       ]
       }
      ]
     },
@@ -7300,7 +8800,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "CP005/ES",
@@ -7314,6 +8814,36 @@
          "title": "Real Decreto 311/2022, Esquema Nacional de Seguridad",
          "establishes": "The security measures a Spanish public sector body has to apply, graded by category, among them the concurrence of two people on critical tasks so that no single authorized individual can abuse their rights, an access control on the activity records themselves, and the recording of evidence where an incident may end in disciplinary action.",
          "url": "https://alessandroaledda.com/intra/sources/#es-ens"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "CH",
+       "state": "recommended",
+       "requirement": "The prosecution of offences inside the business is for the police.",
+       "sources": [
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "PT",
+       "state": "recommended",
+       "requirement": "Indications of a crime in location data may support a criminal complaint.",
+       "sources": [
+        {
+         "anchor": "cnpd-7680-2014",
+         "title": "Deliberação n.º 7680/2014, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes da utilização de tecnologias de geolocalização no contexto laboral",
+         "establishes": "That geolocation of vehicles is admitted for fleet management in external service in five activities, that protection of goods is weighed strictly and does not cover every vehicle, that geolocation of mobile phones is excessive for both purposes and the employer neither obtains location data from the operator nor installs GPS applications, that location data are never used to control performance, that indications of a crime may support a criminal complaint and a disciplinary proceeding where the facts themselves breach the worker's duties, that driving parameters tied to the driver are anonymized, and that the purpose of fleet management is spent in the real-time view or the last position.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-7680-2014"
         }
        ]
       }
@@ -7376,7 +8906,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -7518,6 +9048,57 @@
          "url": "https://alessandroaledda.com/intra/sources/#be-cyfun"
         }
        ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "For Public Service Bodies, cyber security awareness training and education is mandatory for all staff, ongoing and planned, with regular updates on policies and procedures relevant to their roles. The management body follows training sufficient to identify risks and assess risk management practices, and offers similar training to employees on a regular basis.",
+       "sources": [
+        {
+         "anchor": "ie-ncsc-baseline",
+         "title": "Cyber Security Baseline Standards, Revision 1",
+         "establishes": "For Public Service Bodies, that an access control policy on least privilege is defined and communicated, that a joiner, mover, leaver policy revokes access no longer required, that user permissions are reviewed monthly and on role change and privileged accounts on a defined schedule, that logging is enabled with a monitoring capability able to tie a user to suspicious activity, and that awareness training is mandatory for all staff.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-baseline"
+        },
+        {
+         "anchor": "ie-ncsc-boards-2026",
+         "title": "Guidance on Cyber Governance for Management Board Members in NIS2 entities",
+         "establishes": "That the management body of an essential or important entity approves the risk management measures, supervises their implementation, follows training and offers it to employees, and is accountable for non-compliance; that insider threats are among the threats a board identifies; and that an incident response plan, a classification procedure, a designated team, and external notification procedures are what response readiness holds.",
+         "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-boards-2026"
+        }
+       ]
+      },
+      {
+       "id": "AW001/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "For operators in scope, the measures include basic cyber hygiene practices and cybersecurity training, and the persons in the management undergo training on security measures.",
+       "sources": [
+        {
+         "anchor": "se-cybersakerhetslag",
+         "title": "Cybersäkerhetslag (2025:1506)",
+         "establishes": "That operators in scope take appropriate and proportionate technical, operational, and organizational measures that include access control and asset management, personnel security, cryptography, and cyber hygiene and training, that the persons in an operator's management undergo training on security measures, that a significant incident is notified within 24 hours of knowledge and reported within 72 hours with a final report within one month, and that the government designates the supervisory authority or authorities.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-cybersakerhetslag"
+        }
+       ]
+      },
+      {
+       "id": "AW001/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "For entities in scope, all staff are made aware and trained in cybersecurity under a plan whose success is measured, and at the higher conformity level the training includes awareness and communication of internal threats so that staff recognize and respond to them.",
+       "sources": [
+        {
+         "anchor": "pt-reg-756-2026",
+         "title": "Regulamento n.º 756/2026, Regulamento do Regime Jurídico da Cibersegurança",
+         "establishes": "For entities in scope, that HR processes, selection, hiring, position categorization, and termination, are assessed against the entity's cybersecurity requirements, that identities and credentials are issued, managed, verified, revoked, and audited, that access follows need to know and least privilege, that privileged passwords sit in a password manager and remote and privileged access carries multi-factor authentication, that logs are collected, stored, protected, and reviewed regularly, their retention set by risk and proportionality, failures in log processing raising alerts and critical systems' logs stored on an autonomous system, that internal and external threats, intentional or accidental, are identified, that all staff receive awareness and training under a measured plan which includes awareness of internal threats, and that a significant incident is notified through the CNCS platform in an initial notification, an end-of-impact notification, and a final or interim report.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
+        }
+       ]
       }
      ]
     },
@@ -7530,7 +9111,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-20",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "AW002/FI",
@@ -7655,6 +9236,129 @@
          "title": "Kodeks pracy, article 22(3)",
          "establishes": "That monitoring of a worker's official electronic mail is open only where it is indispensable to an organisation of work permitting full use of working time and to the proper use of the work tools provided, that it may not violate the secrecy of correspondence, and that the same provisions, and with them the procedure of article 22(2), reach every other form of monitoring used for those purposes.",
          "url": "https://alessandroaledda.com/intra/sources/#pl-kp-223"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "IE",
+       "state": "recommended",
+       "requirement": "Employees are given a clear notification that CCTV monitoring is taking place, and are informed where and why.",
+       "sources": [
+        {
+         "anchor": "dpc-cctv-2023",
+         "title": "Guidance on the Use of CCTV, For Data Controllers",
+         "establishes": "That staff monitoring by camera belongs to special circumstances only, that employees are told where cameras are and why, that footage justified for security is not used for attendance or performance, that a case-by-case use for a disciplinary matter has to be shown necessary and limited in scope, that covert surveillance is generally unlawful and exceptionally permitted for offences only under a written policy and after a DPIA, and that a DPIA in the employment context could engage trade union or safety representatives.",
+         "url": "https://alessandroaledda.com/intra/sources/#dpc-cctv-2023"
+        }
+       ]
+      },
+      {
+       "id": "AW002/SE",
+       "standing": "mandatory",
+       "jurisdiction": "SE",
+       "state": "established",
+       "requirement": "Employees have the right to clear information in advance of which controls may be made of them. Notice of camera surveillance is given by clear signage or in another effective way, with a separate notice where sound is recorded. Information under article 13 to the persons filmed is owed beside the signage, and a sign without the DPO’s contact details does not discharge it.",
+       "sources": [
+        {
+         "anchor": "imy-kontroll-anstallda",
+         "title": "Kontroll och övervakning av anställda",
+         "establishes": "That the bases for monitoring employees are the balancing of interests or, for public authorities, public interest, that consent is not one of them, that security reasons weigh more than efficiency reasons in the balancing, that employees are told in advance which controls may be made, that data collected for one purpose are not used for an incompatible other, and that the employer normally has no right to the content of an employee's private files or emails.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-kontroll-anstallda"
+        },
+        {
+         "anchor": "se-kbl",
+         "title": "Kamerabevakningslag (2018:1200), 15 §, 21 §, and 22 §",
+         "establishes": "That notice of camera surveillance is given by clear signage or in another effective way, with a separate notice for sound, that an employer's decision on camera surveillance of a workplace is subject to the negotiation duty of 11-14 §§ MBL, and that the material is covered by confidentiality.",
+         "url": "https://alessandroaledda.com/intra/sources/#se-kbl"
+        },
+        {
+         "anchor": "imy-hm-2024",
+         "title": "Beslut efter tillsyn, H&M Hennes & Mauritz GBC AB, kamerabevakning i verksamhetslokaler i Borås",
+         "establishes": "That camera surveillance of a staff room over five nights without a legal basis breached article 6(1), that the absence of clear signage or other effective notice breached 15 § kamerabevakningslagen, that the absence of information to the persons filmed breached article 13, and that the three together cost SEK 300,000; and that signs at staff entrances without the DPO's contact details breached article 13 and were ordered corrected within four weeks.",
+         "url": "https://alessandroaledda.com/intra/sources/#imy-hm-2024"
+        }
+       ]
+      },
+      {
+       "id": "AW002/CH",
+       "standing": "mandatory",
+       "jurisdiction": "CH",
+       "state": "established",
+       "requirement": "The controller informs the person appropriately of the collection of personal data, whether or not collected from the person. The persons concerned are informed in advance and in detail of the type, aim, and purpose of the processing; an internal regulation sets out their rights and duties under monitoring and control systems and how the internal control is carried out; monitored areas are marked as such. A signed IT usage directive gives general notice that controls may occur; it does not inform of a covert method.",
+       "sources": [
+        {
+         "anchor": "ch-dsg",
+         "title": "Bundesgesetz über den Datenschutz (DSG), SR 235.1, Artikel 6, 19, 21, 22, 24, 31, and 61",
+         "establishes": "That processing is lawful, in good faith, and proportionate, for a purpose recognizable to the person and compatible with it, that the controller informs the person of the collection, that a decision resting on automated processing alone with legal or significant effect is disclosed to the person, that a prior impact assessment is made where processing may carry a high risk for the personality or fundamental rights, that a security breach likely to carry a high risk is notified to the EDÖB as fast as possible, that an infringement of personality is unlawful unless justified by consent, an overriding private or public interest, or law, and that natural persons are fined up to CHF 250,000 for the listed intentional breaches.",
+         "url": "https://alessandroaledda.com/intra/sources/#ch-dsg"
+        },
+        {
+         "anchor": "seco-argv3-26",
+         "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
+         "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
+         "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        },
+        {
+         "anchor": "bge-139-ii-7",
+         "title": "BGE 139 II 7",
+         "establishes": "That covert spyware on an employee's computer for three months, taking screenshots, is behaviour monitoring prohibited by article 26 ArGV 3 and disproportionate, that a signed IT usage directive gives general notice of controls and does not authorize it, that the lawful sequence is technical prevention, then anonymized analysis of logs, then named analysis of access logs on concrete suspicion of abuse, that the evidence so obtained is excluded because the employee's personality interest outweighs the interest in the truth, and that the dismissal resting on it was annulled.",
+         "url": "https://alessandroaledda.com/intra/sources/#bge-139-ii-7"
+        }
+       ]
+      },
+      {
+       "id": "AW002/PT",
+       "standing": "mandatory",
+       "jurisdiction": "PT",
+       "state": "established",
+       "requirement": "The worker is informed of the existence and purpose of the means of remote surveillance; a camera carries the statutory notice. Before processing begins the worker is told the conditions of private use, the forms and methods of control, the data processed, the retention period, the tolerance admitted, and the consequences of misuse; the rules and forms of control stand in an internal regulation.",
+       "sources": [
+        {
+         "anchor": "pt-ct",
+         "title": "Código do Trabalho, articles 17, 20, 21, 22, and 170-A",
+         "establishes": "That remote surveillance to control the worker's professional performance is prohibited, that it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it, that the worker is informed of its existence and purpose, that its use is subject to authorization by the CNPD on a request accompanied by the opinion of the comissão de trabalhadores, that the notice reads \"Este local encontra-se sob vigilância de um circuito fechado de televisão\", that the data are kept only for the period the purpose needs and destroyed on the worker's transfer or on termination, that the worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, the employer's power to set rules of use notwithstanding, and that in telework the employer may not capture image, sound, writing, or history, nor impose permanent connection by image or sound.",
+         "url": "https://alessandroaledda.com/intra/sources/#pt-ct"
+        },
+        {
+         "anchor": "cnpd-1638-2013",
+         "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
+         "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
+      },
+      {
+       "id": "AW002/LU",
+       "standing": "mandatory",
+       "jurisdiction": "LU",
+       "state": "established",
+       "requirement": "Beside the individual information of articles 12 and 13, the staff representation receives collective prior information of the purpose, the modalities, the retention, and the undertaking not to use the data for another purpose. Information is given in two layers, a sign and the full content of article 13. Employees are informed individually, with the controller’s identity and contact details, the DPO’s contact details, the purposes, the legitimate interests or the legal basis, the recipients, the retention per purpose, and their rights.",
+       "sources": [
+        {
+         "anchor": "lu-ct-261",
+         "title": "Code du travail, articles L.261-1 and L.261-2",
+         "establishes": "That processing for the surveillance of employees rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, that the representation of the staff is informed collectively beforehand of the purpose, the modalities, the retention, and a formal undertaking not to use the data for another purpose, that the délégation, or failing it the employees, may within 15 days ask the CNPD for a prior opinion with suspensive effect, the CNPD ruling within one month, that for three purposes articles L.211-8 and L.414-9 apply, that a complaint to the CNPD is neither a grave nor a legitimate ground of dismissal, and that breach is a criminal offence.",
+         "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
+        },
+        {
+         "anchor": "cnpd-lu-video-2024",
+         "title": "Lignes directrices en matière de vidéosurveillance",
+         "establishes": "That video surveillance aimed at employees is always surveillance under article L.261-1, that employees have in principle the right not to be under continuous and permanent surveillance, so the inside of an office, an open space, a workshop, or a kitchen with permanent workstations is disproportionate and a camera on a till is pointed at the till and the customers' side, that footage from a system installed to protect goods may be used against an employee stealing goods and may not be used to find that an employee talks too long with a client or colleague nor as evidence for disciplinary measures, which is a prohibited change of purpose, that cameras do not film places reserved to employees for private use, toilets, changing rooms, smoking corner, rest areas, the délégation's room, the kitchenette, and that checking that employees work, keep hours, follow instructions, or behave well with customers are not purposes that can be pursued.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-video-2024"
+        },
+        {
+         "anchor": "cnpd-lu-1fr-2022",
+         "title": "Délibération n° 1FR/2022",
+         "establishes": "That a transport company's cameras inside its agencies and a camera reaching a neighbouring plot breached minimisation, that the retention of location data breached storage limitation, that employees and third parties were not informed as article 13 requires on either system, that the fine was EUR 4,900 after a proposal of EUR 10,000, and that the orders were to remove or reorient the cameras and to inform employees individually, with the controller's identity, the DPO's contact details, the purposes, the legitimate interests, the recipients, and their rights, and for geolocation the legal basis, within four months.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-1fr-2022"
+        },
+        {
+         "anchor": "cnpd-lu-11fr-2021",
+         "title": "Délibération n° 11FR/2021",
+         "establishes": "That location data kept two years and four months for geographic tracking, protection of goods, and working time of travelling employees exceeded what the purposes needed, that a retention set per purpose is owed, two months for location, one year for billing evidence, three years for working time, that the employees were not informed as article 13 requires, and that access to the geolocation software through shared accounts breached article 32, individual accounts being owed only to those for whom access is strictly necessary to their tasks.",
+         "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-11fr-2021"
         }
        ]
       }
@@ -7866,9 +9570,10 @@
   }
  ],
  "counts": {
-  "established": 397,
+  "established": 447,
   "not covered": 0,
   "unread": 0,
-  "open": 0
+  "open": 0,
+  "recommended": 46
  }
 }
