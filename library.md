@@ -1333,8 +1333,8 @@ Summary: The holes in the record, stated rather than left to be discovered.
 
 There is no European rule requiring an outcome for a person to be compared with those reached in comparable cases. Consistency is a principle national courts apply when an outcome is contested, and the record has found no instrument that obliges the comparison before one is reached. CP003 is empty for that reason and not for want of looking.
 
-There is no European insider symposium. The reference event in the field is American, in its eleventh edition, held in Washington.
+No stand-alone European insider symposium has been identified. The discipline has national forums, such as the Security Institute's Insider Risk Conference in the United Kingdom, and meetings organized from outside Europe, such as the Insider Risk Practitioner Alliance's Nordic summit; none of them has become a Europe-wide reference. The longest-running event in the field, the National Insider Risk Symposium, is American, in its eleventh edition.
 
-There is no European professional body for the discipline.
+No professional body dedicated to the discipline at European level has been identified; where it is organized, it is as a group inside a broader security body.
 
 There is no program standard at European Union level. The only thematic ENISA report dates from 2020, and the only program development manual, published by CoESS, dates from 2019.
