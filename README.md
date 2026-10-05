@@ -29,7 +29,7 @@ reconciled afterwards.
 | Measures | 110 |
 | Jurisdictions in scope | 34 |
 | Jurisdictions carrying something | 19 |
-| Rows established | 447 |
+| Rows established | 493 |
 | Of them binding, and so controls | 0 |
 | Sources read and annotated | 116 |
 
