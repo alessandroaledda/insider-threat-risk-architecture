@@ -36,16 +36,22 @@ Summary: The authority under which an insider risk management program operates, 
 What it is: The instrument that establishes the program, states its authority, names its sponsor, and bounds what it may reach.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 EU · established · [coess-manual] · The Union-funded manual addresses how a program is structured, and states no legal basis for any of it.
 GB · established · [npsa-framework] · The charter is written to be reviewed against rather than filed: governance and culture are set out as things a program is measured on, not as preamble to the controls.
 IE · recommended · [ie-ncsc-boards-2026] · For essential and important entities, the management body approves the cybersecurity risk management measures, supervises their implementation, and is accountable for non-compliance; the guidance restates article 20 of the Directive while the transposing Act is pending.
+RO · established · [ro-oug-155-2024] · For essential and important entities, the management bodies approve the cybersecurity risk management measures, supervise their implementation, and are responsible for breaches; they designate, where applicable, the persons responsible for the security of networks and information systems, who in essential entities other than public administration and small enterprises hold managerial authority.
+HU · established · [hu-act-lxix-2024] · For organizations in scope, the head of the organization establishes and operates the risk management framework, registers the systems, defines the roles and responsibilities, appoints the person responsible for the security of the electronic information system, issues the information security policy and reviews it at least every two years, and decides on taking systems into use.
+HR · established · [hr-zks-2024] · For key and important entities, the members of the management bodies answer for the implementation of the risk management measures, approve the measures the entity will apply, and control their implementation.
+GR · established · [gr-law-5160-2024] · For essential and important entities, the management bodies approve the cybersecurity risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches of the article.
 
 ### GV002 · Declared perimeter {#gv002}
 What it is: The single account of what the program does, what it does not do, and on what authority, written to be shown outside it.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-10-05
 GB · established · [uk-dpa-2018] · Where an employer processes a closed category under the employment condition, an appropriate policy document has to be in place when the processing is carried out, and it has to have been produced: a document explaining the procedures for securing compliance with the principles for that processing, and the policies on retention and erasure with an indication of how long the data are likely to be kept. It is a condition of the processing being lawful and not a record made afterwards.
+HU · established · [hu-act-lxix-2024] · For organizations in scope, each electronic information system is classified into the "alap", "jelentős", or "magas" security class on the risk to its integrity and availability and to the confidentiality, integrity, and availability of its data, and the measures the decree assigns to that class are implemented; the classification is reviewed at least every two years.
 
 ### GV003 · Cross-functional governance body {#gv003}
 What it is: The standing body in which the functions a program touches meet and decide together: security, human resources, legal, compliance, and technology. What makes it this measure rather than a mailing list is that it decides, and that it decides in one room rather than one function at a time.
@@ -56,9 +62,11 @@ GB · established · [npsa-stakeholders] · The group is named and its membershi
 ### GV004 · Roles and decision rights {#gv004}
 What it is: The statement of which decisions the program may take, of the role entitled to take each, and of the person holding that role. The decisions are the ones the framework names elsewhere: to open a case on a person, to reach for the content of what they wrote, to withdraw their access before any finding, and to recommend a consequence.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-10-05
 GB · established · [npsa-stakeholders] [npsa-board] · One board member holds overall responsibility for protective security, and a non-executive director acts as an independent champion for it. Below them a director carries the strategy into policy, and senior staff in each business area answer for the risk assessment and for implementation in their own.
 IT · established · [garante-framos-2026] · The technician who reached into the accounts held the role and not the instruction. A signed confidentiality undertaking is not the documented instruction the Regulation asks of anyone processing on the controller's behalf.
+HR · established · [hr-zor] · An employer with at least twenty workers appoints a person who enjoys the workers' trust and is authorized, beside the employer, to oversee whether workers' personal data are collected, processed, used, and transmitted in accordance with the law; the appointment needs the works council's prior consent.
+GR · established · [gr-law-5160-2024] [gr-law-4990-2022] · For essential and important entities, a qualified member of staff is designated Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.), with the resources, autonomy, and access to the management bodies to coordinate compliance, incident reporting, and continuity plans; the duties are incompatible with those of the Data Protection Officer. The Υπεύθυνος Παραλαβής και Παρακολούθησης Αναφορών (Υ.Π.Π.Α.) is an employee or a third party and reports directly to the top management body; other duties may not impair the independence of the role.
 
 ### GV005 · Shared definitions and severity scale {#gv005}
 What it is: A written agreement among the functions on what constitutes an event, what constitutes a condition, and what a given severity denotes.
@@ -81,6 +89,7 @@ NL · established · [nl-bio2] · The monitoring process in the security operati
 What it is: The record naming, for each stream of data the program collects and each use it puts that data to, the ground it rests on and the condition the jurisdiction attaches to that ground. Written before the collection starts, and held in a form that can be shown rather than asserted.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be recorded for each stream the program collects, before it collects it, and the register has to survive the article 5(2) test of being shown rather than asserted.
 DE · established · [bag-workday] · The national employment provision cannot carry the register on its own: the ground recorded has to be one that stands under article 6 itself, the employer's legitimate interests among them.
@@ -91,10 +100,15 @@ PL · established · [pl-kp-222] [pl-kp-223] · The purposes, the scope and the 
 SE · established · [imy-kontroll-anstallda] [imy-apotea-2023] · The bases for processing to control employees are the balancing of interests or, for a public authority, public interest; consent is not one an employer can use. In the balancing, security reasons weigh more than efficiency reasons. Where cameras serve several purposes the legal basis is examined purpose by purpose, and surveillance to direct work and check how employees perform their tasks normally has none.
 CH · established · [ch-dsg] · An infringement of personality is unlawful unless justified by the person's consent, by an overriding private or public interest, or by law; processing is lawful, in good faith, proportionate, and for a purpose recognizable to the person.
 LU · established · [lu-ct-261] · Processing for the surveillance of employees in the employment relationship rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, and the employer undertakes formally not to use the data for a purpose other than the one stated in the prior information.
+RO · established · [ro-law-190-2018] · Monitoring by means of electronic communications or video surveillance at the workplace on the employer's legitimate interest is permitted only where the interest is duly justified and prevails over the rights of the persons concerned, the employees have received prior, mandatory, complete, and explicit information, the union or the employee representatives have been consulted before the system is introduced, less intrusive forms have previously proven ineffective, and retention is proportionate and no longer than 30 days save where the law provides otherwise or a case is duly justified.
+HU · established · [hu-naih-2016] [hu-mt-9-11a] · Consent is a basis for workplace processing only exceptionally, where the employee gains an unconditional advantage and suffers no disadvantage from refusing; checks of employees rest on the employer's legitimate interest with a documented balancing test in five steps. The employer may require a statement or personal data from the employee only where material to the establishment, performance, or termination of the employment or to a claim under the Act, and informs the person in writing of the processing; a restriction of the employee's personality right stands only where strictly necessary for a reason directly connected with the purpose of the employment and proportionate.
+HR · established · [hr-zor] [hr-azop-radni-odnosi] · Workers' personal data are collected, processed, used, and transmitted only where this or another law provides or where needed for the rights and obligations of the employment, and the employer sets out in advance in the work rules which data are collected for that purpose and for what; only the employer or a person it specially authorizes processes them. Consent is seldom an adequate basis for processing workers' data, the dependence of the worker standing in the way; the employer relies on another basis, such as contract or a demonstrated legitimate interest.
+GR · established · [gr-law-4624-2019-27] · Employees' data are processed for the purposes of the employment contract where absolutely necessary for the decision to conclude it or for its performance; consent is an exceptional basis judged on the employee's dependence and the circumstances, given in writing or electronically, clearly distinct from the contract, with information on the purpose and the right to withdraw; a collective agreement may provide a basis within article 88(2).
 
 ### GV008 · Impact assessment before deployment {#gv008}
 What it is: The written assessment, made before a measure operates and kept afterwards, of what it will do to the people subject to it: what it will collect about them, what may follow from what it collects, and what they can do about either. It is a document, and its absence is a finding on its own.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 Also: DPIA data protection impact assessment
 
@@ -106,6 +120,8 @@ SE · recommended · [imy-kamera-arbetsplats] · Before cameras go up the employ
 CH · established · [ch-dsg] [seco-argv3-26] · A prior impact assessment is made where processing may carry a high risk for the personality or fundamental rights of the person. The business examines and justifies in writing the overriding interest and the proportionality of a planned monitoring or control system, and produces the justification to the cantonal labour inspectorate on request.
 PT · recommended · [cnpd-1638-2013] [cnpd-7680-2014] · Before the internal rules on use and control of ICT are set, the employer assesses their impact. Before geolocation is installed, the employer assesses its impact.
 LU · recommended · [cnpd-lu-geo-2021] · A geolocation system in principle requires an impact assessment, the CNPD's list of processing that always requires one covering regular and systematic control of employees' activities and systematic tracking of location.
+HU · recommended · [hu-naih-2016] · Before a check that involves personal data the employer carries out a balancing test: whether personal data are needed at all, the precise legitimate interest, the purpose, the data and the duration, the employees' interests, and why the restriction is proportionate; the principle of gradualness and the employee's presence are the guarantees the test relies on.
+HR · recommended · [hr-azop-radni-odnosi] · A data protection impact assessment is mandatory, by the Agency's decision of 21 December 2018, for the processing of workers' data by applications or systems for tracking, such as the tracking of work, movement, or communication.
 
 ### GV009 · Accountability evidence {#gv009}
 What it is: The material by which the program can show how it reached a decision about itself: a threshold set, an instrument chosen, a policy changed. As distinct from asserting that the decision was reached properly, and as distinct from the record of a single case, which the investigation pillar holds.
@@ -117,6 +133,7 @@ EU · established · [gdpr] · The controller has to be responsible for the prin
 ### GV010 · Worker representative engagement {#gv010}
 What it is: The involvement of the body representing the workforce in the design of the program, as distinct from any instrument deployed under it.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 
 FR · established · [code-travail-controle] · The body brought in is the social and economic committee, informed and consulted before the decision, and informed again before automated personnel management processing is introduced.
@@ -134,6 +151,10 @@ SE · established · [se-mbl] [se-kbl] [imy-gps] [imy-kamera-arbetsplats] · An 
 CH · recommended · [seco-argv3-26] · The participation of employees in the planning, installation, hours of operation, and retention period of a monitoring or control system is one of the three conditions of its admissibility; where a system required for other reasons can also monitor employees, they have a right to information and consultation under articles 5 and 6 ArGV 3.
 PT · established · [pt-ct] [cnpd-1638-2013] · The request for authorization of remote surveillance is accompanied by the opinion of the comissão de trabalhadores, or, where it is not given within 10 days of consultation, by proof that it was requested. The internal regulation on use and control of ICT is heard by the comissão de trabalhadores or other representative structure under article 99(2) of the Labour Code, published, and sent to the ACT; access to a mailbox takes place preferably in the presence of a representative of the comissão de trabalhadores, a union delegate, or a person the worker names.
 LU · established · [lu-ct-261] · Before surveillance is introduced the délégation du personnel, or failing one the Inspection du travail et des mines, is informed collectively of the purpose in detail, the modalities of the system, the retention period or criteria, and the formal undertaking not to use the data otherwise; within 15 days the délégation, or failing it the employees concerned, may ask the CNPD for a prior opinion on the project, which suspends it until the CNPD rules within one month; where the surveillance serves health and safety, control of production or performance as the only means of fixing exact pay, or flexible working hours, articles L.211-8 and L.414-9 apply.
+RO · established · [ro-law-190-2018] · The employer consults the union or, where there is none, the employee representatives before introducing a monitoring system by electronic communications or video surveillance; the article states the consultation as a condition of lawfulness and does not state what it has to produce.
+HU · established · [hu-mt-264] · At least fifteen days before deciding, the employer seeks the works council's opinion on draft measures and policies affecting a larger group of employees, among them the processing and protection of employees' personal data and the use of technical means to check the employee; the section gives an opinion right and does not make the measure depend on agreement.
+HR · established · [hr-zor] [hr-zzr-43] [hr-zzpn-2022] · A decision on collecting, processing, using, and transmitting data on the worker is taken only with the works council's prior consent, silence for eight days counting as consent, a refusal being reasoned in writing and replaceable by a court or arbitration decision on request within fifteen days; the introduction of new technology and changes in the organization and manner of work are consulted with the council beforehand, and a decision taken without the consultation is void; where no council exists the union representative holds its rights. Surveillance devices that follow all the worker's movements throughout working time, or keep workers in view throughout work, are used only on the works council's prior consent, a refusal being replaceable by arbitration on request within 15 days. The confidential person for internal reports and the deputy are appointed on the proposal of the works council or the union representative holding its rights, or of at least 20 % of the workers, and dismissed without delay on their proposal.
+GR · established · [gr-law-1767-1988-13] · The employer informs the works council, before applying the decision, of the introduction of new technology; no Greek statute located requires consultation or agreement of worker representatives before monitoring is introduced.
 
 ### GV011 · Notice before an algorithmic system is deployed {#gv011}
 What it is: Notice that a system of a named class is about to be put into use, owed to the representatives of the workforce and to the workers themselves. It falls due by reason of what the system is, so it is owed even where the representatives hold no right to be consulted, and even where they have already been consulted about the same system.
@@ -151,22 +172,27 @@ GB · established · [npsa-board] · The board member who holds the responsibili
 ### GV013 · Periodic program review {#gv013}
 What it is: The revision of each component of the program at a stated interval.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-10-05
 
 
 GB · established · [npsa-framework] · The framework is offered as something an organization reviews itself against, which makes the review a recurring act rather than a one-off inspection.
 GB · established · [stewart-hobbs] · The advice literature has itself been coded and characterised, so what guidance instructs can be examined rather than assumed.
 NO · established · [no-aml-kontroll] · The need for the measures is evaluated at intervals, and the evaluation is made together with the elected representatives rather than by the employer alone.
+RO · established · [ro-oug-155-2024] · For essential and important entities, an annual self-assessment of the maturity of the risk management measures, assumed by management, goes to the DNSC and, where applicable, to the sectoral authority; essential entities send a remediation plan within 30 days of it.
+HU · established · [hu-act-lxix-2024] · For organizations in scope, the head of the organization ensures the periodic evaluation of the protective measures, by risk analyses, checks, and an internal cybersecurity evaluation on the authority's recommendation, remedies the deficiencies found, and reviews the security classification at least every two years or without delay on a change affecting security.
+GR · established · [gr-law-5160-2024] · For essential and important entities, policies and procedures assess the effectiveness of the risk management measures, and the single cybersecurity policy of an essential entity goes to the Εθνική Αρχή Κυβερνοασφάλειας for approval of its completeness at least annually.
 
 ### GV014 · Answering a request from the person {#gv014}
 What it is: The program's answer when a person asks what is held about them and what is done with it. It is a measure once there is a route the request reaches, someone answerable for the reply, a period inside which it is given, and a rule for what is withheld and on what ground. An answer given late, or given in part without saying what was taken out and why, is not an answer.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 Also: subject access request SAR data subject access
 EU · established · [gdpr] · The reply is owed without undue delay and in any event within one month of the request, so the month is the outer limit and not the term. It can be extended by two more where the request is complex or the requests are many, but the extension and the reasons for it have to reach the person inside the first month. Where the program will not act at all, that is said inside the same month, with the routes to a complaint and to a court named.
 IT · established · [garante-165-2026] · Answering in stages across five months, and then handing over the correspondence purged of many elements without saying what had been taken out or why, was held not to be an answer.
 GB · established · [ico-monitoring] · What monitoring collects must be made available on a request unless an exemption applies, and the guidance turns that into a constraint on design: how easily information can be retrieved should bear on the choice of monitoring system in the first place, and that should be settled in the impact assessment. A system that cannot answer a request is a choice made earlier, not a difficulty met later.
 LU · established · [lu-ct-261] · A complaint to the CNPD by an employee concerned is neither a grave nor a legitimate ground of dismissal.
+HU · established · [hu-naih-2020-34] · A former employee has a right of access to the private e-mails in the archive of the work mailbox and the former employer identifies them with the person's involvement and gives access; access to the work-related e-mails was not ordered; the fine for the refusal and for the want of transparent information on the measures taken was 200,000 HUF.
 
 ## PS · Personnel security {#ps}
 Summary: The measures directed at the person: what is verified before and during employment, what is asked of the people who manage them, what the program may hold about them, and what happens when they leave.
@@ -174,6 +200,7 @@ Summary: The measures directed at the person: what is verified before and during
 ### PS001 · Pre-employment screening {#ps001}
 What it is: The verification, before employment begins, of who the candidate is, that they may lawfully work, and that the account they give of their own history holds against evidence that does not come from them.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 
 GB · established · [npsa-ongoing-persec] · Good practice treats screening at recruitment as the opening of a process rather than its completion.
@@ -186,17 +213,22 @@ BE · established · [be-cyfun] · A background verification check should be car
 NL · established · [nl-bio2] · Every entity has a screening policy that has been settled. On entering service, and on a change of function, a certificate of conduct may be asked for on the basis of a weighing of the risk.
 SE · established · [se-sakerhetsskyddslag] · For security-sensitive activities, vetting precedes participation and rests on a basic investigation, a register check, and where required a special personal investigation, with the post placed in one of three security classes.
 PT · established · [pt-reg-756-2026] · For entities in scope, the processes that govern human resources, selection of candidates and hiring among them, are assessed and reviewed against the entity's cybersecurity requirements.
+RO · established · [ro-oug-155-2024] · For essential and important entities, the measures include human resources security, access control policies, and asset management, without the ordinance saying what human resources security holds.
+HU · established · [hu-mt-9-11a] [hu-mk-7-2024] · Criminal record data of an employee or candidate may be processed to check whether a restriction or exclusion set by law or by the employer applies to the position, the employer may set such a condition only where employment in the position would endanger a significant financial interest, a secret protected by law, or the interests named in section 11(2)(b) to (d), and the employer sets the condition and the terms of processing out in writing beforehand. For systems in all three security classes, every position carries a risk classification with screening criteria for the persons filling it, and persons are screened before being allowed access to the system.
+HR · established · [hr-zks-2024] [hr-uredba-135-2024] · For key and important entities, the measures include human resources security, without the Act saying what it holds. For key and important entities, the adequacy and qualifications of candidates are checked before hiring according to the significance of the post and the applicable rules, by such means as references, validity of certificates and diplomas, written tests, and certificates of no criminal record.
+GR · established · [gr-law-5160-2024] [gr-law-4990-2022] · For essential and important entities, the measures include human resources security, access control policies, and asset management, without the Act saying what human resources security holds. A person under prosecution or convicted for the listed offences, under disciplinary proceedings that may lead to dismissal, or suspended, may not hold the duties of Υ.Π.Π.Α.
 
 ### PS002 · Risk-tiered screening standards {#ps002}
 What it is: The written standard setting, for each level of exposure a role carries, what is checked and how far. Exposure, not seniority: a systems administrator two grades down reaches further than the director above them.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-10-05
 EU · established · [nis2-ir] [cer-2557] · For the digital infrastructure and service providers it reaches, criteria are laid down setting out which roles, responsibilities, and authorities may be exercised only by a person whose background has been verified, and the verification is done before that person begins to exercise them. What it takes into account is stated: the classification of the assets, the systems to be reached, and the risks perceived, in proportion to the business requirements. The policy is reviewed at planned intervals. For a critical entity the tiering runs on the same principle from the other side: who may be checked is set by role rather than uniformly, being a sensitive role or an authorization to reach the premises, the information, or the control systems, directly or remotely. Alongside it the entity is to set out which categories of personnel exercise critical functions, and the check itself is to be proportionate and strictly limited to what is necessary.
 DE · established · [bsi-grundschutz] · Depth follows the area and not the person. In a high security area a further check is carried out on top of the basic check of trustworthiness, and where the work touches classified material the person goes through the statutory security clearance. This sits at the grade the compendium keeps for a raised protection need, which is itself settled by an individual risk analysis.
 ES · established · [es-ens] · For each post directly bound up with the handling of information or services, the security responsibilities it carries are defined, and they are based on the risk analysis. The measure does not apply at the basic category and applies at the two above it, so the scheme grades the obligation itself by what the system holds.
 BE · established · [be-cyfun] · What the background check weighs is the classification of the information to be reached and the risks perceived, so the depth follows what the role will hold rather than where the role sits.
 FI · established · [fi-katakri] · The authority has to recognize which of its functions call for special trustworthiness and reliability in the people employed in them. The clearance that follows can rest on a concise, a basic, or a comprehensive investigation, and which of the three is used depends on the information at stake.
 NL · established · [nl-bio2] · The certificate of conduct is asked for on a weighing of the risk rather than as a matter of course, so what sets the depth is the assessment and not the grade of the post.
+HU · established · [hu-mk-7-2024] · For systems in all three security classes, the risk classification of positions and the screening criteria are reviewed at a set frequency; screening for persons with access to information needing special protection is in the catalogue and marked for no class.
 
 ### PS003 · Screening of privileged-role holders {#ps003}
 What it is: The further verification applied to a person because of what their access reaches, triggered by the entitlement itself rather than by the title attached to it.
@@ -212,12 +244,14 @@ FI · established · [fi-katakri] · Where international requirements demand it,
 What it is: The repetition of verification, in whole or in part, at a stated interval and on stated events: a move into a role of greater exposure, a return after a long absence, and a concern raised through any of the routes the program keeps open.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 GB · established · [npsa-ongoing-persec] · Contracting is covered alongside employment, so the standard is set for people the organization does not employ.
 EU · established · [nis2-ir] [cer-2557] · For the digital infrastructure and service providers it reaches, the assignment of people to the roles that carry security responsibilities is reviewed at planned intervals and at least once a year, and changed where the review calls for it. For a critical entity the background check is not confined to recruitment either: it may be requested on a person who already holds the sensitive role or the authorization, in duly reasoned cases and against the Member State risk assessment.
 BE · established · [be-cyfun] · The background check is repeated periodically for the people in sensitive roles, so it is a standing condition of holding the role rather than a gate at the entrance.
 FI · established · [fi-katakri] · The clearances, the handling rights, the rights of use, the access rights, and the awareness of the duty not to disclose are all kept updated as changes occur, and the training that goes with a change is given before the change.
 SE · established · [se-sakerhetsskyddslag] · For security-sensitive activities, the vetting is followed up for as long as participation lasts, and register data are drawn continuously during it; the Act sets no interval.
+HU · established · [hu-mk-7-2024] · For systems in all three security classes, persons are re-screened at a set frequency and when their authorization level or position changes.
 
 ### PS005 · Contractor and third-party personnel standards {#ps005}
 What it is: The personnel standard applied to people working in the organization under someone else's contract, carried through the contract that brings them in and evidenced by the party that employs them.
@@ -312,15 +346,18 @@ Summary: The protection of the information and assets the organization holds, an
 ### DP001 · Identification of critical assets {#dp001}
 What it is: The list of the information, systems, and physical assets whose loss, alteration, or destruction would cause the organization material harm, and the record of who decided that and when. It is the list that is the measure. A program that knows in principle what matters, and cannot produce the list, does not hold it.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-10-05
 EU · established · [nis2] · Asset management is named among the measures an entity in scope has to take, alongside access control policies and human resources security in the same point. What the identification covers, and how far it goes, is left to the state of the art.
+HR · established · [hr-zks-2024] · For key and important entities, the measures include the management of software and hardware assets with a regularly updated inventory.
+GR · established · [gr-law-5160-2024] · For essential and important entities, a complete inventory of tangible and intangible information and communication assets is kept, ranked by criticality.
 
 ### DP002 · Information classification scheme {#dp002}
 What it is: The categories information is assigned to, the handling rules that follow from each, and what happens to information nobody has assigned. The default is part of the scheme: a category that only the careful apply leaves everything else outside it.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-10-05
 EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, a system of classification levels is laid down and every asset is placed in one, on confidentiality, integrity, and authenticity. The handling policy that follows runs from acquisition through use, storage, and transport to disposal, and reaches everyone who handles an asset.
 CZ · established · [holoska-doucek] · The classification level of a document governs how a person may work on it, with whom it may be shared, and where and how it may be kept. A document carrying the right level can then be followed by the loss prevention tooling, and access to it that was not permitted is raised as an incident.
+HU · established · [hu-act-lxix-2024] · For the organizations in annex 1 of the Act, the head of the organization ensures the survey and classification of the data processed in the systems, and the result is one basis of the security classification.
 
 ### DP003 · Data discovery and inventory {#dp003}
 What it is: The location of regulated or sensitive data across the estate, as distinct from where policy assumes it is.
@@ -332,6 +369,7 @@ EU · established · [nis2-ir] · For the digital infrastructure and service pro
 What it is: The entitlements each person actually holds, held to what their task requires and no wider. The measure is the state of the entitlements, not the policy that describes the state they ought to be in.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 EU · established · [nis2] [nis2-ir] · Access control policies are named among the measures an entity in scope has to take, and for one class of entity the implementing rules say what they hold: rights assigned and revoked on need to know, least privilege, and separation of duties, modified on termination or change of employment, authorized by the relevant persons, limited in scope and duration for suppliers and visitors, held in a register, and logged.
 IT · established · [acn-379907] · For a subject in the national NIS register, permissions are assigned on least privilege, separation of functions, and need to know. How an account authenticates is set against the risk, weighed on the privileges it holds, the criticality of the systems, and the kind of operations it can perform on them, and multi-factor authentication is used on the systems that matter.
 DE · established · [bsi-grundschutz] · An identifier or an entitlement may be granted only on actual need and on what the task requires, and what is no longer needed is removed when the person changes. Anything beyond the standard is granted only after a further justification and a check of it. Every entitlement is set up through separate administrative roles, and the duties the organization has declared incompatible are held apart by the entitlement system itself.
@@ -340,10 +378,15 @@ IE · recommended · [ie-ncsc-baseline] · For Public Service Bodies, an access 
 SE · established · [se-cybersakerhetslag] [msbfs-2020-7] · For operators in scope, the measures taken include access control and asset management. For state authorities, only authorized users and systems reach the IT environment, and no digital identity holds more access than it needs.
 PT · established · [pt-reg-756-2026] [cnpd-1638-2013] · For entities in scope, access and permissions are granted on need to know and least privilege under an access and permissions policy, and identities and credentials are issued, managed, verified, revoked, and audited. Commercial, industrial, and intellectual property secrecy is protected upstream by strict access control to the confidential information, and not by reading email.
 LU · established · [cnpd-lu-11fr-2021] · Access to the geolocation software is by individual accounts, identifier and password, created only for the persons for whom access is strictly necessary to their tasks; shared accounts breached article 32.
+RO · established · [ro-oug-155-2024] · For essential and important entities, the measures include access control policies and asset management.
+HU · established · [hu-mt-9-11a] · Biometric data of an employee may be processed for identification only where needed to prevent an unauthorized access to a thing or data that would risk grave or mass, irreversible harm to life, health, or a significant interest protected by law, the list naming classified data, firearms, dangerous substances, nuclear material, and property of especially large value.
+HR · established · [hr-zks-2024] [hr-uredba-135-2024] · For key and important entities, the measures include access control policies and multi-factor or continuous authentication where needed. For key and important entities, an owner is defined for each application and each role, the owner approves the assignment of rights, and a record is kept of who approved the assignment, with rights assigned, changed, revoked, and documented under the access control policy.
+GR · established · [gr-law-5160-2024] [gr-sev-nis2-guide-2025] · For essential and important entities, the measures include access control policies and the use of multi-factor or continuous authentication where appropriate. Access is granted on a role with least privilege, the user reaches only the systems and data needed, and access is reviewed; the policies reach internal and external personnel over the whole access lifecycle.
 
 ### DP005 · Privileged access management {#dp005}
 What it is: The separation, brokering, and time-bounding of access that exceeds ordinary entitlement.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, privileged and system administration accounts carry policies of their own, strong identification and authentication among them, and the systems used to administer are kept for administration and separated from everything else.
 IT · established · [acn-379907] · For a subject in the national NIS register, every account is inventoried and approved by someone inside the organization, those with administrative privileges and those used for remote access included, and accounts are individual to a user unless there is a documented technical reason otherwise. A system administrator's privileged and unprivileged accounts are to be completely distinct, and to carry different credentials.
@@ -354,16 +397,21 @@ NL · established · [nl-bio2] · Only authorized personnel reach the system uti
 IE · recommended · [ie-ncsc-baseline] · For Public Service Bodies, the granting of highly privileged rights is strictly controlled and their ongoing need reviewed regularly, administrative accounts are separated from user accounts, and a secure listing of users with administrative privileges is maintained.
 SE · established · [msbfs-2020-7] · For state authorities, identities that give administrative privileges are used for administration only and assigned restrictively.
 PT · established · [pt-reg-756-2026] · For entities in scope, passwords for privileged access are held in a password management solution, and remote and privileged accounts carry multi-factor authentication.
+HU · established · [hu-mk-7-2024] · For systems in the "jelentős" and "magas" classes, the system logs the execution of privileged functions.
+HR · established · [hr-uredba-135-2024] · For key and important entities, privileged and administrator accounts follow written rules: dedicated accounts used only for administration, individualized and limited administrative privileges, use of privileged accounts only to connect to administration systems, and strong authentication such as multi-factor.
+GR · reported · [gr-sev-nis2-guide-2025] · Service and privileged accounts, administrators among them, are protected by privileged access management, and all accesses and actions are logged.
 
 ### DP006 · Access recertification {#dp006}
 What it is: The periodic comparison of the access a person holds against the work they perform, and its adjustment.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, access rights are reviewed at planned intervals and changed on organizational change, and the result of the review is documented together with the changes it called for.
 IT · established · [acn-379907] · For a subject in the national NIS register, accounts and the authorizations on them are verified periodically on the systems that matter, and updated or revoked where a change calls for it.
 DE · established · [bsi-grundschutz] · Which identifiers, groups, and rights profiles have been permitted and created is documented, and the documentation is checked at intervals against the state the entitlements are actually in, and against whether what has been granted still answers to the security requirements and to what the users now do. The documentation itself is protected from unauthorized access.
 NL · established · [nl-bio2] · Every access right that has been issued is assessed at least once a year.
 IE · recommended · [ie-ncsc-baseline] · For Public Service Bodies, user permissions are reviewed monthly and on role change, and privileged accounts on a defined schedule, weekly, monthly, or three-monthly, or following any incident.
+HU · established · [hu-mk-7-2024] · For systems in the "jelentős" and "magas" classes, the organization reviews at set intervals the privileges accessible to roles or user groups to verify their necessity and reassigns or removes them.
 
 ### DP007 · Data loss prevention deployment {#dp007}
 What it is: The introduction of a capability that inspects content in motion, at rest, or in use, and acts on it against a policy.
@@ -417,6 +465,7 @@ NO · established · [no-innsyn-epost] · What is left in the mailbox and in the
 What it is: The period for which the program keeps what it produced rather than what it observed: the alert, the case file, the note, the export, the assessment. Distinct from the retention of the business records the program reads, which the organization sets for its own reasons and the program does not control.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 NO · established · [no-innsyn-epost] · What is opened and proves not to be necessary or relevant to the purpose is closed at once, and any copy of it deleted.
 NO · established · [no-nsm] · The security relevant data are to be used only to safeguard the security of the systems, and kept long enough that unwanted activity can be discovered and mapped after the fact. What weighs on the period is that the data may later be wanted for an investigation, for assessing damage, and for trend analysis, held against the point that they can hold confidential information about the individual employee.
 AT · established · [at-ishb] · Log files hold personal data in many cases, so they may be used only for purposes compatible with the one they were collected for. Where that restriction bites, the handbook says it is resolved by removing the personal data or by anonymizing them, and states that pseudonymizing them is not enough.
@@ -427,6 +476,8 @@ SE · established · [se-visselblasarlag] · Oral reports are documented by reco
 CH · recommended · [seco-argv3-26] · Monitoring data are deleted after the shortest period fixed in advance, and archiving them after the control for security reasons is impermissible.
 PT · established · [cnpd-1638-2013] [pt-ct] · Data from the control of private use of ICT are kept at most six months, save during a disciplinary or judicial proceeding; the logs of access to the monitoring system are kept one year. Remote surveillance data are kept for the period the purpose needs and destroyed on transfer or termination; breach of the retention rule is a contraordenação grave.
 LU · established · [cnpd-lu-geo-2021] [cnpd-lu-11fr-2021] · Location data are kept two months at most; where the system is the only means of checking working time, three years (five in the public sector); where used as billing evidence, the necessary data one year. Location data kept two years and four months for tracking, protection of goods, and working time exceeded the purposes; the retention is set per purpose, two months, one year for billing, three years for working time.
+RO · established · [ro-law-190-2018] [ro-law-361-2022] · Data from workplace monitoring by electronic communications or video surveillance are kept no longer than 30 days, save where the law expressly provides otherwise or a case is duly justified. Reports received through the internal channel are entered in an electronic register and kept for 5 years, then destroyed whatever the medium.
+HR · established · [hr-zpouzp-25-30] · Video surveillance recordings are kept at most six months, unless another law sets a longer period or they are evidence in judicial, administrative, arbitration, or equivalent proceedings.
 
 ### DP013 · Separation of program data {#dp013}
 What it is: The keeping of the program's own holdings apart from the systems the organization runs its business on, so that a case file is not reachable by whoever can reach the human resources record, and the stated conditions on which something crosses from one to the other.
@@ -442,12 +493,14 @@ LU · established · [cnpd-lu-11fr-2021] · Individual accounts on the monitorin
 What it is: The handling of a worker's personal material held on systems the employer controls, during employment and after it.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 IT · established · [garante-165-2026] · A former worker retains a claim on personal material left in the account, and the employer has to be able to answer a request for access to it.
 FI · established · [fi-privacy-working-life] · What the employer may reach is the message belonging to it, identified from the sender, the recipient, or the title, and what is opened may not be processed further than the purpose requires nor disclosed during the employment or after it.
 NO · established · [no-innsyn-epost] · The worker's personal areas on the undertaking's network and equipment are reached on the same conditions as the mailbox, and so is what was deleted from them and survives on a backup.
 AT · established · [at-ishb] · There is no right for a worker to use the employer's resources privately. Minor private or half private use within ordinary human social behavior should nonetheless be allowed or ignored, and a total prohibition pronounced only in extreme cases.
 SE · recommended · [imy-kontroll-anstallda] · The employer normally has no right to the content of an employee's private files or emails.
+HU · established · [hu-naih-2016] [hu-naih-2019-51] · The internal policy on the company e-mail account and laptop states whether private use is allowed, the rules on backup and deletion, and the rules of checking; where private use of a laptop is allowed the private data sit on a separate partition outside the backup and the check; where it is not allowed, the employer may record that private data were stored and not what they were. Keeping a former employee's private correspondence in archived mailboxes breaches storage limitation, and the employer identifies and deletes it with the person's involvement, letting the person copy the purely private data first.
 
 ### DP015 · Live data in non-production environments {#dp015}
 What it is: The processing of real personal data outside a production environment.
@@ -482,6 +535,7 @@ PT · established · [pt-reg-756-2026] · For entities in scope, threats are ide
 What it is: The aggregation of records of activity from systems across the estate into a single store.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, the list of assets to be logged is derived from the risk assessment, and what the logs hold is named: inbound and outbound traffic, the creation, modification, and deletion of users and the extension of their permissions, access to systems and applications, authentication events, all privileged access and everything done by administrative accounts, access or changes to critical configuration and backup files, physical access to facilities, and the activation, stopping, and pausing of the logs themselves. They are kept for a period fixed in advance and protected from unauthorized access or change, time sources are synchronized so that logs can be correlated across systems, and the availability of the logging systems is monitored independently of the systems they log.
 IT · established · [acn-379907] · For a subject in the national NIS register, all remote access and all access made with administrative privileges are recorded. For the systems that matter, the logs needed to monitor security events are acquired and kept securely and, where it can be done, centrally, and how long they are kept is fixed from the risk assessment and documented.
 DE · established · [bsi-grundschutz] · A logging policy of its own is drawn up, saying how, where, and what is logged, with the kind and the extent of it following the protection the information needs. All security relevant events on systems and applications are logged, the clocks of everything that logs are kept synchronized and the date and time format made uniform, and it is checked at defined intervals that the logging still works. Data protection law and the co-determination rights of the workforce representation are to be kept to, logging data are deleted on a defined process, and their uncontrolled deletion or alteration is prevented technically. The data should be held centrally, on a log server assembly in a network segment set up for it, and filtered, normalized, aggregated, and correlated for evaluation while a copy is kept in unaltered original form. The administrators who run it should have no entitlement to change or delete what has been recorded.
@@ -494,6 +548,9 @@ AT · established · [at-ishb] · Logging security relevant events works as a se
 BE · established · [be-cyfun] · The logging functionality of the protection and detection tools is enabled, the logs are backed up and kept for a period fixed in advance, and they are reviewed regularly for unusual or potentially harmful activity, on a documented procedure.
 IE · recommended · [ie-ncsc-baseline] · For Public Service Bodies, logging is enabled to provide the information needed to respond to incidents, proportionate to the system, the threat, and the resources, with datasets time-synchronised; backups of logs are retained longer than the time an incident may take to detect; analysis runs on copies with the master unaltered; access to log data is limited to those with a business need.
 PT · established · [pt-reg-756-2026] [cnpd-1638-2013] · For entities in scope, logs are collected, stored, protected, and reviewed regularly, their retention set by the risk of the systems and the activities and by proportionality; failures in log processing raise alerts; logs of critical systems are stored on an autonomous system. Access to the monitoring system is logged with user, timestamp, operation, a sequential id, and a hash over them, digitally signed for legal validity; anomalous situations are defined to feed an alarm system; a log analysis policy produces periodic reports kept for the CNPD.
+RO · established · [ro-oug-155-2024] · For essential and important entities, the comprehensive approach the measures have to hold includes the logging and traceability of all activities in the networks and information systems.
+HR · established · [hr-uredba-135-2024] [hr-zks-2024] · For key and important entities, where technically feasible, a record is created of every login and activity on critical systems for a forensic trail, logs of at least the last 90 days are kept, all systems keep synchronized time, and the log types include network traffic metadata, access to systems, applications, and devices, creation, change, and deletion of user accounts and extension of rights, changes to backups, and records of security tools; security-relevant events are copied to a central store within 24 hours, protected against unauthorized access and change, with anomaly recognition and alerts, and where possible an administrator other than the source system's. For key and important entities, incident handling includes the monitoring, recording, and reporting of incidents.
+GR · reported · [gr-sev-nis2-guide-2025] · All accesses and actions are recorded in logs, with log management or a SIEM recording and monitoring user actions; the Act itself does not name logging.
 
 ### MD003 · Detection use case development {#md003}
 What it is: The construction of a specific, testable rule or query that raises an alert on a defined pattern of activity.
@@ -514,6 +571,7 @@ GB · established · [uk-monitoring-regs] · Investigating or detecting the unau
 What it is: The deployment of an agent that records what is done on a workstation or laptop.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the endpoint agent, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach an agent recording what is done on a device is not decided in it.
@@ -528,6 +586,7 @@ GB · established · [ico-monitoring] · Keystroke monitoring is named as an exa
 PL · established · [pl-kp-223] · An agent recording what is done on a workstation is a form of monitoring other than electronic mail, and article 22(3)(4) carries to it the provisions governing that monitoring, and with them the procedural regime of article 22(2). Its purposes, scope and manner are therefore set in the collective agreement or the work regulations, notified two weeks before it starts, and handed to each worker before they are admitted to work.
 CH · established · [argv3-26] [seco-argv3-26] [bge-139-ii-7] · Monitoring and control systems meant to monitor the behaviour of employees at the workplace may not be used. IT tools that monitor the computer or phone activity of employees at work or at home, email, spyware, activity trackers, app or web logs, mouse or keyboard logs among them, are behaviour monitoring systems. Spyware installed covertly on an employee's computer for three months, taking screenshots, is behaviour monitoring prohibited by article 26 ArGV 3 and disproportionate.
 PT · established · [pt-ct] [cnpd-teletrabalho-2020] · In telework the employer may not capture image, sound, writing, or history, nor use other means of control that may affect privacy, nor impose permanent connection by image or sound; breach is a contraordenação muito grave. Software that records pages visited, the terminal's real-time location, use of mouse and keyboard, screenshots, application access, and time per document is not admitted; the prohibition of remote control of performance applies in full to work from home.
+HU · established · [hu-mt-9-11a] [hu-naih-2019-769] · The employee may be checked in the conduct connected with the employment, by technical means too, after prior written information; a device the employer provides for work is used only for the employment unless agreed otherwise, and the employer may inspect the employment-related data stored on it, including the data needed to check that restriction. Checking an employee's e-mail account and devices without internal rules and without prior information breaches fairness and accountability; the employer adopts the internal rules and the notice and runs checks under them; the fine was 1,000,000 HUF.
 
 ### MD005 · Network and egress monitoring {#md005}
 What it is: The inspection of traffic leaving the organization's control for volume, destination, or content.
@@ -553,6 +612,7 @@ IE · recommended · [ie-ncsc-baseline] · For Public Service Bodies, the networ
 What it is: The recording of what passes through the organization's messaging and collaboration platforms.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the recording of the messaging platform, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case was decided on that monitoring itself: the employer read the content of a worker's messaging account.
@@ -569,17 +629,21 @@ PL · established · [pl-kp-223] · Monitoring of a worker's official electronic
 SE · recommended · [imy-kontroll-anstallda] · Monitoring rests on the balancing of interests, is announced in advance, and does not reach the content of the employee's private emails.
 CH · recommended · [seco-argv3-26] · The internal rules on the use of internet and of the email account are communicated to the employees, including what the employer does when it accesses the emails of an absent employee.
 PT · established · [pt-ct] [cnpd-1638-2013] · The worker has the right to confidentiality of personal messages and non-professional information sent, received, or consulted, email included; the employer may set rules of use of the means of communication. Control of email is not permanent or systematic; it is pontual, directed to the areas and activities of greater risk, and as a rule random; virus detection does not by itself justify reading received mail; filtering by file type is done with the workers' knowledge; workers keep personal messages in identified personal folders.
+RO · established · [ro-law-190-2018] · Monitoring by means of electronic communications at the workplace rests on the five conditions of article 5: justified prevailing interest, prior complete and explicit information, consultation of the union or representatives, prior failure of less intrusive means, and retention within 30 days.
+HU · established · [hu-naih-2016] [hu-naih-2019-51] · The company e-mail account is checked under an internal policy, on the employer's legitimate interest after a balancing test, in steps: first the address and the subject, then the traffic data that narrow the search, and content only where the private character can be excluded; the employee is present as a rule; the notice states the purposes, who checks, the steps, and the remedies. Searching archived mailboxes for documents without proper information and without a basis breaches fairness and purpose limitation, and the want of measures and information on the use and archiving of mailboxes breaches accountability; the fine was 500,000 HUF.
 
 ### MD007 · Retention of communications metadata {#md007}
 What it is: The retention of the transmission data of a message: its parties, times, size, and routing.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-10-05
 
 IT · established · [garante-364-2024] [garante-243-2025] [garante-165-2026] · Twenty-one days is the outer limit before the article 4 route is engaged, and the limit reaches the envelope only: parties, times, size, and routing.
+RO · established · [ro-law-190-2018] · Personal data from monitoring by means of electronic communications are kept for a period proportionate to the purpose and no longer than 30 days, save express legal provision or a duly justified case.
 
 ### MD008 · Access to the content of communications {#md008}
 What it is: The opening and reading of the content of a communication, for a stated purpose and on a named person. It is an event, done at a moment and answerable for itself, and it is separate from holding a copy of the store the message sits in.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 
 EU · established · [wp249] · The balance has to be struck before the content is opened, and it is struck differently for technology used outside the workplace than inside it.
@@ -590,6 +654,7 @@ FI · established · [fi-privacy-working-life] · Opening is done with the syste
 NO · established · [no-innsyn-epost] · Where it is possible the worker is told first, given the chance to comment, and allowed to be present with a representative of their choosing. Where it was not possible, they are told in writing once the access is done.
 GB · established · [uk-ipa-2016] [uk-monitoring-regs] · Intercepting a communication in the course of its transmission without lawful authority is a criminal offence. A person with a right to control the operation or use of a private system, or who has that person's express or implied consent, is outside the offence, so an employer reading on its own system does not commit it by that route. What the offence does is put the question of authority before the question of proportionality. As to that authority, opening the content in transmission is what these regulations authorize, and they authorize it only for a purpose in the closed list and only where the interception is effected solely to monitor or record communications relevant to the activities carried on.
 PT · recommended · [cnpd-1638-2013] · Whatever the rules of use, the employer never opens automatically email addressed to the worker, and the messages keep their personal nature even where a disciplinary infraction is being investigated; access to a mailbox is the last resort, in the presence of the worker, and limited to recipients, subject, date, and time, the worker able to point out private messages that are then not consulted.
+HU · recommended · [hu-naih-2016] · The content of private e-mails in the company account is not inspected by the employer even after prior notice of checks, the rights of the employee and of the third parties who sent or received them standing in the way.
 
 ### MD009 · Retention of web and network activity records {#md009}
 What it is: The retention of a record of the network resources a worker reached, and when.
@@ -644,6 +709,7 @@ CH · recommended · [seco-argv3-26] · IT tools that use artificial intelligenc
 What it is: The recording of entry to and movement within controlled premises.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the access-control recording, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
 CoE · established · [barbulescu] · Private life and correspondence extend into the workplace, including where a worker's private use of a work device breaks the employer's rules, and a monitoring measure is to be assessed against six criteria, prior notification and the availability of a less intrusive method among them. The case concerned the reading of a worker's messages, and whether the criteria reach a record of entry to premises is not decided in it.
@@ -656,10 +722,12 @@ FI · established · [fi-privacy-working-life] · Access control is named among 
 EU · established · [edpb-secure] · Where access to a room holding material whose loss would bear seriously on the people it concerns is recorded, two things are owed before it is: the people who handle the data are told the system exists, and the staff representatives are informed and consulted.
 SE · established · [imy-apotea-2023] · Access to recordings limited to three post-holders, logged in the software and checkable afterwards, used only where other ways of tracing a loss have failed, is what made a surveillance of a dispensing area proportionate.
 LU · recommended · [cnpd-lu-video-2024] · A server room, archives, a safe or secured room, and storage areas where no employee works permanently are zones where a camera is in principle proportionate; a workshop, an office with a permanent workstation, and the staff representation's office or its sole access are not.
+HR · established · [hr-zzr-43] [hr-zpouzp-25-30] · Surveillance devices are permitted to control entries to and exits from work premises and spaces and to reduce the workers' exposure to robbery, burglary, violence, theft, and similar events at or in connection with work. Every access to video surveillance footage is recorded by an automated log holding the time, the place, and the identity of the person accessing.
 
 ### MD014 · Video surveillance of the workplace {#md014}
 What it is: The recording of images of places in which work is carried out.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the cameras, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
@@ -677,10 +745,15 @@ SE · established · [imy-kamera-anstallda] [imy-kamera-arbetsplats] [imy-hm-202
 CH · recommended · [seco-argv3-26] · Video cameras in work rooms or vehicle cabins that can record undeclared what employees do and how are behaviour monitoring; cameras may stand where staff are present rarely and briefly, car parks, entrances and exits, dangerous machines, vaults, stores of dangerous goods; cameras against customer theft are positioned so that staff are practically not captured and their positions and fields of view discussed with the staff; monitored areas are marked; a door-closing sensor on toilets is impermissible.
 PT · established · [pt-ct] · Remote surveillance to control professional performance is prohibited; it is lawful for the protection and security of persons and goods or where particular requirements of the activity justify it; the worker is informed of its existence and purpose and the notice reads "Este local encontra-se sob vigilância de um circuito fechado de televisão".
 LU · established · [lu-ct-261] [cnpd-lu-video-2024] [cnpd-lu-1fr-2022] · Video surveillance aimed at employees is surveillance under article L.261-1 and follows its information and prior-opinion procedure. Employees have in principle the right not to be under continuous and permanent surveillance; the inside of an office, an open space, a workshop, or a restaurant kitchen with permanent workstations is disproportionate, a camera on a till is pointed at the till and the customers' side, the field of view is limited to the surface the purpose needs, and no camera films toilets, changing rooms, the smoking corner, rest areas, the kitchenette, or the délégation's room. Cameras inside the agencies of a transport company and a camera reaching a neighbouring plot breached minimisation and were ordered removed or reoriented; employees not informed individually of the controller, the DPO, the purposes, the legitimate interests, the recipients, and their rights were owed that information within four months; the fine was EUR 4,900.
+RO · established · [ro-law-190-2018] [ro-anspdcp-roumasport-2025] · Video surveillance at the workplace on the employer's legitimate interest rests on the five conditions of article 5, the 30-day retention among them. Accessing the workplace video surveillance system and processing the images of employees, including for their disciplinary investigation, breached articles 5(1)(a), 5(1)(b), and 6(1) of the Regulation read with article 5 of Law 190/2018; the fine was 24,887 lei (5,000 EUR), with a corrective measure on video monitoring in disciplinary investigations.
+HU · recommended · [hu-naih-2016] · Cameras are not operated for the primary observation of employees and their work, their primary purposes are those of the Szvtv. (life and safety, dangerous substances, business and bank secrets, property), none sit in changing rooms, showers, washrooms, medical rooms, or break rooms save to protect an asset there with the field of view on the asset, recordings are kept three working days as a rule, and the notice states for each camera its purpose and field of view.
+HR · established · [hr-zzr-43] [hr-zpouzp-25-30] [hr-azop-radni-odnosi] · Surveillance devices are a means of occupational safety used on the conditions of the Act, barred from rooms for personal hygiene and changing, and the recordings are not used for purposes other than those of the article, not shown in public or to persons without authority over safety, and kept from unauthorized persons. Video surveillance of employees is lawful only where the conditions of the implementation act and of the occupational safety rules are met, the employees were informed beforehand in an appropriate way and before the decision to install, and never in rooms for rest, personal hygiene, and changing; the purpose is one necessary and justified for the protection of persons and property, and access to footage belongs to the responsible person and those authorized. Video surveillance of workers needs no consent of the worker and rests on the two Acts; the employer informs the workers in an appropriate way before introducing it and before the decision to install, and seeks the works council's prior consent where devices follow all movements throughout working time.
+GR · established · [gr-law-4624-2019-27] [gr-hdpa-23-2021] [gr-hdpa-1-2011-7] · CCTV in workplaces, publicly accessible or not, is permitted only where necessary for the protection of persons and property, and employees are informed in writing of its installation and operation. Cameras in offices, a meeting room, a secretariat, and a kitchenette, with the image transmitted in real time to the manager's screen, breached articles 5(1)(a), 5(1)(b), and 5(2) of the Regulation; the fine was 15,000 EUR with an order to remove the cameras within one month and destroy the material. A video surveillance system is not used to monitor employees inside the workplace save in exceptional cases justified by the nature and conditions of the work and necessary for health and safety or for the protection of critical areas; in a typical office it is confined to entrances and exits, cash desks, safes, or equipment being covered with the camera on the asset, and real-time watching of operators of high-risk machinery is allowed for immediate intervention; cameras are barred from dining and recreation areas.
 
 ### MD015 · Geolocation of vehicles and devices {#md015}
 What it is: The recording of the position of a vehicle or device issued to a worker.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the tracking device, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
@@ -695,10 +768,12 @@ SE · recommended · [imy-gps] · Positioning is allowed where a concrete operat
 CH · recommended · [seco-argv3-26] · Satellite or other positioning systems that continuously track and record the position of persons are behaviour monitoring; route recording of company vehicles for route optimization, and precise vehicle location for transport of persons, cash, dangerous or perishable goods, or for service fleets, are permitted purposes.
 PT · recommended · [cnpd-7680-2014] · Geolocation of vehicles is admitted for fleet management in external service in external or home technical assistance, distribution of goods, passenger transport, goods transport, and private security; vehicles not in external service are excluded; protection of goods is weighed strictly and does not cover every vehicle; the purpose is spent in the real-time view or the last position; driving parameters tied to the driver are anonymized. Geolocation of a mobile phone is excessive for protection of goods and for management of external service; the employer neither obtains location data from the operator as subscriber nor installs applications that activate the GPS sensors.
 LU · established · [cnpd-lu-geo-2021] [cnpd-lu-11fr-2021] [cnpd-lu-1fr-2022] · Geolocation of a vehicle given to an employee is always surveillance under article L.261-1; the employer does not monitor the employee outside working hours, leave, sick days, lunch breaks, home-to-work trips, medical visits, and weekends included; a vehicle also used privately carries a deactivation in the employee's hands, and a vehicle for professional use only may stay located permanently. Employees are informed individually of a geolocation system, its purposes, its legal basis, the retention per purpose, the recipients, and their rights.
+HR · recommended · [hr-azop-radni-odnosi] · GPS in company vehicles is installed without the worker's approval only where necessary for the professional nature of the work or as a precaution; its use is set in written internal rules available to all workers, in particular where private use of the vehicle is allowed, the data are processed only for the purposes those rules state, and the movement records are kept only as long as needed.
 
 ### MD016 · Measurement of pace and performance {#md016}
 What it is: The derivation of a rate of work from the traces the work itself produces.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 
 EU · established · [gdpr] [wp249] · A ground under article 6 has to be identified before anything is collected through the measurement, and whatever more specific rule the member state has made under article 88 applies on top of it. Consent is rarely that ground in an employment relationship, since it has to be freely given and the imbalance there makes that doubtful.
@@ -714,17 +789,21 @@ SE · established · [imy-kamera-arbetsplats] [imy-kamera-anstallda] [imy-apotea
 CH · established · [argv3-26] [seco-argv3-26] · The prohibition reaches behaviour monitoring; a system required for other reasons, quality or performance monitoring among them, is designed so that it does not impair health or freedom of movement. Automatic registration of the number or quality of parts produced or of calls taken in a call centre is permitted performance monitoring, kept proportionate; where behaviour and performance cannot be separated, the overriding interest and proportionality are examined and justified in writing.
 PT · established · [pt-ct] [cnpd-7680-2014] · Remote surveillance by technological equipment to control the worker's professional performance is prohibited. Location data are never used to control the worker's performance.
 LU · established · [cnpd-lu-geo-2021] [cnpd-lu-video-2024] [lu-ct-261] · Location data are not used to observe performance or behaviour outside the initial purposes; a system installed against theft does not serve to check speeding, time between clients, or the route taken. Checking that employees work and do not spend too long on their phones, keep their hours, follow instructions, or behave appropriately with customers are not purposes a camera can pursue. Control of the production or performance of the employee as the only means of fixing exact pay is one of the three purposes for which articles L.211-8 and L.414-9 apply.
+HR · established · [hr-zpouzp-25-30] · In residential buildings, video surveillance is not used to track the work performance of caretakers, cleaners, and other persons working there.
+GR · established · [gr-law-4624-2019-27] [gr-hdpa-1-2011-7] · Data collected by CCTV in the workplace are not used as a criterion for evaluating the employees' performance. Data from video surveillance are not the exclusive criterion for evaluating the employees' behaviour and performance.
 
 ### MD017 · Monitoring on worker-owned devices {#md017}
 What it is: The operation of the program's instruments on equipment owned by the worker.
 Added: 2026-08-30
-Updated: 2026-08-30
+Updated: 2026-10-05
 
 ES · established · [aepd-ares-capital] · Requiring a worker's own telephone to carry the instruments has drawn infringements of articles 13, 5(1)(c), and 6(1), a fine of 200,000 euros, and an order to bring the processing into line within two months.
+HU · established · [hu-mt-9-11a] · Where by agreement the employee uses their own device for the employment, the employer's right to inspect the employment-related data stored on it applies.
 
 ### MD018 · Covert monitoring on prior suspicion {#md018}
 What it is: Observation conducted without notice, following a specific suspicion already held. The suspicion is what permits the observation, not what the observation is for.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 
 CoE · established · [lopez-ribalda] · The suspicion has to exist before the observation begins, and the scope and duration have to answer to it.
@@ -732,6 +811,7 @@ GB · established · [ico-monitoring] · Watching without telling is unlikely to
 IE · recommended · [dpc-cctv-2023] · Covert surveillance is generally unlawful and permitted exceptionally, case by case, where the data are kept for preventing, detecting, or investigating offences; it rests on a written policy stating purpose, justification, procedure, measures, and safeguards, follows a DPIA, is focused and of short duration, records only the individuals and locations concerned, and ceases if no evidence is obtained within a reasonable period.
 SE · established · [imy-hm-2024] [imy-kamera-arbetsplats] · A hidden camera with sound and image in a room staff were permitted to use, run for five nights, had no legal basis. Hidden cameras are excluded.
 CH · established · [bge-139-ii-7] [seco-argv3-26] · A signed IT usage directive gives general notice of controls and does not authorize covert spyware; the sequence is technical prevention, anonymized log analysis, then named analysis on concrete suspicion. The prosecution of offences inside the business is for the police and not for the business, and monitoring data collected impermissibly are mostly unusable in criminal proceedings.
+HU · recommended · [hu-naih-2016] · The use of a hidden camera is prohibited.
 
 ### MD019 · Monitoring outside working hours {#md019}
 What it is: Observation continuing when the person is not at work.
@@ -785,8 +865,9 @@ FR · established · [fr-ct-1222] · The person is expressly informed, before th
 ### BA003 · Multidisciplinary case review {#ba003}
 What it is: The examination of a person's situation by security, human resources, and legal together, rather than by any one of them.
 Added: 2026-08-30
-Updated: 2026-08-31
+Updated: 2026-10-05
 CZ · established · [holoska-doucek] · The examination is divided between three functions rather than held by one. Security analysts secure, process, and interpret the digital traces. Human resources holds the communication with the person and the impartial and dignified treatment of them, coordinates the other teams, documents the examination, and makes the final assessment against the organization's own rules. Legal answers for its conformity with the law of the state and of the sector, evaluates what is found, and states where a public authority has to be told. The person's line manager usually takes part, to supply the context of the activity that was observed.
+HU · established · [hu-mk-7-2024] · An insider threat program with a multidisciplinary team handling insider security events is in the protective measures catalogue and is marked as required for none of the three security classes.
 
 ### BA004 · Use of psychological and dispositional indicators {#ba004}
 What it is: The treatment of traits, psychological states, or situational factors as grounds for attention.
@@ -853,6 +934,7 @@ Summary: The examination of an identified person, and the handling of the materi
 What it is: The route through which a person inside the organization reports a concern about another, and the protection owed to them for doing so.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 GB · established · [npsa-ongoing-persec] · Reporting routes are treated as a control in their own right, and their value as depending on whether they are trusted.
 DE · established · [bsi-grundschutz] · Reporting routes suited to each kind of incident should be built, so that an employee can report quickly and simply over channels that are reliable and can be trusted, and where a central point is set up for it that is communicated to everyone. A communication and contact strategy should state who must be informed and who may be, by whom, in what order, and in what depth, and who passes information about an incident outside. That nobody unauthorized passes it on is to be ensured.
@@ -861,6 +943,10 @@ AT · established · [at-ishb] · The routes by which something conspicuous in t
 BE · established · [be-cyfun] · Staff are to be trained on how and where to report suspicious activity and on why reporting it in time matters, and the organization is to promote a culture in which an employee feels safe reporting a concern without fear of retaliation.
 SE · established · [se-visselblasarlag] · An operator with 50 or more workers at the start of the calendar year has internal reporting channels run by independent and autonomous persons or units; receipt is confirmed within seven days and feedback given within three months; private operators of 50 to 249 were reached from 17 December 2023 and others from 17 July 2022.
 LU · established · [lu-loi-2023-signalement] · A private-law legal person with 50 or more workers over twelve consecutive months, and a public one, has channels and procedures for internal reporting and follow-up, run by a designated person or service or by a third party, designed to guarantee the confidentiality of the reporter and of any third party named and to bar unauthorized staff; receipt is acknowledged within seven days, an impartial person or service follows up, and feedback comes within three months; those of 50 to 249 may share resources and were reached from 17 December 2023.
+RO · established · [ro-law-361-2022] · A private legal person with at least 50 employees, and a public body at any size, identifies or sets up internal reporting channels and procedures for follow-up; those of 50 to 249 may share resources and were reached on 17 December 2023; the procedure protects the confidentiality of the reporter and of any third party named and bars unauthorized staff, acknowledges receipt within 7 calendar days, designates an impartial and independent person, department, or third party, gives feedback within 3 months, and the designated person and the means of reporting are displayed on the website and at the premises, with at least one means accessible at any moment.
+HU · established · [hu-act-xxv-2023] · An employer with at least 50 persons in an employment relationship operates an internal abuse reporting system, those of 50 to 249 from 17 December 2023 and jointly if they choose; it is run by a designated impartial person or unit, or by a whistleblower-protection lawyer or other external organization under the same impartiality rules; a written report is acknowledged within seven days, the investigation closes within thirty days of receipt, extendable with reasons to three months at most, and the reporter is told that their identity is treated confidentially at every stage.
+HR · established · [hr-zzpn-2022] · An employer with at least 50 workers establishes a system of internal reporting under a general act, with a confidential person and a deputy who acknowledge receipt within seven days, examine and give feedback as a rule within 30 and at most 90 days, keep the reporter's identity and the data confidential, forward unresolved matters to the competent bodies, and report to the external body within 30 days of deciding; the employer does not influence them, and whoever else receives a report forwards it unchanged.
+GR · established · [gr-law-4990-2022] · A private entity employing 50 or more at the same time, and one in financial services, transport, or the environment at any size, appoints a Υ.Π.Π.Α., those of 50 to 249 may share one; the Υ.Π.Π.Α. receives reports in writing, orally, or through a platform, acknowledges receipt within seven working days, keeps the identity of the reporter and of any third party named confidential from unauthorized persons, gives feedback within three months, and informs of the routes to the external channel; failure to appoint draws a fine from the Labour Inspectorate.
 
 ### IV002 · Case intake and triage {#iv002}
 What it is: The assessment of what arrives, from any route, against a threshold for opening a case.
@@ -911,12 +997,15 @@ PL · established · [pl-kp-222] · Where image recordings are evidence in proce
 What it is: The examination, for the purposes of a case, of records the organization holds for unrelated reasons.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 IT · established · [garante-107-2026] · Records held by line management are the same material by another route: reaching into them needs the ground the monitoring system would have needed.
 IE · recommended · [dpc-cctv-2023] · Footage held for security may be used to investigate an allegation of gross misconduct or another disciplinary matter case by case, where the employer can demonstrate why it is necessary as evidence and that the access is limited in scope to that matter.
 SE · recommended · [imy-kontroll-anstallda] [imy-jobbmobiler] · Data collected for one purpose are not used for an incompatible other. Operational data are not turned to the evaluation of an individual's performance.
 PT · recommended · [cnpd-7680-2014] [cnpd-1638-2013] · Where location data show indications of a crime they may support a criminal complaint, and a disciplinary proceeding where the facts themselves breach the worker's duties; otherwise the purpose does not shift. Investigation of a disciplinary infraction does not open email addressed to the worker.
 LU · recommended · [cnpd-lu-video-2024] [cnpd-lu-geo-2021] · Footage from a system installed to protect goods may be used against an employee stealing goods; using the camera to find that an employee talks too long with a client or colleague, and then the recording as evidence for disciplinary measures, is a change of purpose the Regulation prohibits. Data from a system installed against theft are not turned to disciplinary ends on speeding, travel time, or route.
+RO · established · [ro-anspdcp-roumasport-2025] · Images from a workplace video surveillance system used for the disciplinary investigation of employees were, on the facts, processed in breach of the principles of lawfulness and purpose; the release does not say on what conditions such a use would stand.
+HR · established · [hr-zzr-43] [hr-zpouzp-25-30] · Recordings from surveillance devices installed as a safety measure are not used for purposes other than those the article states. Those with access to video surveillance footage do not use it contrary to the purpose of protecting persons and property.
 
 ### IV009 · Interview of the subject {#iv009}
 What it is: The questioning of the person under examination, and the safeguards owed to them during it.
@@ -959,10 +1048,13 @@ Summary: The measures taken while an incident is open: containment, preservation
 What it is: The prepared sequences for the insider scenarios the program has decided it must be able to answer.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 EU · established · [nis2-ir] [dora] · For the digital infrastructure and service providers it reaches, response follows documented procedures and is given in good time, and the stages those procedures have to include are named: containment, so that the consequences do not spread, eradication, so that the incident does not continue or return, and recovery where it is needed. Under the financial sector's own regulation the process assigns roles and responsibilities per incident type and scenario, sets out plans for communication and for internal escalation, and establishes response procedures that mitigate impact and return services to operation securely.
 IT · established · [acn-379907] · For a subject in the national NIS register, a plan for handling incidents and notifying the national CSIRT is defined, implemented, kept current, and documented, and it carries the stages and the procedures with the roles and responsibilities attaching to each, the contacts for reporting, how communication runs inside and outside, and the reporting to be used to document the incident. The management bodies approve it. That the scenarios it covers include insider ones is not stated.
 DE · established · [bsi-grundschutz] · A policy on handling security incidents has to be drawn up, stating its purpose and its aim and settling every aspect of the handling, with rules of conduct described for the different kinds of incident and instructions that are addressed to their audience and can actually be applied. It has to be known to everyone, agreed with the IT function, adopted by the leadership of the organization, and checked and updated at intervals.
 IE · recommended · [ie-ncsc-boards-2026] · Response readiness holds a documented incident response plan, a classification procedure with criteria for whether an incident requires regulatory reporting, a designated team with roles, and procedures for notifying the NCSC, law enforcement, affected persons, and media.
+RO · established · [ro-oug-155-2024] · For essential and important entities, incident handling is among the measures, and the comprehensive approach includes logging and traceability of all activities.
+GR · established · [gr-law-5160-2024] · For essential and important entities, incident handling is among the measures, and the Υ.Α.Σ.Π.Ε. coordinates the handling of security incidents and the continuity and recovery plans.
 
 ### IR002 · Containment of an incident in progress {#ir002}
 What it is: The interruption of activity while it is happening, before its nature has been established.
@@ -994,6 +1086,7 @@ DE · established · [bsi-grundschutz] · The interfaces between ordinary fault 
 What it is: The reporting of the incident, or of its handling, to an authority outside the organization.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 ITER: T1, T2, T3, T4, T5
 EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, communication plans and procedures are established with the incident response teams or, where applicable, the competent authorities, for the notification of an incident.
 IT · established · [acn-379907] · For a subject in the national NIS register, the plan carries the procedures for preparing and sending the reports the NIS decree requires, and it names the contacts through which an incident is reported. Notification runs to CSIRT Italia.
@@ -1001,6 +1094,9 @@ CZ · established · [holoska-doucek] · It falls to the legal function to state
 IE · recommended · [ie-ncsc-boards-2026] · The classification procedure states the criteria on which an incident is one that requires regulatory reporting.
 SE · established · [se-cybersakerhetslag] · For operators in scope, a significant incident is notified to the supervisory authority within 24 hours of knowledge, reported within 72 hours, and closed by a final report within one month of the notification.
 CH · established · [ch-dsg] · A security breach likely to carry a high risk for the personality or fundamental rights of the person is notified to the EDÖB as fast as possible.
+RO · established · [ro-oug-155-2024] · For essential and important entities, a significant incident, one causing or able to cause serious operational disruption or financial loss, or considerable damage to others, is reported to the national CSIRT in an early warning within 24 hours, a notification within 72 hours, and a final report within one month of the notification.
+HR · established · [hr-zks-2024] [hr-uredba-135-2024] · For key and important entities, an incident with a significant effect on the availability, integrity, confidentiality, or authenticity of data of significance for the business or on the continuity of services is notified to the competent CSIRT, and recipients of services are informed of significant incidents and serious threats. For key and important entities, the early warning of a significant incident reaches the competent CSIRT without delay and within 24 hours of learning of it, and the initial notification within 72 hours; trust service providers give the initial notification within 24 hours.
+GR · established · [gr-law-5160-2024] · For essential and important entities, a significant incident, one causing or able to cause serious operational disruption or financial loss, or significant damage to others, is reported to the CSIRT of the Εθνική Αρχή Κυβερνοασφάλειας in an early warning within 24 hours, a notification within 72 hours, and a final report within one month; trust service providers notify within 24 hours.
 
 ### IR007 · Notification to affected persons {#ir007}
 What it is: The telling of the people whose data or whose position the incident affected.
@@ -1039,6 +1135,7 @@ Summary: The action taken against a person following a finding, and the basis on
 What it is: Action taken against a person on the basis of what the program observed, short of ending the relationship.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 AT · established · [at-arbvg-96] · A workplace disciplinary code has no legal effect without the works council's consent, so what may follow from what the program observed is settled with the workforce before any case arises.
 EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, a disciplinary process for handling violations of the security policies is established, communicated, and maintained, and it takes the legal, statutory, contractual, and business requirements into account. It is reviewed at planned intervals and when a change in the law calls for it. What may be relied on to establish a violation is not addressed.
 CZ · established · [holoska-doucek] · The final assessment of the examination is made against the organization's own rules and recommendations, and it is from that assessment that disciplinary proceedings follow, where they follow.
@@ -1047,6 +1144,7 @@ ES · established · [es-et-58] · A sanction rests on the gradation of faults a
 FR · established · [fr-ct-1332] · No sanction may be taken without the grievance being put to the person in writing at the same time, and a faulty act may not on its own found disciplinary proceedings beyond two months from the day the employer came to know of it, unless criminal proceedings were brought within the same period. The term runs from the moment of knowledge and not from the act.
 PT · recommended · [cnpd-1638-2013] · On disproportionate use of email a warning to the worker is advisable; control data kept beyond six months rest on a pending disciplinary or judicial proceeding.
 LU · recommended · [cnpd-lu-video-2024] · Disciplinary measures do not rest on recordings used for a purpose other than the one the system was installed for.
+RO · established · [ro-anspdcp-roumasport-2025] · A disciplinary investigation that relies on images from the workplace video surveillance system processes personal data, and on the facts the processing was unlawful; the corrective measure requires compliance of video monitoring especially where disciplinary investigations are conducted.
 
 ### CP002 · Termination of employment {#cp002}
 What it is: The ending of the employment relationship on that basis.
@@ -1078,9 +1176,13 @@ LU · established · [lu-ct-261] · Breach of article L.261-1 is a criminal offe
 What it is: The passing of a case, and the material supporting it, to an authority with powers the organization does not have.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 ES · established · [es-ens] · Evidence that may fall to be settled before a court is recorded as such, and the prosecution of an offense is one of the three cases the decree names for it, alongside disciplinary action against internal staff and against an external supplier. What that evidence has to comprise, and in what detail, is settled on specialized legal advice.
 CH · recommended · [seco-argv3-26] · The prosecution of offences inside the business is for the police.
 PT · recommended · [cnpd-7680-2014] · Indications of a crime in location data may support a criminal complaint.
+HU · established · [hu-act-xxv-2023] · Where a report through the internal system warrants criminal proceedings, the operator arranges for a criminal complaint to be filed.
+HR · established · [hr-zks-2024] · For key and important entities, the notification of a significant incident is also delivered to the law enforcement bodies where there are grounds to suspect that it arose from a criminal offence.
+GR · established · [gr-law-5160-2024] · Where a significant incident is suspected to be criminal, the Εθνική Αρχή Κυβερνοασφάλειας gives the entity guidance on reporting it to the prosecuting authorities or the competent directorate of the Hellenic Police.
 
 ### CP006 · Civil recovery and injunctive action {#cp006}
 What it is: Proceedings brought by the organization to recover what was taken or to restrain its use.
@@ -1103,6 +1205,7 @@ FR · established · [fr-ct-1332] · The sanction is reasoned and notified to th
 What it is: The instruction of the workforce in what the program is, what it asks of them, and what it protects.
 Added: 2026-08-30
 Updated: 2026-10-05
+Updated: 2026-10-05
 
 EU · established · [help2protect] · A Union-funded platform carries an awareness module and downloadable templates, addressed mainly to transport, energy, and other critical infrastructure operators.
 EU · established · [coess-manual] · The Union-funded manual addresses the structure of a program rather than the conditions attached to one, and has not been revised since 2019.
@@ -1116,10 +1219,15 @@ BE · established · [be-cyfun] · Insider threat awareness and reporting are to
 IE · recommended · [ie-ncsc-baseline] [ie-ncsc-boards-2026] · For Public Service Bodies, cyber security awareness training and education is mandatory for all staff, ongoing and planned, with regular updates on policies and procedures relevant to their roles. The management body follows training sufficient to identify risks and assess risk management practices, and offers similar training to employees on a regular basis.
 SE · established · [se-cybersakerhetslag] · For operators in scope, the measures include basic cyber hygiene practices and cybersecurity training, and the persons in the management undergo training on security measures.
 PT · established · [pt-reg-756-2026] · For entities in scope, all staff are made aware and trained in cybersecurity under a plan whose success is measured, and at the higher conformity level the training includes awareness and communication of internal threats so that staff recognize and respond to them.
+RO · established · [ro-oug-155-2024] · For essential and important entities, the entity ensures professional training of all personnel to a sufficient level of knowledge and skills, and basic cyber hygiene and training are among the measures.
+HU · established · [hu-mk-7-2024] · For systems in all three security classes, the organization gives training on recognizing and reporting the potential signs of insider threats.
+HR · established · [hr-zks-2024] · For key and important entities, the persons responsible for the measures follow suitable training and enable the employees to follow suitable training, and basic cyber hygiene and cybersecurity training are among the measures.
+GR · established · [gr-law-5160-2024] [gr-law-4990-2022] · For essential and important entities, the members of the management bodies follow training and the entity gives its employees similar training at least annually, to identify risks and assess risk management practices; basic cyber hygiene and cybersecurity training are among the measures. The Υ.Π.Π.Α. designs and coordinates training on ethics and integrity and takes part in internal policies on integrity and transparency.
 
 ### AW002 · Transparency notice on what is observed {#aw002}
 What it is: The account of the program's reach given to the persons subject to it.
 Added: 2026-08-30
+Updated: 2026-10-05
 Updated: 2026-10-05
 FI · established · [fi-privacy-working-life] · What the workforce is told after the procedure is the purpose of the monitoring, its introduction, the methods used, and the terms on which electronic mail and the network may be used.
 BE · established · [be-cct-81] · What each worker is told at installation is the monitoring policy, the purposes, whether personal data are kept and where and for how long, whether the monitoring is permanent, and what the employer and the supervising staff may do.
@@ -1134,17 +1242,22 @@ SE · established · [imy-kontroll-anstallda] [se-kbl] [imy-hm-2024] · Employee
 CH · established · [ch-dsg] [seco-argv3-26] [bge-139-ii-7] · The controller informs the person appropriately of the collection of personal data, whether or not collected from the person. The persons concerned are informed in advance and in detail of the type, aim, and purpose of the processing; an internal regulation sets out their rights and duties under monitoring and control systems and how the internal control is carried out; monitored areas are marked as such. A signed IT usage directive gives general notice that controls may occur; it does not inform of a covert method.
 PT · established · [pt-ct] [cnpd-1638-2013] · The worker is informed of the existence and purpose of the means of remote surveillance; a camera carries the statutory notice. Before processing begins the worker is told the conditions of private use, the forms and methods of control, the data processed, the retention period, the tolerance admitted, and the consequences of misuse; the rules and forms of control stand in an internal regulation.
 LU · established · [lu-ct-261] [cnpd-lu-video-2024] [cnpd-lu-1fr-2022] [cnpd-lu-11fr-2021] · Beside the individual information of articles 12 and 13, the staff representation receives collective prior information of the purpose, the modalities, the retention, and the undertaking not to use the data for another purpose. Information is given in two layers, a sign and the full content of article 13. Employees are informed individually, with the controller's identity and contact details, the DPO's contact details, the purposes, the legitimate interests or the legal basis, the recipients, the retention per purpose, and their rights.
+RO · established · [ro-law-190-2018] [ro-law-361-2022] · Before monitoring by electronic communications or video surveillance, the employer gives the employees prior information that is mandatory, complete, and explicit. The designated person and the means of internal reporting are brought to every employee's knowledge by display on the website and at the premises.
+HU · established · [hu-mt-9-11a] [hu-naih-2016] · Before a restriction of the employee's personality right, the employee is informed in writing of its manner, conditions, and expected duration and of the circumstances supporting its necessity and proportionality; before technical means are used to check the employee, the employee is informed in writing. The notice on cameras states the basis, the place and duration of storage, the security measures, who may view and to whom recordings may go, the rules of review and the purposes of use, and the employees' rights and remedies, for each camera its purpose and field of view; a general statement that cameras are in use is not accepted.
+HR · established · [hr-zzr-43] [hr-zpouzp-25-30] [hr-azop-radni-odnosi] · At hiring, the employer informs the worker in writing that audio or video surveillance devices will observe them. Premises under video surveillance are marked visibly before the recording perimeter is entered, with the article 13 information, in particular that the space is under surveillance, the controller, and the contact for exercising rights; employees are informed in an appropriate way beforehand and before the decision to install. Workers are informed of a GPS system in vehicles by written internal rules available to all, an oral notice being insufficient.
+GR · established · [gr-law-4624-2019-27] · Employees are informed in writing, on paper or electronically, of the installation and operation of CCTV in the workplace; where consent is the basis, the employer informs the employee of the purpose and of the right to withdraw.
 
 ### AW003 · Role-specific training {#aw003}
 What it is: The additional instruction given to managers, privileged users, and the people who run the program.
 Added: 2026-08-30
-Updated: 2026-09-01
+Updated: 2026-10-05
 EU · established · [nis2-ir] · For the digital infrastructure and service providers it reaches, the employees whose roles need security-relevant skills are identified and trained regularly, and the training program sets the needs of particular roles and positions against criteria. What the training covers is named: secure configuration and operation of the systems, mobile devices included, a briefing on known threats, and how to behave when a security-relevant event occurs. It is given again to staff who move into such a role, and its effectiveness is assessed.
 IT · established · [acn-379907] · For an essential subject, training dedicated to the people in specialized roles, system administrators named among them, is part of the same plan, and it covers the secure configuration and operation of the systems, the threats that are known, and what to do when an event bearing on security occurs.
 DE · established · [bsi-grundschutz] · Where the protection need is raised, particular people should be given the task of watching the logging data, it should be the greater part of what they do, and they should be given specialized further training and qualification. A group should be named that is responsible for the evaluation of logging data and for nothing else.
 ES · established · [es-ens] · The workforce is trained regularly in what their duties require of them, and three subjects are named: the configuration of systems, the detection of and reaction to incidents, and the handling of information on any medium, which is to cover its storage, transfer, copying, distribution, and destruction. The effectiveness of the training given is assessed.
 BE · established · [be-cyfun] · Training specific to the role is to be given to the staff who reach sensitive data or systems, on the responsibilities that reaching them carries, and cross-functional training is to be built where two kinds of expertise have to meet.
 GB · established · [ico-monitoring] · The people who handle what monitoring produces should be trained to handle it, and they are to be identified as the appropriate people for that rather than reached by default.
+RO · established · [ro-oug-155-2024] · For essential and important entities, the members of the management bodies follow accredited professional training sufficient to identify risks and assess the risk management practices and their impact on the services.
 
 ### AW004 · Training records {#aw004}
 What it is: The record, attached to a named person, of the instruction they received and when.

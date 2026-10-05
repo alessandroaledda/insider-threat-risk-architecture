@@ -28,10 +28,10 @@ reconciled afterwards.
 | Pillars | 9 |
 | Measures | 110 |
 | Jurisdictions in scope | 34 |
-| Jurisdictions carrying something | 19 |
-| Rows established | 493 |
-| Of them binding, and so controls | 312 |
-| Sources read and annotated | 116 |
+| Jurisdictions carrying something | 23 |
+| Rows established | 577 |
+| Of them binding, and so controls | 388 |
+| Sources read and annotated | 143 |
 
 ## What is here
 

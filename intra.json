@@ -9,8 +9,8 @@
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "license_name": "CC BY 4.0",
  "version": "2026-10-05",
- "release": "1.3.0",
- "source_commit": "9ab5974b72f427334d15dc699dd289c563e67dde",
+ "release": "1.4.0",
+ "source_commit": "004c910b3eae11b9f2e86f5c111d45222096c6a2",
  "reviewed": "2026-10-05",
  "jurisdictions": [
   {
@@ -218,6 +218,66 @@
          "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-boards-2026"
         }
        ]
+      },
+      {
+       "id": "GV001/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "For essential and important entities, the management bodies approve the cybersecurity risk management measures, supervise their implementation, and are responsible for breaches; they designate, where applicable, the persons responsible for the security of networks and information systems, who in essential entities other than public administration and small enterprises hold managerial authority.",
+       "sources": [
+        {
+         "anchor": "ro-oug-155-2024",
+         "title": "Ordonanța de urgență nr. 155/2024, articolele 11 la 15",
+         "establishes": "For essential and important entities, that the measures include the logging and traceability of all activities in the networks and information systems, human resources security, access control policies and asset management, and incident handling; that the management bodies approve the measures, supervise them, and answer for breaches, follow accredited training and ensure training of all personnel; that an annual self-assessment of maturity goes to the DNSC; and that a significant incident is notified in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-oug-155-2024"
+        }
+       ]
+      },
+      {
+       "id": "GV001/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "For organizations in scope, the head of the organization establishes and operates the risk management framework, registers the systems, defines the roles and responsibilities, appoints the person responsible for the security of the electronic information system, issues the information security policy and reviews it at least every two years, and decides on taking systems into use.",
+       "sources": [
+        {
+         "anchor": "hu-act-lxix-2024",
+         "title": "2024. évi LXIX. törvény Magyarország kiberbiztonságáról, 6. §, 10. §, 11. §, and 82. §",
+         "establishes": "That the head of the organization establishes and operates a risk management framework, registers the systems, defines roles and responsibilities and appoints the person responsible for the security of the electronic information system, classifies the data, classifies each system into the \"alap\", \"jelentős\", or \"magas\" security class, determines and ensures the protective measures of that class, issues an information security policy reviewed at least every two years, evaluates the measures periodically, decides on taking systems into use, and reports threats, near-incidents, and incidents to the competent incident handling centre; and that the classification is reviewed at least every two years.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-act-lxix-2024"
+        }
+       ]
+      },
+      {
+       "id": "GV001/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "For key and important entities, the members of the management bodies answer for the implementation of the risk management measures, approve the measures the entity will apply, and control their implementation.",
+       "sources": [
+        {
+         "anchor": "hr-zks-2024",
+         "title": "Zakon o kibernetičkoj sigurnosti, članci 4, 29, 30, 37, and 38",
+         "establishes": "For key and important entities, that the members of the management bodies answer for the risk management measures, approve them, control their implementation, and follow and offer employees suitable training; that the measures include human resources security, access control policies and management of software and hardware assets with a regularly updated inventory, incident handling with monitoring, recording, and reporting, cyber hygiene and training, and multi-factor or continuous authentication; that a significant incident is notified to the competent CSIRT and, where there are grounds to suspect a criminal offence, to the law enforcement bodies; and that the measures and their implementation are set by the Government's regulation.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zks-2024"
+        }
+       ]
+      },
+      {
+       "id": "GV001/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "For essential and important entities, the management bodies approve the cybersecurity risk management measures within three months of the Act’s entry into force, supervise their implementation, and are responsible for breaches of the article.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
+        }
+       ]
       }
      ]
     },
@@ -230,7 +290,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "GV002/GB",
@@ -244,6 +304,21 @@
          "title": "Data Protection Act 2018, section 10 and Schedule 1",
          "establishes": "The condition on which an employer may process a closed category at all, and the document that condition requires to exist before the processing starts.",
          "url": "https://alessandroaledda.com/intra/sources/#uk-dpa-2018"
+        }
+       ]
+      },
+      {
+       "id": "GV002/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "For organizations in scope, each electronic information system is classified into the “alap”, “jelentős”, or “magas” security class on the risk to its integrity and availability and to the confidentiality, integrity, and availability of its data, and the measures the decree assigns to that class are implemented; the classification is reviewed at least every two years.",
+       "sources": [
+        {
+         "anchor": "hu-act-lxix-2024",
+         "title": "2024. évi LXIX. törvény Magyarország kiberbiztonságáról, 6. §, 10. §, 11. §, and 82. §",
+         "establishes": "That the head of the organization establishes and operates a risk management framework, registers the systems, defines roles and responsibilities and appoints the person responsible for the security of the electronic information system, classifies the data, classifies each system into the \"alap\", \"jelentős\", or \"magas\" security class, determines and ensures the protective measures of that class, issues an information security policy reviewed at least every two years, evaluates the measures periodically, decides on taking systems into use, and reports threats, near-incidents, and incidents to the competent incident handling centre; and that the classification is reviewed at least every two years.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-act-lxix-2024"
         }
        ]
       }
@@ -286,7 +361,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -321,6 +396,42 @@
          "title": "Provvedimento del 17 aprile 2026, Framos Italia",
          "establishes": "That a company mailbox left running after the employment ends is a processing needing a ground of its own, and that a smooth handover and the chance of wanting something later are not one.",
          "url": "https://alessandroaledda.com/intra/sources/#garante-framos-2026"
+        }
+       ]
+      },
+      {
+       "id": "GV004/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "An employer with at least twenty workers appoints a person who enjoys the workers’ trust and is authorized, beside the employer, to oversee whether workers’ personal data are collected, processed, used, and transmitted in accordance with the law; the appointment needs the works council’s prior consent.",
+       "sources": [
+        {
+         "anchor": "hr-zor",
+         "title": "Zakon o radu, članci 29, 150, 151, and 153",
+         "establishes": "That workers' personal data are collected, processed, used, and transmitted only where a law provides or where needed for the rights and obligations of the employment, that the employer sets out in advance in the work rules which data and for what purpose, that an employer with at least twenty workers appoints a person trusted by the workers to oversee that processing, that the employer consults the works council before an important decision, the introduction of new technology among them, and that a decision on collecting, processing, using, and transmitting data on the worker, and on appointing the overseeing person, needs the works council's prior consent, replaceable by a court or arbitration decision.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zor"
+        }
+       ]
+      },
+      {
+       "id": "GV004/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "For essential and important entities, a qualified member of staff is designated Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.), with the resources, autonomy, and access to the management bodies to coordinate compliance, incident reporting, and continuity plans; the duties are incompatible with those of the Data Protection Officer. The Υπεύθυνος Παραλαβής και Παρακολούθησης Αναφορών (Υ.Π.Π.Α.) is an employee or a third party and reports directly to the top management body; other duties may not impair the independence of the role.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
+        },
+        {
+         "anchor": "gr-law-4990-2022",
+         "title": "Νόμος 4990/2022, άρθρα 8, 9, and 10",
+         "establishes": "That public bodies with 50 or more staff and private entities employing 50 or more at the same time appoint a Υπεύθυνος Παραλαβής και Παρακολούθησης Αναφορών (Υ.Π.Π.Α.), that entities in financial services, transport, and the environment do so at any size, that those of 50 to 249 may share one, that the Υ.Π.Π.Α. is an employee or a third party reporting to the top management body, bound to integrity, confidentiality, and abstention on conflict, that receipt is acknowledged within seven working days and feedback given within three months, that the identity of the reporter and of any third party named is kept confidential from unauthorized persons, and that the Υ.Π.Π.Α. designs training on ethics and integrity.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-4990-2022"
         }
        ]
       }
@@ -611,6 +722,78 @@
          "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
         }
        ]
+      },
+      {
+       "id": "GV007/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "Monitoring by means of electronic communications or video surveillance at the workplace on the employer’s legitimate interest is permitted only where the interest is duly justified and prevails over the rights of the persons concerned, the employees have received prior, mandatory, complete, and explicit information, the union or the employee representatives have been consulted before the system is introduced, less intrusive forms have previously proven ineffective, and retention is proportionate and no longer than 30 days save where the law provides otherwise or a case is duly justified.",
+       "sources": [
+        {
+         "anchor": "ro-law-190-2018",
+         "title": "Legea nr. 190/2018, articolul 5",
+         "establishes": "That monitoring by electronic communications or video surveillance at the workplace on the employer's legitimate interest is lawful only on five cumulative conditions, among them prior consultation of the union or the employee representatives, prior complete and explicit information of the employees, proof that less intrusive means have failed, and a retention of no more than 30 days.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-190-2018"
+        }
+       ]
+      },
+      {
+       "id": "GV007/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "Consent is a basis for workplace processing only exceptionally, where the employee gains an unconditional advantage and suffers no disadvantage from refusing; checks of employees rest on the employer’s legitimate interest with a documented balancing test in five steps. The employer may require a statement or personal data from the employee only where material to the establishment, performance, or termination of the employment or to a claim under the Act, and informs the person in writing of the processing; a restriction of the employee’s personality right stands only where strictly necessary for a reason directly connected with the purpose of the employment and proportionate.",
+       "sources": [
+        {
+         "anchor": "hu-naih-2016",
+         "title": "A NAIH tájékoztatója a munkahelyi adatkezelések alapvető követelményeiről",
+         "establishes": "That consent is a basis for workplace processing only exceptionally, that the employer's legitimate interest with a documented balancing test is the basis for checks, that gradual checking and the employee's presence are the safeguards, that cameras are not operated for the primary observation of employees and are barred from changing rooms, washrooms, and break rooms, with recordings kept three working days as a rule and hidden cameras prohibited, that the e-mail account is checked under an internal policy, in steps from address and subject to content, and that the content of private e-mails is not inspected even after notice.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2016"
+        },
+        {
+         "anchor": "hu-mt-9-11a",
+         "title": "2012. évi I. törvény a munka törvénykönyvéről, 9. §, 10. §, 11. §, and 11/A. §",
+         "establishes": "That an employee's personality right may be restricted only where strictly necessary for a reason directly connected with the purpose of the employment and proportionate, with prior written information on the manner, conditions, expected duration, and the circumstances supporting necessity and proportionality; that the employee may be checked in the conduct connected with the employment, by technical means too, after prior written information; that a device provided for work is used only for the employment unless agreed otherwise and the employer may inspect the employment-related data stored on it; that biometric data serve identification only against grave unauthorized access; and that criminal record data may be processed to check a restriction or exclusion the employer has set out in writing beforehand.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mt-9-11a"
+        }
+       ]
+      },
+      {
+       "id": "GV007/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "Workers’ personal data are collected, processed, used, and transmitted only where this or another law provides or where needed for the rights and obligations of the employment, and the employer sets out in advance in the work rules which data are collected for that purpose and for what; only the employer or a person it specially authorizes processes them. Consent is seldom an adequate basis for processing workers’ data, the dependence of the worker standing in the way; the employer relies on another basis, such as contract or a demonstrated legitimate interest.",
+       "sources": [
+        {
+         "anchor": "hr-zor",
+         "title": "Zakon o radu, članci 29, 150, 151, and 153",
+         "establishes": "That workers' personal data are collected, processed, used, and transmitted only where a law provides or where needed for the rights and obligations of the employment, that the employer sets out in advance in the work rules which data and for what purpose, that an employer with at least twenty workers appoints a person trusted by the workers to oversee that processing, that the employer consults the works council before an important decision, the introduction of new technology among them, and that a decision on collecting, processing, using, and transmitting data on the worker, and on appointing the overseeing person, needs the works council's prior consent, replaceable by a court or arbitration decision.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zor"
+        },
+        {
+         "anchor": "hr-azop-radni-odnosi",
+         "title": "Smjernice o obradi osobnih podataka u radnim odnosima",
+         "establishes": "That consent is seldom an adequate basis in the employment relationship, that GPS in company vehicles is regulated by written internal rules available to all workers, with the data processed only for the purposes those rules state and kept no longer than needed, that a data protection impact assessment is mandatory for processing workers' data by applications or systems that track work, movement, or communication, and that video surveillance of workers rests on the GDPR implementation act and the Occupational Safety Act without consent, with the works council's prior consent where devices follow all movements throughout working time.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-azop-radni-odnosi"
+        }
+       ]
+      },
+      {
+       "id": "GV007/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "Employees’ data are processed for the purposes of the employment contract where absolutely necessary for the decision to conclude it or for its performance; consent is an exceptional basis judged on the employee’s dependence and the circumstances, given in writing or electronically, clearly distinct from the contract, with information on the purpose and the right to withdraw; a collective agreement may provide a basis within article 88(2).",
+       "sources": [
+        {
+         "anchor": "gr-law-4624-2019-27",
+         "title": "Νόμος 4624/2019, άρθρο 27",
+         "establishes": "That employees' data are processed for the purposes of the employment contract where absolutely necessary for the decision to conclude it or for its performance, that consent is an exceptional basis judged on the employee's dependence and the circumstances, given in writing or electronically and distinct from the contract, with information on the purpose and the right to withdraw, that collective agreements may provide a basis, that CCTV in workplaces is permitted only where necessary for the protection of persons and property, that its data are not used as a criterion for evaluating the employees' performance, that employees are informed in writing of its installation and operation, and that employees include candidates, former employees, and contractors.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-4624-2019-27"
+        }
+       ]
       }
      ]
     },
@@ -754,6 +937,36 @@
          "title": "Lignes directrices en matière de géolocalisation des véhicules mis à la disposition des salariés",
          "establishes": "That geolocation of a vehicle given to an employee is always surveillance under article L.261-1, that the employer does not monitor the employee outside working hours, so a vehicle also used privately carries a deactivation under the employee's control and a vehicle for professional use only may stay located permanently, that the data are not used to observe performance or behaviour outside the initial purposes, so a system installed against theft does not serve to check speeding, time between clients, or route, nor to found disciplinary measures, that location data are kept two months at most, three years where the system is the only means of checking working time (five in the public sector), one year for billing evidence, and that a geolocation system in principle requires an impact assessment.",
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-geo-2021"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "HU",
+       "state": "recommended",
+       "requirement": "Before a check that involves personal data the employer carries out a balancing test: whether personal data are needed at all, the precise legitimate interest, the purpose, the data and the duration, the employees’ interests, and why the restriction is proportionate; the principle of gradualness and the employee’s presence are the guarantees the test relies on.",
+       "sources": [
+        {
+         "anchor": "hu-naih-2016",
+         "title": "A NAIH tájékoztatója a munkahelyi adatkezelések alapvető követelményeiről",
+         "establishes": "That consent is a basis for workplace processing only exceptionally, that the employer's legitimate interest with a documented balancing test is the basis for checks, that gradual checking and the employee's presence are the safeguards, that cameras are not operated for the primary observation of employees and are barred from changing rooms, washrooms, and break rooms, with recordings kept three working days as a rule and hidden cameras prohibited, that the e-mail account is checked under an internal policy, in steps from address and subject to content, and that the content of private e-mails is not inspected even after notice.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2016"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "HR",
+       "state": "recommended",
+       "requirement": "A data protection impact assessment is mandatory, by the Agency’s decision of 21 December 2018, for the processing of workers’ data by applications or systems for tracking, such as the tracking of work, movement, or communication.",
+       "sources": [
+        {
+         "anchor": "hr-azop-radni-odnosi",
+         "title": "Smjernice o obradi osobnih podataka u radnim odnosima",
+         "establishes": "That consent is seldom an adequate basis in the employment relationship, that GPS in company vehicles is regulated by written internal rules available to all workers, with the data processed only for the purposes those rules state and kept no longer than needed, that a data protection impact assessment is mandatory for processing workers' data by applications or systems that track work, movement, or communication, and that video surveillance of workers rests on the GDPR implementation act and the Occupational Safety Act without consent, with the works council's prior consent where devices follow all movements throughout working time.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-azop-radni-odnosi"
         }
        ]
       }
@@ -1046,6 +1259,78 @@
          "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
         }
        ]
+      },
+      {
+       "id": "GV010/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "The employer consults the union or, where there is none, the employee representatives before introducing a monitoring system by electronic communications or video surveillance; the article states the consultation as a condition of lawfulness and does not state what it has to produce.",
+       "sources": [
+        {
+         "anchor": "ro-law-190-2018",
+         "title": "Legea nr. 190/2018, articolul 5",
+         "establishes": "That monitoring by electronic communications or video surveillance at the workplace on the employer's legitimate interest is lawful only on five cumulative conditions, among them prior consultation of the union or the employee representatives, prior complete and explicit information of the employees, proof that less intrusive means have failed, and a retention of no more than 30 days.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-190-2018"
+        }
+       ]
+      },
+      {
+       "id": "GV010/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "At least fifteen days before deciding, the employer seeks the works council’s opinion on draft measures and policies affecting a larger group of employees, among them the processing and protection of employees’ personal data and the use of technical means to check the employee; the section gives an opinion right and does not make the measure depend on agreement.",
+       "sources": [
+        {
+         "anchor": "hu-mt-264",
+         "title": "2012. évi I. törvény a munka törvénykönyvéről, 264. §",
+         "establishes": "That the employer seeks the works council's opinion at least fifteen days before deciding on draft measures and policies affecting a larger group of employees, and that the processing and protection of employees' personal data and the use of technical means to check the employee are such measures.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mt-264"
+        }
+       ]
+      },
+      {
+       "id": "GV010/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "A decision on collecting, processing, using, and transmitting data on the worker is taken only with the works council’s prior consent, silence for eight days counting as consent, a refusal being reasoned in writing and replaceable by a court or arbitration decision on request within fifteen days; the introduction of new technology and changes in the organization and manner of work are consulted with the council beforehand, and a decision taken without the consultation is void; where no council exists the union representative holds its rights. Surveillance devices that follow all the worker’s movements throughout working time, or keep workers in view throughout work, are used only on the works council’s prior consent, a refusal being replaceable by arbitration on request within 15 days. The confidential person for internal reports and the deputy are appointed on the proposal of the works council or the union representative holding its rights, or of at least 20 % of the workers, and dismissed without delay on their proposal.",
+       "sources": [
+        {
+         "anchor": "hr-zor",
+         "title": "Zakon o radu, članci 29, 150, 151, and 153",
+         "establishes": "That workers' personal data are collected, processed, used, and transmitted only where a law provides or where needed for the rights and obligations of the employment, that the employer sets out in advance in the work rules which data and for what purpose, that an employer with at least twenty workers appoints a person trusted by the workers to oversee that processing, that the employer consults the works council before an important decision, the introduction of new technology among them, and that a decision on collecting, processing, using, and transmitting data on the worker, and on appointing the overseeing person, needs the works council's prior consent, replaceable by a court or arbitration decision.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zor"
+        },
+        {
+         "anchor": "hr-zzr-43",
+         "title": "Zakon o zaštiti na radu, članak 43",
+         "establishes": "That surveillance devices are a means of occupational safety used to control entries to and exits from work premises and to reduce exposure to robbery, burglary, violence, theft, and similar events, that they are barred from rooms for personal hygiene and changing, that devices following all the worker's movements throughout working time need the works council's prior consent, that the worker is told in writing at hiring that audio or video devices will observe them, and that recordings serve no other purpose and reach no unauthorized person.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zzr-43"
+        },
+        {
+         "anchor": "hr-zzpn-2022",
+         "title": "Zakon o zaštiti prijavitelja nepravilnosti, članci 19 to 22",
+         "establishes": "That an employer with at least 50 workers establishes a system of internal reporting, that the employer adopts a general act on the procedure and appoints a confidential person and a deputy on the proposal of the works council or the union representative or of at least 20 % of the workers, that the confidential person acknowledges receipt within seven days, gives feedback as a rule within 30 and at most 90 days, keeps the identity and the data confidential, forwards unresolved matters to the competent bodies, and reports to the external body within 30 days of deciding, and that the employer does not influence the confidential person.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zzpn-2022"
+        }
+       ]
+      },
+      {
+       "id": "GV010/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "The employer informs the works council, before applying the decision, of the introduction of new technology; no Greek statute located requires consultation or agreement of worker representatives before monitoring is introduced.",
+       "sources": [
+        {
+         "anchor": "gr-law-1767-1988-13",
+         "title": "Νόμος 1767/1988, άρθρο 13",
+         "establishes": "That the employer informs the works council, before applying the decision, of the introduction of new technology, among other matters, and provides the council with any information it asks on the matters of article 12.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-1767-1988-13"
+        }
+       ]
       }
      ]
     },
@@ -1120,7 +1405,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -1164,6 +1449,51 @@
          "title": "Arbeidsmiljøloven, sections 9-1 and 9-2",
          "establishes": "That a control measure needs objective grounds in the undertaking and must not be a disproportionate burden, and that it is discussed with the elected representatives, notified with its expected duration, and evaluated with them at intervals.",
          "url": "https://alessandroaledda.com/intra/sources/#no-aml-kontroll"
+        }
+       ]
+      },
+      {
+       "id": "GV013/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "For essential and important entities, an annual self-assessment of the maturity of the risk management measures, assumed by management, goes to the DNSC and, where applicable, to the sectoral authority; essential entities send a remediation plan within 30 days of it.",
+       "sources": [
+        {
+         "anchor": "ro-oug-155-2024",
+         "title": "Ordonanța de urgență nr. 155/2024, articolele 11 la 15",
+         "establishes": "For essential and important entities, that the measures include the logging and traceability of all activities in the networks and information systems, human resources security, access control policies and asset management, and incident handling; that the management bodies approve the measures, supervise them, and answer for breaches, follow accredited training and ensure training of all personnel; that an annual self-assessment of maturity goes to the DNSC; and that a significant incident is notified in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-oug-155-2024"
+        }
+       ]
+      },
+      {
+       "id": "GV013/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "For organizations in scope, the head of the organization ensures the periodic evaluation of the protective measures, by risk analyses, checks, and an internal cybersecurity evaluation on the authority’s recommendation, remedies the deficiencies found, and reviews the security classification at least every two years or without delay on a change affecting security.",
+       "sources": [
+        {
+         "anchor": "hu-act-lxix-2024",
+         "title": "2024. évi LXIX. törvény Magyarország kiberbiztonságáról, 6. §, 10. §, 11. §, and 82. §",
+         "establishes": "That the head of the organization establishes and operates a risk management framework, registers the systems, defines roles and responsibilities and appoints the person responsible for the security of the electronic information system, classifies the data, classifies each system into the \"alap\", \"jelentős\", or \"magas\" security class, determines and ensures the protective measures of that class, issues an information security policy reviewed at least every two years, evaluates the measures periodically, decides on taking systems into use, and reports threats, near-incidents, and incidents to the competent incident handling centre; and that the classification is reviewed at least every two years.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-act-lxix-2024"
+        }
+       ]
+      },
+      {
+       "id": "GV013/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "For essential and important entities, policies and procedures assess the effectiveness of the risk management measures, and the single cybersecurity policy of an essential entity goes to the Εθνική Αρχή Κυβερνοασφάλειας for approval of its completeness at least annually.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
         }
        ]
       }
@@ -1237,6 +1567,21 @@
          "title": "Code du travail, articles L.261-1 and L.261-2",
          "establishes": "That processing for the surveillance of employees rests only on one of the bases of article 6(1)(a) to (f) of the Regulation, that the representation of the staff is informed collectively beforehand of the purpose, the modalities, the retention, and a formal undertaking not to use the data for another purpose, that the délégation, or failing it the employees, may within 15 days ask the CNPD for a prior opinion with suspensive effect, the CNPD ruling within one month, that for three purposes articles L.211-8 and L.414-9 apply, that a complaint to the CNPD is neither a grave nor a legitimate ground of dismissal, and that breach is a criminal offence.",
          "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
+        }
+       ]
+      },
+      {
+       "id": "GV014/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "A former employee has a right of access to the private e-mails in the archive of the work mailbox and the former employer identifies them with the person’s involvement and gives access; access to the work-related e-mails was not ordered; the fine for the refusal and for the want of transparent information on the measures taken was 200,000 HUF.",
+       "sources": [
+        {
+         "anchor": "hu-naih-2020-34",
+         "title": "NAIH/2020/34/3, határozat",
+         "establishes": "That a former employer unlawfully refused a former employee access to the private e-mails in the archive of the work mailbox, that it failed to facilitate the right of access by not giving transparent information on the measures taken, that it is ordered to identify the private e-mails with the person's involvement and give access to them, that access to the work-related e-mails was not ordered, and that the fine was 200,000 HUF.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2020-34"
         }
        ]
       }
@@ -1416,6 +1761,84 @@
          "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
         }
        ]
+      },
+      {
+       "id": "PS001/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "For essential and important entities, the measures include human resources security, access control policies, and asset management, without the ordinance saying what human resources security holds.",
+       "sources": [
+        {
+         "anchor": "ro-oug-155-2024",
+         "title": "Ordonanța de urgență nr. 155/2024, articolele 11 la 15",
+         "establishes": "For essential and important entities, that the measures include the logging and traceability of all activities in the networks and information systems, human resources security, access control policies and asset management, and incident handling; that the management bodies approve the measures, supervise them, and answer for breaches, follow accredited training and ensure training of all personnel; that an annual self-assessment of maturity goes to the DNSC; and that a significant incident is notified in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-oug-155-2024"
+        }
+       ]
+      },
+      {
+       "id": "PS001/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "Criminal record data of an employee or candidate may be processed to check whether a restriction or exclusion set by law or by the employer applies to the position, the employer may set such a condition only where employment in the position would endanger a significant financial interest, a secret protected by law, or the interests named in section 11(2)(b) to (d), and the employer sets the condition and the terms of processing out in writing beforehand. For systems in all three security classes, every position carries a risk classification with screening criteria for the persons filling it, and persons are screened before being allowed access to the system.",
+       "sources": [
+        {
+         "anchor": "hu-mt-9-11a",
+         "title": "2012. évi I. törvény a munka törvénykönyvéről, 9. §, 10. §, 11. §, and 11/A. §",
+         "establishes": "That an employee's personality right may be restricted only where strictly necessary for a reason directly connected with the purpose of the employment and proportionate, with prior written information on the manner, conditions, expected duration, and the circumstances supporting necessity and proportionality; that the employee may be checked in the conduct connected with the employment, by technical means too, after prior written information; that a device provided for work is used only for the employment unless agreed otherwise and the employer may inspect the employment-related data stored on it; that biometric data serve identification only against grave unauthorized access; and that criminal record data may be processed to check a restriction or exclusion the employer has set out in writing beforehand.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mt-9-11a"
+        },
+        {
+         "anchor": "hu-mk-7-2024",
+         "title": "7/2024. (VI. 24.) MK rendelet a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről, 2. melléklet",
+         "establishes": "That an insider threat program with a multidisciplinary team handling insider security events is in the catalogue and is marked for none of the three classes; that awareness training on recognizing and reporting potential signs of insider threats is required in all three classes; that a risk designation of every position with screening criteria, screening of persons before access and re-screening on change of authorization or position or periodically, and a termination process that disables access within a defined time, revokes all credentials and authorizations, holds an exit interview on information security, and retrieves security assets are required in all three classes; and that the periodic review of privileges and the logging of privileged functions are required in the \"jelentős\" and \"magas\" classes.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mk-7-2024"
+        }
+       ]
+      },
+      {
+       "id": "PS001/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "For key and important entities, the measures include human resources security, without the Act saying what it holds. For key and important entities, the adequacy and qualifications of candidates are checked before hiring according to the significance of the post and the applicable rules, by such means as references, validity of certificates and diplomas, written tests, and certificates of no criminal record.",
+       "sources": [
+        {
+         "anchor": "hr-zks-2024",
+         "title": "Zakon o kibernetičkoj sigurnosti, članci 4, 29, 30, 37, and 38",
+         "establishes": "For key and important entities, that the members of the management bodies answer for the risk management measures, approve them, control their implementation, and follow and offer employees suitable training; that the measures include human resources security, access control policies and management of software and hardware assets with a regularly updated inventory, incident handling with monitoring, recording, and reporting, cyber hygiene and training, and multi-factor or continuous authentication; that a significant incident is notified to the competent CSIRT and, where there are grounds to suspect a criminal offence, to the law enforcement bodies; and that the measures and their implementation are set by the Government's regulation.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zks-2024"
+        },
+        {
+         "anchor": "hr-uredba-135-2024",
+         "title": "Uredba o kibernetičkoj sigurnosti",
+         "establishes": "For key and important entities, that candidates are checked before hiring according to the significance of the post, that a record is kept of every login and activity on critical systems for a forensic trail with at least the last 90 days of logs, synchronized time, and named log types, that security-relevant events are copied to a central store within 24 hours with anomaly detection and, where possible, an administrator other than the source system's, that an owner approves the assignment of access rights and the approval is recorded, that privileged and administrator accounts follow written rules (dedicated accounts, individualized and limited privileges, use only for administration, strong authentication), that user and entity behaviour analytics is in the catalogue, and that a significant incident is notified in an early warning within 24 hours and an initial notification within 72 hours.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-uredba-135-2024"
+        }
+       ]
+      },
+      {
+       "id": "PS001/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "For essential and important entities, the measures include human resources security, access control policies, and asset management, without the Act saying what human resources security holds. A person under prosecution or convicted for the listed offences, under disciplinary proceedings that may lead to dismissal, or suspended, may not hold the duties of Υ.Π.Π.Α.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
+        },
+        {
+         "anchor": "gr-law-4990-2022",
+         "title": "Νόμος 4990/2022, άρθρα 8, 9, and 10",
+         "establishes": "That public bodies with 50 or more staff and private entities employing 50 or more at the same time appoint a Υπεύθυνος Παραλαβής και Παρακολούθησης Αναφορών (Υ.Π.Π.Α.), that entities in financial services, transport, and the environment do so at any size, that those of 50 to 249 may share one, that the Υ.Π.Π.Α. is an employee or a third party reporting to the top management body, bound to integrity, confidentiality, and abstention on conflict, that receipt is acknowledged within seven working days and feedback given within three months, that the identity of the reporter and of any third party named is kept confidential from unauthorized persons, and that the Υ.Π.Π.Α. designs training on ethics and integrity.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-4990-2022"
+        }
+       ]
       }
      ]
     },
@@ -1428,7 +1851,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "PS002/EU",
@@ -1523,6 +1946,21 @@
          "title": "Baseline Informatiebeveiliging Overheid 2, versie 1.3",
          "establishes": "The government measures Dutch public bodies add on top of the two information security standards, among them a screening policy, a detection use case named in the text, and a log retention set against the scenario that an attacker has been inside for a long time.",
          "url": "https://alessandroaledda.com/intra/sources/#nl-bio2"
+        }
+       ]
+      },
+      {
+       "id": "PS002/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "For systems in all three security classes, the risk classification of positions and the screening criteria are reviewed at a set frequency; screening for persons with access to information needing special protection is in the catalogue and marked for no class.",
+       "sources": [
+        {
+         "anchor": "hu-mk-7-2024",
+         "title": "7/2024. (VI. 24.) MK rendelet a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről, 2. melléklet",
+         "establishes": "That an insider threat program with a multidisciplinary team handling insider security events is in the catalogue and is marked for none of the three classes; that awareness training on recognizing and reporting potential signs of insider threats is required in all three classes; that a risk designation of every position with screening criteria, screening of persons before access and re-screening on change of authorization or position or periodically, and a termination process that disables access within a defined time, revokes all credentials and authorizations, holds an exit interview on information security, and retrieves security assets are required in all three classes; and that the periodic review of privileges and the logging of privileged functions are required in the \"jelentős\" and \"magas\" classes.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mk-7-2024"
         }
        ]
       }
@@ -1711,6 +2149,21 @@
          "title": "Säkerhetsskyddslag (2018:585), 2 kap. 4 § and 3 kap.",
          "establishes": "For security-sensitive activities, that personnel security prevents persons who are not reliable from a security standpoint from taking part, that vetting is made before participation begins and followed up for as long as it lasts, that it rests on a basic investigation, register checks, and where required a special personal investigation, that posts are placed in security classes 1 to 3, and that register data are drawn continuously during participation.",
          "url": "https://alessandroaledda.com/intra/sources/#se-sakerhetsskyddslag"
+        }
+       ]
+      },
+      {
+       "id": "PS004/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "For systems in all three security classes, persons are re-screened at a set frequency and when their authorization level or position changes.",
+       "sources": [
+        {
+         "anchor": "hu-mk-7-2024",
+         "title": "7/2024. (VI. 24.) MK rendelet a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről, 2. melléklet",
+         "establishes": "That an insider threat program with a multidisciplinary team handling insider security events is in the catalogue and is marked for none of the three classes; that awareness training on recognizing and reporting potential signs of insider threats is required in all three classes; that a risk designation of every position with screening criteria, screening of persons before access and re-screening on change of authorization or position or periodically, and a termination process that disables access within a defined time, revokes all credentials and authorizations, holds an exit interview on information security, and retrieves security assets are required in all three classes; and that the periodic review of privileges and the logging of privileged functions are required in the \"jelentős\" and \"magas\" classes.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mk-7-2024"
         }
        ]
       }
@@ -2390,7 +2843,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "DP001/EU",
@@ -2406,6 +2859,36 @@
          "url": "https://alessandroaledda.com/intra/sources/#nis2"
         }
        ]
+      },
+      {
+       "id": "DP001/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "For key and important entities, the measures include the management of software and hardware assets with a regularly updated inventory.",
+       "sources": [
+        {
+         "anchor": "hr-zks-2024",
+         "title": "Zakon o kibernetičkoj sigurnosti, članci 4, 29, 30, 37, and 38",
+         "establishes": "For key and important entities, that the members of the management bodies answer for the risk management measures, approve them, control their implementation, and follow and offer employees suitable training; that the measures include human resources security, access control policies and management of software and hardware assets with a regularly updated inventory, incident handling with monitoring, recording, and reporting, cyber hygiene and training, and multi-factor or continuous authentication; that a significant incident is notified to the competent CSIRT and, where there are grounds to suspect a criminal offence, to the law enforcement bodies; and that the measures and their implementation are set by the Government's regulation.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zks-2024"
+        }
+       ]
+      },
+      {
+       "id": "DP001/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "For essential and important entities, a complete inventory of tangible and intangible information and communication assets is kept, ranked by criticality.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
+        }
+       ]
       }
      ]
     },
@@ -2418,7 +2901,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "DP002/EU",
@@ -2447,6 +2930,21 @@
          "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal Threats",
          "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
          "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
+        }
+       ]
+      },
+      {
+       "id": "DP002/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "For the organizations in annex 1 of the Act, the head of the organization ensures the survey and classification of the data processed in the systems, and the result is one basis of the security classification.",
+       "sources": [
+        {
+         "anchor": "hu-act-lxix-2024",
+         "title": "2024. évi LXIX. törvény Magyarország kiberbiztonságáról, 6. §, 10. §, 11. §, and 82. §",
+         "establishes": "That the head of the organization establishes and operates a risk management framework, registers the systems, defines roles and responsibilities and appoints the person responsible for the security of the electronic information system, classifies the data, classifies each system into the \"alap\", \"jelentős\", or \"magas\" security class, determines and ensures the protective measures of that class, issues an information security policy reviewed at least every two years, evaluates the measures periodically, decides on taking systems into use, and reports threats, near-incidents, and incidents to the competent incident handling centre; and that the classification is reviewed at least every two years.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-act-lxix-2024"
         }
        ]
       }
@@ -2628,6 +3126,78 @@
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-11fr-2021"
         }
        ]
+      },
+      {
+       "id": "DP004/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "For essential and important entities, the measures include access control policies and asset management.",
+       "sources": [
+        {
+         "anchor": "ro-oug-155-2024",
+         "title": "Ordonanța de urgență nr. 155/2024, articolele 11 la 15",
+         "establishes": "For essential and important entities, that the measures include the logging and traceability of all activities in the networks and information systems, human resources security, access control policies and asset management, and incident handling; that the management bodies approve the measures, supervise them, and answer for breaches, follow accredited training and ensure training of all personnel; that an annual self-assessment of maturity goes to the DNSC; and that a significant incident is notified in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-oug-155-2024"
+        }
+       ]
+      },
+      {
+       "id": "DP004/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "Biometric data of an employee may be processed for identification only where needed to prevent an unauthorized access to a thing or data that would risk grave or mass, irreversible harm to life, health, or a significant interest protected by law, the list naming classified data, firearms, dangerous substances, nuclear material, and property of especially large value.",
+       "sources": [
+        {
+         "anchor": "hu-mt-9-11a",
+         "title": "2012. évi I. törvény a munka törvénykönyvéről, 9. §, 10. §, 11. §, and 11/A. §",
+         "establishes": "That an employee's personality right may be restricted only where strictly necessary for a reason directly connected with the purpose of the employment and proportionate, with prior written information on the manner, conditions, expected duration, and the circumstances supporting necessity and proportionality; that the employee may be checked in the conduct connected with the employment, by technical means too, after prior written information; that a device provided for work is used only for the employment unless agreed otherwise and the employer may inspect the employment-related data stored on it; that biometric data serve identification only against grave unauthorized access; and that criminal record data may be processed to check a restriction or exclusion the employer has set out in writing beforehand.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mt-9-11a"
+        }
+       ]
+      },
+      {
+       "id": "DP004/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "For key and important entities, the measures include access control policies and multi-factor or continuous authentication where needed. For key and important entities, an owner is defined for each application and each role, the owner approves the assignment of rights, and a record is kept of who approved the assignment, with rights assigned, changed, revoked, and documented under the access control policy.",
+       "sources": [
+        {
+         "anchor": "hr-zks-2024",
+         "title": "Zakon o kibernetičkoj sigurnosti, članci 4, 29, 30, 37, and 38",
+         "establishes": "For key and important entities, that the members of the management bodies answer for the risk management measures, approve them, control their implementation, and follow and offer employees suitable training; that the measures include human resources security, access control policies and management of software and hardware assets with a regularly updated inventory, incident handling with monitoring, recording, and reporting, cyber hygiene and training, and multi-factor or continuous authentication; that a significant incident is notified to the competent CSIRT and, where there are grounds to suspect a criminal offence, to the law enforcement bodies; and that the measures and their implementation are set by the Government's regulation.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zks-2024"
+        },
+        {
+         "anchor": "hr-uredba-135-2024",
+         "title": "Uredba o kibernetičkoj sigurnosti",
+         "establishes": "For key and important entities, that candidates are checked before hiring according to the significance of the post, that a record is kept of every login and activity on critical systems for a forensic trail with at least the last 90 days of logs, synchronized time, and named log types, that security-relevant events are copied to a central store within 24 hours with anomaly detection and, where possible, an administrator other than the source system's, that an owner approves the assignment of access rights and the approval is recorded, that privileged and administrator accounts follow written rules (dedicated accounts, individualized and limited privileges, use only for administration, strong authentication), that user and entity behaviour analytics is in the catalogue, and that a significant incident is notified in an early warning within 24 hours and an initial notification within 72 hours.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-uredba-135-2024"
+        }
+       ]
+      },
+      {
+       "id": "DP004/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "For essential and important entities, the measures include access control policies and the use of multi-factor or continuous authentication where appropriate. Access is granted on a role with least privilege, the user reaches only the systems and data needed, and access is reviewed; the policies reach internal and external personnel over the whole access lifecycle.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
+        },
+        {
+         "anchor": "gr-sev-nis2-guide-2025",
+         "title": "Οδηγός για τη Συμμόρφωση των Επιχειρήσεων με τον Ν. 5160/2024 και την Οδηγία NIS2",
+         "establishes": "That the guide proposes ten procedures for compliance with Law 5160/2024, that under access control and account management it names role-based access on least privilege, multi-factor authentication for critical systems, logging of all accesses and actions, protection of service and privileged accounts by privileged access management, access reviews, and that the policies reach internal and external personnel across the whole access lifecycle.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-sev-nis2-guide-2025"
+        }
+       ]
       }
      ]
     },
@@ -2776,6 +3346,51 @@
          "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
         }
        ]
+      },
+      {
+       "id": "DP005/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "For systems in the “jelentős” and “magas” classes, the system logs the execution of privileged functions.",
+       "sources": [
+        {
+         "anchor": "hu-mk-7-2024",
+         "title": "7/2024. (VI. 24.) MK rendelet a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről, 2. melléklet",
+         "establishes": "That an insider threat program with a multidisciplinary team handling insider security events is in the catalogue and is marked for none of the three classes; that awareness training on recognizing and reporting potential signs of insider threats is required in all three classes; that a risk designation of every position with screening criteria, screening of persons before access and re-screening on change of authorization or position or periodically, and a termination process that disables access within a defined time, revokes all credentials and authorizations, holds an exit interview on information security, and retrieves security assets are required in all three classes; and that the periodic review of privileges and the logging of privileged functions are required in the \"jelentős\" and \"magas\" classes.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mk-7-2024"
+        }
+       ]
+      },
+      {
+       "id": "DP005/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "For key and important entities, privileged and administrator accounts follow written rules: dedicated accounts used only for administration, individualized and limited administrative privileges, use of privileged accounts only to connect to administration systems, and strong authentication such as multi-factor.",
+       "sources": [
+        {
+         "anchor": "hr-uredba-135-2024",
+         "title": "Uredba o kibernetičkoj sigurnosti",
+         "establishes": "For key and important entities, that candidates are checked before hiring according to the significance of the post, that a record is kept of every login and activity on critical systems for a forensic trail with at least the last 90 days of logs, synchronized time, and named log types, that security-relevant events are copied to a central store within 24 hours with anomaly detection and, where possible, an administrator other than the source system's, that an owner approves the assignment of access rights and the approval is recorded, that privileged and administrator accounts follow written rules (dedicated accounts, individualized and limited privileges, use only for administration, strong authentication), that user and entity behaviour analytics is in the catalogue, and that a significant incident is notified in an early warning within 24 hours and an initial notification within 72 hours.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-uredba-135-2024"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GR",
+       "state": "reported",
+       "requirement": "Service and privileged accounts, administrators among them, are protected by privileged access management, and all accesses and actions are logged.",
+       "sources": [
+        {
+         "anchor": "gr-sev-nis2-guide-2025",
+         "title": "Οδηγός για τη Συμμόρφωση των Επιχειρήσεων με τον Ν. 5160/2024 και την Οδηγία NIS2",
+         "establishes": "That the guide proposes ten procedures for compliance with Law 5160/2024, that under access control and account management it names role-based access on least privilege, multi-factor authentication for critical systems, logging of all accesses and actions, protection of service and privileged accounts by privileged access management, access reviews, and that the policies reach internal and external personnel across the whole access lifecycle.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-sev-nis2-guide-2025"
+        }
+       ]
       }
      ]
     },
@@ -2862,6 +3477,21 @@
          "title": "Cyber Security Baseline Standards, Revision 1",
          "establishes": "For Public Service Bodies, that an access control policy on least privilege is defined and communicated, that a joiner, mover, leaver policy revokes access no longer required, that user permissions are reviewed monthly and on role change and privileged accounts on a defined schedule, that logging is enabled with a monitoring capability able to tie a user to suspicious activity, and that awareness training is mandatory for all staff.",
          "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-baseline"
+        }
+       ]
+      },
+      {
+       "id": "DP006/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "For systems in the “jelentős” and “magas” classes, the organization reviews at set intervals the privileges accessible to roles or user groups to verify their necessity and reassigns or removes them.",
+       "sources": [
+        {
+         "anchor": "hu-mk-7-2024",
+         "title": "7/2024. (VI. 24.) MK rendelet a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről, 2. melléklet",
+         "establishes": "That an insider threat program with a multidisciplinary team handling insider security events is in the catalogue and is marked for none of the three classes; that awareness training on recognizing and reporting potential signs of insider threats is required in all three classes; that a risk designation of every position with screening criteria, screening of persons before access and re-screening on change of authorization or position or periodically, and a termination process that disables access within a defined time, revokes all credentials and authorizations, holds an exit interview on information security, and retrieves security assets are required in all three classes; and that the periodic review of privileges and the logging of privileged functions are required in the \"jelentős\" and \"magas\" classes.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mk-7-2024"
         }
        ]
       }
@@ -3407,6 +4037,42 @@
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-11fr-2021"
         }
        ]
+      },
+      {
+       "id": "DP012/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "Data from workplace monitoring by electronic communications or video surveillance are kept no longer than 30 days, save where the law expressly provides otherwise or a case is duly justified. Reports received through the internal channel are entered in an electronic register and kept for 5 years, then destroyed whatever the medium.",
+       "sources": [
+        {
+         "anchor": "ro-law-190-2018",
+         "title": "Legea nr. 190/2018, articolul 5",
+         "establishes": "That monitoring by electronic communications or video surveillance at the workplace on the employer's legitimate interest is lawful only on five cumulative conditions, among them prior consultation of the union or the employee representatives, prior complete and explicit information of the employees, proof that less intrusive means have failed, and a retention of no more than 30 days.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-190-2018"
+        },
+        {
+         "anchor": "ro-law-361-2022",
+         "title": "Legea nr. 361/2022 privind protecția avertizorilor în interes public, articolele 7, 9, 10, și 36",
+         "establishes": "That a private legal person with at least 50 employees, and a public one at any size, identifies or sets up internal reporting channels and procedures for follow-up, that those of 50 to 249 may share resources and were reached on 17 December 2023, that the procedure holds confidentiality of the reporter and of any third party named, acknowledgement within 7 calendar days, a designated impartial and independent person, department, or third party, feedback within 3 months, and that reports are kept in a register for 5 years and then destroyed.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-361-2022"
+        }
+       ]
+      },
+      {
+       "id": "DP012/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "Video surveillance recordings are kept at most six months, unless another law sets a longer period or they are evidence in judicial, administrative, arbitration, or equivalent proceedings.",
+       "sources": [
+        {
+         "anchor": "hr-zpouzp-25-30",
+         "title": "Zakon o provedbi Opće uredbe o zaštiti podataka, članci 25 to 30",
+         "establishes": "That video surveillance serves only a purpose necessary and justified for the protection of persons and property, that the premises are marked before the perimeter is entered with the controller's identity and contact for rights, that access to footage is limited to the responsible person and those authorized, that an automated log records the time, place, and person of every access to footage, that recordings are kept at most six months unless a law provides longer or they are evidence in proceedings, and that employees are processed by video surveillance only where the occupational safety conditions are met too, the employees were informed beforehand in an appropriate way and before the decision to install, and never in rooms for rest, personal hygiene, and changing.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zpouzp-25-30"
+        }
+       ]
       }
      ]
     },
@@ -3581,6 +4247,27 @@
          "title": "Kontroll och övervakning av anställda",
          "establishes": "That the bases for monitoring employees are the balancing of interests or, for public authorities, public interest, that consent is not one of them, that security reasons weigh more than efficiency reasons in the balancing, that employees are told in advance which controls may be made, that data collected for one purpose are not used for an incompatible other, and that the employer normally has no right to the content of an employee's private files or emails.",
          "url": "https://alessandroaledda.com/intra/sources/#imy-kontroll-anstallda"
+        }
+       ]
+      },
+      {
+       "id": "DP014/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "The internal policy on the company e-mail account and laptop states whether private use is allowed, the rules on backup and deletion, and the rules of checking; where private use of a laptop is allowed the private data sit on a separate partition outside the backup and the check; where it is not allowed, the employer may record that private data were stored and not what they were. Keeping a former employee’s private correspondence in archived mailboxes breaches storage limitation, and the employer identifies and deletes it with the person’s involvement, letting the person copy the purely private data first.",
+       "sources": [
+        {
+         "anchor": "hu-naih-2016",
+         "title": "A NAIH tájékoztatója a munkahelyi adatkezelések alapvető követelményeiről",
+         "establishes": "That consent is a basis for workplace processing only exceptionally, that the employer's legitimate interest with a documented balancing test is the basis for checks, that gradual checking and the employee's presence are the safeguards, that cameras are not operated for the primary observation of employees and are barred from changing rooms, washrooms, and break rooms, with recordings kept three working days as a rule and hidden cameras prohibited, that the e-mail account is checked under an internal policy, in steps from address and subject to content, and that the content of private e-mails is not inspected even after notice.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2016"
+        },
+        {
+         "anchor": "hu-naih-2019-51",
+         "title": "NAIH/2019/51/11, határozat",
+         "establishes": "That storing a former employee's private correspondence in archived mailboxes breached storage limitation, that searching those archives for documents without proper information and without a basis breached fairness and purpose limitation, that the absence of technical and organizational measures and of information on the use and archiving of employees' mailboxes breached accountability, and that the fine was 500,000 HUF.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2019-51"
         }
        ]
       }
@@ -3932,6 +4619,57 @@
          "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
          "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
+      },
+      {
+       "id": "MD002/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "For essential and important entities, the comprehensive approach the measures have to hold includes the logging and traceability of all activities in the networks and information systems.",
+       "sources": [
+        {
+         "anchor": "ro-oug-155-2024",
+         "title": "Ordonanța de urgență nr. 155/2024, articolele 11 la 15",
+         "establishes": "For essential and important entities, that the measures include the logging and traceability of all activities in the networks and information systems, human resources security, access control policies and asset management, and incident handling; that the management bodies approve the measures, supervise them, and answer for breaches, follow accredited training and ensure training of all personnel; that an annual self-assessment of maturity goes to the DNSC; and that a significant incident is notified in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-oug-155-2024"
+        }
+       ]
+      },
+      {
+       "id": "MD002/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "For key and important entities, where technically feasible, a record is created of every login and activity on critical systems for a forensic trail, logs of at least the last 90 days are kept, all systems keep synchronized time, and the log types include network traffic metadata, access to systems, applications, and devices, creation, change, and deletion of user accounts and extension of rights, changes to backups, and records of security tools; security-relevant events are copied to a central store within 24 hours, protected against unauthorized access and change, with anomaly recognition and alerts, and where possible an administrator other than the source system’s. For key and important entities, incident handling includes the monitoring, recording, and reporting of incidents.",
+       "sources": [
+        {
+         "anchor": "hr-uredba-135-2024",
+         "title": "Uredba o kibernetičkoj sigurnosti",
+         "establishes": "For key and important entities, that candidates are checked before hiring according to the significance of the post, that a record is kept of every login and activity on critical systems for a forensic trail with at least the last 90 days of logs, synchronized time, and named log types, that security-relevant events are copied to a central store within 24 hours with anomaly detection and, where possible, an administrator other than the source system's, that an owner approves the assignment of access rights and the approval is recorded, that privileged and administrator accounts follow written rules (dedicated accounts, individualized and limited privileges, use only for administration, strong authentication), that user and entity behaviour analytics is in the catalogue, and that a significant incident is notified in an early warning within 24 hours and an initial notification within 72 hours.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-uredba-135-2024"
+        },
+        {
+         "anchor": "hr-zks-2024",
+         "title": "Zakon o kibernetičkoj sigurnosti, članci 4, 29, 30, 37, and 38",
+         "establishes": "For key and important entities, that the members of the management bodies answer for the risk management measures, approve them, control their implementation, and follow and offer employees suitable training; that the measures include human resources security, access control policies and management of software and hardware assets with a regularly updated inventory, incident handling with monitoring, recording, and reporting, cyber hygiene and training, and multi-factor or continuous authentication; that a significant incident is notified to the competent CSIRT and, where there are grounds to suspect a criminal offence, to the law enforcement bodies; and that the measures and their implementation are set by the Government's regulation.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zks-2024"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "GR",
+       "state": "reported",
+       "requirement": "All accesses and actions are recorded in logs, with log management or a SIEM recording and monitoring user actions; the Act itself does not name logging.",
+       "sources": [
+        {
+         "anchor": "gr-sev-nis2-guide-2025",
+         "title": "Οδηγός για τη Συμμόρφωση των Επιχειρήσεων με τον Ν. 5160/2024 και την Οδηγία NIS2",
+         "establishes": "That the guide proposes ten procedures for compliance with Law 5160/2024, that under access control and account management it names role-based access on least privilege, multi-factor authentication for critical systems, logging of all accesses and actions, protection of service and privileged accounts by privileged access management, access reviews, and that the policies reach internal and external personnel across the whole access lifecycle.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-sev-nis2-guide-2025"
         }
        ]
       }
@@ -4312,6 +5050,27 @@
          "title": "Orientações sobre o controlo à distância em regime de teletrabalho",
          "establishes": "That the prohibition of remote surveillance to control performance applies in full to telework, that software which beyond working time records pages visited, the terminal's real-time location, use of mouse and keyboard, screenshots, application access, and time per document is not admitted, that a permanently on camera and recording of calls between managers and workers are not admitted, that control is exercised by objectives, reporting duties, and meetings, and that time recording tools replicate what is recorded on the premises, start, end, and lunch break.",
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-teletrabalho-2020"
+        }
+       ]
+      },
+      {
+       "id": "MD004/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "The employee may be checked in the conduct connected with the employment, by technical means too, after prior written information; a device the employer provides for work is used only for the employment unless agreed otherwise, and the employer may inspect the employment-related data stored on it, including the data needed to check that restriction. Checking an employee’s e-mail account and devices without internal rules and without prior information breaches fairness and accountability; the employer adopts the internal rules and the notice and runs checks under them; the fine was 1,000,000 HUF.",
+       "sources": [
+        {
+         "anchor": "hu-mt-9-11a",
+         "title": "2012. évi I. törvény a munka törvénykönyvéről, 9. §, 10. §, 11. §, and 11/A. §",
+         "establishes": "That an employee's personality right may be restricted only where strictly necessary for a reason directly connected with the purpose of the employment and proportionate, with prior written information on the manner, conditions, expected duration, and the circumstances supporting necessity and proportionality; that the employee may be checked in the conduct connected with the employment, by technical means too, after prior written information; that a device provided for work is used only for the employment unless agreed otherwise and the employer may inspect the employment-related data stored on it; that biometric data serve identification only against grave unauthorized access; and that criminal record data may be processed to check a restriction or exclusion the employer has set out in writing beforehand.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mt-9-11a"
+        },
+        {
+         "anchor": "hu-naih-2019-769",
+         "title": "NAIH/2019/769, határozat",
+         "establishes": "That reviewing and checking an employee's e-mail account in breach of fairness and without prior information is unlawful, that the employer is ordered to adopt internal rules on the use and checking of e-mail accounts and devices and to inform the persons concerned, and that the fine was 1,000,000 HUF.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2019-769"
         }
        ]
       }
@@ -4799,6 +5558,42 @@
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
         }
        ]
+      },
+      {
+       "id": "MD006/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "Monitoring by means of electronic communications at the workplace rests on the five conditions of article 5: justified prevailing interest, prior complete and explicit information, consultation of the union or representatives, prior failure of less intrusive means, and retention within 30 days.",
+       "sources": [
+        {
+         "anchor": "ro-law-190-2018",
+         "title": "Legea nr. 190/2018, articolul 5",
+         "establishes": "That monitoring by electronic communications or video surveillance at the workplace on the employer's legitimate interest is lawful only on five cumulative conditions, among them prior consultation of the union or the employee representatives, prior complete and explicit information of the employees, proof that less intrusive means have failed, and a retention of no more than 30 days.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-190-2018"
+        }
+       ]
+      },
+      {
+       "id": "MD006/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "The company e-mail account is checked under an internal policy, on the employer’s legitimate interest after a balancing test, in steps: first the address and the subject, then the traffic data that narrow the search, and content only where the private character can be excluded; the employee is present as a rule; the notice states the purposes, who checks, the steps, and the remedies. Searching archived mailboxes for documents without proper information and without a basis breaches fairness and purpose limitation, and the want of measures and information on the use and archiving of mailboxes breaches accountability; the fine was 500,000 HUF.",
+       "sources": [
+        {
+         "anchor": "hu-naih-2016",
+         "title": "A NAIH tájékoztatója a munkahelyi adatkezelések alapvető követelményeiről",
+         "establishes": "That consent is a basis for workplace processing only exceptionally, that the employer's legitimate interest with a documented balancing test is the basis for checks, that gradual checking and the employee's presence are the safeguards, that cameras are not operated for the primary observation of employees and are barred from changing rooms, washrooms, and break rooms, with recordings kept three working days as a rule and hidden cameras prohibited, that the e-mail account is checked under an internal policy, in steps from address and subject to content, and that the content of private e-mails is not inspected even after notice.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2016"
+        },
+        {
+         "anchor": "hu-naih-2019-51",
+         "title": "NAIH/2019/51/11, határozat",
+         "establishes": "That storing a former employee's private correspondence in archived mailboxes breached storage limitation, that searching those archives for documents without proper information and without a basis breached fairness and purpose limitation, that the absence of technical and organizational measures and of information on the use and archiving of employees' mailboxes breached accountability, and that the fine was 500,000 HUF.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2019-51"
+        }
+       ]
       }
      ]
     },
@@ -4811,7 +5606,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD007/IT",
@@ -4837,6 +5632,21 @@
          "title": "Provvedimento n. 165, ITAS Mutua",
          "establishes": "That mailbox backups and browsing logs are instruments from which remote monitoring may follow, that an answer given in stages and handed over in part without saying what was withheld does not discharge the right of access, and that a five year backup of employee mail has to be disclosed to the people whose mail it holds.",
          "url": "https://alessandroaledda.com/intra/sources/#garante-165-2026"
+        }
+       ]
+      },
+      {
+       "id": "MD007/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "Personal data from monitoring by means of electronic communications are kept for a period proportionate to the purpose and no longer than 30 days, save express legal provision or a duly justified case.",
+       "sources": [
+        {
+         "anchor": "ro-law-190-2018",
+         "title": "Legea nr. 190/2018, articolul 5",
+         "establishes": "That monitoring by electronic communications or video surveillance at the workplace on the employer's legitimate interest is lawful only on five cumulative conditions, among them prior consultation of the union or the employee representatives, prior complete and explicit information of the employees, proof that less intrusive means have failed, and a retention of no more than 30 days.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-190-2018"
         }
        ]
       }
@@ -4976,6 +5786,21 @@
          "title": "Deliberação n.º 1638/2013, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes do controlo da utilização para fins privados das tecnologias de informação e comunicação no contexto laboral",
          "establishes": "That the employer defines rules of use and forms of control in an internal regulation, heard by the comissão de trabalhadores and sent to the ACT, after assessing the impact; that the worker is informed before processing of the conditions of private use, the forms of control, the data, the retention period, the tolerance admitted, and the consequences; that control data are kept at most six months save during disciplinary or judicial proceedings; that email addressed to the worker is never opened automatically, even to investigate a disciplinary infraction; that control is not permanent or systematic but pontual, directed to areas of risk, and random; that access to a mailbox is the last resort, in the presence of the worker and preferably of a representative, limited to recipients, subject, date, and time; and that access to the monitoring systems is logged with user, timestamp, operation, sequential id, and hash, signed, analysed under a policy with periodic reports, and the logs kept one year.",
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-1638-2013"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "HU",
+       "state": "recommended",
+       "requirement": "The content of private e-mails in the company account is not inspected by the employer even after prior notice of checks, the rights of the employee and of the third parties who sent or received them standing in the way.",
+       "sources": [
+        {
+         "anchor": "hu-naih-2016",
+         "title": "A NAIH tájékoztatója a munkahelyi adatkezelések alapvető követelményeiről",
+         "establishes": "That consent is a basis for workplace processing only exceptionally, that the employer's legitimate interest with a documented balancing test is the basis for checks, that gradual checking and the employee's presence are the safeguards, that cameras are not operated for the primary observation of employees and are barred from changing rooms, washrooms, and break rooms, with recordings kept three working days as a rule and hidden cameras prohibited, that the e-mail account is checked under an internal policy, in steps from address and subject to content, and that the content of private e-mails is not inspected even after notice.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2016"
         }
        ]
       }
@@ -5607,6 +6432,27 @@
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-video-2024"
         }
        ]
+      },
+      {
+       "id": "MD013/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "Surveillance devices are permitted to control entries to and exits from work premises and spaces and to reduce the workers’ exposure to robbery, burglary, violence, theft, and similar events at or in connection with work. Every access to video surveillance footage is recorded by an automated log holding the time, the place, and the identity of the person accessing.",
+       "sources": [
+        {
+         "anchor": "hr-zzr-43",
+         "title": "Zakon o zaštiti na radu, članak 43",
+         "establishes": "That surveillance devices are a means of occupational safety used to control entries to and exits from work premises and to reduce exposure to robbery, burglary, violence, theft, and similar events, that they are barred from rooms for personal hygiene and changing, that devices following all the worker's movements throughout working time need the works council's prior consent, that the worker is told in writing at hiring that audio or video devices will observe them, and that recordings serve no other purpose and reach no unauthorized person.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zzr-43"
+        },
+        {
+         "anchor": "hr-zpouzp-25-30",
+         "title": "Zakon o provedbi Opće uredbe o zaštiti podataka, članci 25 to 30",
+         "establishes": "That video surveillance serves only a purpose necessary and justified for the protection of persons and property, that the premises are marked before the perimeter is entered with the controller's identity and contact for rights, that access to footage is limited to the responsible person and those authorized, that an automated log records the time, place, and person of every access to footage, that recordings are kept at most six months unless a law provides longer or they are evidence in proceedings, and that employees are processed by video surveillance only where the occupational safety conditions are met too, the employees were informed beforehand in an appropriate way and before the decision to install, and never in rooms for rest, personal hygiene, and changing.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zpouzp-25-30"
+        }
+       ]
       }
      ]
     },
@@ -5881,6 +6727,96 @@
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-1fr-2022"
         }
        ]
+      },
+      {
+       "id": "MD014/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "Video surveillance at the workplace on the employer’s legitimate interest rests on the five conditions of article 5, the 30-day retention among them. Accessing the workplace video surveillance system and processing the images of employees, including for their disciplinary investigation, breached articles 5(1)(a), 5(1)(b), and 6(1) of the Regulation read with article 5 of Law 190/2018; the fine was 24,887 lei (5,000 EUR), with a corrective measure on video monitoring in disciplinary investigations.",
+       "sources": [
+        {
+         "anchor": "ro-law-190-2018",
+         "title": "Legea nr. 190/2018, articolul 5",
+         "establishes": "That monitoring by electronic communications or video surveillance at the workplace on the employer's legitimate interest is lawful only on five cumulative conditions, among them prior consultation of the union or the employee representatives, prior complete and explicit information of the employees, proof that less intrusive means have failed, and a retention of no more than 30 days.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-190-2018"
+        },
+        {
+         "anchor": "ro-anspdcp-roumasport-2025",
+         "title": "Sancțiune pentru încălcarea RGPD, ROUMASPORT SRL",
+         "establishes": "That accessing the workplace video surveillance system and processing the images of employees for their disciplinary investigation breached the principles of lawfulness and purpose and the conditions of lawfulness, read with article 5 of Law 190/2018, and drew a fine of 24,887 lei (5,000 EUR) and a corrective measure on the use of video monitoring in disciplinary investigations.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-anspdcp-roumasport-2025"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "HU",
+       "state": "recommended",
+       "requirement": "Cameras are not operated for the primary observation of employees and their work, their primary purposes are those of the Szvtv. (life and safety, dangerous substances, business and bank secrets, property), none sit in changing rooms, showers, washrooms, medical rooms, or break rooms save to protect an asset there with the field of view on the asset, recordings are kept three working days as a rule, and the notice states for each camera its purpose and field of view.",
+       "sources": [
+        {
+         "anchor": "hu-naih-2016",
+         "title": "A NAIH tájékoztatója a munkahelyi adatkezelések alapvető követelményeiről",
+         "establishes": "That consent is a basis for workplace processing only exceptionally, that the employer's legitimate interest with a documented balancing test is the basis for checks, that gradual checking and the employee's presence are the safeguards, that cameras are not operated for the primary observation of employees and are barred from changing rooms, washrooms, and break rooms, with recordings kept three working days as a rule and hidden cameras prohibited, that the e-mail account is checked under an internal policy, in steps from address and subject to content, and that the content of private e-mails is not inspected even after notice.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2016"
+        }
+       ]
+      },
+      {
+       "id": "MD014/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "Surveillance devices are a means of occupational safety used on the conditions of the Act, barred from rooms for personal hygiene and changing, and the recordings are not used for purposes other than those of the article, not shown in public or to persons without authority over safety, and kept from unauthorized persons. Video surveillance of employees is lawful only where the conditions of the implementation act and of the occupational safety rules are met, the employees were informed beforehand in an appropriate way and before the decision to install, and never in rooms for rest, personal hygiene, and changing; the purpose is one necessary and justified for the protection of persons and property, and access to footage belongs to the responsible person and those authorized. Video surveillance of workers needs no consent of the worker and rests on the two Acts; the employer informs the workers in an appropriate way before introducing it and before the decision to install, and seeks the works council’s prior consent where devices follow all movements throughout working time.",
+       "sources": [
+        {
+         "anchor": "hr-zzr-43",
+         "title": "Zakon o zaštiti na radu, članak 43",
+         "establishes": "That surveillance devices are a means of occupational safety used to control entries to and exits from work premises and to reduce exposure to robbery, burglary, violence, theft, and similar events, that they are barred from rooms for personal hygiene and changing, that devices following all the worker's movements throughout working time need the works council's prior consent, that the worker is told in writing at hiring that audio or video devices will observe them, and that recordings serve no other purpose and reach no unauthorized person.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zzr-43"
+        },
+        {
+         "anchor": "hr-zpouzp-25-30",
+         "title": "Zakon o provedbi Opće uredbe o zaštiti podataka, članci 25 to 30",
+         "establishes": "That video surveillance serves only a purpose necessary and justified for the protection of persons and property, that the premises are marked before the perimeter is entered with the controller's identity and contact for rights, that access to footage is limited to the responsible person and those authorized, that an automated log records the time, place, and person of every access to footage, that recordings are kept at most six months unless a law provides longer or they are evidence in proceedings, and that employees are processed by video surveillance only where the occupational safety conditions are met too, the employees were informed beforehand in an appropriate way and before the decision to install, and never in rooms for rest, personal hygiene, and changing.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zpouzp-25-30"
+        },
+        {
+         "anchor": "hr-azop-radni-odnosi",
+         "title": "Smjernice o obradi osobnih podataka u radnim odnosima",
+         "establishes": "That consent is seldom an adequate basis in the employment relationship, that GPS in company vehicles is regulated by written internal rules available to all workers, with the data processed only for the purposes those rules state and kept no longer than needed, that a data protection impact assessment is mandatory for processing workers' data by applications or systems that track work, movement, or communication, and that video surveillance of workers rests on the GDPR implementation act and the Occupational Safety Act without consent, with the works council's prior consent where devices follow all movements throughout working time.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-azop-radni-odnosi"
+        }
+       ]
+      },
+      {
+       "id": "MD014/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "CCTV in workplaces, publicly accessible or not, is permitted only where necessary for the protection of persons and property, and employees are informed in writing of its installation and operation. Cameras in offices, a meeting room, a secretariat, and a kitchenette, with the image transmitted in real time to the manager’s screen, breached articles 5(1)(a), 5(1)(b), and 5(2) of the Regulation; the fine was 15,000 EUR with an order to remove the cameras within one month and destroy the material. A video surveillance system is not used to monitor employees inside the workplace save in exceptional cases justified by the nature and conditions of the work and necessary for health and safety or for the protection of critical areas; in a typical office it is confined to entrances and exits, cash desks, safes, or equipment being covered with the camera on the asset, and real-time watching of operators of high-risk machinery is allowed for immediate intervention; cameras are barred from dining and recreation areas.",
+       "sources": [
+        {
+         "anchor": "gr-law-4624-2019-27",
+         "title": "Νόμος 4624/2019, άρθρο 27",
+         "establishes": "That employees' data are processed for the purposes of the employment contract where absolutely necessary for the decision to conclude it or for its performance, that consent is an exceptional basis judged on the employee's dependence and the circumstances, given in writing or electronically and distinct from the contract, with information on the purpose and the right to withdraw, that collective agreements may provide a basis, that CCTV in workplaces is permitted only where necessary for the protection of persons and property, that its data are not used as a criterion for evaluating the employees' performance, that employees are informed in writing of its installation and operation, and that employees include candidates, former employees, and contractors.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-4624-2019-27"
+        },
+        {
+         "anchor": "gr-hdpa-23-2021",
+         "title": "Απόφαση 23/2021",
+         "establishes": "That five cameras in a company's offices, meeting room, secretariat, and kitchenette, with the image transmitted in real time to the manager's screen, breached articles 5(1)(a), 5(1)(b), and 5(2) of the Regulation, that article 27(7) of Law 4624/2019 bars video recording inside workplaces except for the protection of persons and property, that Directive 1/2011 article 7 confines office surveillance to entrances and exits and article 19(4) bars cameras in dining and recreation areas, that the employer informs the employee beforehand of the introduction of methods of control and monitoring, and that the fine was 15,000 EUR with an order to remove the cameras within a month and destroy the material.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-hdpa-23-2021"
+        },
+        {
+         "anchor": "gr-hdpa-1-2011-7",
+         "title": "Οδηγία 1/2011 της ΑΠΔΠΧ για τη χρήση συστημάτων βιντεοεπιτήρησης, άρθρο 7",
+         "establishes": "That a video surveillance system is not used to monitor employees inside the workplace save in exceptional cases justified by the nature and conditions of the work and necessary for health and safety or for the protection of critical areas, that in a typical office it is confined to entrances and exits without monitoring rooms or corridors, that cash desks, safes, or electromechanical equipment may be covered with the camera on the asset and not on the employees, that real-time watching of operators of high-risk machinery is allowed for immediate intervention, and that the data are never the exclusive criterion for evaluating the employees' behaviour and performance.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-hdpa-1-2011-7"
+        }
+       ]
       }
      ]
     },
@@ -6096,6 +7032,21 @@
          "title": "Délibération n° 1FR/2022",
          "establishes": "That a transport company's cameras inside its agencies and a camera reaching a neighbouring plot breached minimisation, that the retention of location data breached storage limitation, that employees and third parties were not informed as article 13 requires on either system, that the fine was EUR 4,900 after a proposal of EUR 10,000, and that the orders were to remove or reorient the cameras and to inform employees individually, with the controller's identity, the DPO's contact details, the purposes, the legitimate interests, the recipients, and their rights, and for geolocation the legal basis, within four months.",
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-1fr-2022"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "HR",
+       "state": "recommended",
+       "requirement": "GPS in company vehicles is installed without the worker’s approval only where necessary for the professional nature of the work or as a precaution; its use is set in written internal rules available to all workers, in particular where private use of the vehicle is allowed, the data are processed only for the purposes those rules state, and the movement records are kept only as long as needed.",
+       "sources": [
+        {
+         "anchor": "hr-azop-radni-odnosi",
+         "title": "Smjernice o obradi osobnih podataka u radnim odnosima",
+         "establishes": "That consent is seldom an adequate basis in the employment relationship, that GPS in company vehicles is regulated by written internal rules available to all workers, with the data processed only for the purposes those rules state and kept no longer than needed, that a data protection impact assessment is mandatory for processing workers' data by applications or systems that track work, movement, or communication, and that video surveillance of workers rests on the GDPR implementation act and the Occupational Safety Act without consent, with the works council's prior consent where devices follow all movements throughout working time.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-azop-radni-odnosi"
         }
        ]
       }
@@ -6348,6 +7299,42 @@
          "url": "https://alessandroaledda.com/intra/sources/#lu-ct-261"
         }
        ]
+      },
+      {
+       "id": "MD016/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "In residential buildings, video surveillance is not used to track the work performance of caretakers, cleaners, and other persons working there.",
+       "sources": [
+        {
+         "anchor": "hr-zpouzp-25-30",
+         "title": "Zakon o provedbi Opće uredbe o zaštiti podataka, članci 25 to 30",
+         "establishes": "That video surveillance serves only a purpose necessary and justified for the protection of persons and property, that the premises are marked before the perimeter is entered with the controller's identity and contact for rights, that access to footage is limited to the responsible person and those authorized, that an automated log records the time, place, and person of every access to footage, that recordings are kept at most six months unless a law provides longer or they are evidence in proceedings, and that employees are processed by video surveillance only where the occupational safety conditions are met too, the employees were informed beforehand in an appropriate way and before the decision to install, and never in rooms for rest, personal hygiene, and changing.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zpouzp-25-30"
+        }
+       ]
+      },
+      {
+       "id": "MD016/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "Data collected by CCTV in the workplace are not used as a criterion for evaluating the employees’ performance. Data from video surveillance are not the exclusive criterion for evaluating the employees’ behaviour and performance.",
+       "sources": [
+        {
+         "anchor": "gr-law-4624-2019-27",
+         "title": "Νόμος 4624/2019, άρθρο 27",
+         "establishes": "That employees' data are processed for the purposes of the employment contract where absolutely necessary for the decision to conclude it or for its performance, that consent is an exceptional basis judged on the employee's dependence and the circumstances, given in writing or electronically and distinct from the contract, with information on the purpose and the right to withdraw, that collective agreements may provide a basis, that CCTV in workplaces is permitted only where necessary for the protection of persons and property, that its data are not used as a criterion for evaluating the employees' performance, that employees are informed in writing of its installation and operation, and that employees include candidates, former employees, and contractors.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-4624-2019-27"
+        },
+        {
+         "anchor": "gr-hdpa-1-2011-7",
+         "title": "Οδηγία 1/2011 της ΑΠΔΠΧ για τη χρήση συστημάτων βιντεοεπιτήρησης, άρθρο 7",
+         "establishes": "That a video surveillance system is not used to monitor employees inside the workplace save in exceptional cases justified by the nature and conditions of the work and necessary for health and safety or for the protection of critical areas, that in a typical office it is confined to entrances and exits without monitoring rooms or corridors, that cash desks, safes, or electromechanical equipment may be covered with the camera on the asset and not on the employees, that real-time watching of operators of high-risk machinery is allowed for immediate intervention, and that the data are never the exclusive criterion for evaluating the employees' behaviour and performance.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-hdpa-1-2011-7"
+        }
+       ]
       }
      ]
     },
@@ -6360,7 +7347,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-30",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "MD017/ES",
@@ -6374,6 +7361,21 @@
          "title": "Resolución del procedimiento sancionador PS/00454/2024",
          "establishes": "What an employer may require of a device it does not own, on facts of continuous recording, at a fine of 200,000 euros.",
          "url": "https://alessandroaledda.com/intra/sources/#aepd-ares-capital"
+        }
+       ]
+      },
+      {
+       "id": "MD017/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "Where by agreement the employee uses their own device for the employment, the employer’s right to inspect the employment-related data stored on it applies.",
+       "sources": [
+        {
+         "anchor": "hu-mt-9-11a",
+         "title": "2012. évi I. törvény a munka törvénykönyvéről, 9. §, 10. §, 11. §, and 11/A. §",
+         "establishes": "That an employee's personality right may be restricted only where strictly necessary for a reason directly connected with the purpose of the employment and proportionate, with prior written information on the manner, conditions, expected duration, and the circumstances supporting necessity and proportionality; that the employee may be checked in the conduct connected with the employment, by technical means too, after prior written information; that a device provided for work is used only for the employment unless agreed otherwise and the employer may inspect the employment-related data stored on it; that biometric data serve identification only against grave unauthorized access; and that criminal record data may be processed to check a restriction or exclusion the employer has set out in writing beforehand.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mt-9-11a"
         }
        ]
       }
@@ -6474,6 +7476,21 @@
          "title": "Wegleitung zur Verordnung 3 zum Arbeitsgesetz, Artikel 26, Überwachung der Arbeitnehmer",
          "establishes": "What counts as a behaviour monitoring system (cameras in work rooms, microphones, continuous positioning, IT tools that monitor computer or phone activity at work or at home, sensors capturing biometric or physiological data, and AI tools for automated analysis of employee-based data), the three conditions of admissibility of a system needed for other reasons (a clearly overriding other interest, proportionality, and the participation of employees in planning, installation, hours of operation, and retention), the written justification produced to the labour inspectorate on request, and the data rules (prior detailed information, shortest predetermined retention, access limited to those authorized to evaluate, no archiving after the control, an internal regulation on rights and duties, monitored areas marked).",
          "url": "https://alessandroaledda.com/intra/sources/#seco-argv3-26"
+        }
+       ]
+      },
+      {
+       "id": "",
+       "standing": "recommended",
+       "jurisdiction": "HU",
+       "state": "recommended",
+       "requirement": "The use of a hidden camera is prohibited.",
+       "sources": [
+        {
+         "anchor": "hu-naih-2016",
+         "title": "A NAIH tájékoztatója a munkahelyi adatkezelések alapvető követelményeiről",
+         "establishes": "That consent is a basis for workplace processing only exceptionally, that the employer's legitimate interest with a documented balancing test is the basis for checks, that gradual checking and the employee's presence are the safeguards, that cameras are not operated for the primary observation of employees and are barred from changing rooms, washrooms, and break rooms, with recordings kept three working days as a rule and hidden cameras prohibited, that the e-mail account is checked under an internal policy, in steps from address and subject to content, and that the content of private e-mails is not inspected even after notice.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2016"
         }
        ]
       }
@@ -6846,7 +7863,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-08-31",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "",
@@ -6860,6 +7877,21 @@
          "title": "Redefining Threats: Extending the Threat Response Focus from External to Internal Threats",
          "establishes": "How the examination of an employee is divided between security, human resources, and legal, what a classification level governs once it has been applied, and which restrictions are placed on a person serving out notice when they cannot be placed on everyone.",
          "url": "https://alessandroaledda.com/intra/sources/#holoska-doucek"
+        }
+       ]
+      },
+      {
+       "id": "BA003/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "An insider threat program with a multidisciplinary team handling insider security events is in the protective measures catalogue and is marked as required for none of the three security classes.",
+       "sources": [
+        {
+         "anchor": "hu-mk-7-2024",
+         "title": "7/2024. (VI. 24.) MK rendelet a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről, 2. melléklet",
+         "establishes": "That an insider threat program with a multidisciplinary team handling insider security events is in the catalogue and is marked for none of the three classes; that awareness training on recognizing and reporting potential signs of insider threats is required in all three classes; that a risk designation of every position with screening criteria, screening of persons before access and re-screening on change of authorization or position or periodically, and a termination process that disables access within a defined time, revokes all credentials and authorizations, holds an exit interview on information security, and retrieves security assets are required in all three classes; and that the periodic review of privileges and the logging of privileged functions are required in the \"jelentős\" and \"magas\" classes.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mk-7-2024"
         }
        ]
       }
@@ -7352,6 +8384,66 @@
          "url": "https://alessandroaledda.com/intra/sources/#lu-loi-2023-signalement"
         }
        ]
+      },
+      {
+       "id": "IV001/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "A private legal person with at least 50 employees, and a public body at any size, identifies or sets up internal reporting channels and procedures for follow-up; those of 50 to 249 may share resources and were reached on 17 December 2023; the procedure protects the confidentiality of the reporter and of any third party named and bars unauthorized staff, acknowledges receipt within 7 calendar days, designates an impartial and independent person, department, or third party, gives feedback within 3 months, and the designated person and the means of reporting are displayed on the website and at the premises, with at least one means accessible at any moment.",
+       "sources": [
+        {
+         "anchor": "ro-law-361-2022",
+         "title": "Legea nr. 361/2022 privind protecția avertizorilor în interes public, articolele 7, 9, 10, și 36",
+         "establishes": "That a private legal person with at least 50 employees, and a public one at any size, identifies or sets up internal reporting channels and procedures for follow-up, that those of 50 to 249 may share resources and were reached on 17 December 2023, that the procedure holds confidentiality of the reporter and of any third party named, acknowledgement within 7 calendar days, a designated impartial and independent person, department, or third party, feedback within 3 months, and that reports are kept in a register for 5 years and then destroyed.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-361-2022"
+        }
+       ]
+      },
+      {
+       "id": "IV001/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "An employer with at least 50 persons in an employment relationship operates an internal abuse reporting system, those of 50 to 249 from 17 December 2023 and jointly if they choose; it is run by a designated impartial person or unit, or by a whistleblower-protection lawyer or other external organization under the same impartiality rules; a written report is acknowledged within seven days, the investigation closes within thirty days of receipt, extendable with reasons to three months at most, and the reporter is told that their identity is treated confidentially at every stage.",
+       "sources": [
+        {
+         "anchor": "hu-act-xxv-2023",
+         "title": "2023. évi XXV. törvény a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról, 18. § to 23. §, 54. §, and 56. §",
+         "establishes": "That an employer with at least 50 persons in an employment relationship operates an internal abuse reporting system, that employers of 50 to 249 were reached on 17 December 2023 and may run it jointly, that it is operated by a designated impartial person or unit or by a whistleblower-protection lawyer or other external organization under the same impartiality rules, that a written report is acknowledged within seven days, that the investigation closes within thirty days of receipt, extendable with reasons to a maximum of three months, and that the reporter of an oral report is told that their identity is treated confidentially at every stage.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-act-xxv-2023"
+        }
+       ]
+      },
+      {
+       "id": "IV001/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "An employer with at least 50 workers establishes a system of internal reporting under a general act, with a confidential person and a deputy who acknowledge receipt within seven days, examine and give feedback as a rule within 30 and at most 90 days, keep the reporter’s identity and the data confidential, forward unresolved matters to the competent bodies, and report to the external body within 30 days of deciding; the employer does not influence them, and whoever else receives a report forwards it unchanged.",
+       "sources": [
+        {
+         "anchor": "hr-zzpn-2022",
+         "title": "Zakon o zaštiti prijavitelja nepravilnosti, članci 19 to 22",
+         "establishes": "That an employer with at least 50 workers establishes a system of internal reporting, that the employer adopts a general act on the procedure and appoints a confidential person and a deputy on the proposal of the works council or the union representative or of at least 20 % of the workers, that the confidential person acknowledges receipt within seven days, gives feedback as a rule within 30 and at most 90 days, keeps the identity and the data confidential, forwards unresolved matters to the competent bodies, and reports to the external body within 30 days of deciding, and that the employer does not influence the confidential person.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zzpn-2022"
+        }
+       ]
+      },
+      {
+       "id": "IV001/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "A private entity employing 50 or more at the same time, and one in financial services, transport, or the environment at any size, appoints a Υ.Π.Π.Α., those of 50 to 249 may share one; the Υ.Π.Π.Α. receives reports in writing, orally, or through a platform, acknowledges receipt within seven working days, keeps the identity of the reporter and of any third party named confidential from unauthorized persons, gives feedback within three months, and informs of the routes to the external channel; failure to appoint draws a fine from the Labour Inspectorate.",
+       "sources": [
+        {
+         "anchor": "gr-law-4990-2022",
+         "title": "Νόμος 4990/2022, άρθρα 8, 9, and 10",
+         "establishes": "That public bodies with 50 or more staff and private entities employing 50 or more at the same time appoint a Υπεύθυνος Παραλαβής και Παρακολούθησης Αναφορών (Υ.Π.Π.Α.), that entities in financial services, transport, and the environment do so at any size, that those of 50 to 249 may share one, that the Υ.Π.Π.Α. is an employee or a third party reporting to the top management body, bound to integrity, confidentiality, and abstention on conflict, that receipt is acknowledged within seven working days and feedback given within three months, that the identity of the reporter and of any third party named is kept confidential from unauthorized persons, and that the Υ.Π.Π.Α. designs training on ethics and integrity.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-4990-2022"
+        }
+       ]
       }
      ]
     },
@@ -7731,6 +8823,42 @@
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-geo-2021"
         }
        ]
+      },
+      {
+       "id": "IV008/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "Images from a workplace video surveillance system used for the disciplinary investigation of employees were, on the facts, processed in breach of the principles of lawfulness and purpose; the release does not say on what conditions such a use would stand.",
+       "sources": [
+        {
+         "anchor": "ro-anspdcp-roumasport-2025",
+         "title": "Sancțiune pentru încălcarea RGPD, ROUMASPORT SRL",
+         "establishes": "That accessing the workplace video surveillance system and processing the images of employees for their disciplinary investigation breached the principles of lawfulness and purpose and the conditions of lawfulness, read with article 5 of Law 190/2018, and drew a fine of 24,887 lei (5,000 EUR) and a corrective measure on the use of video monitoring in disciplinary investigations.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-anspdcp-roumasport-2025"
+        }
+       ]
+      },
+      {
+       "id": "IV008/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "Recordings from surveillance devices installed as a safety measure are not used for purposes other than those the article states. Those with access to video surveillance footage do not use it contrary to the purpose of protecting persons and property.",
+       "sources": [
+        {
+         "anchor": "hr-zzr-43",
+         "title": "Zakon o zaštiti na radu, članak 43",
+         "establishes": "That surveillance devices are a means of occupational safety used to control entries to and exits from work premises and to reduce exposure to robbery, burglary, violence, theft, and similar events, that they are barred from rooms for personal hygiene and changing, that devices following all the worker's movements throughout working time need the works council's prior consent, that the worker is told in writing at hiring that audio or video devices will observe them, and that recordings serve no other purpose and reach no unauthorized person.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zzr-43"
+        },
+        {
+         "anchor": "hr-zpouzp-25-30",
+         "title": "Zakon o provedbi Opće uredbe o zaštiti podataka, članci 25 to 30",
+         "establishes": "That video surveillance serves only a purpose necessary and justified for the protection of persons and property, that the premises are marked before the perimeter is entered with the controller's identity and contact for rights, that access to footage is limited to the responsible person and those authorized, that an automated log records the time, place, and person of every access to footage, that recordings are kept at most six months unless a law provides longer or they are evidence in proceedings, and that employees are processed by video surveillance only where the occupational safety conditions are met too, the employees were informed beforehand in an appropriate way and before the decision to install, and never in rooms for rest, personal hygiene, and changing.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zpouzp-25-30"
+        }
+       ]
       }
      ]
     },
@@ -8018,6 +9146,36 @@
          "url": "https://alessandroaledda.com/intra/sources/#ie-ncsc-boards-2026"
         }
        ]
+      },
+      {
+       "id": "IR001/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "For essential and important entities, incident handling is among the measures, and the comprehensive approach includes logging and traceability of all activities.",
+       "sources": [
+        {
+         "anchor": "ro-oug-155-2024",
+         "title": "Ordonanța de urgență nr. 155/2024, articolele 11 la 15",
+         "establishes": "For essential and important entities, that the measures include the logging and traceability of all activities in the networks and information systems, human resources security, access control policies and asset management, and incident handling; that the management bodies approve the measures, supervise them, and answer for breaches, follow accredited training and ensure training of all personnel; that an annual self-assessment of maturity goes to the DNSC; and that a significant incident is notified in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-oug-155-2024"
+        }
+       ]
+      },
+      {
+       "id": "IR001/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "For essential and important entities, incident handling is among the measures, and the Υ.Α.Σ.Π.Ε. coordinates the handling of security incidents and the continuity and recovery plans.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
+        }
+       ]
       }
      ]
     },
@@ -8261,6 +9419,57 @@
          "title": "Bundesgesetz über den Datenschutz (DSG), SR 235.1, Artikel 6, 19, 21, 22, 24, 31, and 61",
          "establishes": "That processing is lawful, in good faith, and proportionate, for a purpose recognizable to the person and compatible with it, that the controller informs the person of the collection, that a decision resting on automated processing alone with legal or significant effect is disclosed to the person, that a prior impact assessment is made where processing may carry a high risk for the personality or fundamental rights, that a security breach likely to carry a high risk is notified to the EDÖB as fast as possible, that an infringement of personality is unlawful unless justified by consent, an overriding private or public interest, or law, and that natural persons are fined up to CHF 250,000 for the listed intentional breaches.",
          "url": "https://alessandroaledda.com/intra/sources/#ch-dsg"
+        }
+       ]
+      },
+      {
+       "id": "IR006/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "For essential and important entities, a significant incident, one causing or able to cause serious operational disruption or financial loss, or considerable damage to others, is reported to the national CSIRT in an early warning within 24 hours, a notification within 72 hours, and a final report within one month of the notification.",
+       "sources": [
+        {
+         "anchor": "ro-oug-155-2024",
+         "title": "Ordonanța de urgență nr. 155/2024, articolele 11 la 15",
+         "establishes": "For essential and important entities, that the measures include the logging and traceability of all activities in the networks and information systems, human resources security, access control policies and asset management, and incident handling; that the management bodies approve the measures, supervise them, and answer for breaches, follow accredited training and ensure training of all personnel; that an annual self-assessment of maturity goes to the DNSC; and that a significant incident is notified in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-oug-155-2024"
+        }
+       ]
+      },
+      {
+       "id": "IR006/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "For key and important entities, an incident with a significant effect on the availability, integrity, confidentiality, or authenticity of data of significance for the business or on the continuity of services is notified to the competent CSIRT, and recipients of services are informed of significant incidents and serious threats. For key and important entities, the early warning of a significant incident reaches the competent CSIRT without delay and within 24 hours of learning of it, and the initial notification within 72 hours; trust service providers give the initial notification within 24 hours.",
+       "sources": [
+        {
+         "anchor": "hr-zks-2024",
+         "title": "Zakon o kibernetičkoj sigurnosti, članci 4, 29, 30, 37, and 38",
+         "establishes": "For key and important entities, that the members of the management bodies answer for the risk management measures, approve them, control their implementation, and follow and offer employees suitable training; that the measures include human resources security, access control policies and management of software and hardware assets with a regularly updated inventory, incident handling with monitoring, recording, and reporting, cyber hygiene and training, and multi-factor or continuous authentication; that a significant incident is notified to the competent CSIRT and, where there are grounds to suspect a criminal offence, to the law enforcement bodies; and that the measures and their implementation are set by the Government's regulation.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zks-2024"
+        },
+        {
+         "anchor": "hr-uredba-135-2024",
+         "title": "Uredba o kibernetičkoj sigurnosti",
+         "establishes": "For key and important entities, that candidates are checked before hiring according to the significance of the post, that a record is kept of every login and activity on critical systems for a forensic trail with at least the last 90 days of logs, synchronized time, and named log types, that security-relevant events are copied to a central store within 24 hours with anomaly detection and, where possible, an administrator other than the source system's, that an owner approves the assignment of access rights and the approval is recorded, that privileged and administrator accounts follow written rules (dedicated accounts, individualized and limited privileges, use only for administration, strong authentication), that user and entity behaviour analytics is in the catalogue, and that a significant incident is notified in an early warning within 24 hours and an initial notification within 72 hours.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-uredba-135-2024"
+        }
+       ]
+      },
+      {
+       "id": "IR006/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "For essential and important entities, a significant incident, one causing or able to cause serious operational disruption or financial loss, or significant damage to others, is reported to the CSIRT of the Εθνική Αρχή Κυβερνοασφάλειας in an early warning within 24 hours, a notification within 72 hours, and a final report within one month; trust service providers notify within 24 hours.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
         }
        ]
       }
@@ -8603,6 +9812,21 @@
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-video-2024"
         }
        ]
+      },
+      {
+       "id": "CP001/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "A disciplinary investigation that relies on images from the workplace video surveillance system processes personal data, and on the facts the processing was unlawful; the corrective measure requires compliance of video monitoring especially where disciplinary investigations are conducted.",
+       "sources": [
+        {
+         "anchor": "ro-anspdcp-roumasport-2025",
+         "title": "Sancțiune pentru încălcarea RGPD, ROUMASPORT SRL",
+         "establishes": "That accessing the workplace video surveillance system and processing the images of employees for their disciplinary investigation breached the principles of lawfulness and purpose and the conditions of lawfulness, read with article 5 of Law 190/2018, and drew a fine of 24,887 lei (5,000 EUR) and a corrective measure on the use of video monitoring in disciplinary investigations.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-anspdcp-roumasport-2025"
+        }
+       ]
       }
      ]
     },
@@ -8844,6 +10068,51 @@
          "title": "Deliberação n.º 7680/2014, Princípios aplicáveis aos tratamentos de dados pessoais decorrentes da utilização de tecnologias de geolocalização no contexto laboral",
          "establishes": "That geolocation of vehicles is admitted for fleet management in external service in five activities, that protection of goods is weighed strictly and does not cover every vehicle, that geolocation of mobile phones is excessive for both purposes and the employer neither obtains location data from the operator nor installs GPS applications, that location data are never used to control performance, that indications of a crime may support a criminal complaint and a disciplinary proceeding where the facts themselves breach the worker's duties, that driving parameters tied to the driver are anonymized, and that the purpose of fleet management is spent in the real-time view or the last position.",
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-7680-2014"
+        }
+       ]
+      },
+      {
+       "id": "CP005/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "Where a report through the internal system warrants criminal proceedings, the operator arranges for a criminal complaint to be filed.",
+       "sources": [
+        {
+         "anchor": "hu-act-xxv-2023",
+         "title": "2023. évi XXV. törvény a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról, 18. § to 23. §, 54. §, and 56. §",
+         "establishes": "That an employer with at least 50 persons in an employment relationship operates an internal abuse reporting system, that employers of 50 to 249 were reached on 17 December 2023 and may run it jointly, that it is operated by a designated impartial person or unit or by a whistleblower-protection lawyer or other external organization under the same impartiality rules, that a written report is acknowledged within seven days, that the investigation closes within thirty days of receipt, extendable with reasons to a maximum of three months, and that the reporter of an oral report is told that their identity is treated confidentially at every stage.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-act-xxv-2023"
+        }
+       ]
+      },
+      {
+       "id": "CP005/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "For key and important entities, the notification of a significant incident is also delivered to the law enforcement bodies where there are grounds to suspect that it arose from a criminal offence.",
+       "sources": [
+        {
+         "anchor": "hr-zks-2024",
+         "title": "Zakon o kibernetičkoj sigurnosti, članci 4, 29, 30, 37, and 38",
+         "establishes": "For key and important entities, that the members of the management bodies answer for the risk management measures, approve them, control their implementation, and follow and offer employees suitable training; that the measures include human resources security, access control policies and management of software and hardware assets with a regularly updated inventory, incident handling with monitoring, recording, and reporting, cyber hygiene and training, and multi-factor or continuous authentication; that a significant incident is notified to the competent CSIRT and, where there are grounds to suspect a criminal offence, to the law enforcement bodies; and that the measures and their implementation are set by the Government's regulation.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zks-2024"
+        }
+       ]
+      },
+      {
+       "id": "CP005/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "Where a significant incident is suspected to be criminal, the Εθνική Αρχή Κυβερνοασφάλειας gives the entity guidance on reporting it to the prosecuting authorities or the competent directorate of the Hellenic Police.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
         }
        ]
       }
@@ -9097,6 +10366,72 @@
          "title": "Regulamento n.º 756/2026, Regulamento do Regime Jurídico da Cibersegurança",
          "establishes": "For entities in scope, that HR processes, selection, hiring, position categorization, and termination, are assessed against the entity's cybersecurity requirements, that identities and credentials are issued, managed, verified, revoked, and audited, that access follows need to know and least privilege, that privileged passwords sit in a password manager and remote and privileged access carries multi-factor authentication, that logs are collected, stored, protected, and reviewed regularly, their retention set by risk and proportionality, failures in log processing raising alerts and critical systems' logs stored on an autonomous system, that internal and external threats, intentional or accidental, are identified, that all staff receive awareness and training under a measured plan which includes awareness of internal threats, and that a significant incident is notified through the CNCS platform in an initial notification, an end-of-impact notification, and a final or interim report.",
          "url": "https://alessandroaledda.com/intra/sources/#pt-reg-756-2026"
+        }
+       ]
+      },
+      {
+       "id": "AW001/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "For essential and important entities, the entity ensures professional training of all personnel to a sufficient level of knowledge and skills, and basic cyber hygiene and training are among the measures.",
+       "sources": [
+        {
+         "anchor": "ro-oug-155-2024",
+         "title": "Ordonanța de urgență nr. 155/2024, articolele 11 la 15",
+         "establishes": "For essential and important entities, that the measures include the logging and traceability of all activities in the networks and information systems, human resources security, access control policies and asset management, and incident handling; that the management bodies approve the measures, supervise them, and answer for breaches, follow accredited training and ensure training of all personnel; that an annual self-assessment of maturity goes to the DNSC; and that a significant incident is notified in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-oug-155-2024"
+        }
+       ]
+      },
+      {
+       "id": "AW001/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "For systems in all three security classes, the organization gives training on recognizing and reporting the potential signs of insider threats.",
+       "sources": [
+        {
+         "anchor": "hu-mk-7-2024",
+         "title": "7/2024. (VI. 24.) MK rendelet a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről, 2. melléklet",
+         "establishes": "That an insider threat program with a multidisciplinary team handling insider security events is in the catalogue and is marked for none of the three classes; that awareness training on recognizing and reporting potential signs of insider threats is required in all three classes; that a risk designation of every position with screening criteria, screening of persons before access and re-screening on change of authorization or position or periodically, and a termination process that disables access within a defined time, revokes all credentials and authorizations, holds an exit interview on information security, and retrieves security assets are required in all three classes; and that the periodic review of privileges and the logging of privileged functions are required in the \"jelentős\" and \"magas\" classes.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mk-7-2024"
+        }
+       ]
+      },
+      {
+       "id": "AW001/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "For key and important entities, the persons responsible for the measures follow suitable training and enable the employees to follow suitable training, and basic cyber hygiene and cybersecurity training are among the measures.",
+       "sources": [
+        {
+         "anchor": "hr-zks-2024",
+         "title": "Zakon o kibernetičkoj sigurnosti, članci 4, 29, 30, 37, and 38",
+         "establishes": "For key and important entities, that the members of the management bodies answer for the risk management measures, approve them, control their implementation, and follow and offer employees suitable training; that the measures include human resources security, access control policies and management of software and hardware assets with a regularly updated inventory, incident handling with monitoring, recording, and reporting, cyber hygiene and training, and multi-factor or continuous authentication; that a significant incident is notified to the competent CSIRT and, where there are grounds to suspect a criminal offence, to the law enforcement bodies; and that the measures and their implementation are set by the Government's regulation.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zks-2024"
+        }
+       ]
+      },
+      {
+       "id": "AW001/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "For essential and important entities, the members of the management bodies follow training and the entity gives its employees similar training at least annually, to identify risks and assess risk management practices; basic cyber hygiene and cybersecurity training are among the measures. The Υ.Π.Π.Α. designs and coordinates training on ethics and integrity and takes part in internal policies on integrity and transparency.",
+       "sources": [
+        {
+         "anchor": "gr-law-5160-2024",
+         "title": "Νόμος 5160/2024, άρθρα 8, 14, 15, and 16",
+         "establishes": "For essential and important entities, that the Εθνική Αρχή Κυβερνοασφάλειας is the competent authority and single point of contact, that the management bodies approve the risk management measures within three months of the Act's entry into force, supervise their implementation, and are responsible for breaches, that their members follow training and the entity gives employees similar training at least annually, that the measures include incident handling, cyber hygiene and training, human resources security, access control policies, and asset management, and multi-factor or continuous authentication, that the entity designates a Υπεύθυνος Ασφάλειας Συστημάτων Πληροφορικής και Επικοινωνιών (Υ.Α.Σ.Π.Ε.) whose duties are incompatible with the Data Protection Officer's, keeps a single cybersecurity policy and an inventory of assets ranked by criticality, and that a significant incident is reported in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-5160-2024"
+        },
+        {
+         "anchor": "gr-law-4990-2022",
+         "title": "Νόμος 4990/2022, άρθρα 8, 9, and 10",
+         "establishes": "That public bodies with 50 or more staff and private entities employing 50 or more at the same time appoint a Υπεύθυνος Παραλαβής και Παρακολούθησης Αναφορών (Υ.Π.Π.Α.), that entities in financial services, transport, and the environment do so at any size, that those of 50 to 249 may share one, that the Υ.Π.Π.Α. is an employee or a third party reporting to the top management body, bound to integrity, confidentiality, and abstention on conflict, that receipt is acknowledged within seven working days and feedback given within three months, that the identity of the reporter and of any third party named is kept confidential from unauthorized persons, and that the Υ.Π.Π.Α. designs training on ethics and integrity.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-4990-2022"
         }
        ]
       }
@@ -9361,6 +10696,90 @@
          "url": "https://alessandroaledda.com/intra/sources/#cnpd-lu-11fr-2021"
         }
        ]
+      },
+      {
+       "id": "AW002/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "Before monitoring by electronic communications or video surveillance, the employer gives the employees prior information that is mandatory, complete, and explicit. The designated person and the means of internal reporting are brought to every employee’s knowledge by display on the website and at the premises.",
+       "sources": [
+        {
+         "anchor": "ro-law-190-2018",
+         "title": "Legea nr. 190/2018, articolul 5",
+         "establishes": "That monitoring by electronic communications or video surveillance at the workplace on the employer's legitimate interest is lawful only on five cumulative conditions, among them prior consultation of the union or the employee representatives, prior complete and explicit information of the employees, proof that less intrusive means have failed, and a retention of no more than 30 days.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-190-2018"
+        },
+        {
+         "anchor": "ro-law-361-2022",
+         "title": "Legea nr. 361/2022 privind protecția avertizorilor în interes public, articolele 7, 9, 10, și 36",
+         "establishes": "That a private legal person with at least 50 employees, and a public one at any size, identifies or sets up internal reporting channels and procedures for follow-up, that those of 50 to 249 may share resources and were reached on 17 December 2023, that the procedure holds confidentiality of the reporter and of any third party named, acknowledgement within 7 calendar days, a designated impartial and independent person, department, or third party, feedback within 3 months, and that reports are kept in a register for 5 years and then destroyed.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-law-361-2022"
+        }
+       ]
+      },
+      {
+       "id": "AW002/HU",
+       "standing": "mandatory",
+       "jurisdiction": "HU",
+       "state": "established",
+       "requirement": "Before a restriction of the employee’s personality right, the employee is informed in writing of its manner, conditions, and expected duration and of the circumstances supporting its necessity and proportionality; before technical means are used to check the employee, the employee is informed in writing. The notice on cameras states the basis, the place and duration of storage, the security measures, who may view and to whom recordings may go, the rules of review and the purposes of use, and the employees’ rights and remedies, for each camera its purpose and field of view; a general statement that cameras are in use is not accepted.",
+       "sources": [
+        {
+         "anchor": "hu-mt-9-11a",
+         "title": "2012. évi I. törvény a munka törvénykönyvéről, 9. §, 10. §, 11. §, and 11/A. §",
+         "establishes": "That an employee's personality right may be restricted only where strictly necessary for a reason directly connected with the purpose of the employment and proportionate, with prior written information on the manner, conditions, expected duration, and the circumstances supporting necessity and proportionality; that the employee may be checked in the conduct connected with the employment, by technical means too, after prior written information; that a device provided for work is used only for the employment unless agreed otherwise and the employer may inspect the employment-related data stored on it; that biometric data serve identification only against grave unauthorized access; and that criminal record data may be processed to check a restriction or exclusion the employer has set out in writing beforehand.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-mt-9-11a"
+        },
+        {
+         "anchor": "hu-naih-2016",
+         "title": "A NAIH tájékoztatója a munkahelyi adatkezelések alapvető követelményeiről",
+         "establishes": "That consent is a basis for workplace processing only exceptionally, that the employer's legitimate interest with a documented balancing test is the basis for checks, that gradual checking and the employee's presence are the safeguards, that cameras are not operated for the primary observation of employees and are barred from changing rooms, washrooms, and break rooms, with recordings kept three working days as a rule and hidden cameras prohibited, that the e-mail account is checked under an internal policy, in steps from address and subject to content, and that the content of private e-mails is not inspected even after notice.",
+         "url": "https://alessandroaledda.com/intra/sources/#hu-naih-2016"
+        }
+       ]
+      },
+      {
+       "id": "AW002/HR",
+       "standing": "mandatory",
+       "jurisdiction": "HR",
+       "state": "established",
+       "requirement": "At hiring, the employer informs the worker in writing that audio or video surveillance devices will observe them. Premises under video surveillance are marked visibly before the recording perimeter is entered, with the article 13 information, in particular that the space is under surveillance, the controller, and the contact for exercising rights; employees are informed in an appropriate way beforehand and before the decision to install. Workers are informed of a GPS system in vehicles by written internal rules available to all, an oral notice being insufficient.",
+       "sources": [
+        {
+         "anchor": "hr-zzr-43",
+         "title": "Zakon o zaštiti na radu, članak 43",
+         "establishes": "That surveillance devices are a means of occupational safety used to control entries to and exits from work premises and to reduce exposure to robbery, burglary, violence, theft, and similar events, that they are barred from rooms for personal hygiene and changing, that devices following all the worker's movements throughout working time need the works council's prior consent, that the worker is told in writing at hiring that audio or video devices will observe them, and that recordings serve no other purpose and reach no unauthorized person.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zzr-43"
+        },
+        {
+         "anchor": "hr-zpouzp-25-30",
+         "title": "Zakon o provedbi Opće uredbe o zaštiti podataka, članci 25 to 30",
+         "establishes": "That video surveillance serves only a purpose necessary and justified for the protection of persons and property, that the premises are marked before the perimeter is entered with the controller's identity and contact for rights, that access to footage is limited to the responsible person and those authorized, that an automated log records the time, place, and person of every access to footage, that recordings are kept at most six months unless a law provides longer or they are evidence in proceedings, and that employees are processed by video surveillance only where the occupational safety conditions are met too, the employees were informed beforehand in an appropriate way and before the decision to install, and never in rooms for rest, personal hygiene, and changing.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-zpouzp-25-30"
+        },
+        {
+         "anchor": "hr-azop-radni-odnosi",
+         "title": "Smjernice o obradi osobnih podataka u radnim odnosima",
+         "establishes": "That consent is seldom an adequate basis in the employment relationship, that GPS in company vehicles is regulated by written internal rules available to all workers, with the data processed only for the purposes those rules state and kept no longer than needed, that a data protection impact assessment is mandatory for processing workers' data by applications or systems that track work, movement, or communication, and that video surveillance of workers rests on the GDPR implementation act and the Occupational Safety Act without consent, with the works council's prior consent where devices follow all movements throughout working time.",
+         "url": "https://alessandroaledda.com/intra/sources/#hr-azop-radni-odnosi"
+        }
+       ]
+      },
+      {
+       "id": "AW002/GR",
+       "standing": "mandatory",
+       "jurisdiction": "GR",
+       "state": "established",
+       "requirement": "Employees are informed in writing, on paper or electronically, of the installation and operation of CCTV in the workplace; where consent is the basis, the employer informs the employee of the purpose and of the right to withdraw.",
+       "sources": [
+        {
+         "anchor": "gr-law-4624-2019-27",
+         "title": "Νόμος 4624/2019, άρθρο 27",
+         "establishes": "That employees' data are processed for the purposes of the employment contract where absolutely necessary for the decision to conclude it or for its performance, that consent is an exceptional basis judged on the employee's dependence and the circumstances, given in writing or electronically and distinct from the contract, with information on the purpose and the right to withdraw, that collective agreements may provide a basis, that CCTV in workplaces is permitted only where necessary for the protection of persons and property, that its data are not used as a criterion for evaluating the employees' performance, that employees are informed in writing of its installation and operation, and that employees include candidates, former employees, and contractors.",
+         "url": "https://alessandroaledda.com/intra/sources/#gr-law-4624-2019-27"
+        }
+       ]
       }
      ]
     },
@@ -9373,7 +10792,7 @@
      "guidance": [],
      "research": [],
      "added": "2026-08-30",
-     "updated": "2026-09-01",
+     "updated": "2026-10-05",
      "cells": [
       {
        "id": "AW003/EU",
@@ -9462,6 +10881,21 @@
          "title": "Employment practices and data protection: monitoring workers",
          "establishes": "What the British regulator expects of an employer that watches its workers, told apart as what an employer must do and what it should, and the conditions it sets on watching them without telling them.",
          "url": "https://alessandroaledda.com/intra/sources/#ico-monitoring"
+        }
+       ]
+      },
+      {
+       "id": "AW003/RO",
+       "standing": "mandatory",
+       "jurisdiction": "RO",
+       "state": "established",
+       "requirement": "For essential and important entities, the members of the management bodies follow accredited professional training sufficient to identify risks and assess the risk management practices and their impact on the services.",
+       "sources": [
+        {
+         "anchor": "ro-oug-155-2024",
+         "title": "Ordonanța de urgență nr. 155/2024, articolele 11 la 15",
+         "establishes": "For essential and important entities, that the measures include the logging and traceability of all activities in the networks and information systems, human resources security, access control policies and asset management, and incident handling; that the management bodies approve the measures, supervise them, and answer for breaches, follow accredited training and ensure training of all personnel; that an annual self-assessment of maturity goes to the DNSC; and that a significant incident is notified in an early warning within 24 hours, a notification within 72 hours, and a final report within one month.",
+         "url": "https://alessandroaledda.com/intra/sources/#ro-oug-155-2024"
         }
        ]
       }
@@ -9570,10 +11004,11 @@
   }
  ],
  "counts": {
-  "established": 447,
+  "established": 523,
   "not covered": 0,
   "unread": 0,
   "open": 0,
-  "recommended": 46
+  "recommended": 52,
+  "reported": 2
  }
 }
